@@ -1,0 +1,1378 @@
+# Narrative functions: what an ability accomplishes in the fiction, independent of the
+# subsystem that implements it. `test` is the membership question a classifier asks.
+# Examples are drawn from PF2e and the 5e SRD and deliberately mix mechanisms --
+# if a function only ever has one mechanism, it is probably cut too fine.
+
+# ---------------------------------------------------------------- movement
+- id: move-faster
+  domain: movement
+  name: Move faster than you otherwise could
+  test: Increases speed or grants extra movement, without changing the medium travelled.
+  examples: [Haste, Unarmored Movement, Potion of Speed, Fleet]
+
+- id: cross-resisting-ground
+  domain: movement
+  name: Cross ground that resists you
+  test: Ignores or mitigates terrain that would slow, trip or stop you.
+  examples: [Rock Runner, Sure Feet, Freedom of Movement, Tumble Through]
+
+- id: climb-a-vertical-surface
+  domain: movement
+  name: Climb a vertical surface
+  test: Ascends walls, cliffs or ceilings that cannot simply be walked up.
+  examples: [Spider Climb, Climbing Kit, Combat Climber]
+
+- id: move-through-water
+  domain: movement
+  name: Move through water
+  test: Grants or improves swimming, or movement along a seabed.
+  examples: [Potion of Swimming, Thalassic Azarketi, Ocean Diver]
+
+- id: fly
+  domain: movement
+  name: Fly
+  test: Grants sustained flight or gliding.
+  examples: [Fly, Dragon Wings, Wings of Flying, Cloud Buns]
+
+- id: burrow-through-earth
+  domain: movement
+  name: Burrow through earth
+  test: Moves through soil, sand or stone by displacing it.
+  examples: [Burrow, Expeditious Excavation, Earth Glide]
+
+- id: walk-on-unstable-footing
+  domain: movement
+  name: Walk on air, water or other unfooted surfaces
+  test: Treats a surface that would not bear weight as though it does.
+  examples: [Air Walk, Water Walk, Water Striders]
+
+- id: pass-through-solid-matter
+  domain: movement
+  name: Pass bodily through solid matter
+  test: The mover becomes able to occupy space the material world already fills.
+  examples: [Ethereal Jaunt, Embrace Nothingness, Blink]
+
+- id: teleport-a-short-distance
+  domain: movement
+  name: Step instantly across a short distance
+  test: Instant relocation within sight, tactical in scale.
+  examples: [Dimension Door, Escape Timeline, Blink Steps, Temporal Fury]
+
+- id: teleport-a-great-distance
+  domain: movement
+  name: Travel instantly across a great distance
+  test: Instant relocation beyond sight — across a region or a world.
+  examples: [Teleport, Plane Shift, Word of Recall]
+
+- id: travel-between-planes
+  domain: movement
+  name: Cross between planes of existence
+  test: Moves a body from one plane to another.
+  examples: [Astral Projection, Jotun's Transposition, Gate]
+
+- id: break-free-of-restraint
+  domain: movement
+  name: Break free of what holds you
+  test: Ends a grapple, binding or immobilising effect on yourself or an ally.
+  examples: [Escape, Liberating Command, Freedom of Movement]
+
+- id: reposition-another-creature
+  domain: movement
+  name: Move another creature against its will
+  test: Pushes, pulls, drags or throws a creature that did not choose to move.
+  examples: [Shove, Tidal Surge, Push (weapon property), Grasping Spirits]
+
+- id: close-on-a-foe
+  domain: movement
+  name: Close the distance to a foe
+  test: Movement whose point is to arrive in contact with an enemy.
+  examples: [Skyseeker, Spring from the Shadows, Sudden Charge, Darting Attack]
+
+- id: disengage-from-danger
+  domain: movement
+  name: Break away from danger
+  test: Movement whose point is leaving a threat behind safely.
+  examples: [Hit and Run, Aerial Retreat, Disengage, Covered Reload]
+
+- id: travel-overland
+  domain: movement
+  name: Cover long distances overland
+  test: Operates at the scale of a journey rather than a scene.
+  examples: [Hustle, Bortled Favorite, Phantom Steed]
+
+- id: move-a-group
+  domain: movement
+  name: Move a whole group at once
+  test: The beneficiary is a party, caravan or army rather than an individual.
+  examples: [Astral Projection, Teleportation Circle, Deploy Army]
+
+# ---------------------------------------------------------------- concealment
+- id: hide-from-notice
+  domain: concealment
+  name: Hide from notice
+  test: Becomes unnoticed while stationary or behind cover.
+  examples: [Hide, Take Cover, Hide in Plain Sight, Camouflage Dye]
+
+- id: move-unseen
+  domain: concealment
+  name: Move without being noticed
+  test: Keeps concealment while crossing ground — the moving half of stealth.
+  examples: [Sneak, Merge with Shadows, Shadow Mark, Twilight Halfling]
+
+- id: become-invisible
+  domain: concealment
+  name: Become invisible
+  test: Removes you from sight outright rather than relying on cover or stillness.
+  examples: [Invisibility, Vanish, Ring of Invisibility]
+
+- id: disguise-your-appearance
+  domain: concealment
+  name: Look like someone or something else
+  test: Alters how you appear without changing what you are.
+  examples: [Disguise Self, Illusory Disguise, Disguise Kit, Glamoured Studded Leather]
+
+- id: impersonate-a-specific-person
+  domain: concealment
+  name: Pass as one specific person
+  test: Defeats people who know the individual, not merely people who see a stranger.
+  examples: [Impersonate, Seeming, Mimic]
+
+- id: conceal-an-object
+  domain: concealment
+  name: Conceal an object
+  test: Hides a thing rather than a person — smuggling, palming, secret compartments.
+  examples: [Conceal an Object, Sleight of Hand, Humbug Pocket]
+
+- id: erase-your-trail
+  domain: concealment
+  name: Erase the trail you leave
+  test: Defeats pursuit after the fact rather than observation in the moment.
+  examples: [Cover Tracks, Pass without Trace]
+
+- id: conceal-a-place
+  domain: concealment
+  name: Hide a place or camp
+  test: The thing concealed is a location rather than a creature or object.
+  examples: [Camouflage Campsite, Private Sanctum, Hallucinatory Terrain]
+
+- id: obscure-an-area
+  domain: concealment
+  name: Fill an area with something that blocks sight
+  test: Denies vision to everyone in a space, friend and foe alike.
+  examples: [Obscuring Mist, Darkness, Smoke Ball, Skunk Bomb]
+
+- id: lie-convincingly
+  domain: concealment
+  name: Tell a convincing lie
+  test: Deception in speech or bearing, where the audience is a person.
+  examples: [Lie, Consummate Liar, Bluff]
+
+- id: hide-a-message
+  domain: concealment
+  name: Hide a message in plain sight
+  test: The message is readable by intended recipients and opaque to everyone else.
+  examples: [Thieves' Cant, Illusory Script, Secret Message]
+
+- id: evade-magical-detection
+  domain: concealment
+  name: Evade magical detection
+  test: Specifically defeats scrying, divination or detection rather than eyes.
+  examples: [Nondetection, Peaceful Bubble, Mind Blank]
+
+# ---------------------------------------------------------------- perception
+- id: notice-what-is-hidden
+  domain: perception
+  name: Notice what is hidden
+  test: The general act of searching and spotting concealed things.
+  examples: [Seek, Trap Finder, Perception, Alert]
+
+- id: see-in-darkness
+  domain: perception
+  name: See where there is no light
+  test: Removes darkness as an obstacle to sight.
+  examples: [Darkvision, Light, Everlight Crystal]
+
+- id: see-through-deception
+  domain: perception
+  name: See through illusion and disguise
+  test: Pierces a deliberate falsehood presented to the senses.
+  examples: [True Seeing, See Invisibility, Truesight]
+
+- id: sense-a-distant-place
+  domain: perception
+  name: Perceive a distant place
+  test: Extends the senses beyond line of sight to somewhere you are not.
+  examples: [Scrying, Clairvoyance, Elysian Clairglass]
+
+- id: sense-through-another-creature
+  domain: perception
+  name: Perceive through another creature's senses
+  test: You borrow a companion's, familiar's or victim's perception.
+  examples: [Beastmaster Trance, Share Senses, Familiar's Eyes]
+
+- id: detect-a-kind-of-creature
+  domain: perception
+  name: Sense a particular kind of creature
+  test: Detection keyed to a category — undead, fiends, aberrations.
+  examples: [Grave Sense, Detect Undead, Panic the Dead]
+
+- id: detect-magic
+  domain: perception
+  name: Sense the presence of magic
+  test: Reveals that magic is present, without necessarily identifying it.
+  examples: [Detect Magic, Innate Magic Intuition]
+
+- id: perceive-without-sight
+  domain: perception
+  name: Perceive without using sight
+  test: Tremorsense, scent, echolocation — perception that sight-blocking does not stop.
+  examples: [Tremorsense, Scent, Blindsight, Ultrasonic Scream]
+
+- id: track-a-creature
+  domain: perception
+  name: Follow a creature's trail
+  test: Reconstructs where something went from the signs it left.
+  examples: [Track, Locate Creature, Shadow Mark]
+
+- id: read-another-intent
+  domain: perception
+  name: Read another creature's intent
+  test: Judges motive, mood or honesty from behaviour.
+  examples: [Sense Motive, Read Shibboleths, Detect Thoughts]
+
+- id: see-through-obscurement
+  domain: perception
+  name: See through fog, smoke or murk
+  test: Defeats environmental obscurement specifically.
+  examples: [Mist Sight, Fog Cutter]
+
+- id: detect-a-lie
+  domain: perception
+  name: Know when you are being lied to
+  test: Specifically identifies falsehood rather than general motive.
+  examples: [Zone of Truth, Discern Lies, Truth domain]
+
+- id: perceive-the-incorporeal
+  domain: perception
+  name: Perceive spirits and the incorporeal
+  test: Sees or hears what has no body to see.
+  examples: [See Invisibility, Spirit Sight, Exorcist]
+
+- id: extend-your-senses
+  domain: perception
+  name: Sharpen or extend ordinary senses
+  test: Improves range or acuity of normal perception without changing its kind.
+  examples: [Keen Eyes, Eagle Eye, Spyglass]
+
+# ---------------------------------------------------------------- barriers
+- id: breach-a-locked-boundary
+  domain: barriers
+  name: Breach a locked boundary
+  test: Opens something deliberately closed against you — a lock, a bar, a seal.
+  examples: [Pick a Lock, Force Open, Knock, Crowbar]
+
+- id: open-a-path-through-matter
+  domain: barriers
+  name: Open a path through solid matter
+  test: Makes a new opening where there was none, rather than using an existing one.
+  examples: [Passwall, Shape Stone, Expeditious Excavation, Disintegrate]
+
+- id: disable-a-device
+  domain: barriers
+  name: Disable a trap or mechanism
+  test: Neutralises a built device without necessarily destroying it.
+  examples: [Disable a Device, Hands that Unweave Disaster, Dispel Magic]
+
+- id: seal-a-boundary
+  domain: barriers
+  name: Seal a boundary against others
+  test: Closes and holds a door, container or opening against intrusion.
+  examples: [Arcane Lock, Rovan Seal of the Dead Vault, Theft of Thought]
+
+- id: ward-an-area
+  domain: barriers
+  name: Ward an area against entry
+  test: Protects a region rather than a single opening.
+  examples: [Forbiddance, Alarm, Guards and Wards, Iomedae's Flame]
+
+- id: bind-a-creature-in-place
+  domain: barriers
+  name: Hold a creature fast
+  test: Prevents a creature from moving, by grip, web, root or magic.
+  examples: [Grapple, Entangle, Impaling Briars, Fetters, Tripline Arrow]
+
+- id: build-a-barrier
+  domain: barriers
+  name: Raise a barrier
+  test: Creates a wall or obstacle where none stood.
+  examples: [Wall of Stone, Wall of Radiance, Dinosaur Fort, Corpse Crenellation]
+
+- id: destroy-a-barrier
+  domain: barriers
+  name: Bring down a barrier
+  test: Removes an obstacle by force rather than opening it.
+  examples: [Shatter, Collapsing Structure, Disintegrate]
+
+- id: block-magical-passage
+  domain: barriers
+  name: Block magical movement
+  test: Prevents teleportation, planar travel or phasing specifically.
+  examples: [Forbiddance, Dimensional Anchor, Dimensional Lock]
+
+- id: imprison-a-creature
+  domain: barriers
+  name: Imprison a creature away from the world
+  test: Confinement whose scale is captivity, not a held action.
+  examples: [Imprisonment, Binding, Cauldron of Nightmares]
+
+- id: banish-a-creature
+  domain: barriers
+  name: Send a creature out of this world
+  test: Removes a creature to another plane against its will.
+  examples: [Banishment, Dimensional Excision, Tear the Veil]
+
+# ---------------------------------------------------------------- violence
+- id: strike-a-foe-in-reach
+  domain: violence
+  name: Strike a foe within reach
+  test: The basic act of hurting someone you can touch.
+  examples: [Strike, Extra Attack, Karambit, Flailtongue]
+
+- id: strike-a-distant-foe
+  domain: violence
+  name: Strike a foe at a distance
+  test: Harm delivered across a gap — arrow, bolt, bullet, ray, thrown thing.
+  examples: [Ranged Strike, Fire Ray, Dwarven Scattergun, Throw Rock]
+
+- id: harm-many-at-once
+  domain: violence
+  name: Harm everything in an area
+  test: The target is a space, and everyone in it suffers.
+  examples: [Fireball, Energy Emanation, Prismatic Spray, Falling Stars]
+
+- id: ambush-an-unready-foe
+  domain: violence
+  name: Hurt a foe who is not ready for it
+  test: Damage conditional on surprise, flanking or an unaware target.
+  examples: [Sneak Attack, Powerful Sneak, Hit and Run, Aquatic Ambush]
+
+- id: strike-with-overwhelming-force
+  domain: violence
+  name: Strike with overwhelming force
+  test: Trades frequency or safety for a single devastating blow.
+  examples: [Savage Attacker, Improved Critical, Telluric Power]
+
+- id: attack-more-often
+  domain: violence
+  name: Attack more often
+  test: Adds attacks rather than making each one better.
+  examples: [Extra Attack, Flurry of Blows, Dual-Weapon Blitz]
+
+- id: punish-an-opening
+  domain: violence
+  name: Punish a foe's mistake
+  test: Triggered harm when an enemy moves, misses or acts carelessly.
+  examples: [Attack of Opportunity, Tactical Reflexes, Exploit Blunder, Armored Counterattack]
+
+- id: inflict-a-lingering-wound
+  domain: violence
+  name: Inflict a wound that keeps hurting
+  test: Damage continues after the blow lands — bleed, burn, rot.
+  examples: [Persistent Damage, Decaying rune, Rusting Ammunition, Aggravating Scratch]
+
+- id: kill-outright
+  domain: violence
+  name: Kill outright
+  test: Bypasses attrition — the target dies or is destroyed if it fails.
+  examples: [Power Word Kill, Scare to Death, Mace of Disruption]
+
+- id: drain-life-to-sustain-yourself
+  domain: violence
+  name: Take life to feed your own
+  test: Harm to one creature becomes vitality for another.
+  examples: [Vampiric Touch, Drink of my Foes, Bloodletting Fangs]
+
+- id: destroy-an-object
+  domain: violence
+  name: Destroy an object
+  test: The target is a thing rather than a creature.
+  examples: [Shatter, Disintegrate, Rusting Ammunition, Sunder]
+
+- id: set-a-trap
+  domain: violence
+  name: Set a trap for someone to walk into
+  test: Harm arranged in advance and triggered by a victim, not by you.
+  examples: [Snare Crafting, Big Game Trapper, Expulsion Snare, Hidden Pit]
+
+- id: fight-as-a-unit
+  domain: violence
+  name: Fight as a coordinated unit
+  test: Requires and rewards several combatants acting as one.
+  examples: [Double Team, Demoralizing Charge, Insta-Ballista, Concentrated Assault]
+
+- id: wage-mass-combat
+  domain: violence
+  name: Wage war at the scale of armies
+  test: The acting unit is an army, fleet or settlement.
+  examples: [Defensive Stance, Deploy Army, Garrison Army]
+
+- id: turn-an-attack-back
+  domain: violence
+  name: Turn an attack back on its source
+  test: The foe's own aggression becomes the vector of harm.
+  examples: [Riposte, Ring of Spell Turning, Reflective Scales, Ring their Bell]
+
+- id: enhance-a-weapon-s-bite
+  domain: violence
+  name: Make a weapon bite deeper
+  test: Adds harm through the implement rather than through the wielder's action.
+  examples: [Brilliant rune, Bane rune, Elemental Ammunition, Oathbow]
+
+- id: exploit-a-known-weakness
+  domain: violence
+  name: Exploit a weakness you have identified
+  test: Damage conditional on having first learned something about the target.
+  examples: [Discerning Strike, Bestiary Scholar, Organsight, Hunter's Mark]
+
+- id: strike-from-hiding-and-vanish
+  domain: violence
+  name: Strike and vanish again
+  test: Couples an attack with an immediate return to concealment.
+  examples: [Spring from the Shadows, Hit and Run, Slay Giants Unseen]
+
+# ---------------------------------------------------------------- protection
+- id: be-harder-to-hit
+  domain: protection
+  name: Be harder to hit
+  test: Raises the difficulty of landing a blow rather than reducing its effect.
+  examples: [Shield, Cloak of Protection, Light Armor Expertise, Defense]
+
+- id: absorb-or-blunt-damage
+  domain: protection
+  name: Absorb or blunt incoming damage
+  test: The blow lands but hurts less.
+  examples: [Shield Block, Stone's Endurance, Adamantine Armor, Energy Absorption]
+
+- id: resist-a-kind-of-harm
+  domain: protection
+  name: Resist a particular kind of harm
+  test: Protection keyed to a damage type or source.
+  examples: [Ring of Fire Resistance, Damage Resistance Cold, Potion of Psychic Resistance]
+
+- id: shrug-off-an-effect-you-failed-to-avoid
+  domain: protection
+  name: Shrug off what you failed to avoid
+  test: Improves the outcome of a failed save or a landed effect.
+  examples: [Evasion, Ring of Evasion, Indomitable Will, Slinger's Reflexes]
+
+- id: interpose-yourself-for-another
+  domain: protection
+  name: Put yourself between harm and someone else
+  test: You take, or prevent, damage aimed at another creature.
+  examples: [Defend Mount, Shield Other, Bodyguard, Phalanx Formation]
+
+- id: protect-a-group
+  domain: protection
+  name: Protect everyone around you
+  test: A radius or party-wide defensive effect.
+  examples: [Aura of Life, Ectoplasmic Aura, Bless, Flash of Grandeur]
+
+- id: become-hard-to-kill
+  domain: protection
+  name: Become hard to kill
+  test: Acts at the threshold of death rather than reducing ordinary damage.
+  examples: [Eternal Hero, Death Ward, Undying Resilience, Divine Invulnerability]
+
+- id: negate-an-effect-outright
+  domain: protection
+  name: Negate an effect before it takes hold
+  test: Cancels, counters or dispels rather than enduring.
+  examples: [Counterspell, Dispel Magic, Cleansing Touch, Spellmaster's Ward]
+
+- id: redirect-harm
+  domain: protection
+  name: Move harm somewhere else
+  test: The damage still happens, but to a different target.
+  examples: [Share Life, Life Pact, Warding Bond]
+
+- id: gain-a-buffer-of-vitality
+  domain: protection
+  name: Gain a buffer of borrowed vitality
+  test: Temporary hit points or a shield of force absorbed before real harm.
+  examples: [False Life, Temporary Hit Points, Heroism]
+
+- id: guard-your-mind
+  domain: protection
+  name: Guard your mind
+  test: Defence specifically against mental intrusion, fear or control.
+  examples: [Serene Mutagen, Countercharm, Shared Resolve, Mind Blank]
+
+- id: resist-poison-and-disease
+  domain: protection
+  name: Resist poison and disease
+  test: Defence against toxins, contagion and their effects.
+  examples: [Virtuous Tanuki, Poison Resistance, Neutralize Poison]
+
+- id: survive-a-hostile-environment
+  domain: protection
+  name: Survive an environment that would kill you
+  test: Cold, heat, vacuum, pressure, drowning — the world itself is the threat.
+  examples: [Endure Elements, Blanket, Amphibious, Ocean Diver]
+
+- id: go-without-necessities
+  domain: protection
+  name: Go without food, water, air or rest
+  test: Removes an ongoing bodily requirement.
+  examples: [Amphibious, Sustenance, Ring of Sustenance]
+
+- id: shake-off-an-affliction
+  domain: protection
+  name: Shake off an effect already on you
+  test: Ends an ongoing condition on yourself early.
+  examples: [Liberating Command, Freedom of Movement, Remove Fear]
+
+- id: avoid-a-danger-you-foresaw
+  domain: protection
+  name: Avoid a danger before it arrives
+  test: Protection contingent on foreknowledge rather than toughness.
+  examples: [Foresight, Precognitive Reflexes, Escape Timeline, Boon of Fate]
+
+# ---------------------------------------------------------------- restoration
+- id: heal-a-body
+  domain: restoration
+  name: Close wounds on a living body
+  test: Restores a creature's physical vitality. The mechanism is irrelevant.
+  examples: [Heal, Treat Wounds, Healing Word, Risky Surgery, Blessed Healer]
+
+- id: heal-many-at-once
+  domain: restoration
+  name: Heal many creatures at once
+  test: Restoration whose target is a group.
+  examples: [Mass Heal, Aura of Life, Song of the Fallen]
+
+- id: return-the-dead-to-life
+  domain: restoration
+  name: Return the dead to life
+  test: Reverses death itself.
+  examples: [Resuscitate, True Resurrection, Raise Dead, Vital Singularity]
+
+- id: keep-the-dying-alive
+  domain: restoration
+  name: Keep the dying from dying
+  test: Acts in the moment between wounding and death.
+  examples: [Administer First Aid, Spare the Dying, Stabilize]
+
+- id: cure-poison-or-disease
+  domain: restoration
+  name: Cure poison or disease
+  test: Removes a toxin or contagion rather than its symptoms.
+  examples: [Neutralize Poison, Artevil Suspension, Lesser Restoration]
+
+- id: lift-a-curse
+  domain: restoration
+  name: Lift a curse or malediction
+  test: Removes a lasting supernatural affliction.
+  examples: [Remove Curse, Potion of Annulment, Cursed background]
+
+- id: restore-a-diminished-capacity
+  domain: restoration
+  name: Restore a capacity that was taken
+  test: Undoes drained attributes, lost senses, paralysis or petrification.
+  examples: [Restoration, Greater Restoration, Stone to Flesh]
+
+- id: quiet-a-troubled-mind
+  domain: restoration
+  name: Quiet a troubled mind
+  test: Undoes fear, confusion, charm or madness.
+  examples: [Calm Emotions, Remove Fear, Wand of Mental Purification]
+
+- id: repair-an-object
+  domain: restoration
+  name: Repair a damaged object
+  test: The patient is a thing, not a creature.
+  examples: [Repair, Mending, Make Whole]
+
+- id: recover-on-your-own
+  domain: restoration
+  name: Recover steadily without help
+  test: Ongoing self-repair rather than an applied cure.
+  examples: [Regeneration, Slime Rejuvenation, Fast Healing]
+
+- id: rest-and-recover
+  domain: restoration
+  name: Rest and recover between dangers
+  test: Restoration tied to downtime rather than a moment of crisis.
+  examples: [Rest and Relax, Organize Watch, Short Rest]
+
+# ---------------------------------------------------------------- affliction
+- id: dull-a-foe-s-capability
+  domain: affliction
+  name: Make a foe worse at everything
+  test: Broad degradation of a creature's competence.
+  examples: [Clumsy, Enfeebled, Bane, Dull Ambition, Day's Weight]
+
+- id: slow-a-foe
+  domain: affliction
+  name: Slow a foe down
+  test: Reduces speed or actions without stopping the creature outright.
+  examples: [Slow, Infinitesimal Collapse Field, Trump of the Oliphaunt, Fetters]
+
+- id: stop-a-foe-moving
+  domain: affliction
+  name: Stop a foe from moving at all
+  test: Immobilised, paralysed, rooted — movement reaches zero.
+  examples: [Hold Person, Paralyzed, Web, Field of Roots]
+
+- id: blind-or-deafen
+  domain: affliction
+  name: Take away a foe's senses
+  test: Removes sight, hearing or another sense from the target.
+  examples: [Blindness, Sightless Tincture, Daylight Vapor, Ultrasonic Scream]
+
+- id: poison-a-foe
+  domain: affliction
+  name: Poison a creature
+  test: A toxin introduced into a body, by blade, breath, food or touch.
+  examples: [Puff of Poison, Anadi Venom, Pinpoint Poisoner, Gorgon's Breath]
+
+- id: inflict-disease
+  domain: affliction
+  name: Infect a creature with disease
+  test: A contagion that progresses over time.
+  examples: [Contagion, Disease (monster ability), Worm's Feast]
+
+- id: frighten
+  domain: affliction
+  name: Make a creature afraid
+  test: Fear as a mechanical and narrative state imposed on a target.
+  examples: [Demoralize, Dread Aura, Intimidating Presence, Cry Havoc!]
+
+- id: confuse-or-scramble-a-mind
+  domain: affliction
+  name: Scramble a creature's thinking
+  test: The victim acts erratically or against its own interest.
+  examples: [Confusion, Warp Mind, Dissonant Whispers, Weird]
+
+- id: put-to-sleep
+  domain: affliction
+  name: Put a creature to sleep
+  test: Induces unconsciousness rather than incapacity.
+  examples: [Sleep, Slumber Wine, Lesson of Dreams]
+
+- id: petrify-or-solidify
+  domain: affliction
+  name: Turn a creature to stone or other inert matter
+  test: The body is converted into something that cannot act.
+  examples: [Flesh to Stone, Calcification, Medusa's Gaze]
+
+- id: curse-a-creature
+  domain: affliction
+  name: Lay a curse on a creature
+  test: A lasting, thematic misfortune rather than an immediate injury.
+  examples: [Bestow Curse, Witchwood Seed, Grave Curse, Odious Token]
+
+- id: drain-vitality-lastingly
+  domain: affliction
+  name: Drain a creature's vitality lastingly
+  test: Reduces maximum capacity rather than current hit points.
+  examples: [Enervation, Void Warp, Boil Blood, Reaper's Shadow]
+
+- id: silence-magic
+  domain: affliction
+  name: Stop a creature using magic
+  test: Specifically denies spellcasting or supernatural ability.
+  examples: [Silence, Divinity Leech, Antimagic Field, Spell-Repelling Form]
+
+- id: mark-a-foe-as-vulnerable
+  domain: affliction
+  name: Make a foe easier to harm
+  test: Does no damage itself; makes other people's damage land harder.
+  examples: [Hunter's Mark, Flat-footed, Brutal Beating, Sap]
+
+# ---------------------------------------------------------------- influence
+- id: persuade-by-reason-or-charm
+  domain: influence
+  name: Persuade someone through reason or charm
+  test: Willing agreement obtained by talking.
+  examples: [Diplomacy, Persuasion, Make an Impression]
+
+- id: coerce-through-threat
+  domain: influence
+  name: Get compliance through threat
+  test: The target complies because refusing looks worse.
+  examples: [Coerce, Intimidation, Iron Command, Decry Thief]
+
+- id: command-obedience
+  domain: influence
+  name: Compel obedience directly
+  test: The target's body or will obeys without being persuaded.
+  examples: [Command, Dominate, Crusade, Command Undead]
+
+- id: charm-into-friendship
+  domain: influence
+  name: Make someone regard you as a friend
+  test: Alters disposition rather than extracting a single action.
+  examples: [Charm, Charm Person, Ring of Sneering Charity]
+
+- id: inspire-allies
+  domain: influence
+  name: Inspire allies to do better
+  test: Improves what your own side can accomplish through morale.
+  examples: [Bless, Inspire Courage, Plant Banner, Push Back the Dead!]
+
+- id: rally-the-faltering
+  domain: influence
+  name: Rally those who are breaking
+  test: Reverses fear, despair or rout specifically.
+  examples: [Rally, Remove Fear, Countercharm]
+
+- id: calm-hostility
+  domain: influence
+  name: Take the fight out of someone
+  test: Reduces aggression without compelling obedience.
+  examples: [Calm Emotions, Soothe, Peaceful Bubble]
+
+- id: alter-belief-or-memory
+  domain: influence
+  name: Change what someone believes or remembers
+  test: The change persists after the effect ends.
+  examples: [Modify Memory, Fabricated Truth, Hallucination]
+
+- id: read-or-enter-a-mind
+  domain: influence
+  name: Read or enter another mind
+  test: Access to thought rather than behaviour.
+  examples: [Detect Thoughts, Telepathy, Discern Secrets, Soulspeaker]
+
+- id: provoke-a-foe-to-target-you
+  domain: influence
+  name: Make a foe come for you
+  test: Draws aggression deliberately onto yourself.
+  examples: [Taunt, Goading Attack, Bon Mot]
+
+- id: speak-with-the-otherwise-mute
+  domain: influence
+  name: Speak with what cannot normally answer
+  test: Opens communication across a barrier of species, death or language.
+  examples: [Speak with Animals, Speak with Dead, Tongues, Speak with Plants]
+
+- id: strike-a-binding-bargain
+  domain: influence
+  name: Strike a bargain that binds
+  test: An agreement with supernatural or social force behind it.
+  examples: [Demonic Pact, Infernal Contract, The Unseen Broker, Shadow Pact]
+
+- id: sway-an-audience
+  domain: influence
+  name: Sway a crowd or audience
+  test: The target is many people at once, via performance or oratory.
+  examples: [Perform, Virtuosic Dancer, Provocator, Entertainer's Cincture]
+
+- id: turn-or-rebuke-a-creature-type
+  domain: influence
+  name: Drive off a whole kind of creature
+  test: Mass repulsion keyed to a creature category.
+  examples: [Turn Undead, Panic the Dead, Dispel Evil and Good]
+
+- id: gather-information-from-people
+  domain: influence
+  name: Get information out of people
+  test: Social legwork whose product is knowledge.
+  examples: [Gather Information, Interrogate, Learn Name]
+
+- id: earn-trust-under-false-pretences
+  domain: influence
+  name: Win trust you have not earned
+  test: Infiltration and confidence work sustained over time.
+  examples: [Snubbed Out Stoolie, Razmiran Priest, Impersonate]
+
+# ---------------------------------------------------------------- knowledge
+- id: recall-what-you-have-learned
+  domain: knowledge
+  name: Recall something you have studied
+  test: Draws on training and memory rather than investigation.
+  examples: [Recall Knowledge, Additional Lore, Merfolk Lore, Scholar]
+
+- id: identify-a-creature
+  domain: knowledge
+  name: Identify a creature and what it can do
+  test: The subject is a creature and its capabilities or weaknesses.
+  examples: [Recall Knowledge, Bestiary Scholar, Discerning Strike]
+
+- id: identify-magic
+  domain: knowledge
+  name: Identify a magical effect or item
+  test: Determines what an enchantment is and how it works.
+  examples: [Identify Magic, Identify, Detect Magic, Pendant of the Occult]
+
+- id: divine-an-answer
+  domain: knowledge
+  name: Ask the world a question and get an answer
+  test: Information obtained from an external or supernatural source.
+  examples: [Augury, Commune, Roll the Bones of Fate, Discern Secrets]
+
+- id: glimpse-the-future
+  domain: knowledge
+  name: Glimpse what is about to happen
+  test: Foreknowledge of imminent events specifically.
+  examples: [Foresight, Precognitive Reflexes, Into the Future]
+
+- id: learn-a-true-name-or-secret
+  domain: knowledge
+  name: Learn a hidden name or secret
+  test: A specific concealed fact, sought deliberately.
+  examples: [Learn Name, Discern Secrets, Legend Lore]
+
+- id: communicate-at-a-distance
+  domain: knowledge
+  name: Send word across distance
+  test: Message-passing rather than perception.
+  examples: [Message, Sending, Seeking Bracelets, Telepathic Bond]
+
+- id: read-any-writing
+  domain: knowledge
+  name: Read writing you could not otherwise read
+  test: Overcomes a language or cipher barrier in text.
+  examples: [Comprehend Languages, Reading Glyphs, Book of Translation]
+
+- id: research-in-archives
+  domain: knowledge
+  name: Research a question over time
+  test: Extended investigation using libraries, records or experiment.
+  examples: [Research, Archival Assistant, Occult Librarian, Book]
+
+- id: learn-a-place-or-object-s-past
+  domain: knowledge
+  name: Read the history of a place or object
+  test: Recovers past events from a physical thing.
+  examples: [Object Reading, Retrocognition, Anguished Sarenite]
+
+- id: know-where-you-are
+  domain: knowledge
+  name: Know where you are and which way to go
+  test: Orientation, navigation and direction-finding.
+  examples: [Know the Way, Mariner's Astrolabe, Homing Drake]
+
+- id: locate-a-person-or-thing
+  domain: knowledge
+  name: Find where a specific person or thing is
+  test: Pinpoints a known target's location.
+  examples: [Locate Object, Locate Creature, Seeking Bracelets]
+
+- id: appraise-worth
+  domain: knowledge
+  name: Judge what something is worth
+  test: Assesses value, quality or authenticity.
+  examples: [Appraise, Archaeologist, Identify Alchemy]
+
+- id: question-the-dead
+  domain: knowledge
+  name: Question the dead
+  test: Information specifically from the deceased.
+  examples: [Speak with Dead, Boneyard Acquaintance, Soulspeaker]
+
+# ---------------------------------------------------------------- creation
+- id: craft-an-object
+  domain: creation
+  name: Craft an object by skill
+  test: Deliberate making that takes time and materials.
+  examples: [Craft, Craft Anything, Medicinal Clocksmith]
+
+- id: conjure-a-temporary-tool
+  domain: creation
+  name: Call a tool or weapon into your hands
+  test: An implement that exists because you needed it, usually briefly.
+  examples: [Temporary Tool, Blazing Armory, Mage Hand, Stone Lance]
+
+- id: create-food-and-water
+  domain: creation
+  name: Create food and drink
+  test: Sustenance from nothing.
+  examples: [Create Water, Create Food, Horn of Plenty, Bountiful Oasis]
+
+- id: raise-a-structure
+  domain: creation
+  name: Raise a structure or shelter
+  test: A building, camp or fortification appears.
+  examples: [Dinosaur Fort, Secure Shelter, Insta-Ballista]
+
+- id: make-an-extradimensional-space
+  domain: creation
+  name: Make a space that is not in the world
+  test: A pocket, bag or demiplane with its own interior.
+  examples: [Haven in the Ether, Rope Trick, Extradimensional Cover, Bag of Holding]
+
+- id: forge-a-document
+  domain: creation
+  name: Produce a document that lies
+  test: Written falsehood — papers, seals, signatures.
+  examples: [Forgery, Humbug Pocket, Ghostwriter]
+
+- id: compound-a-substance
+  domain: creation
+  name: Compound a potion, poison or bomb
+  test: Alchemy and chemistry — consumable substances made to be used.
+  examples: [Quick Alchemy, Poisoner Dedication, Silverscrap Bomb]
+
+- id: inscribe-a-lasting-mark
+  domain: creation
+  name: Inscribe a rune, glyph or tattoo that holds power
+  test: A written mark that carries an effect until triggered or erased.
+  examples: [Trace a Rune, Glyph of Warding, Ranshu Rune of Thunder, Calamity's Bane Tattoo]
+
+- id: make-light
+  domain: creation
+  name: Make light
+  test: Illumination where there was none.
+  examples: [Light, Evercursed Crystal, Wall of Radiance, Draft of Stellar Radiance]
+
+- id: make-darkness
+  domain: creation
+  name: Make darkness
+  test: Removes light from a space.
+  examples: [Darkness, Gloom Blade, Shadow's Heart]
+
+- id: duplicate-a-thing-or-person
+  domain: creation
+  name: Make a copy of something that exists
+  test: A second instance of a creature, object or self.
+  examples: [Clone, Mirror Image, Bilocation, Simulacrum, Darkside Mirror]
+
+- id: transmute-raw-material
+  domain: creation
+  name: Turn one material into another
+  test: The substance changes while the object persists.
+  examples: [Precious Metals, Fabricate, Transmute Rock]
+
+# ---------------------------------------------------------------- transformation
+- id: change-your-own-shape
+  domain: transformation
+  name: Take another creature's shape
+  test: The transformer is the actor.
+  examples: [Aberrant Form, Wild Shape, Shapechange, Mighty Dragon Shape]
+
+- id: change-another-s-shape
+  domain: transformation
+  name: Change what another creature is
+  test: Imposed or granted transformation of someone else.
+  examples: [Baleful Polymorph, True Polymorph, Primal Herd]
+
+- id: grow-or-shrink
+  domain: transformation
+  name: Become larger or smaller
+  test: Scale changes; kind does not.
+  examples: [Enlarge, Reduce, Element Embodied, Nature Incarnate]
+
+- id: become-insubstantial
+  domain: transformation
+  name: Become insubstantial
+  test: The body stops being solid matter.
+  examples: [Gaseous Form, Embrace Nothingness, Mistform Elixir]
+
+- id: take-on-an-elemental-substance
+  domain: transformation
+  name: Become made of something other than flesh
+  test: The body's material changes to fire, stone, light or void.
+  examples: [Fiery Body, Gemsoul, Qi Form, Crowned in Tempest's Fury]
+
+- id: grow-a-natural-weapon
+  domain: transformation
+  name: Grow a weapon out of your own body
+  test: New claws, fangs, tendrils or limbs that fight.
+  examples: [Vine Lash, Flailtongue, Precise Hooks, Steelhoof]
+
+- id: animate-the-inanimate
+  domain: transformation
+  name: Give motion to something that has none
+  test: An object begins to act.
+  examples: [Animate Objects, Kugaptee's Tree, Sprout Ally, Writhing Hair]
+
+- id: change-your-nature
+  domain: transformation
+  name: Change what kind of being you are
+  test: A permanent shift of category — living to undead, mortal to something else.
+  examples: [Lich, Mortal Herald, Created Fleshwarp, Undying Resilience]
+
+- id: adapt-your-body-to-a-place
+  domain: transformation
+  name: Adapt your body to where you are
+  test: Gills, thick hide, heat tolerance — the body fits the environment.
+  examples: [Amphibious, Thickskin Tripkee, Hardshell Surki, Coral Symbiotes]
+
+- id: gain-a-creature-s-trait
+  domain: transformation
+  name: Take on a trait of another kind of creature
+  test: Acquires a sense, movement mode or quality associated with another species.
+  examples: [Draconic bloodline, Boon of Truesight, Proteankin, Homing Drake]
+
+- id: disguise-what-a-thing-is
+  domain: transformation
+  name: Make an object appear to be something else
+  test: The object's apparent identity changes, not its substance.
+  examples: [Illusory Object, Glamoured Studded Leather, Trickster's Feathers]
+
+- id: swap-places-or-bodies
+  domain: transformation
+  name: Exchange places or bodies with another
+  test: Two creatures trade position or identity.
+  examples: [Erratic Transposing, Magic Jar, Per- Diacritic Rune of Continuum]
+
+# ---------------------------------------------------------------- companions
+- id: keep-a-bonded-creature
+  domain: companions
+  name: Keep a bonded creature at your side
+  test: A persistent companion with its own body and statistics.
+  examples: [Animal Companion, Leshy Familiar, Find Familiar, Hippogriff, Spirit Companion]
+
+- id: direct-a-companion-in-battle
+  domain: companions
+  name: Direct a companion to act
+  test: Spending your own effort to make the companion do something.
+  examples: [Command an Animal, Act Together, Darting Attack, Defend Mount]
+
+- id: call-a-creature-to-fight-for-you
+  domain: companions
+  name: Call a creature that fights for you and leaves
+  test: Temporary, summoned, not a persistent bond.
+  examples: [Summon Warden of the Wild, Giant Insect, Incarnate Draconic Legion, Horn of Valhalla]
+
+- id: raise-or-command-the-dead
+  domain: companions
+  name: Raise or command the dead as servants
+  test: The servitors are undead.
+  examples: [Animate Dead, Macabre Virtuoso, Corpse Tender, Perfected Thrall]
+
+- id: share-power-with-a-bonded-creature
+  domain: companions
+  name: Share yourself with a bonded creature
+  test: You and the companion are mechanically or spiritually one.
+  examples: [Eidolon Symbiosis, Shared Resolve, Master Spellcaster (eidolon), Beast eidolon]
+
+- id: gain-followers
+  domain: companions
+  name: Gain followers or retainers
+  test: People, not beasts or spirits, who serve you.
+  examples: [Hire Adventurers, Leadership, Vital Singularity]
+
+- id: ride-a-mount
+  domain: companions
+  name: Ride a mount
+  test: Movement and combat conducted from another creature's back.
+  examples: [Prairie Rider, Mounted Combat, Strafing Breath, Hippocampus]
+
+- id: call-an-outsider
+  domain: companions
+  name: Call something from beyond the world
+  test: The called entity is planar, infernal, celestial or elemental in origin.
+  examples: [Demonic Pact, Planar Ally, Call Fluxwraith, Gate]
+
+- id: tend-your-companion
+  domain: companions
+  name: Keep your companion alive and capable
+  test: Healing, protecting or improving the companion rather than using it.
+  examples: [Paragon Companion, No! No! I Created You!, Slime Rejuvenation]
+
+- id: improve-what-a-companion-can-do
+  domain: companions
+  name: Give a companion a new capability
+  test: Expands the companion's own repertoire.
+  examples: [Amphibious (familiar), Second Opinion, Fascinating Flutter, Innate Element]
+
+# ---------------------------------------------------------------- environment
+- id: reshape-the-ground
+  domain: environment
+  name: Reshape the ground itself
+  test: Terrain becomes difficult, broken, raised or lowered.
+  examples: [Impaling Briars, Grease, Earthquake, Move Earth]
+
+- id: command-the-weather
+  domain: environment
+  name: Command the weather
+  test: Wind, rain, storm and sky at scene scale or larger.
+  examples: [Wrathful Storm, Control Weather, Wind God's Fan, Tempest mystery]
+
+- id: control-water
+  domain: environment
+  name: Control water
+  test: Moves, parts, shapes or summons bodies of water.
+  examples: [Control Water, Tidal Surge, Hungry Depths, Water domain]
+
+- id: control-fire
+  domain: environment
+  name: Control fire
+  test: Kindles, shapes, moves or quenches existing flame.
+  examples: [Drench, Control Flames, Stage Fire, Flames mystery]
+
+- id: create-a-persistent-zone
+  domain: environment
+  name: Create a lasting zone that affects whoever is in it
+  test: An area that keeps doing something after it is made.
+  examples: [Incendiary Aura, Zone of Truth, Cloudkill, Time Rift]
+
+- id: make-terrain-look-otherwise
+  domain: environment
+  name: Make a landscape appear to be another
+  test: Illusion at the scale of terrain.
+  examples: [Hallucinatory Terrain, Camouflage Campsite]
+
+- id: bless-or-blight-a-place
+  domain: environment
+  name: Sanctify or corrupt a place
+  test: A location takes on a lasting moral or magical character.
+  examples: [Hallow, Desecrate, Respite of Loam and Leaf]
+
+- id: grow-or-wither-plants
+  domain: environment
+  name: Make plants grow or wither
+  test: Vegetation responds to the character's will.
+  examples: [Plant Growth, Gift of Olives, Wood-Rotted Root, Sprout Ally]
+
+- id: alter-gravity-or-orientation
+  domain: environment
+  name: Change which way is down
+  test: Gravity, falling and orientation are the subject.
+  examples: [Reverse Gravity, Levitate, Feather Fall, Grab an Edge]
+
+- id: set-off-or-quell-a-hazard
+  domain: environment
+  name: Trigger or quell an environmental hazard
+  test: Avalanche, collapse, flood — the environment becomes the threat, or stops being one.
+  examples: [Collapsing Structure, Haphazard Wood Pile, Deadly Workshop]
+
+# ---------------------------------------------------------------- metaphysics
+- id: act-sooner-than-others
+  domain: metaphysics
+  name: Act before others do
+  test: Initiative, readiness and going first.
+  examples: [Alert, Initiative Proficiency, Slinger's Reflexes]
+
+- id: gain-an-extra-action
+  domain: metaphysics
+  name: Do more in the time available
+  test: More actions per turn, not faster movement.
+  examples: [Haste, Quickened, Abundant Vials, Summon Mythic Power]
+
+- id: slow-or-hasten-time-for-others
+  domain: metaphysics
+  name: Bend the passage of time around others
+  test: Time itself runs differently for a target or area.
+  examples: [Time Stop, Cast into Time, Infinitesimal Collapse Field, Time Rift]
+
+- id: undo-what-has-happened
+  domain: metaphysics
+  name: Undo or replay what has already happened
+  test: Events are rewound, repeated or re-rolled after the fact.
+  examples: [Restore the Moment, Rule of Three, Time Traveler]
+
+- id: improve-your-luck
+  domain: metaphysics
+  name: Bend luck your way
+  test: Rerolls, advantage and fortune effects for yourself or allies.
+  examples: [Boon of Fate, Luck domain, Against All Odds, Foresight]
+
+- id: impose-misfortune
+  domain: metaphysics
+  name: Bend luck against someone
+  test: Misfortune effects imposed on a target.
+  examples: [Bane, Ill Omen, Thief's Burden]
+
+- id: store-an-effect-for-later
+  domain: metaphysics
+  name: Store power now and spend it later
+  test: An effect is prepared, banked or delayed rather than used at once.
+  examples: [Into the Future, Store Time, Contingency, Wand of Continuation]
+
+- id: open-a-portal
+  domain: metaphysics
+  name: Open a doorway between places
+  test: A persistent opening others can use, as distinct from teleporting yourself.
+  examples: [Gate, Open the Wall of Ghosts, Teleportation Circle, School of Gates]
+
+- id: sever-a-supernatural-connection
+  domain: metaphysics
+  name: Cut a supernatural connection
+  test: Breaks a bond, pact, attunement or channel of divine power.
+  examples: [Divinity Leech, Potion of Annulment, Dispel Magic, Remove Curse]
+
+- id: cheat-death
+  domain: metaphysics
+  name: Refuse to die when you should have
+  test: Survival at the instant of death, by fate rather than toughness.
+  examples: [Eternal Hero, Scar Of The Survivor, Death Ward]
+
+- id: exist-in-two-places
+  domain: metaphysics
+  name: Be in two places at once
+  test: One being, two simultaneous locations.
+  examples: [Bilocation, Project Image, Mirror Image]
+
+- id: step-outside-time
+  domain: metaphysics
+  name: Step outside the flow of time
+  test: The character is briefly not subject to time at all.
+  examples: [Escape Timeline, Time Stop, Chronoskimmer, Timewracked Dedication]
+
+- id: draw-on-a-higher-power
+  domain: metaphysics
+  name: Draw on a power greater than yourself
+  test: Borrowed divine, mythic or patron power invoked in a moment of need.
+  examples: [Summon Mythic Power, Qi Center, Word of Faith, Divine Intervention]
+
+- id: sense-or-shape-fate
+  domain: metaphysics
+  name: Read or nudge the shape of destiny
+  test: Concerned with what is fated rather than what is probable.
+  examples: [Roll the Bones of Fate, Augury, Bear a Mark of Destiny]
+
+# ---------------------------------------------------------------- society
+- id: earn-income
+  domain: society
+  name: Earn money from your skills
+  test: Converts time and competence into wealth.
+  examples: [Earn Income, Ghostwriter, Craft for profit]
+
+- id: build-your-reputation
+  domain: society
+  name: Build your own standing
+  test: Improves how a community regards you.
+  examples: [Repair Reputation, Make an Impression, Sentinel Reflectance]
+
+- id: damage-another-s-standing
+  domain: society
+  name: Damage someone else's standing
+  test: Slander, exposure or disgrace directed at another.
+  examples: [Decry Thief, Slander, Odious Token]
+
+- id: lead-an-organisation
+  domain: society
+  name: Lead an organisation or settlement
+  test: Authority over a body of people and its decisions.
+  examples: [New Leadership, Kingdom activities, Mortal Herald]
+
+- id: recruit-help
+  domain: society
+  name: Hire or recruit others to act for you
+  test: Paid or persuaded help that is not a bonded companion.
+  examples: [Hire Adventurers, Conscript, Warmaster's Baton]
+
+- id: secure-shelter-and-supply
+  domain: society
+  name: Secure lodging, food and supply
+  test: The logistics of staying alive between adventures.
+  examples: [Subsist, Feed, A Home in Every Port, Rest and Relax]
+
+- id: gain-access-to-closed-circles
+  domain: society
+  name: Get into somewhere you do not belong
+  test: Social access to a guild, court, archive or criminal network.
+  examples: [Archival Assistant, Friend of Greensteeples, Razmiran Priest, Pure Legion Enforcer]
+
+- id: trade-and-bargain
+  domain: society
+  name: Buy, sell and bargain
+  test: Commerce and negotiated exchange.
+  examples: [Haggle, Appraise, Capital Dividend]
+
+- id: run-a-long-project
+  domain: society
+  name: Run a project that takes weeks or months
+  test: Downtime work with an outcome measured in days, not rounds.
+  examples: [Research, Craft, Organize Watch, Subsist]
+
+- id: travel-as-a-known-figure
+  domain: society
+  name: Be recognised wherever you go
+  test: Standing that precedes you into a room.
+  examples: [A Home in Every Port, Legendary reputation, Provocator]
+
+# ---------------------------------------------------------------- identity
+- id: claim-a-lineage
+  domain: identity
+  name: Claim a bloodline or ancestry
+  test: Capability that follows from what you were born as.
+  examples: [Draconic bloodline, Twilight Halfling, Proteankin, Giant Ancestry]
+
+- id: claim-a-past-vocation
+  domain: identity
+  name: Claim a past life or trade
+  test: Capability that follows from what you used to do.
+  examples: [Archaeologist, Warrior, Conscript, Ocean Diver, Acolyte]
+
+- id: bind-yourself-to-a-power
+  domain: identity
+  name: Bind yourself to a patron, deity or pact
+  test: An external power grants capability in exchange for allegiance.
+  examples: [Mosquito Witch, Oracle Dedication, Shadow Pact, Contact Patron]
+
+- id: follow-a-code
+  domain: identity
+  name: Follow a code or vow
+  test: Capability conditioned on holding to a rule of conduct.
+  examples: [Champion's Code, Oath of Devotion, Respite of Loam and Leaf]
+
+- id: carry-a-burden
+  domain: identity
+  name: Carry a curse, debt or wound you did not choose
+  test: An affliction that is part of who the character is.
+  examples: [Cursed background, Haunted Citizen, Face at the Foot of the Bed, Thief's Burden]
+
+- id: belong-to-an-order
+  domain: identity
+  name: Belong to an order or organisation
+  test: Membership itself is the source of capability.
+  examples: [Hellknight, Pathfinder Society, Pure Legion Enforcer, Shadowdancer Dedication]
+
+- id: draw-on-an-inner-source
+  domain: identity
+  name: Draw on a wellspring inside yourself
+  test: Focus, qi, panache, rage — a personal reservoir of power.
+  examples: [Panache, Subconscious Mind, Clarity of Focus, Rage]
+
+- id: specialise-in-a-tradition
+  domain: identity
+  name: Specialise in a school or tradition
+  test: A declared area of magical or martial specialisation.
+  examples: [Evocation school, Lore mystery, Chalice implement, Lesson of Life]
+
+# ---------------------------------------------- non-narrative parking buckets
+- id: increase-proficiency-or-defence
+  domain: bookkeeping
+  name: Increase a proficiency, defence or numeric rank
+  test: Raises a rank, bonus or save with no fictional content of its own.
+  examples: [Weapon Expertise, Lightning Reflexes, Armor Expertise, Runic Expertise]
+
+- id: increase-attributes-or-health
+  domain: bookkeeping
+  name: Increase attributes, hit points or capacity
+  test: Raw character-sheet capacity.
+  examples: [Ability Boosts, Ability Score Improvement, Hit Points]
+
+- id: expand-a-resource-pool
+  domain: bookkeeping
+  name: Expand a pool of slots, points or uses
+  test: More of an existing resource, without new capability.
+  examples: [Clarity of Focus, Bloodline Wellspring, Shared Focus]
+
+- id: numeric-variant
+  domain: variant
+  name: A stronger printing of another entry
+  test: The whole text is a numeric delta — "the bonus is +3, the duration is 1 hour".
+  examples: [War Blood Mutagen (Greater), Screech Shooter (Major), Smoke Ball (Greater)]
+
+- id: grants-another-option
+  domain: gateway
+  name: Grants access to another option
+  test: Its entire effect is that you may now take or use something else.
+  examples: [Basic Blood Potency, Magic Initiate, Song of the Fallen (feat), Epic Boon]
+
+- id: entry-into-an-archetype
+  domain: gateway
+  name: Opens an archetype or multiclass path
+  test: A dedication or entry requirement rather than a capability.
+  examples: [Wizard Dedication, Poisoner Dedication, Hedge Mage Dedication]
+
+- id: unclassified
+  domain: gateway
+  name: Could not be classified
+  test: Reserved. Assigned when no function fits; feeds the taxonomy v2 pass.
+  examples: []

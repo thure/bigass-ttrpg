@@ -1,0 +1,87 @@
+# Top-level groupings for narrative functions. A domain answers "what part of the
+# fiction does this touch", not "what subsystem implements it".
+#
+# The last three domains are deliberately not narrative. Roughly a third of the corpus
+# is numeric variants, proficiency bumps and "you gain another feat" plumbing. Parking
+# those explicitly keeps them auditable instead of letting them contaminate real
+# functions or vanish silently.
+
+- id: movement
+  name: Movement and traversal
+  blurb: Getting a body from here to there, through terrain that resists it.
+
+- id: concealment
+  name: Concealment and deception of the senses
+  blurb: Not being perceived, or being perceived as something else.
+
+- id: perception
+  name: Perception and detection
+  blurb: Noticing what is hidden, distant, disguised or silent.
+
+- id: barriers
+  name: Barriers and bindings
+  blurb: Opening what is closed, closing what is open, holding things fast.
+
+- id: violence
+  name: Violence and destruction
+  blurb: Inflicting injury, breaking objects, ending lives.
+
+- id: protection
+  name: Protection and endurance
+  blurb: Preventing, absorbing, deflecting or surviving harm.
+
+- id: restoration
+  name: Restoration and repair
+  blurb: Undoing damage to bodies, minds, objects and conditions.
+
+- id: affliction
+  name: Affliction and impairment
+  blurb: Degrading what a body or mind can do, short of killing it.
+
+- id: influence
+  name: Mind and influence
+  blurb: Changing what others feel, believe, intend or are willing to do.
+
+- id: knowledge
+  name: Knowledge and divination
+  blurb: Acquiring information the character does not already have.
+
+- id: creation
+  name: Creation and conjuration
+  blurb: Bringing matter, objects, structures or substances into being.
+
+- id: transformation
+  name: Transformation
+  blurb: Changing the form, size, substance or nature of a thing.
+
+- id: companions
+  name: Companions and called allies
+  blurb: Acting through another creature that fights, scouts or serves.
+
+- id: environment
+  name: Environment and terrain
+  blurb: Reshaping the ground, the weather and the space a scene happens in.
+
+- id: metaphysics
+  name: Time, fate and planes
+  blurb: Bending the rules the world itself runs on.
+
+- id: society
+  name: Society and resources
+  blurb: Standing, wealth, organisations and the passage of downtime.
+
+- id: identity
+  name: Identity and origin
+  blurb: Who the character is and where they came from, as a source of capability.
+
+- id: bookkeeping
+  name: Character bookkeeping (non-narrative)
+  blurb: Proficiency ranks, attribute boosts, slot counts. No fictional content.
+
+- id: variant
+  name: Numeric variant (non-narrative)
+  blurb: A stronger printing of another entry — "the bonus is +3, the duration is 1 hour".
+
+- id: gateway
+  name: Gateway option (non-narrative)
+  blurb: Grants access to another option rather than doing anything itself.
