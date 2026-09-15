@@ -29,6 +29,23 @@ Scripts are correct and welcome for everything that is *not* judgment: fetching,
 parsing, sharding, loading, validating, reporting. The dividing line is whether the
 output depends on understanding what a sentence means.
 
+## Tools for classification work
+
+| tool | what it does |
+|---|---|
+| `scripts/next_batch.py NN` | prints the next 25 entries to classify; tracks progress for you |
+| `scripts/next_batch.py NN --status` | how far along the shard is |
+| `scripts/find_slug.py <words>` | search the 227 slugs by meaning — use this instead of remembering |
+| `scripts/find_slug.py --domain <id>` | browse one domain; bare invocation lists all domains |
+| `scripts/find_slug.py --show <slug>` | full test and examples for one slug |
+| `scripts/check_batch.py NN bXXX` | validate one answer file immediately, with fixes suggested |
+| `scripts/collect_batches.py NN` | reassemble answers into the shard's JSONL |
+| `scripts/qa_shard.py NN [--partial]` | the quality gate; grades a shard and passes or fails it |
+| `scripts/make_batches.py NN` | (setup) split a shard into batch files |
+
+You never type an entry id: `collect_batches.py` reattaches them by position from the
+manifest, so id errors are structurally impossible.
+
 ## Check your own work
 
 `.venv/bin/python scripts/qa_shard.py <NN> --partial` grades a shard in progress and
