@@ -115,6 +115,12 @@ def main():
                 "note": note,
             }) + "\n")
 
+    # NOTE: entries are distributed round-robin over a (category, name)-sorted list,
+    # so each shard preserves category ordering and any *prefix* of a shard is
+    # category-skewed. That is harmless for the final result but makes partial quality
+    # checks misleading, so qa_shard.py only applies share-based checks above 400
+    # entries. If these shards are ever rebuilt from scratch, shuffling each shard's
+    # order with a fixed seed would make every prefix representative instead.
     shard_dir = args.out / "shards"
     shard_dir.mkdir(exist_ok=True)
     for old in shard_dir.glob("*.jsonl"):
