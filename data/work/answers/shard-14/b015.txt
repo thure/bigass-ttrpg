@@ -1,0 +1,25 @@
+1. entry-into-an-archetype | trained-skill | 1 | 0.75
+2. earn-trust-under-false-pretences + entry-into-an-archetype | social | 1 | 0.55
+3. change-your-own-shape | innate | 1 | 0.6
+4. speak-with-the-otherwise-mute | innate | 1 | 0.6
+5. destroy-an-object | innate | 1 | 0.5
+6. increase-proficiency-or-defence | trained-skill | 1 | 0.55
+7. specialise-in-a-tradition | magical | 1 | 0.5
+8. turn-an-attack-back | trained-skill | 1 | 0.55
+9. hide-from-notice | trained-skill | 1 | 0.55
+10. grants-another-option | magical | 1 | 0.4
+11. animate-the-inanimate | magical | 1 | 0.5
+12. claim-a-lineage | innate | 1 | 0.55
+13. entry-into-an-archetype | trained-skill | 1 | 0.75
+14. entry-into-an-archetype | trained-skill | 1 | 0.7
+15. entry-into-an-archetype | divine | 1 | 0.55
+16. harm-many-at-once + heal-many-at-once | divine | 2 | 0.5
+17. resist-a-kind-of-harm | innate | 1 | 0.5
+18. fly | magical | 1 | 0.65
+19. teleport-a-short-distance | magical | 1 | 0.55
+20. heal-a-body | alchemical | 1 | 0.45
+21. expand-a-resource-pool | magical | 1 | 0.4
+22. climb-a-vertical-surface | trained-skill | 1 | 0.55
+23. strike-a-distant-foe | innate | 1 | 0.5
+24. increase-proficiency-or-defence | innate | 1 | 0.55
+25. harm-many-at-once | innate | 1 | 0.6

@@ -1,0 +1,25 @@
+1. teleport-a-great-distance + track-a-creature | item | 4 | 0.5
+2. frighten + command-obedience | item | 2 | 0.55
+3. stop-a-foe-moving | item | 1 | 0.7
+4. gain-a-buffer-of-vitality + frighten | item | 1 | 0.45
+5. increase-proficiency-or-defence | item | 1 | 0.6
+6. negate-an-effect-outright | item | 1 | 0.5
+7. seal-a-boundary | tool | 1 | 0.35
+8. increase-proficiency-or-defence | item | 1 | 0.8
+9. reposition-another-creature + harm-many-at-once | alchemical | 2 | 0.5
+10. alter-gravity-or-orientation | item | 2 | 0.4
+11. harm-many-at-once + grow-a-natural-weapon | item | 2 | 0.45
+12. call-a-creature-to-fight-for-you + command-obedience | item | 1 | 0.45
+13. bind-yourself-to-a-power + harm-many-at-once | item | 1 | 0.55
+14. climb-a-vertical-surface | innate | 1 | 0.7
+15. grants-another-option | innate | 1 | 0.35
+16. strike-a-binding-bargain | innate | 1 | 0.55
+17. change-your-own-shape | magical | 1 | 0.65
+18. craft-an-object + increase-proficiency-or-defence | magical | 1 | 0.4
+19. gain-an-extra-action | innate | 1 | 0.45
+20. expand-a-resource-pool | trained-skill | 1 | 0.45
+21. grants-another-option | trained-skill | 1 | 0.6
+22. draw-on-a-higher-power | divine | 1 | 0.5
+23. entry-into-an-archetype | divine | 1 | 0.5
+24. ambush-an-unready-foe | trained-skill | 1 | 0.5
+25. breach-a-locked-boundary | magical | 1 | 0.55

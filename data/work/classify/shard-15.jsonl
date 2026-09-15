@@ -323,3 +323,53 @@
 {"id": "dnd5e-2024:magic-items:spellguard-shield", "functions": [{"slug": "resist-a-kind-of-harm", "role": "primary", "mechanism": "item", "scope_tier": 1, "confidence": 0.45}]}
 {"id": "pf2e:equipment-5209", "functions": [{"slug": "breach-a-locked-boundary", "role": "primary", "mechanism": "magical", "scope_tier": 2, "confidence": 0.38}, {"slug": "harm-many-at-once", "role": "secondary", "mechanism": "magical", "scope_tier": 2, "confidence": 0.38}]}
 {"id": "pf2e:equipment-3772", "functions": [{"slug": "resist-a-kind-of-harm", "role": "primary", "mechanism": "magical", "scope_tier": 1, "confidence": 0.45}]}
+{"id": "dnd5e-2014:equipment:spyglass", "functions": [{"slug": "extend-your-senses", "role": "primary", "mechanism": "tool", "scope_tier": 1, "confidence": 0.7}]}
+{"id": "pf2e:equipment-3041", "functions": [{"slug": "strike-a-distant-foe", "role": "primary", "mechanism": "magical", "scope_tier": 2, "confidence": 0.52}, {"slug": "control-fire", "role": "secondary", "mechanism": "magical", "scope_tier": 2, "confidence": 0.52}]}
+{"id": "dnd5e-2024:magic-items:staff-of-thunder-and-lightning", "functions": [{"slug": "harm-many-at-once", "role": "primary", "mechanism": "magical", "scope_tier": 2, "confidence": 0.55}, {"slug": "strike-a-foe-in-reach", "role": "secondary", "mechanism": "magical", "scope_tier": 2, "confidence": 0.55}]}
+{"id": "pf2e:equipment-3386", "functions": [{"slug": "set-a-trap", "role": "primary", "mechanism": "technological", "scope_tier": 1, "confidence": 0.47}, {"slug": "mark-a-foe-as-vulnerable", "role": "secondary", "mechanism": "technological", "scope_tier": 1, "confidence": 0.47}]}
+{"id": "pf2e:equipment-2520", "functions": [{"slug": "disguise-your-appearance", "role": "primary", "mechanism": "alchemical", "scope_tier": 1, "confidence": 0.5}, {"slug": "resist-a-kind-of-harm", "role": "secondary", "mechanism": "alchemical", "scope_tier": 1, "confidence": 0.5}]}
+{"id": "pf2e:equipment-608", "functions": [{"slug": "curse-a-creature", "role": "primary", "mechanism": "magical", "scope_tier": 1, "confidence": 0.55}]}
+{"id": "pf2e:equipment-3981", "functions": [{"slug": "be-harder-to-hit", "role": "primary", "mechanism": "magical", "scope_tier": 1, "confidence": 0.65}]}
+{"id": "pf2e:equipment-3245-3102", "functions": [{"slug": "bind-a-creature-in-place", "role": "primary", "mechanism": "tool", "scope_tier": 1, "confidence": 0.7}]}
+{"id": "pf2e:equipment-3191", "functions": [{"slug": "fly", "role": "primary", "mechanism": "magical", "scope_tier": 1, "confidence": 0.85}]}
+{"id": "pf2e:equipment-621", "functions": [{"slug": "increase-proficiency-or-defence", "role": "primary", "mechanism": "magical", "scope_tier": 2, "confidence": 0.33}]}
+{"id": "pf2e:equipment-4947", "functions": [{"slug": "strike-a-distant-foe", "role": "primary", "mechanism": "magical", "scope_tier": 1, "confidence": 0.6}]}
+{"id": "pf2e:equipment-2475", "functions": [{"slug": "cross-resisting-ground", "role": "primary", "mechanism": "magical", "scope_tier": 2, "confidence": 0.48}]}
+{"id": "pf2e:equipment-2508", "functions": [{"slug": "make-an-extradimensional-space", "role": "primary", "mechanism": "magical", "scope_tier": 3, "confidence": 0.55}]}
+{"id": "pf2e:equipment-2545", "functions": [{"slug": "increase-proficiency-or-defence", "role": "primary", "mechanism": "magical", "scope_tier": 1, "confidence": 0.58}]}
+{"id": "pf2e:equipment-1808", "functions": [{"slug": "read-or-enter-a-mind", "role": "primary", "mechanism": "magical", "scope_tier": 1, "confidence": 0.65}]}
+{"id": "pf2e:equipment-577", "functions": [{"slug": "set-a-trap", "role": "primary", "mechanism": "technological", "scope_tier": 1, "confidence": 0.53}, {"slug": "blind-or-deafen", "role": "secondary", "mechanism": "technological", "scope_tier": 1, "confidence": 0.53}]}
+{"id": "dnd5e-2014:equipment:tinderbox", "functions": [{"slug": "control-fire", "role": "primary", "mechanism": "tool", "scope_tier": 1, "confidence": 0.75}]}
+{"id": "pf2e:equipment-2219", "functions": [{"slug": "change-your-own-shape", "role": "primary", "mechanism": "magical", "scope_tier": 1, "confidence": 0.57}, {"slug": "grow-a-natural-weapon", "role": "secondary", "mechanism": "magical", "scope_tier": 1, "confidence": 0.57}]}
+{"id": "pf2e:equipment-5181-4684", "functions": [{"slug": "resist-a-kind-of-harm", "role": "primary", "mechanism": "magical", "scope_tier": 1, "confidence": 0.65}]}
+{"id": "pf2e:equipment-4976", "functions": [{"slug": "harm-many-at-once", "role": "primary", "mechanism": "magical", "scope_tier": 2, "confidence": 0.43}]}
+{"id": "pf2e:equipment-1862", "functions": [{"slug": "turn-an-attack-back", "role": "primary", "mechanism": "magical", "scope_tier": 1, "confidence": 0.75}]}
+{"id": "pf2e:equipment-2185", "functions": [{"slug": "obscure-an-area", "role": "primary", "mechanism": "magical", "scope_tier": 1, "confidence": 0.37}]}
+{"id": "pf2e:equipment-4997", "functions": [{"slug": "dull-a-foe-s-capability", "role": "primary", "mechanism": "magical", "scope_tier": 1, "confidence": 0.42}]}
+{"id": "pf2e:equipment-4074", "functions": [{"slug": "gain-an-extra-action", "role": "primary", "mechanism": "alchemical", "scope_tier": 1, "confidence": 0.6}, {"slug": "gain-a-buffer-of-vitality", "role": "secondary", "mechanism": "alchemical", "scope_tier": 1, "confidence": 0.6}]}
+{"id": "pf2e:equipment-2929", "functions": [{"slug": "slow-a-foe", "role": "primary", "mechanism": "magical", "scope_tier": 1, "confidence": 0.55}, {"slug": "stop-a-foe-moving", "role": "secondary", "mechanism": "magical", "scope_tier": 1, "confidence": 0.55}]}
+{"id": "pf2e:equipment-2853", "functions": [{"slug": "kill-outright", "role": "primary", "mechanism": "magical", "scope_tier": 1, "confidence": 0.75}]}
+{"id": "pf2e:equipment-2277", "functions": [{"slug": "blind-or-deafen", "role": "primary", "mechanism": "magical", "scope_tier": 1, "confidence": 0.65}]}
+{"id": "pf2e:equipment-794-793", "functions": [{"slug": "strike-a-distant-foe", "role": "primary", "mechanism": "magical", "scope_tier": 1, "confidence": 0.52}, {"slug": "dull-a-foe-s-capability", "role": "secondary", "mechanism": "magical", "scope_tier": 1, "confidence": 0.52}]}
+{"id": "pf2e:equipment-1247", "functions": [{"slug": "strike-a-distant-foe", "role": "primary", "mechanism": "magical", "scope_tier": 1, "confidence": 0.45}]}
+{"id": "pf2e:equipment-3430", "functions": [{"slug": "bind-a-creature-in-place", "role": "primary", "mechanism": "magical", "scope_tier": 1, "confidence": 0.53}, {"slug": "poison-a-foe", "role": "secondary", "mechanism": "magical", "scope_tier": 1, "confidence": 0.53}]}
+{"id": "pf2e:equipment-1934", "functions": [{"slug": "resist-a-kind-of-harm", "role": "primary", "mechanism": "alchemical", "scope_tier": 1, "confidence": 0.7}]}
+{"id": "pf2e:equipment-1517", "functions": [{"slug": "control-fire", "role": "primary", "mechanism": "alchemical", "scope_tier": 1, "confidence": 0.5}, {"slug": "strike-a-distant-foe", "role": "secondary", "mechanism": "alchemical", "scope_tier": 1, "confidence": 0.5}]}
+{"id": "pf2e:equipment-3536", "functions": [{"slug": "see-through-deception", "role": "primary", "mechanism": "magical", "scope_tier": 1, "confidence": 0.6}]}
+{"id": "dnd5e-2014:magic-items:feather-token-whip", "functions": [{"slug": "strike-a-distant-foe", "role": "primary", "mechanism": "magical", "scope_tier": 1, "confidence": 0.57}]}
+{"id": "pf2e:equipment-1120", "functions": [{"slug": "avoid-a-danger-you-foresaw", "role": "primary", "mechanism": "technological", "scope_tier": 1, "confidence": 0.4}]}
+{"id": "pf2e:equipment-2500", "functions": [{"slug": "teleport-a-great-distance", "role": "primary", "mechanism": "magical", "scope_tier": 3, "confidence": 0.58}]}
+{"id": "pf2e:equipment-1772-1563", "functions": [{"slug": "numeric-variant", "role": "primary", "mechanism": "manual", "scope_tier": 1, "confidence": 0.3}]}
+{"id": "pf2e:equipment-3350", "functions": [{"slug": "poison-a-foe", "role": "primary", "mechanism": "alchemical", "scope_tier": 1, "confidence": 0.85}]}
+{"id": "pf2e:familiar-ability-85", "functions": [{"slug": "harm-many-at-once", "role": "primary", "mechanism": "innate", "scope_tier": 1, "confidence": 0.48}, {"slug": "dull-a-foe-s-capability", "role": "secondary", "mechanism": "innate", "scope_tier": 1, "confidence": 0.48}]}
+{"id": "pf2e:familiar-ability-103", "functions": [{"slug": "harm-many-at-once", "role": "primary", "mechanism": "innate", "scope_tier": 1, "confidence": 0.7}]}
+{"id": "pf2e:familiar-ability-75", "functions": [{"slug": "dull-a-foe-s-capability", "role": "primary", "mechanism": "innate", "scope_tier": 2, "confidence": 0.33}]}
+{"id": "pf2e:familiar-ability-76", "functions": [{"slug": "resist-a-kind-of-harm", "role": "primary", "mechanism": "innate", "scope_tier": 1, "confidence": 0.65}]}
+{"id": "pf2e:familiar-ability-123", "functions": [{"slug": "increase-proficiency-or-defence", "role": "primary", "mechanism": "innate", "scope_tier": 1, "confidence": 0.8}]}
+{"id": "pf2e:familiar-ability-68", "functions": [{"slug": "perceive-without-sight", "role": "primary", "mechanism": "innate", "scope_tier": 1, "confidence": 0.85}]}
+{"id": "pf2e:feat-1671", "functions": [{"slug": "heal-a-body", "role": "primary", "mechanism": "divine", "scope_tier": 1, "confidence": 0.62}, {"slug": "move-faster", "role": "secondary", "mechanism": "divine", "scope_tier": 1, "confidence": 0.62}]}
+{"id": "pf2e:feat-1104", "functions": [{"slug": "grants-another-option", "role": "primary", "mechanism": "magical", "scope_tier": 1, "confidence": 0.5}]}
+{"id": "pf2e:feat-3055", "functions": [{"slug": "keep-a-bonded-creature", "role": "primary", "mechanism": "technological", "scope_tier": 1, "confidence": 0.4}]}
+{"id": "pf2e:feat-5085", "functions": [{"slug": "grants-another-option", "role": "primary", "mechanism": "trained-skill", "scope_tier": 1, "confidence": 0.43}]}
+{"id": "pf2e:feat-4797", "functions": [{"slug": "increase-proficiency-or-defence", "role": "primary", "mechanism": "trained-skill", "scope_tier": 1, "confidence": 0.75}]}
+{"id": "pf2e:feat-7650", "functions": [{"slug": "shrug-off-an-effect-you-failed-to-avoid", "role": "primary", "mechanism": "social", "scope_tier": 1, "confidence": 0.5}]}

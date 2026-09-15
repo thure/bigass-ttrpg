@@ -1,0 +1,25 @@
+1. protect-a-group | magical | 1 | 0.57
+2. command-obedience | magical | 1 | 0.5
+3. strike-a-foe-in-reach | magical | 1 | 0.72
+4. disguise-what-a-thing-is | magical | 1 | 0.32
+5. cheat-death | magical | 1 | 0.85
+6. call-a-creature-to-fight-for-you | magical | 1 | 0.62
+7. set-a-trap | trained-skill | 1 | 0.66
+8. see-through-deception + strike-a-distant-foe | magical | 1 | 0.4
+9. sense-a-distant-place | magical | 2 | 0.35
+10. kill-outright | divine | 1 | 0.55
+11. sense-a-distant-place | magical | 2 | 0.45
+12. build-a-barrier + protect-a-group | magical | 2 | 0.58
+13. see-through-deception + research-in-archives | magical | 1 | 0.38
+14. poison-a-foe + ambush-an-unready-foe | magical | 1 | 0.52
+15. breach-a-locked-boundary + disable-a-device | tool | 1 | 0.68
+16. turn-an-attack-back | psychic | 1 | 0.63
+17. unclassified | manual | 1 | 0.28
+18. increase-proficiency-or-defence | magical | 1 | 0.8
+19. track-a-creature | magical | 1 | 0.65
+20. turn-an-attack-back | magical | 1 | 0.6
+21. strike-a-distant-foe | magical | 1 | 0.42
+22. hide-from-notice | alchemical | 1 | 0.7
+23. speak-with-the-otherwise-mute | magical | 1 | 0.48
+24. cheat-death + be-harder-to-hit | magical | 1 | 0.75
+25. cheat-death + bind-yourself-to-a-power | magical | 1 | 0.78

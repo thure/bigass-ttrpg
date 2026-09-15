@@ -1,0 +1,25 @@
+1. poison-a-foe + move-unseen | item | 1 | 0.42
+2. grants-another-option | tool | 1 | 0.3
+3. absorb-or-blunt-damage + punish-an-opening | item | 1 | 0.46
+4. shake-off-an-affliction | item | 1 | 0.57
+5. gain-a-buffer-of-vitality + frighten | item | 1 | 0.48
+6. travel-overland | item | 2 | 0.52
+7. survive-a-hostile-environment | item | 1 | 0.73
+8. move-through-water | item | 1 | 0.63
+9. open-a-portal + travel-between-planes | item | 3 | 0.56
+10. detect-a-kind-of-creature | item | 1 | 0.44
+11. heal-a-body + quiet-a-troubled-mind | alchemical | 1 | 0.51
+12. call-a-creature-to-fight-for-you | item | 1 | 0.71
+13. inflict-a-lingering-wound | alchemical | 1 | 0.66
+14. call-a-creature-to-fight-for-you | item | 1 | 0.54
+15. resist-a-kind-of-harm | innate | 1 | 0.39
+16. expand-a-resource-pool | innate | 1 | 0.61
+17. become-invisible | innate | 1 | 0.69
+18. heal-a-body + resist-poison-and-disease | trained-skill | 1 | 0.5
+19. share-power-with-a-bonded-creature | innate | 1 | 0.59
+20. obscure-an-area + silence-magic | magical | 2 | 0.41
+21. curse-a-creature | innate | 1 | 0.47
+22. recall-what-you-have-learned | trained-skill | 1 | 0.62
+23. specialise-in-a-tradition | divine | 1 | 0.45
+24. expand-a-resource-pool | magical | 1 | 0.55
+25. grants-another-option | innate | 1 | 0.38

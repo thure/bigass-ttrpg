@@ -1,0 +1,25 @@
+1. calm-hostility | alchemical | 1 | 0.4
+2. store-an-effect-for-later | magical | 2 | 0.45
+3. store-an-effect-for-later | magical | 2 | 0.45
+4. call-a-creature-to-fight-for-you | magical | 1 | 0.55
+5. harm-many-at-once | alchemical | 1 | 0.45
+6. craft-an-object | manual | 1 | 0.3
+7. resist-a-kind-of-harm + break-free-of-restraint | magical | 1 | 0.45
+8. strike-a-foe-in-reach | magical | 1 | 0.45
+9. move-a-group | magical | 2 | 0.55
+10. gain-access-to-closed-circles | magical | 1 | 0.4
+11. set-a-trap + dull-a-foe-s-capability | item | 1 | 0.5
+12. secure-shelter-and-supply | item | 1 | 0.55
+13. protect-a-group | magical | 2 | 0.4
+14. charm-into-friendship | magical | 1 | 0.5
+15. increase-proficiency-or-defence | alchemical | 1 | 0.35
+16. go-without-necessities | magical | 1 | 0.65
+17. impose-misfortune | magical | 1 | 0.55
+18. increase-attributes-or-health | magical | 1 | 0.7
+19. teleport-a-great-distance + persuade-by-reason-or-charm | magical | 2 | 0.35
+20. know-where-you-are | magical | 1 | 0.6
+21. fly | magical | 1 | 0.75
+22. improve-what-a-companion-can-do | magical | 1 | 0.5
+23. speak-with-the-otherwise-mute | magical | 1 | 0.5
+24. protect-a-group | magical | 1 | 0.55
+25. survive-a-hostile-environment + conceal-an-object | magical | 1 | 0.45

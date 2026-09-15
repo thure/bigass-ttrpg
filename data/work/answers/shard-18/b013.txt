@@ -1,0 +1,25 @@
+1. extend-your-senses | tool | 1 | 0.7
+2. heal-a-body + heal-many-at-once | magical | 1 | 0.6
+3. enhance-a-weapon-s-bite + dull-a-foe-s-capability | magical | 1 | 0.55
+4. protect-a-group | magical | 3 | 0.6
+5. climb-a-vertical-surface | technological | 1 | 0.35
+6. expand-a-resource-pool | item | 1 | 0.5
+7. numeric-variant | item | 1 | 0.55
+8. cross-resisting-ground | alchemical | 1 | 0.65
+9. strike-with-overwhelming-force + make-light | magical | 1 | 0.6
+10. heal-a-body + gain-an-extra-action | divine | 1 | 0.45
+11. grants-another-option | magical | 1 | 0.45
+12. disguise-your-appearance + persuade-by-reason-or-charm | magical | 1 | 0.5
+13. breach-a-locked-boundary + shake-off-an-affliction | magical | 1 | 0.5
+14. coerce-through-threat + change-your-own-shape | magical | 1 | 0.5
+15. inflict-a-lingering-wound | magical | 1 | 0.55
+16. strike-a-distant-foe + blind-or-deafen | magical | 1 | 0.55
+17. harm-many-at-once + increase-attributes-or-health | magical | 2 | 0.45
+18. pass-through-solid-matter | alchemical | 1 | 0.4
+19. secure-shelter-and-supply | social | 2 | 0.5
+20. bind-a-creature-in-place + strike-a-distant-foe | magical | 1 | 0.55
+21. recall-what-you-have-learned | magical | 1 | 0.7
+22. grants-another-option | technological | 1 | 0.4
+23. command-obedience | innate | 1 | 0.4
+24. lie-convincingly + poison-a-foe | magical | 1 | 0.55
+25. strike-a-distant-foe + make-light | magical | 1 | 0.5

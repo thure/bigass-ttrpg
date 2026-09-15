@@ -1,0 +1,25 @@
+1. kill-outright | magical | 1 | 0.75
+2. blind-or-deafen | magical | 1 | 0.65
+3. strike-a-distant-foe + dull-a-foe-s-capability | magical | 1 | 0.52
+4. strike-a-distant-foe | magical | 1 | 0.45
+5. bind-a-creature-in-place + poison-a-foe | magical | 1 | 0.53
+6. resist-a-kind-of-harm | alchemical | 1 | 0.70
+7. control-fire + strike-a-distant-foe | alchemical | 1 | 0.50
+8. see-through-deception | magical | 1 | 0.60
+9. strike-a-distant-foe | magical | 1 | 0.57
+10. avoid-a-danger-you-foresaw | technological | 1 | 0.40
+11. teleport-a-great-distance | magical | 3 | 0.58
+12. numeric-variant | manual | 1 | 0.30
+13. poison-a-foe | alchemical | 1 | 0.85
+14. harm-many-at-once + dull-a-foe-s-capability | innate | 1 | 0.48
+15. harm-many-at-once | innate | 1 | 0.70
+16. dull-a-foe-s-capability | innate | 2 | 0.33
+17. resist-a-kind-of-harm | innate | 1 | 0.65
+18. increase-proficiency-or-defence | innate | 1 | 0.80
+19. perceive-without-sight | innate | 1 | 0.85
+20. heal-a-body + move-faster | divine | 1 | 0.62
+21. grants-another-option | magical | 1 | 0.50
+22. keep-a-bonded-creature | technological | 1 | 0.40
+23. grants-another-option | trained-skill | 1 | 0.43
+24. increase-proficiency-or-defence | trained-skill | 1 | 0.75
+25. shrug-off-an-effect-you-failed-to-avoid | social | 1 | 0.50

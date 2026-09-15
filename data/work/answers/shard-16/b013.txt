@@ -1,0 +1,25 @@
+1. extend-your-senses | tool | 1 | 0.72
+2. harm-many-at-once + grants-another-option | item | 2 | 0.54
+3. grants-another-option | item | 1 | 0.57
+4. protect-a-group | item | 2 | 0.66
+5. sense-a-distant-place | magical | 2 | 0.48
+6. reshape-the-ground + harm-many-at-once | item | 2 | 0.56
+7. increase-attributes-or-health | manual | 1 | 0.38
+8. unclassified | manual | 1 | 0.3
+9. drain-life-to-sustain-yourself | item | 1 | 0.68
+10. enhance-a-weapon-s-bite | item | 1 | 0.61
+11. poison-a-foe | alchemical | 1 | 0.78
+12. resist-a-kind-of-harm | magical | 1 | 0.62
+13. sense-a-distant-place + locate-a-person-or-thing | magical | 4 | 0.5
+14. act-sooner-than-others + harm-many-at-once | magical | 2 | 0.52
+15. make-an-extradimensional-space | item | 1 | 0.6
+16. turn-an-attack-back | magical | 1 | 0.65
+17. make-light | tool | 1 | 0.42
+18. compound-a-substance | alchemical | 1 | 0.55
+19. poison-a-foe + conceal-an-object | manual | 1 | 0.58
+20. grants-another-option + increase-proficiency-or-defence | item | 1 | 0.47
+21. keep-a-bonded-creature | manual | 1 | 0.59
+22. bind-a-creature-in-place | magical | 1 | 0.45
+23. drain-life-to-sustain-yourself | magical | 1 | 0.64
+24. strike-a-distant-foe + poison-a-foe | magical | 1 | 0.63
+25. travel-overland + act-sooner-than-others | item | 2 | 0.53
