@@ -1,0 +1,25 @@
+1. obscure-an-area | magical | 2 | 0.42
+2. heal-a-body + exploit-a-known-weakness | item | 1 | 0.37
+3. obscure-an-area + harm-many-at-once | item | 2 | 0.47
+4. become-invisible + teleport-a-short-distance | item | 1 | 0.41
+5. improve-your-luck | item | 1 | 0.61
+6. increase-proficiency-or-defence | item | 1 | 0.72
+7. dull-a-foe-s-capability | magical | 1 | 0.5
+8. evade-magical-detection + obscure-an-area | item | 1 | 0.52
+9. direct-a-companion-in-battle + ride-a-mount | item | 1 | 0.44
+10. kill-outright | magical | 1 | 0.5
+11. sense-a-distant-place | magical | 1 | 0.48
+12. reposition-another-creature + bind-a-creature-in-place | magical | 1 | 0.4
+13. confuse-or-scramble-a-mind + grants-another-option | magical | 2 | 0.42
+14. shake-off-an-affliction + shrug-off-an-effect-you-failed-to-avoid | magical | 1 | 0.46
+15. harm-many-at-once + blind-or-deafen | magical | 2 | 0.56
+16. set-a-trap | technological | 1 | 0.35
+17. frighten | magical | 2 | 0.56
+18. strike-a-foe-in-reach | manual | 1 | 0.28
+19. identify-a-creature + track-a-creature | item | 1 | 0.4
+20. command-obedience | magical | 1 | 0.62
+21. curse-a-creature | alchemical | 1 | 0.45
+22. detect-a-kind-of-creature | alchemical | 1 | 0.7
+23. break-free-of-restraint | item | 1 | 0.4
+24. disguise-what-a-thing-is | magical | 2 | 0.6
+25. resist-a-kind-of-harm | magical | 1 | 0.5

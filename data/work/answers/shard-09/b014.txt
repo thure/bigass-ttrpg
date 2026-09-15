@@ -1,0 +1,25 @@
+1. bind-yourself-to-a-power | magical | 1 | 0.42
+2. harm-many-at-once | magical | 2 | 0.62
+3. strike-a-distant-foe | magical | 1 | 0.8
+4. kill-outright + harm-many-at-once | magical | 2 | 0.6
+5. harm-many-at-once | magical | 1 | 0.35
+6. frighten | magical | 1 | 0.55
+7. slow-a-foe | alchemical | 1 | 0.5
+8. increase-proficiency-or-defence | magical | 1 | 0.85
+9. unclassified | manual | 1 | 0.28
+10. hide-from-notice | magical | 1 | 0.68
+11. strike-a-distant-foe + blind-or-deafen | magical | 1 | 0.58
+12. harm-many-at-once | alchemical | 1 | 0.48
+13. craft-an-object | manual | 1 | 0.33
+14. pass-through-solid-matter | magical | 1 | 0.7
+15. speak-with-the-otherwise-mute | innate | 1 | 0.52
+16. gain-a-buffer-of-vitality | innate | 1 | 0.75
+17. improve-your-luck | magical | 1 | 0.82
+18. grants-another-option | magical | 1 | 0.45
+19. turn-an-attack-back | magical | 1 | 0.72
+20. adapt-your-body-to-a-place + survive-a-hostile-environment | innate | 1 | 0.64
+21. see-in-darkness | innate | 1 | 0.78
+22. grants-another-option | manual | 1 | 0.4
+23. grants-another-option | manual | 1 | 0.38
+24. grants-another-option | manual | 1 | 0.41
+25. resist-poison-and-disease | innate | 1 | 0.79

@@ -1,0 +1,25 @@
+1. kill-outright | item | 1 | 0.8
+2. frighten + dull-a-foe-s-capability | item | 1 | 0.55
+3. strike-a-distant-foe + condition-state | item | 1 | 0.5
+4. harm-many-at-once + dull-a-foe-s-capability | item | 1 | 0.52
+5. increase-proficiency-or-defence | item | 1 | 0.76
+6. seal-a-boundary + raise-a-structure | magical | 2 | 0.48
+7. call-a-creature-to-fight-for-you | item | 1 | 0.74
+8. act-sooner-than-others | item | 2 | 0.66
+9. gain-a-creature-s-trait | magical | 1 | 0.47
+10. enhance-a-weapon-s-bite | technological | 1 | 0.44
+11. raise-a-structure | magical | 2 | 0.72
+12. research-in-archives | magical | 1 | 0.4
+13. keep-the-dying-alive | alchemical | 1 | 0.61
+14. burrow-through-earth | innate | 1 | 0.78
+15. increase-proficiency-or-defence | innate | 1 | 0.46
+16. improve-what-a-companion-can-do | innate | 1 | 0.39
+17. tend-your-companion | innate | 1 | 0.43
+18. tend-your-companion | innate | 1 | 0.56
+19. improve-your-luck + impose-misfortune | innate | 1 | 0.51
+20. cross-resisting-ground | divine | 1 | 0.7
+21. grants-another-option | trained-skill | 1 | 0.57
+22. entry-into-an-archetype | trained-skill | 1 | 0.75
+23. entry-into-an-archetype | trained-skill | 1 | 0.71
+24. improve-what-a-companion-can-do | magical | 1 | 0.62
+25. inflict-a-lingering-wound | innate | 1 | 0.65
