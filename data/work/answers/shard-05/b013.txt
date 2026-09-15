@@ -1,0 +1,25 @@
+1. make-light + resist-a-kind-of-harm | alchemical | 1 | 0.5
+2. grants-another-option + cross-resisting-ground | magical | 1 | 0.45
+3. grants-another-option | magical | 1 | 0.4
+4. grants-another-option + see-through-obscurement | magical | 1 | 0.48
+5. harm-many-at-once + resist-a-kind-of-harm | magical | 2 | 0.62
+6. petrify-or-solidify | magical | 1 | 0.85
+7. frighten + harm-many-at-once | magical | 2 | 0.58
+8. resist-a-kind-of-harm | item | 1 | 0.42
+9. improve-what-a-companion-can-do | magical | 1 | 0.8
+10. disguise-your-appearance + recall-what-you-have-learned | magical | 1 | 0.6
+11. grants-another-option + increase-proficiency-or-defence | magical | 1 | 0.38
+12. reposition-another-creature + blind-or-deafen | magical | 1 | 0.55
+13. charm-into-friendship | psychic | 3 | 0.5
+14. improve-your-luck | magical | 1 | 0.82
+15. breach-a-locked-boundary + disable-a-device | tool | 1 | 0.78
+16. entry-into-an-archetype | item | 1 | 0.7
+17. step-outside-time | magical | 1 | 0.88
+18. increase-proficiency-or-defence | item | 1 | 0.75
+19. turn-an-attack-back + poison-a-foe | magical | 1 | 0.65
+20. tend-your-companion | item | 1 | 0.3
+21. grants-another-option + erase-your-trail | magical | 1 | 0.44
+22. destroy-an-object | magical | 1 | 0.52
+23. speak-with-the-otherwise-mute + grants-another-option | magical | 1 | 0.56
+24. obscure-an-area + dull-a-foe-s-capability | magical | 1 | 0.6
+25. track-a-creature | alchemical | 1 | 0.72

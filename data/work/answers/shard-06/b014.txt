@@ -1,0 +1,25 @@
+1. communicate-at-a-distance | technological | 1 | 0.65
+2. bind-a-creature-in-place | magical | 1 | 0.7
+3. detect-magic | magical | 1 | 0.85
+4. strike-a-distant-foe | magical | 1 | 0.6
+5. confuse-or-scramble-a-mind | magical | 1 | 0.66
+6. harm-many-at-once + destroy-an-object | magical | 2 | 0.45
+7. strike-with-overwhelming-force | magical | 1 | 0.4
+8. increase-proficiency-or-defence | item | 1 | 0.88
+9. strike-a-foe-in-reach | tool | 1 | 0.55
+10. resist-a-kind-of-harm + locate-a-person-or-thing | magical | 1 | 0.5
+11. fly | magical | 1 | 0.86
+12. call-a-creature-to-fight-for-you | magical | 1 | 0.68
+13. climb-a-vertical-surface | technological | 1 | 0.42
+14. increase-proficiency-or-defence | magical | 1 | 0.35
+15. see-in-darkness | innate | 1 | 0.83
+16. fly | innate | 1 | 0.82
+17. direct-a-companion-in-battle | innate | 1 | 0.38
+18. grants-another-option | innate | 1 | 0.3
+19. grants-another-option | innate | 1 | 0.28
+20. shrug-off-an-effect-you-failed-to-avoid + frighten | innate | 1 | 0.52
+21. increase-proficiency-or-defence | trained-skill | 1 | 0.58
+22. increase-proficiency-or-defence | innate | 1 | 0.62
+23. quiet-a-troubled-mind | trained-skill | 1 | 0.53
+24. specialise-in-a-tradition | magical | 1 | 0.48
+25. harm-many-at-once + reposition-another-creature | magical | 2 | 0.57

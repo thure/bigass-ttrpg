@@ -1,0 +1,25 @@
+1. poison-a-foe | alchemical | 2 | 0.53
+2. build-a-barrier + resist-a-kind-of-harm | magical | 1 | 0.35
+3. call-a-creature-to-fight-for-you | magical | 1 | 0.6
+4. mark-a-foe-as-vulnerable | magical | 1 | 0.57
+5. identify-magic + know-where-you-are | divine | 1 | 0.35
+6. call-a-creature-to-fight-for-you | magical | 1 | 0.65
+7. grants-another-option | manual | 1 | 0.3
+8. resist-a-kind-of-harm + make-darkness | magical | 2 | 0.5
+9. absorb-or-blunt-damage | magical | 1 | 0.52
+10. kill-outright + turn-or-rebuke-a-creature-type | divine | 1 | 0.5
+11. sense-a-distant-place | magical | 1 | 0.58
+12. resist-a-kind-of-harm + shake-off-an-affliction | magical | 2 | 0.5
+13. curse-a-creature + make-light | magical | 1 | 0.3
+14. become-hard-to-kill | magical | 1 | 0.7
+15. identify-magic + identify-a-creature | magical | 1 | 0.4
+16. enhance-a-weapon-s-bite | magical | 1 | 0.42
+17. grants-another-option | manual | 1 | 0.25
+18. increase-attributes-or-health | magical | 1 | 0.65
+19. track-a-creature + erase-your-trail | alchemical | 1 | 0.62
+20. disguise-your-appearance + become-invisible | magical | 1 | 0.35
+21. shrug-off-an-effect-you-failed-to-avoid + be-harder-to-hit | magical | 1 | 0.5
+22. locate-a-person-or-thing + gain-a-buffer-of-vitality | magical | 1 | 0.35
+23. move-faster + speak-with-the-otherwise-mute | magical | 1 | 0.38
+24. quiet-a-troubled-mind | alchemical | 1 | 0.48
+25. enhance-a-weapon-s-bite | magical | 1 | 0.6
