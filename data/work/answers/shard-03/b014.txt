@@ -1,0 +1,25 @@
+1. increase-attributes-or-health | magical | 1 | 0.6
+2. unclassified | tool | 1 | 0.2
+3. store-an-effect-for-later + provoke-a-foe-to-target-you | magical | 1 | 0.4
+4. create-a-persistent-zone | magical | 1 | 0.5
+5. put-to-sleep | magical | 1 | 0.55
+6. enhance-a-weapon-s-bite | alchemical | 1 | 0.4
+7. craft-an-object | item | 1 | 0.25
+8. know-where-you-are + grants-another-option | magical | 1 | 0.4
+9. set-a-trap + stop-a-foe-moving | item | 1 | 0.5
+10. communicate-at-a-distance | magical | 1 | 0.65
+11. fly | magical | 1 | 0.75
+12. call-a-creature-to-fight-for-you | magical | 1 | 0.55
+13. disable-a-device | tool | 1 | 0.55
+14. improve-what-a-companion-can-do | innate | 1 | 0.5
+15. improve-what-a-companion-can-do | innate | 1 | 0.3
+16. strike-a-binding-bargain | divine | 1 | 0.55
+17. strike-with-overwhelming-force | magical | 1 | 0.4
+18. improve-what-a-companion-can-do | innate | 2 | 0.4
+19. improve-what-a-companion-can-do | technological | 1 | 0.45
+20. speak-with-the-otherwise-mute | innate | 2 | 0.5
+21. stop-a-foe-moving | magical | 1 | 0.45
+22. grants-another-option | trained-skill | 1 | 0.35
+23. grants-another-option | magical | 1 | 0.35
+24. grants-another-option | magical | 1 | 0.35
+25. close-on-a-foe | magical | 1 | 0.5

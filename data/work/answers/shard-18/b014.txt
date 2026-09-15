@@ -1,0 +1,25 @@
+1. reposition-another-creature | magical | 2 | 0.5
+2. detect-a-kind-of-creature | magical | 1 | 0.5
+3. stop-a-foe-moving | magical | 1 | 0.75
+4. gain-a-buffer-of-vitality + frighten | magical | 1 | 0.5
+5. increase-proficiency-or-defence | magical | 1 | 0.6
+6. resist-a-kind-of-harm | magical | 1 | 0.35
+7. resist-a-kind-of-harm | item | 1 | 0.3
+8. increase-proficiency-or-defence | item | 1 | 0.8
+9. reposition-another-creature + protect-a-group | magical | 1 | 0.5
+10. enhance-a-weapon-s-bite | technological | 1 | 0.35
+11. enhance-a-weapon-s-bite | magical | 1 | 0.5
+12. craft-an-object | magical | 5 | 0.5
+13. grants-another-option | item | 1 | 0.4
+14. share-power-with-a-bonded-creature | magical | 1 | 0.5
+15. improve-what-a-companion-can-do | magical | 1 | 0.7
+16. improve-what-a-companion-can-do | innate | 1 | 0.55
+17. improve-what-a-companion-can-do | magical | 1 | 0.35
+18. gather-information-from-people | innate | 1 | 0.5
+19. improve-what-a-companion-can-do | magical | 1 | 0.5
+20. ride-a-mount | innate | 1 | 0.45
+21. grants-another-option | innate | 1 | 0.5
+22. grants-another-option | trained-skill | 1 | 0.55
+23. grants-another-option | magical | 1 | 0.55
+24. grants-another-option | magical | 1 | 0.55
+25. increase-proficiency-or-defence | trained-skill | 1 | 0.5
