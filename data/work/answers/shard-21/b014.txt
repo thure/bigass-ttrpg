@@ -1,0 +1,25 @@
+1. poison-a-foe | alchemical | 1 | 0.7
+2. exploit-a-known-weakness | magical | 1 | 0.4
+3. poison-a-foe | magical | 1 | 0.68
+4. gain-a-buffer-of-vitality + frighten | magical | 1 | 0.6
+5. increase-proficiency-or-defence | magical | 1 | 0.75
+6. disguise-your-appearance | magical | 1 | 0.72
+7. secure-shelter-and-supply | tool | 1 | 0.5
+8. grants-another-option | alchemical | 1 | 0.5
+9. lie-convincingly + guard-your-mind | magical | 1 | 0.55
+10. bind-a-creature-in-place | magical | 2 | 0.55
+11. create-a-persistent-zone | magical | 1 | 0.55
+12. call-a-creature-to-fight-for-you | alchemical | 1 | 0.55
+13. gain-an-extra-action | magical | 2 | 0.65
+14. resist-a-kind-of-harm | magical | 1 | 0.4
+15. confuse-or-scramble-a-mind + slow-a-foe | magical | 1 | 0.6
+16. blind-or-deafen | magical | 1 | 0.68
+17. poison-a-foe | alchemical | 1 | 0.55
+18. speak-with-the-otherwise-mute | innate | 1 | 0.6
+19. confuse-or-scramble-a-mind | innate | 2 | 0.55
+20. exploit-a-known-weakness | manual | 1 | 0.55
+21. gain-followers | social | 1 | 0.75
+22. grants-another-option | trained-skill | 1 | 0.55
+23. expand-a-resource-pool | trained-skill | 1 | 0.6
+24. interpose-yourself-for-another + harm-many-at-once | divine | 2 | 0.55
+25. grants-another-option | manual | 1 | 0.5

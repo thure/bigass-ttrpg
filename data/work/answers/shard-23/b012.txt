@@ -1,0 +1,25 @@
+1. disable-a-device + set-a-trap | magical | 2 | 0.45
+2. turn-an-attack-back | magical | 1 | 0.65
+3. strike-a-distant-foe + reposition-another-creature | magical | 1 | 0.55
+4. cross-resisting-ground | magical | 1 | 0.42
+5. secure-shelter-and-supply | manual | 1 | 0.3
+6. secure-shelter-and-supply | manual | 1 | 0.28
+7. move-faster + increase-attributes-or-health | magical | 1 | 0.5
+8. shrug-off-an-effect-you-failed-to-avoid | magical | 1 | 0.6
+9. conceal-an-object | magical | 1 | 0.4
+10. poison-a-foe | magical | 1 | 0.6
+11. kill-outright + conceal-a-place | magical | 1 | 0.4
+12. resist-a-kind-of-harm + turn-an-attack-back | magical | 1 | 0.55
+13. reshape-the-ground | tool | 1 | 0.45
+14. track-a-creature | technological | 1 | 0.5
+15. call-a-creature-to-fight-for-you + communicate-at-a-distance | magical | 1 | 0.5
+16. turn-or-rebuke-a-creature-type | magical | 1 | 0.45
+17. communicate-at-a-distance | magical | 4 | 0.45
+18. obscure-an-area | alchemical | 1 | 0.6
+19. increase-proficiency-or-defence | magical | 1 | 0.45
+20. curse-a-creature + change-your-nature | magical | 1 | 0.5
+21. strike-a-distant-foe + inflict-a-lingering-wound | magical | 1 | 0.55
+22. store-an-effect-for-later | magical | 1 | 0.5
+23. kill-outright + destroy-an-object | magical | 2 | 0.4
+24. bind-a-creature-in-place | technological | 1 | 0.55
+25. move-faster | technological | 1 | 0.6

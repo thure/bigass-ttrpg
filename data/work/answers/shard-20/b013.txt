@@ -1,0 +1,25 @@
+1. see-through-deception + blind-or-deafen | magical | 1 | 0.42
+2. heal-a-body | magical | 1 | 0.71
+3. raise-or-command-the-dead | magical | 1 | 0.55
+4. shake-off-an-affliction | magical | 1 | 0.52
+5. move-faster | magical | 1 | 0.33
+6. strike-a-distant-foe + slow-a-foe | magical | 1 | 0.58
+7. disguise-what-a-thing-is | tool | 1 | 0.6
+8. conceal-an-object | tool | 1 | 0.63
+9. inflict-a-lingering-wound | magical | 1 | 0.68
+10. call-a-creature-to-fight-for-you | magical | 1 | 0.61
+11. go-without-necessities + resist-poison-and-disease | magical | 1 | 0.57
+12. teleport-a-short-distance | magical | 1 | 0.4
+13. communicate-at-a-distance + shrug-off-an-effect-you-failed-to-avoid | magical | 1 | 0.38
+14. harm-many-at-once | magical | 2 | 0.54
+15. poison-a-foe + inflict-a-lingering-wound | magical | 1 | 0.47
+16. attack-more-often + enhance-a-weapon-s-bite | magical | 1 | 0.36
+17. see-through-obscurement | magical | 1 | 0.59
+18. make-light | item | 1 | 0.72
+19. travel-overland | manual | 2 | 0.49
+20. move-through-water + survive-a-hostile-environment | magical | 2 | 0.5
+21. make-light + negate-an-effect-outright | magical | 1 | 0.53
+22. bind-yourself-to-a-power + increase-attributes-or-health | magical | 1 | 0.31
+23. cure-poison-or-disease | alchemical | 1 | 0.62
+24. lie-convincingly | magical | 1 | 0.56
+25. heal-a-body + restore-a-diminished-capacity | technological | 1 | 0.39

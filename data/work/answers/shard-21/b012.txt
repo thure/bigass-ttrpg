@@ -1,0 +1,25 @@
+1. lie-convincingly | magical | 1 | 0.7
+2. store-an-effect-for-later | magical | 1 | 0.75
+3. reposition-another-creature + destroy-an-object | magical | 1 | 0.65
+4. reposition-another-creature | magical | 1 | 0.75
+5. bind-a-creature-in-place | magical | 1 | 0.8
+6. breach-a-locked-boundary | magical | 3 | 0.42
+7. identify-a-creature | magical | 1 | 0.55
+8. shrug-off-an-effect-you-failed-to-avoid | magical | 1 | 0.72
+9. set-a-trap | tool | 1 | 0.78
+10. quiet-a-troubled-mind | alchemical | 1 | 0.6
+11. grants-another-option | magical | 1 | 0.45
+12. grants-another-option | tool | 1 | 0.4
+13. sense-a-distant-place | magical | 2 | 0.6
+14. communicate-at-a-distance | tool | 1 | 0.55
+15. harm-many-at-once + obscure-an-area | alchemical | 1 | 0.62
+16. interpose-yourself-for-another | magical | 1 | 0.55
+17. enhance-a-weapon-s-bite | divine | 1 | 0.4
+18. obscure-an-area + poison-a-foe | magical | 2 | 0.6
+19. craft-an-object | tool | 1 | 0.7
+20. enhance-a-weapon-s-bite | magical | 1 | 0.4
+21. enhance-a-weapon-s-bite + turn-an-attack-back | magical | 1 | 0.58
+22. store-an-effect-for-later | magical | 1 | 0.65
+23. harm-many-at-once | magical | 1 | 0.6
+24. call-a-creature-to-fight-for-you + change-your-own-shape | magical | 1 | 0.55
+25. grants-another-option | magical | 1 | 0.35

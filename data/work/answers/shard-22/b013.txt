@@ -1,0 +1,25 @@
+1. keep-a-bonded-creature | manual | 1 | 0.32
+2. extend-your-senses + grants-another-option | magical | 1 | 0.5
+3. grants-another-option + increase-proficiency-or-defence | magical | 1 | 0.48
+4. inspire-allies + coerce-through-threat | magical | 2 | 0.55
+5. walk-on-unstable-footing | magical | 1 | 0.65
+6. fly + harm-many-at-once | technological | 2 | 0.505
+7. poison-a-foe | alchemical | 1 | 0.6
+8. know-where-you-are + recall-what-you-have-learned | item | 1 | 0.45
+9. dull-a-foe-s-capability + protect-a-group | divine | 2 | 0.42
+10. slow-a-foe | alchemical | 1 | 0.68
+11. strike-a-distant-foe + mark-a-foe-as-vulnerable | alchemical | 1 | 0.52
+12. act-sooner-than-others + improve-your-luck | magical | 1 | 0.58
+13. grow-or-shrink + increase-proficiency-or-defence | magical | 1 | 0.56
+14. conjure-a-temporary-tool | magical | 1 | 0.75
+15. inflict-a-lingering-wound | magical | 1 | 0.54
+16. strike-a-distant-foe + harm-many-at-once | magical | 2 | 0.47
+17. poison-a-foe + absorb-or-blunt-damage | alchemical | 1 | 0.49
+18. make-light | item | 1 | 0.8
+19. travel-overland | item | 2 | 0.44
+20. strike-a-foe-in-reach + dull-a-foe-s-capability | magical | 1 | 0.51
+21. turn-an-attack-back | item | 1 | 0.7
+22. extend-your-senses + carry-a-burden | magical | 1 | 0.46
+23. gain-a-buffer-of-vitality + increase-proficiency-or-defence | magical | 1 | 0.53
+24. bind-a-creature-in-place | magical | 1 | 0.62
+25. command-the-weather + increase-proficiency-or-defence | magical | 3 | 0.43
