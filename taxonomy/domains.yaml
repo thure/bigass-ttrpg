@@ -74,6 +74,11 @@
   name: Identity and origin
   blurb: Who the character is and where they came from, as a source of capability.
 
+- id: state
+  name: Conditions and states
+  blurb: A status a creature or army can be in. Produced by abilities rather than used
+    by a character, so it is the vocabulary of effects rather than a capability itself.
+
 - id: bookkeeping
   name: Character bookkeeping (non-narrative)
   blurb: Proficiency ranks, attribute boosts, slot counts. No fictional content.

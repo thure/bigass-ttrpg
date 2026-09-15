@@ -58,3 +58,44 @@ Read the taxonomy brief once. Then work through your shard in batches of about 5
 lines (`sed -n '1,50p' <shard>`), appending results to your output file after each
 batch. Do not read the whole shard into memory at once. Check your line count against
 the shard's as you go, and report the final count when done.
+
+## Mistakes seen in earlier runs
+
+- **Do not classify by the promise, classify by the delivery.** An ability whose text
+  says "your next Strike is a critical hit" is `strike-with-overwhelming-force`, not
+  `improve-your-luck` — no luck is involved, the outcome is bought outright. Reserve
+  `improve-your-luck` for rerolls, advantage and fortune effects.
+- **Downtime and settlement activities belong to `society`.** Kingdom, camp, army and
+  between-adventure activities ("Clear Hex", "Cram", "Organize Watch") usually map to
+  `run-a-long-project`, `secure-shelter-and-supply` or `lead-an-organisation` — not to
+  the physical function their flavour text describes.
+- **Do not over-reach for `psychic`.** Use it only when the text is explicitly mental,
+  telepathic or psychic. A monk or fighter technique is `manual`; a class feature with
+  no stated source is `innate`.
+- **`scope_tier` is about reach, not power.** A 20th-level ability that hits one
+  creature is still tier 1. Tier 5 means a region, a plane, or a permanent change to
+  the world.
+
+## `unclassified` is a last resort
+
+The taxonomy has 227 slugs and is meant to cover everything. Reach for `unclassified`
+only when you genuinely cannot see any slug that fits — not when the entry is merely
+vague, flavourful or hard to pin down. If several slugs are arguable, pick the best one
+and lower `confidence`; a 0.4-confidence guess is far more useful than an abstention,
+because low-confidence rows can be reviewed in bulk and abstentions cannot.
+
+Routing for the categories that cause most hesitation:
+
+| category | usually maps to |
+|---|---|
+| `domain`, `arcane-school`, `mystery`, `bloodline`, `lesson`, `implement` | `specialise-in-a-tradition`, or the concrete capability if one is stated |
+| `patron` | `bind-yourself-to-a-power` |
+| `background` | `claim-a-past-vocation`, or `belong-to-an-order` / `gain-access-to-closed-circles` |
+| `heritage` | `claim-a-lineage`, unless a specific capability dominates |
+| `eidolon`, `animal-companion`, `familiar-ability` | the `companions` domain |
+| `condition` | `condition-state` |
+| `hazard` | `set-a-trap` for built traps; otherwise the harm or barrier function it performs |
+| `archetype` | `entry-into-an-archetype` for dedications; otherwise the capability |
+
+An entry whose text is purely thematic and grants nothing concrete still belongs to the
+theme it establishes — that is what the `identity` domain is for.

@@ -34,11 +34,33 @@ GRADE = re.compile(
     re.I,
 )
 
-BODY_CHARS = 1100
+BODY_CHARS = 1500
 
 
 def clean(text):
     return re.sub(r"\s+", " ", (text or "")).strip()
+
+
+def entry_text(name, summary, body):
+    """Build the text the classifier sees.
+
+    AoN truncates `summary` at ~300 characters with an ellipsis -- 9,370 rows, a third
+    of the corpus -- and for many categories the flavour runs the whole length, so the
+    actual effect only exists in `body`. Preferring summary there fed classifiers
+    flavour with the mechanics cut off, and they (correctly) refused to classify it.
+    So: use the body, minus AoN's stat-block header, and only prepend the summary when
+    it is complete and adds something.
+    """
+    b = clean(body)
+    if " --- " in b:                       # the header ends at the first rule
+        b = b.split(" --- ", 1)[1]
+    else:
+        b = re.sub(r"^" + re.escape(name) + r"\b\s*(?:Source\b.{0,90}?pg\.\s*\d+)?\s*",
+                   "", b, count=1, flags=re.I)
+    s = clean(summary)
+    if s and "…" not in s and not b.lower().startswith(s[:40].lower()):
+        return f"{s} {b}".strip()
+    return (b or s).strip()
 
 
 def main():
@@ -99,10 +121,7 @@ def main():
         old.unlink()
     handles = [(shard_dir / f"shard-{i:02d}.jsonl").open("w") for i in range(args.shards)]
     for i, r in enumerate(todo):
-        summary, body = clean(r["summary"]), clean(r["body"])
-        text = summary if len(summary) > 60 else (body[:BODY_CHARS] or summary)
-        if summary and body and len(summary) <= 60:
-            text = f"{summary} {body[:BODY_CHARS]}"
+        text = entry_text(r["name"], r["summary"], r["body"])
         handles[i % args.shards].write(json.dumps({
             "id": r["id"],
             "system": r["system"],

@@ -1334,6 +1334,16 @@
   test: A declared area of magical or martial specialisation.
   examples: [Evocation school, Lore mystery, Chalice implement, Lesson of Life]
 
+# ---------------------------------------------------------------- state
+- id: condition-state
+  domain: state
+  name: A condition a creature can be in
+  test: >
+    Defines a status rather than granting a capability -- the thing an affliction
+    produces, looked up rather than used. Prefer the matching `affliction` function
+    for anything that *imposes* the state.
+  examples: [Blinded, Clumsy, Paralyzed, Unconscious, Fortified, Pinned]
+
 # ---------------------------------------------- non-narrative parking buckets
 - id: increase-proficiency-or-defence
   domain: bookkeeping
