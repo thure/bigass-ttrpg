@@ -22,28 +22,67 @@ import sys
 ROOT = pathlib.Path(__file__).resolve().parent.parent
 ANSWERS = ROOT / "data/work/answers"
 
+# Calibrated against a verified-good shard and one that failed the gate. Line
+# repetition alone misses the common case: an agent that varies the slug but keeps
+# one mechanism and two or three confidence values, producing batch after batch with
+# identical summary statistics. Good batches of 25 show 5-6 mechanisms and 9-11
+# confidence values; templated ones collapse to 2 and 3.
 MAX_IDENTICAL = 8      # of 25 lines; a read batch never repeats one answer this often
 MIN_SLUGS = 6          # distinct slugs within a 25-entry batch
+MIN_MECHS = 3          # distinct mechanisms within a full batch
+MIN_CONFS = 4          # distinct confidence values within a full batch
 
 
 def grade(path):
     lines = [l.strip() for l in path.read_text().splitlines() if l.strip()]
-    bodies, slugs = [], []
+    bodies, slugs, mechs, confs = [], [], [], []
     for l in lines:
         if "." not in l:
             continue
         body = l.split(".", 1)[1].strip()
         bodies.append(body)
-        slugs.append(body.split("|")[0].strip())
+        parts = [x.strip() for x in body.split("|")]
+        slugs.append(parts[0])
+        if len(parts) > 1:
+            mechs.append(parts[1])
+        if len(parts) > 3:
+            confs.append(parts[3])
     if not bodies:
         return "empty", 0, 0
     top_identical = collections.Counter(bodies).most_common(1)[0][1]
     distinct = len(set(slugs))
+    full = len(bodies) >= 20
     if top_identical >= MAX_IDENTICAL:
         return "templated", top_identical, distinct
-    if distinct < MIN_SLUGS and len(bodies) >= 20:
+    if full and distinct < MIN_SLUGS:
         return "low-variety", top_identical, distinct
+    # One weak signal is not enough. An all-equipment batch legitimately uses `item`
+    # for all 25 entries while showing 21 distinct slugs and varied confidence -- that
+    # is careful reading of a homogeneous category, not a template. Require both the
+    # mechanism and the confidence axis to collapse together.
+    if full and len(set(mechs)) < MIN_MECHS and len(set(confs)) < MIN_CONFS:
+        return f"flat({len(set(mechs))}mech/{len(set(confs))}conf)", top_identical, distinct
     return "ok", top_identical, distinct
+
+
+def fingerprint(path):
+    """(entries, distinct slugs, distinct mechanisms, distinct confidences).
+
+    A reused template produces the same fingerprint batch after batch; genuine
+    reading does not repeat its own summary statistics exactly.
+    """
+    lines = [l.strip() for l in path.read_text().splitlines() if l.strip() and "|" in l]
+    slugs, mechs, confs = set(), set(), set()
+    for l in lines:
+        if "." not in l:
+            continue
+        parts = [x.strip() for x in l.split(".", 1)[1].split("|")]
+        slugs.add(parts[0])
+        if len(parts) > 1:
+            mechs.add(parts[1])
+        if len(parts) > 3:
+            confs.add(parts[3])
+    return (len(lines), len(slugs), len(mechs), len(confs))
 
 
 def main():
@@ -57,6 +96,10 @@ def main():
     for d in dirs:
         bad = []
         files = sorted(d.glob("*.txt"))
+
+        # A fingerprint-collision rule was tried here and removed: four summary
+        # integers collide naturally across 33 batches, so it flagged 24 of a
+        # verified-good shard. Per-batch signals only.
         for f in files:
             verdict, ident, distinct = grade(f)
             if verdict != "ok":

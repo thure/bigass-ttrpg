@@ -36,6 +36,12 @@ Scripts are correct and welcome for everything that is *not* judgment: fetching,
 parsing, sharding, loading, validating, reporting. The dividing line is whether the
 output depends on understanding what a sentence means.
 
+## Resuming after a stop
+
+`HANDOFF.md` has the full state and the rebuild commands. Progress is filesystem
+state: `next_batch.py` reads which answer files exist, so a fresh agent always resumes
+at the first unanswered batch.
+
 ## Tools for classification work
 
 | tool | what it does |
