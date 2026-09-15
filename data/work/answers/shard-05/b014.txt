@@ -1,0 +1,25 @@
+1. inflict-a-lingering-wound + dull-a-foe-s-capability | magical | 1 | 0.55
+2. bind-a-creature-in-place + break-free-of-restraint | magical | 1 | 0.62
+3. harm-many-at-once | magical | 2 | 0.7
+4. notice-what-is-hidden | magical | 1 | 0.6
+5. read-or-enter-a-mind | magical | 1 | 0.8
+6. ride-a-mount | tool | 1 | 0.72
+7. craft-an-object | item | 1 | 0.3
+8. increase-proficiency-or-defence | item | 1 | 0.92
+9. trade-and-bargain | item | 1 | 0.25
+10. learn-a-place-or-object-s-past + extend-your-senses | divine | 3 | 0.58
+11. resist-a-kind-of-harm | magical | 1 | 0.65
+12. keep-a-bonded-creature | magical | 1 | 0.5
+13. climb-a-vertical-surface | tool | 1 | 0.55
+14. compound-a-substance | alchemical | 1 | 0.4
+15. recover-on-your-own | innate | 1 | 0.45
+16. grants-another-option | innate | 1 | 0.35
+17. compound-a-substance | alchemical | 1 | 0.5
+18. heal-a-body | innate | 1 | 0.85
+19. grants-another-option | innate | 1 | 0.3
+20. increase-proficiency-or-defence | innate | 1 | 0.9
+21. entry-into-an-archetype | trained-skill | 1 | 0.78
+22. grants-another-option | social | 1 | 0.68
+23. grants-another-option + increase-proficiency-or-defence | trained-skill | 1 | 0.52
+24. specialise-in-a-tradition | magical | 1 | 0.6
+25. increase-proficiency-or-defence | trained-skill | 1 | 0.42

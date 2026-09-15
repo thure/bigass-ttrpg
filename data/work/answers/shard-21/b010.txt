@@ -1,0 +1,25 @@
+1. heal-many-at-once + harm-many-at-once | divine | 2 | 0.72
+2. grow-or-wither-plants + harm-many-at-once | alchemical | 1 | 0.58
+3. poison-a-foe | alchemical | 1 | 0.5
+4. build-a-barrier + absorb-or-blunt-damage | magical | 2 | 0.75
+5. disguise-what-a-thing-is | item | 1 | 0.48
+6. shake-off-an-affliction | magical | 1 | 0.62
+7. kill-outright | magical | 1 | 0.78
+8. numeric-variant | magical | 1 | 0.85
+9. ward-an-area | technological | 2 | 0.65
+10. harm-many-at-once + enhance-a-weapon-s-bite | magical | 2 | 0.68
+11. heal-a-body | magical | 1 | 0.8
+12. protect-a-group | magical | 2 | 0.72
+13. enhance-a-weapon-s-bite | magical | 1 | 0.7
+14. increase-attributes-or-health | magical | 1 | 0.88
+15. track-a-creature + set-a-trap | tool | 1 | 0.6
+16. evade-magical-detection | magical | 1 | 0.75
+17. read-or-enter-a-mind | magical | 1 | 0.82
+18. turn-an-attack-back + teleport-a-short-distance | magical | 1 | 0.5
+19. alter-belief-or-memory + drain-life-to-sustain-yourself | psychic | 1 | 0.55
+20. see-through-obscurement | magical | 1 | 0.52
+21. guard-your-mind | magical | 1 | 0.65
+22. shake-off-an-affliction | alchemical | 1 | 0.7
+23. make-light + negate-an-effect-outright | magical | 2 | 0.58
+24. enhance-a-weapon-s-bite | magical | 1 | 0.5
+25. earn-trust-under-false-pretences | magical | 1 | 0.55
