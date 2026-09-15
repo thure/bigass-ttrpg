@@ -54,10 +54,31 @@ Append one JSON object per input line to your output file, in input order:
 
 ## How to work
 
-Read the taxonomy brief once. Then work through your shard in batches of about 50
-lines (`sed -n '1,50p' <shard>`), appending results to your output file after each
-batch. Do not read the whole shard into memory at once. Check your line count against
-the shard's as you go, and report the final count when done.
+**Do not write a program to do this.** Not a Python script, not regex, not keyword
+matching, not a lookup table. This task is judgment about meaning, and a keyword
+matcher cannot do it — an earlier run tried, and classified a document-forgery feat as
+`fly` and a web trap as `move-faster`, because it matched strings instead of reading.
+If you catch yourself writing a classifier, stop: the classifier is you.
+
+You will know you are doing it right if your `confidence` values vary continuously
+across the whole range. An output where every row is 0.9 or 0.85 is the signature of a
+script, not of reading.
+
+Work like this:
+
+1. Read the taxonomy brief once, in full.
+2. Read the next **25** shard lines with `sed -n 'START,ENDp' <shard>`.
+3. For each entry, actually read its `text` and decide what it does in the fiction.
+   Consult the brief for the slug — scroll back to it as often as you need; 227 slugs
+   will not stay in your head, and guessing from memory is how runs collapse onto a
+   handful of over-used slugs.
+4. Append those 25 result lines to your output file.
+5. Repeat until the shard is done.
+
+Every ~100 entries, look back at what you have written. If one slug is dominating, or
+most of your mechanisms are the same value, you have drifted into pattern-matching —
+re-read the brief and correct course. Check your output line count against the input
+line count before finishing, and report both.
 
 ## Mistakes seen in earlier runs
 
@@ -99,3 +120,17 @@ Routing for the categories that cause most hesitation:
 
 An entry whose text is purely thematic and grants nothing concrete still belongs to the
 theme it establishes — that is what the `identity` domain is for.
+
+## Grade yourself as you go
+
+After roughly every 200 entries, run:
+
+```sh
+.venv/bin/python scripts/qa_shard.py <NN> --partial
+```
+
+It prints your slug diversity, your top slug's share, how many distinct confidence
+values you have used, and your mechanism spread — and it fails you on exactly the
+drift that ruined the earlier run. If it reports FAIL, do not keep going: re-read the
+taxonomy brief and redo the batches that drifted. A shard that ends in FAIL is
+discarded, so catching it at entry 200 saves the other 600.
