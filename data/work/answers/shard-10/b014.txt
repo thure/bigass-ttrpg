@@ -1,0 +1,25 @@
+1. sense-a-distant-place + frighten | magical | 1 | 0.4
+2. harm-many-at-once + inflict-a-lingering-wound | magical | 2 | 0.42
+3. heal-a-body + quiet-a-troubled-mind | magical | 1 | 0.5
+4. kill-outright + harm-many-at-once | magical | 1 | 0.55
+5. dull-a-foe-s-capability | magical | 2 | 0.25
+6. harm-many-at-once + destroy-an-object | magical | 2 | 0.35
+7. increase-proficiency-or-defence | magical | 1 | 0.6
+8. increase-proficiency-or-defence | magical | 1 | 0.7
+9. cross-resisting-ground | tool | 1 | 0.5
+10. command-the-weather | magical | 1 | 0.38
+11. cross-resisting-ground | alchemical | 1 | 0.68
+12. craft-an-object | tool | 1 | 0.55
+13. drain-vitality-lastingly + call-a-creature-to-fight-for-you | magical | 1 | 0.35
+14. improve-what-a-companion-can-do | magical | 1 | 0.52
+15. improve-what-a-companion-can-do | magical | 1 | 0.3
+16. improve-what-a-companion-can-do | magical | 1 | 0.3
+17. detect-magic | magical | 1 | 0.45
+18. improve-what-a-companion-can-do | trained-skill | 1 | 0.5
+19. improve-what-a-companion-can-do | innate | 1 | 0.48
+20. inflict-a-lingering-wound | innate | 1 | 0.55
+21. absorb-or-blunt-damage | innate | 1 | 0.62
+22. grants-another-option | trained-skill | 1 | 0.75
+23. grants-another-option | trained-skill | 1 | 0.75
+24. strike-with-overwhelming-force | magical | 1 | 0.45
+25. act-sooner-than-others | trained-skill | 1 | 0.3

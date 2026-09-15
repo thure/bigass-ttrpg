@@ -1,0 +1,25 @@
+1. enhance-a-weapon-s-bite | tool | 1 | 0.55
+2. silence-magic | magical | 1 | 0.48
+3. obscure-an-area + mark-a-foe-as-vulnerable | magical | 1 | 0.52
+4. confuse-or-scramble-a-mind + guard-your-mind | magical | 1 | 0.38
+5. earn-income | tool | 1 | 0.42
+6. poison-a-foe | alchemical | 1 | 0.75
+7. kill-outright + frighten | magical | 1 | 0.6
+8. increase-proficiency-or-defence | magical | 1 | 0.8
+9. impose-misfortune | magical | 1 | 0.53
+10. negate-an-effect-outright | magical | 1 | 0.65
+11. resist-a-kind-of-harm + mark-a-foe-as-vulnerable | technological | 2 | 0.41
+12. extend-your-senses | magical | 1 | 0.57
+13. command-obedience | magical | 1 | 0.47
+14. increase-attributes-or-health | magical | 1 | 0.72
+15. earn-income | tool | 1 | 0.4
+16. survive-a-hostile-environment + put-to-sleep | magical | 1 | 0.46
+17. improve-your-luck + increase-proficiency-or-defence | magical | 1 | 0.33
+18. grants-another-option | magical | 1 | 0.44
+19. strike-a-distant-foe + command-obedience | technological | 1 | 0.58
+20. speak-with-the-otherwise-mute | magical | 1 | 0.5
+21. strike-a-distant-foe + absorb-or-blunt-damage | magical | 1 | 0.43
+22. act-sooner-than-others + shrug-off-an-effect-you-failed-to-avoid | magical | 1 | 0.36
+23. open-a-portal | magical | 2 | 0.7
+24. shrug-off-an-effect-you-failed-to-avoid | magical | 1 | 0.62
+25. cure-poison-or-disease | magical | 1 | 0.51

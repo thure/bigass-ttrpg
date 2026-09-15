@@ -1,0 +1,25 @@
+1. hide-from-notice + frighten | innate | 1 | 0.6
+2. shrug-off-an-effect-you-failed-to-avoid | psychic | 1 | 0.4
+3. heal-a-body + enhance-a-weapon-s-bite | divine | 1 | 0.62
+4. numeric-variant | innate | 1 | 0.5
+5. entry-into-an-archetype + keep-a-bonded-creature | trained-skill | 1 | 0.7
+6. shrug-off-an-effect-you-failed-to-avoid | magical | 1 | 0.45
+7. climb-a-vertical-surface + move-through-water | innate | 1 | 0.75
+8. grants-another-option | trained-skill | 1 | 0.35
+9. change-your-own-shape + harm-many-at-once | divine | 1 | 0.58
+10. grants-another-option | psychic | 1 | 0.35
+11. protect-a-group | divine | 2 | 0.65
+12. recall-what-you-have-learned + resist-a-kind-of-harm | trained-skill | 1 | 0.5
+13. fight-as-a-unit | trained-skill | 1 | 0.75
+14. grants-another-option | magical | 1 | 0.42
+15. grants-another-option | trained-skill | 1 | 0.48
+16. grants-another-option + improve-what-a-companion-can-do | magical | 1 | 0.52
+17. strike-a-foe-in-reach + bind-a-creature-in-place | innate | 1 | 0.68
+18. improve-what-a-companion-can-do | magical | 1 | 0.8
+19. strike-a-distant-foe + bind-a-creature-in-place | divine | 1 | 0.66
+20. harm-many-at-once + gain-an-extra-action | magical | 2 | 0.6
+21. grants-another-option | magical | 1 | 0.38
+22. move-faster | innate | 1 | 0.78
+23. grants-another-option | social | 1 | 0.3
+24. grants-another-option | technological | 1 | 0.44
+25. undo-what-has-happened | magical | 4 | 0.72

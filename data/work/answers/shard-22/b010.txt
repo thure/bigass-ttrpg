@@ -1,0 +1,25 @@
+1. communicate-at-a-distance | divine | 1 | 0.48
+2. resist-a-kind-of-harm | magical | 1 | 0.68
+3. poison-a-foe | alchemical | 1 | 0.82
+4. mark-a-foe-as-vulnerable | magical | 1 | 0.42
+5. seal-a-boundary | item | 1 | 0.58
+6. gain-a-buffer-of-vitality + increase-proficiency-or-defence | magical | 1 | 0.53
+7. strike-a-foe-in-reach + kill-outright | magical | 1 | 0.47
+8. numeric-variant | magical | 1 | 0.85
+9. resist-poison-and-disease + cure-poison-or-disease | alchemical | 1 | 0.55
+10. strike-a-distant-foe | alchemical | 1 | 0.6
+11. numeric-variant | magical | 1 | 0.62
+12. harm-many-at-once | magical | 2 | 0.65
+13. strike-a-foe-in-reach | magical | 1 | 0.5
+14. craft-an-object | magical | 1 | 0.44
+15. command-obedience + increase-proficiency-or-defence | magical | 2 | 0.57
+16. see-in-darkness | magical | 1 | 0.52
+17. read-or-enter-a-mind | magical | 1 | 0.78
+18. improve-your-luck | magical | 1 | 0.46
+19. break-free-of-restraint + grow-or-shrink | magical | 1 | 0.56
+20. divine-an-answer + increase-proficiency-or-defence | divine | 1 | 0.49
+21. strike-a-distant-foe + mark-a-foe-as-vulnerable | alchemical | 1 | 0.51
+22. lift-a-curse | magical | 1 | 0.6
+23. locate-a-person-or-thing | magical | 1 | 0.72
+24. numeric-variant + improve-your-luck | magical | 1 | 0.54
+25. exploit-a-known-weakness + strike-a-distant-foe | magical | 1 | 0.59

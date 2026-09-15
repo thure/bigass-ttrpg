@@ -1,0 +1,25 @@
+1. see-in-darkness | innate | 1 | 0.75
+2. improve-your-luck | innate | 1 | 0.65
+3. expand-a-resource-pool | psychic | 1 | 0.5
+4. cross-resisting-ground | innate | 1 | 0.3
+5. call-a-creature-to-fight-for-you | innate | 1 | 0.55
+6. expand-a-resource-pool | divine | 1 | 0.45
+7. see-in-darkness + see-through-deception | magical | 1 | 0.45
+8. increase-proficiency-or-defence + enhance-a-weapon-s-bite | trained-skill | 1 | 0.35
+9. inscribe-a-lasting-mark | magical | 1 | 0.45
+10. teleport-a-short-distance | innate | 1 | 0.55
+11. protect-a-group | divine | 2 | 0.5
+12. turn-an-attack-back | magical | 1 | 0.35
+13. increase-proficiency-or-defence | trained-skill | 1 | 0.5
+14. grants-another-option | magical | 1 | 0.4
+15. specialise-in-a-tradition | magical | 1 | 0.4
+16. grants-another-option | magical | 1 | 0.4
+17. locate-a-person-or-thing | magical | 1 | 0.5
+18. reposition-another-creature | magical | 2 | 0.45
+19. improve-what-a-companion-can-do + reposition-another-creature | innate | 1 | 0.4
+20. strike-a-distant-foe | innate | 1 | 0.5
+21. notice-what-is-hidden | trained-skill | 1 | 0.4
+22. entry-into-an-archetype | magical | 1 | 0.45
+23. harm-many-at-once | alchemical | 1 | 0.4
+24. perceive-the-incorporeal + increase-attributes-or-health | magical | 1 | 0.4
+25. exploit-a-known-weakness | trained-skill | 1 | 0.55

@@ -1,0 +1,25 @@
+1. imprison-a-creature + block-magical-passage | magical | 1 | 0.58
+2. expand-a-resource-pool | magical | 1 | 0.38
+3. strike-a-distant-foe | magical | 1 | 0.54
+4. kill-outright | magical | 1 | 0.62
+5. kill-outright + raise-or-command-the-dead | magical | 1 | 0.44
+6. harm-many-at-once | magical | 2 | 0.41
+7. recall-what-you-have-learned + undo-what-has-happened | magical | 1 | 0.34
+8. increase-proficiency-or-defence | item | 1 | 0.82
+9. cross-resisting-ground | item | 1 | 0.49
+10. ward-an-area | magical | 1 | 0.46
+11. survive-a-hostile-environment | alchemical | 1 | 0.53
+12. specialise-in-a-tradition | item | 1 | 0.29
+13. resist-a-kind-of-harm + change-your-own-shape | magical | 1 | 0.39
+14. share-power-with-a-bonded-creature | innate | 1 | 0.51
+15. condition-state | innate | 1 | 0.24
+16. adapt-your-body-to-a-place | innate | 1 | 0.74
+17. improve-what-a-companion-can-do | innate | 1 | 0.56
+18. teleport-a-short-distance | magical | 1 | 0.59
+19. improve-what-a-companion-can-do | innate | 1 | 0.37
+20. store-an-effect-for-later | magical | 1 | 0.57
+21. protect-a-group | divine | 1 | 0.31
+22. increase-proficiency-or-defence | trained-skill | 1 | 0.67
+23. expand-a-resource-pool | trained-skill | 1 | 0.43
+24. grants-another-option | trained-skill | 1 | 0.61
+25. change-your-own-shape + calm-hostility | divine | 1 | 0.47
