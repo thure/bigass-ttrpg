@@ -14,8 +14,7 @@ import sys
 
 sys.path.insert(0, str(pathlib.Path(__file__).resolve().parent))
 from collect_batches import LINE, MECHANISMS      # noqa: E402
-
-import yaml                                        # noqa: E402
+import _taxonomy                                   # noqa: E402
 
 ROOT = pathlib.Path(__file__).resolve().parent.parent
 
@@ -26,7 +25,7 @@ def main():
     ap.add_argument("batch")
     args = ap.parse_args()
 
-    valid = {f["id"] for f in yaml.safe_load((ROOT / "taxonomy/functions.yaml").read_text())}
+    valid = _taxonomy.slug_ids()
     manifest = json.loads((ROOT / f"data/work/batches/shard-{args.shard}-manifest.json").read_text())
     expected = len(manifest[args.batch])
     path = ROOT / f"data/work/answers/shard-{args.shard}/{args.batch}.txt"

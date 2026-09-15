@@ -13,7 +13,9 @@ import pathlib
 import re
 import sys
 
-import yaml
+import sys as _sys
+_sys.path.insert(0, str(pathlib.Path(__file__).resolve().parent))
+import _taxonomy
 
 MECHANISMS = {"manual", "tool", "trained-skill", "magical", "ritual", "innate",
               "alchemical", "divine", "psychic", "item", "technological", "social"}
@@ -30,8 +32,7 @@ def main():
     ap.add_argument("--strict", action="store_true")
     args = ap.parse_args()
 
-    root = pathlib.Path(__file__).resolve().parent.parent
-    valid = {f["id"] for f in yaml.safe_load((root / "taxonomy/functions.yaml").read_text())}
+    valid = _taxonomy.slug_ids()
     manifest = json.loads((args.root / "batches" / f"shard-{args.shard}-manifest.json").read_text())
     adir = args.root / "answers" / f"shard-{args.shard}"
 

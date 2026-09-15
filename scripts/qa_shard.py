@@ -18,7 +18,9 @@ import json
 import pathlib
 import sys
 
-import yaml
+import sys as _sys
+_sys.path.insert(0, str(pathlib.Path(__file__).resolve().parent))
+import _taxonomy
 
 # Tuned against an 800-entry round-robin shard, which spans every category.
 MIN_DISTINCT_SLUGS = 70      # a real pass over 800 mixed entries touches many functions
@@ -56,7 +58,7 @@ def main():  # noqa: C901
     args = ap.parse_args()
 
     root = pathlib.Path(__file__).resolve().parent.parent
-    valid = {f["id"] for f in yaml.safe_load((root / "taxonomy/functions.yaml").read_text())}
+    valid = _taxonomy.slug_ids()
     src_path = root / f"data/work/shards/shard-{args.shard}.jsonl"
     out_path = root / f"data/work/classify/shard-{args.shard}.jsonl"
     if not out_path.exists():
@@ -94,8 +96,7 @@ def main():  # noqa: C901
     mechs = collections.Counter(f.get("mechanism") for f in primaries)
     n = len(primaries)
 
-    domains_by_slug = {f["id"]: f["domain"] for f in
-                       yaml.safe_load((root / "taxonomy/functions.yaml").read_text())}
+    domains_by_slug = _taxonomy.slug_domains()
 
     # Scale the floors when checking a partial run.
     min_slugs = MIN_DISTINCT_SLUGS if n >= 700 else max(12, int(MIN_DISTINCT_SLUGS * n / 800))
@@ -142,9 +143,7 @@ def main():  # noqa: C901
     if unc / n > MAX_UNCLASSIFIED:
         warns.append(f"{100*unc/n:.0f}% unclassified")
 
-    domains = {f["id"]: f["domain"] for f in
-               yaml.safe_load((root / "taxonomy/functions.yaml").read_text())}
-    dom = collections.Counter(domains.get(f["slug"]) for f in primaries)
+    dom = collections.Counter(domains_by_slug.get(f["slug"]) for f in primaries)
     if len(dom) < 8:
         warns.append(f"only {len(dom)} domains touched")
 

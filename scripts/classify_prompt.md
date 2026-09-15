@@ -17,9 +17,9 @@ structural check while classifying a document-forgery feat as `fly` and a web tr
 ## The loop
 
 ```sh
-.venv/bin/python scripts/next_batch.py <NN>              # prints the next 25 entries
+python3 scripts/next_batch.py <NN>              # prints the next 25 entries
 # ...read them, look up slugs, write the answer file...
-.venv/bin/python scripts/check_batch.py <NN> <bXXX>      # instant validation
+python3 scripts/check_batch.py <NN> <bXXX>      # instant validation
 ```
 
 Repeat until `next_batch.py` says COMPLETE. It tracks your progress by which answer
@@ -51,10 +51,10 @@ There are 227. They will not stay in your head, and guessing from memory is exac
 the earlier runs collapsed onto a handful of over-used slugs. Looking one up is cheap:
 
 ```sh
-.venv/bin/python scripts/find_slug.py lock door open     # search by meaning
-.venv/bin/python scripts/find_slug.py --domain barriers  # browse one domain
-.venv/bin/python scripts/find_slug.py --show breach-a-locked-boundary
-.venv/bin/python scripts/find_slug.py                    # list all domains
+python3 scripts/find_slug.py lock door open     # search by meaning
+python3 scripts/find_slug.py --domain barriers  # browse one domain
+python3 scripts/find_slug.py --show breach-a-locked-boundary
+python3 scripts/find_slug.py                    # list all domains
 ```
 
 `data/work/taxonomy-brief.txt` has the full list if you prefer to scan it.
@@ -89,11 +89,11 @@ Routing for the categories that cause most hesitation:
 Every ~8 batches:
 
 ```sh
-.venv/bin/python scripts/qa_shard.py <NN> --partial
+python3 scripts/qa_shard.py <NN> --partial
 ```
 
 Wait — that reads collected output, so first run
-`.venv/bin/python scripts/collect_batches.py <NN>`, then `qa_shard.py <NN> --partial`.
+`python3 scripts/collect_batches.py <NN>`, then `qa_shard.py <NN> --partial`.
 
 It fails you for: too few distinct slugs, one slug owning >15%, fewer than 12 distinct
 confidence values, or one mechanism on >50% of entries. Those are the signatures of

@@ -4,11 +4,18 @@ A database of what a TTRPG character can do **in a story**, built from Pathfinde
 and the D&D 5e SRD. One row per narrative function ("breach a locked boundary"), with
 notes on the mechanisms that achieve it. See README.md for the pipeline.
 
-## Use the venv
+## Which python
 
-`python3` on this machine has no PyYAML and is externally managed (PEP 668). Always
-run `.venv/bin/python`, never bare `python3`. If the venv is missing:
-`python3 -m venv .venv && .venv/bin/pip install pyyaml`.
+Run the classification tools with plain **`python3`**. They use only the standard
+library, deliberately: the taxonomy is compiled to `data/work/taxonomy.json` so that
+nothing an agent runs needs PyYAML, and so that every command matches the `python3`
+Bash permission this project already grants. Requiring `.venv/bin/python` meant a
+permission prompt on every single tool call.
+
+The venv is only for maintainer scripts that read the YAML directly (`ingest.py`,
+`load_taxonomy.py`, `make_shards.py`, `make_batches.py`, `report.py`,
+`build_taxonomy_json.py`, `validate_canonical.py`). If you edit `taxonomy/*.yaml`,
+recompile the cache with `.venv/bin/python scripts/build_taxonomy_json.py`.
 
 ## The cardinal rule: do not automate judgment
 
@@ -48,7 +55,7 @@ manifest, so id errors are structurally impossible.
 
 ## Check your own work
 
-`.venv/bin/python scripts/qa_shard.py <NN> --partial` grades a shard in progress and
+`python3 scripts/qa_shard.py <NN> --partial` grades a shard in progress and
 tells you if you are drifting. Run it every ~200 entries. It fails a shard for:
 
 - too few distinct slugs for the number of entries

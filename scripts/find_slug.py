@@ -15,7 +15,9 @@ import pathlib
 import re
 import sys
 
-import yaml
+import sys as _sys
+_sys.path.insert(0, str(pathlib.Path(__file__).resolve().parent))
+import _taxonomy
 
 ROOT = pathlib.Path(__file__).resolve().parent.parent
 STOP = {"a", "an", "the", "of", "to", "and", "or", "in", "on", "you", "your", "it",
@@ -39,8 +41,8 @@ def main():
     ap.add_argument("-n", type=int, default=10)
     args = ap.parse_args()
 
-    functions = yaml.safe_load((ROOT / "taxonomy/functions.yaml").read_text())
-    domains = {d["id"]: d for d in yaml.safe_load((ROOT / "taxonomy/domains.yaml").read_text())}
+    functions, domain_list = _taxonomy.load()
+    domains = {d["id"]: d for d in domain_list}
 
     if args.show:
         for f in functions:
