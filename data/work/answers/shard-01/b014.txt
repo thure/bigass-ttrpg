@@ -1,0 +1,25 @@
+1. poison-a-foe | magical | 1 | 0.6
+2. numeric-variant | item | 1 | 0.35
+3. frighten + obscure-an-area | magical | 2 | 0.55
+4. grants-another-option | magical | 1 | 0.55
+5. gain-a-buffer-of-vitality + frighten | magical | 1 | 0.5
+6. fly | magical | 1 | 0.65
+7. set-a-trap | technological | 1 | 0.7
+8. breach-a-locked-boundary | tool | 1 | 0.45
+9. open-a-portal | magical | 3 | 0.6
+10. read-or-enter-a-mind + increase-proficiency-or-defence | magical | 1 | 0.5
+11. fly | magical | 1 | 0.85
+12. call-a-creature-to-fight-for-you | magical | 1 | 0.78
+13. numeric-variant | item | 1 | 0.5
+14. harm-many-at-once + ward-an-area | magical | 2 | 0.4
+15. share-power-with-a-bonded-creature | magical | 1 | 0.45
+16. blind-or-deafen | innate | 1 | 0.55
+17. direct-a-companion-in-battle | innate | 1 | 0.5
+18. teleport-a-short-distance | magical | 1 | 0.55
+19. tend-your-companion | magical | 1 | 0.65
+20. improve-what-a-companion-can-do | technological | 1 | 0.75
+21. inflict-a-lingering-wound + dull-a-foe-s-capability | innate | 1 | 0.6
+22. expand-a-resource-pool | alchemical | 1 | 0.8
+23. expand-a-resource-pool | alchemical | 1 | 0.78
+24. grants-another-option | divine | 1 | 0.6
+25. shrug-off-an-effect-you-failed-to-avoid + claim-a-lineage | innate | 1 | 0.55

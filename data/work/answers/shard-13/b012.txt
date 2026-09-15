@@ -1,0 +1,25 @@
+1. resist-a-kind-of-harm | item | 1 | 0.85
+2. heal-a-body + restore-a-diminished-capacity | item | 1 | 0.7
+3. survive-a-hostile-environment + resist-a-kind-of-harm | item | 1 | 0.7
+4. change-your-own-shape + burrow-through-earth | item | 1 | 0.5
+5. make-an-extradimensional-space + heal-many-at-once | item | 3 | 0.65
+6. sense-a-distant-place + teleport-a-short-distance | magical | 4 | 0.35
+7. heal-many-at-once + notice-what-is-hidden | divine | 2 | 0.4
+8. improve-your-luck + draw-on-an-inner-source | item | 1 | 0.5
+9. see-through-deception | item | 1 | 0.75
+10. survive-a-hostile-environment | item | 1 | 0.8
+11. survive-a-hostile-environment | item | 1 | 0.8
+12. survive-a-hostile-environment + move-faster | item | 1 | 0.45
+13. see-through-deception | item | 1 | 0.5
+14. enhance-a-weapon-s-bite | item | 1 | 0.7
+15. exploit-a-known-weakness | item | 1 | 0.5
+16. improve-your-luck | item | 1 | 0.75
+17. harm-many-at-once + raise-or-command-the-dead | item | 1 | 0.5
+18. numeric-variant | item | 1 | 0.55
+19. run-a-long-project + conceal-an-object | social | 3 | 0.5
+20. store-an-effect-for-later | alchemical | 1 | 0.7
+21. resist-a-kind-of-harm | item | 1 | 0.45
+22. store-an-effect-for-later | item | 1 | 0.75
+23. resist-a-kind-of-harm | item | 1 | 0.7
+24. set-a-trap | item | 1 | 0.8
+25. recover-on-your-own | item | 1 | 0.35

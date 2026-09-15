@@ -1,0 +1,25 @@
+1. become-invisible | magical | 1 | 0.85
+2. locate-a-person-or-thing + inscribe-a-lasting-mark | magical | 1 | 0.5
+3. expand-a-resource-pool | magical | 1 | 0.7
+4. resist-a-kind-of-harm | magical | 1 | 0.55
+5. climb-a-vertical-surface | magical | 1 | 0.55
+6. destroy-an-object + inflict-a-lingering-wound | alchemical | 1 | 0.5
+7. guard-your-mind | alchemical | 1 | 0.6
+8. enhance-a-weapon-s-bite | magical | 1 | 0.55
+9. grants-another-option | magical | 1 | 0.45
+10. ward-an-area | magical | 2 | 0.6
+11. set-a-trap + make-darkness | magical | 1 | 0.55
+12. increase-proficiency-or-defence | item | 1 | 0.7
+13. harm-many-at-once | magical | 1 | 0.55
+14. sense-a-distant-place | magical | 1 | 0.45
+15. call-a-creature-to-fight-for-you | magical | 3 | 0.65
+16. disguise-your-appearance + evade-magical-detection | magical | 1 | 0.55
+17. track-a-creature + resist-a-kind-of-harm | magical | 1 | 0.5
+18. put-to-sleep | alchemical | 1 | 0.65
+19. disguise-your-appearance | alchemical | 1 | 0.5
+20. guard-your-mind | alchemical | 1 | 0.5
+21. strike-a-distant-foe + harm-many-at-once | magical | 2 | 0.55
+22. grants-another-option | magical | 1 | 0.6
+23. turn-an-attack-back | magical | 1 | 0.6
+24. resist-a-kind-of-harm | divine | 1 | 0.4
+25. dull-a-foe-s-capability | magical | 1 | 0.55

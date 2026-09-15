@@ -1,0 +1,25 @@
+1. obscure-an-area | item | 2 | 0.55
+2. command-obedience + turn-an-attack-back | magical | 1 | 0.45
+3. increase-proficiency-or-defence | magical | 1 | 0.5
+4. grants-another-option | magical | 2 | 0.4
+5. extend-your-senses | item | 1 | 0.65
+6. craft-an-object | manual | 1 | 0.3
+7. increase-proficiency-or-defence | magical | 1 | 0.6
+8. restore-a-diminished-capacity + heal-a-body | alchemical | 1 | 0.6
+9. resist-a-kind-of-harm | item | 1 | 0.7
+10. store-an-effect-for-later | magical | 1 | 0.4
+11. sense-a-distant-place + curse-a-creature | magical | 2 | 0.45
+12. poison-a-foe | alchemical | 1 | 0.65
+13. repair-an-object | magical | 2 | 0.55
+14. perceive-without-sight + recall-what-you-have-learned | magical | 2 | 0.4
+15. breach-a-locked-boundary | tool | 1 | 0.75
+16. turn-an-attack-back | item | 1 | 0.55
+17. unclassified | manual | 1 | 0.25
+18. blind-or-deafen | item | 2 | 0.5
+19. unclassified | manual | 1 | 0.2
+20. perceive-without-sight | technological | 1 | 0.75
+21. know-where-you-are | tool | 1 | 0.3
+22. fly + extend-your-senses | magical | 1 | 0.6
+23. read-any-writing + grants-another-option | magical | 1 | 0.4
+24. obscure-an-area + resist-a-kind-of-harm | magical | 1 | 0.55
+25. unclassified | item | 1 | 0.2

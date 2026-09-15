@@ -1,0 +1,25 @@
+1. make-light | item | 1 | 0.85
+2. lie-convincingly + ambush-an-unready-foe | magical | 1 | 0.55
+3. strike-a-distant-foe | alchemical | 1 | 0.65
+4. craft-an-object | technological | 1 | 0.4
+5. conceal-an-object | item | 1 | 0.55
+6. lie-convincingly | magical | 1 | 0.6
+7. grants-another-option | magical | 1 | 0.5
+8. grants-another-option | magical | 1 | 0.6
+9. extend-your-senses | magical | 1 | 0.5
+10. resist-a-kind-of-harm | magical | 1 | 0.35
+11. ambush-an-unready-foe | magical | 3 | 0.5
+12. grants-another-option + communicate-at-a-distance | magical | 1 | 0.55
+13. pass-through-solid-matter | alchemical | 1 | 0.4
+14. keep-a-bonded-creature | ritual | 1 | 0.45
+15. move-a-group | magical | 2 | 0.45
+16. heal-a-body | magical | 1 | 0.6
+17. increase-proficiency-or-defence | magical | 1 | 0.45
+18. confuse-or-scramble-a-mind | magical | 1 | 0.4
+19. strike-a-distant-foe + frighten | magical | 1 | 0.55
+20. hide-a-message | alchemical | 1 | 0.55
+21. strike-a-distant-foe | alchemical | 1 | 0.6
+22. sense-or-shape-fate | magical | 5 | 0.35
+23. direct-a-companion-in-battle + tend-your-companion | magical | 1 | 0.5
+24. sense-or-shape-fate | magical | 5 | 0.4
+25. strike-a-distant-foe | alchemical | 1 | 0.65

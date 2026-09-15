@@ -1,0 +1,25 @@
+1. appraise-worth | magical | 1 | 0.68
+2. resist-a-kind-of-harm | magical | 1 | 0.85
+3. sense-or-shape-fate | magical | 5 | 0.5
+4. stop-a-foe-moving + be-harder-to-hit | magical | 2 | 0.55
+5. strike-a-foe-in-reach | technological | 1 | 0.7
+6. resist-a-kind-of-harm | magical | 1 | 0.6
+7. secure-shelter-and-supply | social | 2 | 0.62
+8. absorb-or-blunt-damage + grow-or-shrink | magical | 1 | 0.58
+9. attack-more-often | magical | 1 | 0.78
+10. communicate-at-a-distance | magical | 1 | 0.72
+11. blind-or-deafen | magical | 1 | 0.47
+12. grow-a-natural-weapon | magical | 1 | 0.8
+13. negate-an-effect-outright | magical | 1 | 0.45
+14. craft-an-object | manual | 1 | 0.33
+15. keep-a-bonded-creature | magical | 1 | 0.66
+16. strike-a-distant-foe + exploit-a-known-weakness | alchemical | 1 | 0.57
+17. heal-a-body | alchemical | 1 | 0.75
+18. turn-an-attack-back + resist-poison-and-disease | divine | 1 | 0.63
+19. conceal-an-object | social | 3 | 0.4
+20. persuade-by-reason-or-charm | magical | 1 | 0.42
+21. seal-a-boundary | alchemical | 1 | 0.3
+22. poison-a-foe | divine | 1 | 0.69
+23. store-an-effect-for-later | magical | 1 | 0.48
+24. poison-a-foe | alchemical | 1 | 0.82
+25. call-a-creature-to-fight-for-you | magical | 2 | 0.64

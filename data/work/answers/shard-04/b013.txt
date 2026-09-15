@@ -1,0 +1,25 @@
+1. make-light + increase-proficiency-or-defence | alchemical | 1 | 0.55
+2. improve-what-a-companion-can-do | magical | 1 | 0.5
+3. increase-proficiency-or-defence + harm-many-at-once | magical | 2 | 0.45
+4. sway-an-audience + command-obedience | divine | 2 | 0.4
+5. guard-your-mind | magical | 1 | 0.75
+6. resist-a-kind-of-harm | alchemical | 1 | 0.75
+7. fly | magical | 1 | 0.8
+8. blind-or-deafen | alchemical | 2 | 0.5
+9. resist-a-kind-of-harm + drain-vitality-lastingly | magical | 1 | 0.45
+10. increase-proficiency-or-defence + disengage-from-danger | magical | 1 | 0.5
+11. poison-a-foe + strike-a-foe-in-reach | alchemical | 1 | 0.55
+12. secure-shelter-and-supply | tool | 1 | 0.65
+13. dull-a-foe-s-capability + research-in-archives | magical | 2 | 0.45
+14. increase-proficiency-or-defence + call-a-creature-to-fight-for-you | magical | 1 | 0.5
+15. heal-many-at-once + create-food-and-water | magical | 2 | 0.6
+16. increase-proficiency-or-defence + know-where-you-are | divine | 1 | 0.45
+17. frighten + inflict-a-lingering-wound | magical | 1 | 0.5
+18. hide-from-notice + see-in-darkness | magical | 1 | 0.45
+19. grants-another-option | tool | 1 | 0.4
+20. cross-resisting-ground | tool | 1 | 0.65
+21. exploit-a-known-weakness + negate-an-effect-outright | magical | 1 | 0.4
+22. enhance-a-weapon-s-bite | magical | 1 | 0.7
+23. erase-your-trail | magical | 1 | 0.55
+24. become-invisible | magical | 1 | 0.75
+25. conjure-a-temporary-tool | magical | 1 | 0.45

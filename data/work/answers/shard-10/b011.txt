@@ -1,0 +1,25 @@
+1. detect-a-kind-of-creature + harm-many-at-once | magical | 2 | 0.5
+2. communicate-at-a-distance + detect-a-kind-of-creature | divine | 1 | 0.4
+3. strike-a-distant-foe | item | 1 | 0.5
+4. increase-proficiency-or-defence | magical | 1 | 0.4
+5. increase-proficiency-or-defence | magical | 1 | 0.52
+6. craft-an-object | tool | 1 | 0.4
+7. build-a-barrier + make-darkness | magical | 2 | 0.42
+8. resist-a-kind-of-harm | magical | 1 | 0.3
+9. command-obedience | alchemical | 1 | 0.38
+10. obscure-an-area | magical | 1 | 0.55
+11. heal-a-body | divine | 1 | 0.55
+12. grants-another-option | tool | 1 | 0.35
+13. grants-another-option | item | 1 | 0.4
+14. increase-attributes-or-health | alchemical | 1 | 0.62
+15. resist-poison-and-disease | alchemical | 1 | 0.7
+16. heal-a-body | alchemical | 1 | 0.75
+17. command-the-weather + make-light | divine | 5 | 0.58
+18. protect-a-group + heal-many-at-once | divine | 2 | 0.45
+19. strike-a-distant-foe | manual | 1 | 0.55
+20. open-a-path-through-matter | magical | 1 | 0.65
+21. secure-shelter-and-supply | manual | 1 | 0.5
+22. disengage-from-danger | technological | 1 | 0.5
+23. grants-another-option | item | 1 | 0.45
+24. enhance-a-weapon-s-bite + turn-an-attack-back | magical | 1 | 0.4
+25. create-food-and-water + command-obedience | magical | 2 | 0.4

@@ -1,0 +1,25 @@
+1. kill-outright | magical | 1 | 0.55
+2. poison-a-foe + slow-a-foe | alchemical | 1 | 0.72
+3. slow-a-foe | alchemical | 2 | 0.55
+4. make-an-extradimensional-space | magical | 1 | 0.5
+5. frighten | magical | 2 | 0.65
+6. seal-a-boundary | tool | 1 | 0.6
+7. improve-your-luck | magical | 1 | 0.75
+8. resist-a-kind-of-harm + mark-a-foe-as-vulnerable | technological | 2 | 0.5
+9. seal-a-boundary | magical | 1 | 0.8
+10. inflict-a-lingering-wound | alchemical | 1 | 0.55
+11. inflict-a-lingering-wound | alchemical | 2 | 0.55
+12. resist-a-kind-of-harm + enhance-a-weapon-s-bite | divine | 1 | 0.4
+13. strike-a-distant-foe | alchemical | 1 | 0.55
+14. bind-a-creature-in-place | tool | 1 | 0.7
+15. know-where-you-are | tool | 1 | 0.75
+16. conjure-a-temporary-tool | magical | 1 | 0.6
+17. persuade-by-reason-or-charm | magical | 1 | 0.5
+18. carry-a-burden | divine | 2 | 0.45
+19. obscure-an-area + harm-many-at-once | alchemical | 1 | 0.55
+20. craft-an-object | magical | 1 | 0.55
+21. move-faster | magical | 1 | 0.8
+22. teleport-a-short-distance + harm-many-at-once | technological | 1 | 0.6
+23. strike-a-distant-foe | magical | 1 | 0.65
+24. harm-many-at-once | alchemical | 2 | 0.65
+25. survive-a-hostile-environment + improve-your-luck | divine | 1 | 0.6

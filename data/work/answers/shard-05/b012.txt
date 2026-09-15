@@ -1,0 +1,25 @@
+1. command-obedience + resist-a-kind-of-harm | magical | 2 | 0.5
+2. resist-poison-and-disease | item | 1 | 0.88
+3. move-through-water | item | 1 | 0.9
+4. persuade-by-reason-or-charm + dull-a-foe-s-capability | magical | 2 | 0.55
+5. negate-an-effect-outright | magical | 2 | 0.75
+6. learn-a-place-or-object-s-past | tool | 1 | 0.35
+7. ride-a-mount | tool | 1 | 0.7
+8. repair-an-object | magical | 1 | 0.4
+9. shake-off-an-affliction | alchemical | 1 | 0.6
+10. lie-convincingly + duplicate-a-thing-or-person | magical | 1 | 0.58
+11. change-your-own-shape | magical | 1 | 0.65
+12. evade-magical-detection + fly | magical | 1 | 0.5
+13. protect-a-group + harm-many-at-once | magical | 2 | 0.62
+14. hide-a-message | item | 1 | 0.78
+15. create-a-persistent-zone | magical | 2 | 0.55
+16. grants-another-option | magical | 1 | 0.4
+17. inflict-a-lingering-wound + tend-your-companion | magical | 1 | 0.6
+18. enhance-a-weapon-s-bite | magical | 1 | 0.68
+19. turn-an-attack-back + resist-a-kind-of-harm | magical | 1 | 0.7
+20. cross-resisting-ground | magical | 1 | 0.85
+21. bless-or-blight-a-place + detect-a-kind-of-creature | divine | 3 | 0.66
+22. speak-with-the-otherwise-mute + see-through-deception | magical | 1 | 0.52
+23. silence-magic + poison-a-foe | divine | 1 | 0.72
+24. strike-a-distant-foe + bind-a-creature-in-place | magical | 1 | 0.63
+25. detect-a-kind-of-creature + increase-proficiency-or-defence | item | 1 | 0.57

@@ -1,0 +1,25 @@
+1. poison-a-foe + confuse-or-scramble-a-mind | alchemical | 1 | 0.60
+2. resist-a-kind-of-harm + turn-an-attack-back | technological | 1 | 0.50
+3. call-a-creature-to-fight-for-you | alchemical | 1 | 0.55
+4. extend-your-senses | alchemical | 1 | 0.62
+5. numeric-variant | item | 1 | 0.48
+6. poison-a-foe | item | 1 | 0.70
+7. make-an-extradimensional-space | magical | 1 | 0.72
+8. resist-poison-and-disease | item | 1 | 0.85
+9. charm-into-friendship | alchemical | 1 | 0.58
+10. call-a-creature-to-fight-for-you | item | 2 | 0.53
+11. grants-another-option | tool | 1 | 0.30
+12. shake-off-an-affliction | magical | 1 | 0.45
+13. sense-a-distant-place | magical | 2 | 0.65
+14. grow-or-shrink | alchemical | 1 | 0.75
+15. resist-a-kind-of-harm | alchemical | 1 | 0.80
+16. increase-proficiency-or-defence | alchemical | 1 | 0.47
+17. conceal-a-place | magical | 2 | 0.63
+18. cheat-death | magical | 1 | 0.78
+19. breach-a-locked-boundary + conceal-an-object | manual | 1 | 0.52
+20. keep-a-bonded-creature | manual | 1 | 0.55
+21. know-where-you-are + grants-another-option | magical | 1 | 0.40
+22. notice-what-is-hidden + resist-poison-and-disease | alchemical | 1 | 0.44
+23. set-a-trap | technological | 1 | 0.73
+24. rest-and-recover + guard-your-mind | magical | 1 | 0.57
+25. imprison-a-creature + strike-a-foe-in-reach | magical | 1 | 0.50

@@ -1,0 +1,25 @@
+1. make-light | alchemical | 1 | 0.45
+2. bind-a-creature-in-place | magical | 2 | 0.4
+3. duplicate-a-thing-or-person | magical | 1 | 0.5
+4. animate-the-inanimate | magical | 1 | 0.65
+5. mark-a-foe-as-vulnerable | magical | 1 | 0.4
+6. impersonate-a-specific-person | magical | 1 | 0.4
+7. resist-a-kind-of-harm | magical | 1 | 0.65
+8. make-light + exploit-a-known-weakness | magical | 1 | 0.45
+9. reshape-the-ground | alchemical | 1 | 0.7
+10. craft-an-object | magical | 1 | 0.5
+11. bind-yourself-to-a-power | divine | 1 | 0.55
+12. secure-shelter-and-supply | tool | 1 | 0.6
+13. harm-many-at-once + resist-a-kind-of-harm | magical | 2 | 0.55
+14. act-sooner-than-others | magical | 1 | 0.6
+15. grants-another-option | item | 1 | 0.3
+16. cross-resisting-ground | magical | 1 | 0.7
+17. enhance-a-weapon-s-bite | magical | 1 | 0.55
+18. increase-attributes-or-health | magical | 1 | 0.8
+19. strike-a-distant-foe + reposition-another-creature | magical | 1 | 0.6
+20. resist-a-kind-of-harm | item | 1 | 0.55
+21. expand-a-resource-pool | magical | 1 | 0.55
+22. harm-many-at-once | alchemical | 2 | 0.5
+23. strike-a-distant-foe + exploit-a-known-weakness | divine | 1 | 0.6
+24. destroy-an-object | magical | 2 | 0.45
+25. resist-poison-and-disease + frighten | alchemical | 1 | 0.6

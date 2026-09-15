@@ -1,0 +1,25 @@
+1. bind-a-creature-in-place | technological | 1 | 0.7
+2. grants-another-option | tool | 1 | 0.4
+3. speak-with-the-otherwise-mute + bind-a-creature-in-place | item | 2 | 0.48
+4. negate-an-effect-outright + harm-many-at-once | item | 2 | 0.43
+5. inspire-allies | item | 2 | 0.42
+6. silence-magic | item | 1 | 0.6
+7. enhance-a-weapon-s-bite | item | 1 | 0.72
+8. strike-a-distant-foe | alchemical | 1 | 0.62
+9. inspire-allies | item | 2 | 0.58
+10. ride-a-mount | tool | 1 | 0.55
+11. secure-shelter-and-supply | manual | 1 | 0.38
+12. secure-shelter-and-supply | manual | 1 | 0.52
+13. sense-or-shape-fate | item | 3 | 0.44
+14. divine-an-answer | divine | 2 | 0.56
+15. curse-a-creature + research-in-archives | psychic | 3 | 0.35
+16. fly | item | 1 | 0.65
+17. move-through-water + walk-on-unstable-footing | item | 1 | 0.53
+18. move-unseen | item | 1 | 0.5
+19. poison-a-foe + slow-a-foe | alchemical | 1 | 0.66
+20. conjure-a-temporary-tool | item | 1 | 0.75
+21. charm-into-friendship + harm-many-at-once | item | 2 | 0.41
+22. harm-many-at-once | item | 2 | 0.63
+23. enhance-a-weapon-s-bite + inflict-a-lingering-wound | item | 1 | 0.57
+24. drain-life-to-sustain-yourself | item | 1 | 0.68
+25. shake-off-an-affliction | alchemical | 1 | 0.46

@@ -1,0 +1,25 @@
+1. harm-many-at-once | alchemical | 1 | 0.4
+2. dull-a-foe-s-capability | item | 2 | 0.5
+3. grants-another-option | item | 1 | 0.35
+4. kill-outright | item | 1 | 0.6
+5. grants-another-option | item | 2 | 0.3
+6. harm-many-at-once + destroy-an-object | item | 2 | 0.4
+7. punish-an-opening | item | 1 | 0.55
+8. increase-proficiency-or-defence | item | 1 | 0.75
+9. cross-resisting-ground | tool | 1 | 0.55
+10. command-the-weather | item | 1 | 0.55
+11. harm-many-at-once + blind-or-deafen | item | 2 | 0.5
+12. disguise-what-a-thing-is | item | 1 | 0.7
+13. harm-many-at-once + resist-a-kind-of-harm | item | 2 | 0.4
+14. improve-what-a-companion-can-do | magical | 1 | 0.6
+15. improve-what-a-companion-can-do | innate | 1 | 0.6
+16. improve-what-a-companion-can-do + mark-a-foe-as-vulnerable | magical | 1 | 0.55
+17. improve-what-a-companion-can-do | innate | 1 | 0.55
+18. improve-what-a-companion-can-do | magical | 1 | 0.55
+19. improve-what-a-companion-can-do | technological | 1 | 0.5
+20. harm-many-at-once | divine | 2 | 0.55
+21. enhance-a-weapon-s-bite | magical | 1 | 0.55
+22. specialise-in-a-tradition | magical | 1 | 0.45
+23. specialise-in-a-tradition | divine | 1 | 0.4
+24. entry-into-an-archetype | magical | 1 | 0.45
+25. duplicate-a-thing-or-person | magical | 1 | 0.6

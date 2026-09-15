@@ -1,0 +1,25 @@
+1. alter-gravity-or-orientation | magical | 1 | 0.65
+2. curse-a-creature | magical | 1 | 0.55
+3. resist-a-kind-of-harm | magical | 1 | 0.75
+4. be-harder-to-hit + dull-a-foe-s-capability | magical | 2 | 0.43
+5. charm-into-friendship | magical | 2 | 0.6
+6. teleport-a-short-distance | magical | 1 | 0.55
+7. secure-shelter-and-supply | social | 2 | 0.5
+8. confuse-or-scramble-a-mind + dull-a-foe-s-capability | alchemical | 2 | 0.57
+9. attack-more-often + enhance-a-weapon-s-bite | magical | 1 | 0.6
+10. divine-an-answer | magical | 1 | 0.4
+11. blind-or-deafen | magical | 1 | 0.4
+12. slow-a-foe | magical | 1 | 0.52
+13. make-light | magical | 1 | 0.5
+14. grants-another-option | manual | 1 | 0.3
+15. enhance-a-weapon-s-bite | manual | 1 | 0.5
+16. increase-proficiency-or-defence | alchemical | 1 | 0.55
+17. conceal-an-object + conjure-a-temporary-tool | magical | 1 | 0.4
+18. resist-poison-and-disease + turn-an-attack-back | magical | 1 | 0.35
+19. erase-your-trail | social | 3 | 0.35
+20. detect-a-lie | magical | 2 | 0.45
+21. resist-a-kind-of-harm | manual | 1 | 0.48
+22. see-through-deception + perceive-the-incorporeal | magical | 1 | 0.5
+23. trade-and-bargain | social | 1 | 0.55
+24. poison-a-foe | alchemical | 1 | 0.65
+25. conjure-a-temporary-tool + bind-a-creature-in-place | alchemical | 1 | 0.45

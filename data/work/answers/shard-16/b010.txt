@@ -1,0 +1,25 @@
+1. make-light | tool | 1 | 0.78
+2. harm-many-at-once | item | 2 | 0.62
+3. teleport-a-short-distance | item | 1 | 0.52
+4. increase-attributes-or-health + breach-a-locked-boundary | item | 1 | 0.45
+5. increase-proficiency-or-defence | alchemical | 1 | 0.5
+6. secure-shelter-and-supply | social | 1 | 0.8
+7. strike-a-distant-foe + slow-a-foe | divine | 1 | 0.47
+8. increase-proficiency-or-defence | item | 1 | 0.82
+9. notice-what-is-hidden | tool | 1 | 0.68
+10. grants-another-option | item | 1 | 0.53
+11. strike-a-distant-foe + mark-a-foe-as-vulnerable | alchemical | 1 | 0.58
+12. grants-another-option | item | 1 | 0.53
+13. resist-a-kind-of-harm | item | 1 | 0.63
+14. increase-attributes-or-health | magical | 1 | 0.8
+15. set-a-trap | manual | 1 | 0.73
+16. impersonate-a-specific-person | manual | 1 | 0.72
+17. increase-proficiency-or-defence + improve-your-luck | item | 1 | 0.57
+18. trade-and-bargain | item | 1 | 0.75
+19. swap-places-or-bodies | alchemical | 1 | 0.65
+20. forge-a-document | item | 1 | 0.7
+21. grow-or-wither-plants + strike-a-distant-foe | alchemical | 1 | 0.5
+22. keep-a-bonded-creature | manual | 1 | 0.55
+23. make-an-extradimensional-space | item | 1 | 0.6
+24. open-a-path-through-matter | alchemical | 1 | 0.44
+25. curse-a-creature | item | 1 | 0.72

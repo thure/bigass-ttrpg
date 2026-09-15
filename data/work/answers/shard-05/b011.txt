@@ -1,0 +1,25 @@
+1. turn-an-attack-back | magical | 2 | 0.72
+2. craft-an-object | item | 1 | 0.3
+3. reposition-another-creature + obscure-an-area | alchemical | 1 | 0.6
+4. act-sooner-than-others | magical | 1 | 0.65
+5. heal-a-body | divine | 1 | 0.55
+6. strike-a-binding-bargain | magical | 1 | 0.75
+7. make-light + protect-a-group | magical | 2 | 0.58
+8. harm-many-at-once + inflict-a-lingering-wound | magical | 2 | 0.68
+9. move-unseen | alchemical | 1 | 0.8
+10. keep-a-bonded-creature | item | 1 | 0.35
+11. curse-a-creature | magical | 1 | 0.5
+12. curse-a-creature | magical | 1 | 0.62
+13. research-in-archives | item | 2 | 0.55
+14. fly | magical | 1 | 0.9
+15. perceive-without-sight | magical | 1 | 0.78
+16. speak-with-the-otherwise-mute | magical | 2 | 0.45
+17. secure-shelter-and-supply | item | 1 | 0.55
+18. sway-an-audience | social | 3 | 0.6
+19. poison-a-foe | alchemical | 1 | 0.82
+20. control-water | alchemical | 1 | 0.5
+21. keep-a-bonded-creature | item | 1 | 0.32
+22. turn-an-attack-back | magical | 1 | 0.7
+23. increase-proficiency-or-defence | item | 1 | 0.85
+24. run-a-long-project | social | 2 | 0.52
+25. turn-an-attack-back | magical | 2 | 0.66

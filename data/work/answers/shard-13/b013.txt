@@ -1,0 +1,25 @@
+1. carry-a-burden | item | 1 | 0.55
+2. harm-many-at-once + resist-a-kind-of-harm | item | 2 | 0.55
+3. obscure-an-area + harm-many-at-once | item | 2 | 0.45
+4. harm-many-at-once + reshape-the-ground | item | 1 | 0.6
+5. set-a-trap + see-through-deception | item | 1 | 0.55
+6. increase-proficiency-or-defence | item | 1 | 0.6
+7. set-a-trap + dull-a-foe-s-capability | item | 1 | 0.55
+8. frighten + know-where-you-are | item | 1 | 0.45
+9. move-through-water | item | 1 | 0.75
+10. increase-proficiency-or-defence | item | 1 | 0.4
+11. poison-a-foe | alchemical | 1 | 0.75
+12. animate-the-inanimate + harm-many-at-once | item | 2 | 0.45
+13. grants-another-option | item | 1 | 0.4
+14. negate-an-effect-outright | item | 1 | 0.6
+15. inflict-a-lingering-wound + absorb-or-blunt-damage | item | 1 | 0.45
+16. harm-many-at-once | item | 2 | 0.6
+17. numeric-variant | item | 1 | 0.5
+18. grants-another-option | item | 1 | 0.3
+19. erase-your-trail | item | 1 | 0.8
+20. command-obedience | item | 1 | 0.75
+21. resist-poison-and-disease | magical | 1 | 0.75
+22. negate-an-effect-outright | item | 1 | 0.45
+23. break-free-of-restraint | item | 1 | 0.55
+24. carry-a-burden | item | 1 | 0.6
+25. notice-what-is-hidden + detect-magic | item | 1 | 0.55

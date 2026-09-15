@@ -1,0 +1,25 @@
+1. make-light | item | 1 | 0.78
+2. strike-a-distant-foe + harm-many-at-once | alchemical | 1 | 0.5
+3. reposition-another-creature | item | 1 | 0.68
+4. heal-a-body | item | 1 | 0.72
+5. blind-or-deafen | item | 2 | 0.5
+6. secure-shelter-and-supply | item | 1 | 0.6
+7. improve-your-luck | item | 1 | 0.58
+8. increase-proficiency-or-defence | item | 1 | 0.82
+9. resist-a-kind-of-harm + climb-a-vertical-surface | technological | 2 | 0.42
+10. grow-a-natural-weapon + resist-a-kind-of-harm | item | 1 | 0.38
+11. heal-a-body + resist-a-kind-of-harm | item | 1 | 0.45
+12. disengage-from-danger | item | 1 | 0.55
+13. disguise-your-appearance + build-your-reputation | item | 1 | 0.4
+14. resist-a-kind-of-harm | item | 1 | 0.75
+15. know-where-you-are | item | 2 | 0.45
+16. disguise-your-appearance | item | 1 | 0.75
+17. secure-shelter-and-supply | item | 1 | 0.62
+18. coerce-through-threat + frighten | item | 1 | 0.55
+19. increase-proficiency-or-defence | alchemical | 1 | 0.33
+20. sense-a-distant-place | item | 1 | 0.5
+21. harm-many-at-once | item | 2 | 0.6
+22. turn-an-attack-back | item | 1 | 0.55
+23. grants-another-option | item | 1 | 0.5
+24. strike-a-distant-foe + expand-a-resource-pool | item | 1 | 0.35
+25. harm-many-at-once | item | 2 | 0.7

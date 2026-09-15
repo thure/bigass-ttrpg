@@ -1,0 +1,25 @@
+1. make-light | item | 1 | 0.8
+2. conceal-an-object | magical | 1 | 0.63
+3. teleport-a-short-distance | technological | 1 | 0.55
+4. heal-a-body | alchemical | 1 | 0.72
+5. communicate-at-a-distance + disguise-what-a-thing-is | magical | 1 | 0.44
+6. enhance-a-weapon-s-bite | magical | 1 | 0.58
+7. improve-your-luck | magical | 1 | 0.68
+8. enhance-a-weapon-s-bite + resist-a-kind-of-harm | magical | 1 | 0.62
+9. be-harder-to-hit | alchemical | 1 | 0.48
+10. inflict-a-lingering-wound | magical | 2 | 0.42
+11. strike-a-foe-in-reach + resist-a-kind-of-harm | magical | 1 | 0.38
+12. gain-a-buffer-of-vitality | magical | 1 | 0.52
+13. resist-a-kind-of-harm + heal-a-body | magical | 1 | 0.42
+14. cure-poison-or-disease + absorb-or-blunt-damage | magical | 1 | 0.52
+15. know-where-you-are | tool | 2 | 0.48
+16. raise-a-structure | magical | 2 | 0.38
+17. banish-a-creature + blind-or-deafen | magical | 1 | 0.52
+18. recall-what-you-have-learned | magical | 1 | 0.42
+19. poison-a-foe | alchemical | 1 | 0.33
+20. imprison-a-creature | magical | 1 | 0.62
+21. divine-an-answer | alchemical | 1 | 0.48
+22. stop-a-foe-moving | technological | 1 | 0.58
+23. detect-a-kind-of-creature + blind-or-deafen | divine | 2 | 0.52
+24. increase-proficiency-or-defence | tool | 1 | 0.62
+25. charm-into-friendship | magical | 1 | 0.58

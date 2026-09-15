@@ -1,0 +1,25 @@
+1. shrug-off-an-effect-you-failed-to-avoid | item | 1 | 0.75
+2. resist-a-kind-of-harm | item | 1 | 0.8
+3. grants-another-option | item | 5 | 0.35
+4. see-through-deception + detect-magic | item | 2 | 0.5
+5. negate-an-effect-outright | magical | 2 | 0.7
+6. craft-an-object | tool | 1 | 0.3
+7. secure-shelter-and-supply | social | 2 | 0.6
+8. resist-poison-and-disease | item | 1 | 0.75
+9. recall-what-you-have-learned | tool | 1 | 0.7
+10. know-where-you-are + read-any-writing | magical | 1 | 0.45
+11. blind-or-deafen | magical | 1 | 0.5
+12. move-through-water | item | 1 | 0.7
+13. grants-another-option | magical | 1 | 0.45
+14. resist-a-kind-of-harm | item | 1 | 0.7
+15. bind-a-creature-in-place | magical | 1 | 0.55
+16. harm-many-at-once | alchemical | 1 | 0.6
+17. exploit-a-known-weakness | divine | 1 | 0.5
+18. move-faster | item | 1 | 0.45
+19. conceal-an-object | magical | 1 | 0.7
+20. fly | magical | 1 | 0.85
+21. unclassified | alchemical | 1 | 0.3
+22. read-any-writing | item | 1 | 0.7
+23. grants-another-option | item | 1 | 0.4
+24. poison-a-foe | alchemical | 1 | 0.6
+25. see-through-deception | alchemical | 1 | 0.4

@@ -1,0 +1,25 @@
+1. make-darkness + enhance-a-weapon-s-bite | item | 1 | 0.6
+2. harm-many-at-once | item | 2 | 0.7
+3. strike-a-distant-foe + dull-a-foe-s-capability | item | 1 | 0.55
+4. kill-outright + harm-many-at-once | item | 1 | 0.7
+5. make-an-extradimensional-space + tend-your-companion | item | 1 | 0.6
+6. locate-a-person-or-thing | item | 1 | 0.4
+7. detect-a-lie + detect-magic | item | 1 | 0.55
+8. conjure-a-temporary-tool + enhance-a-weapon-s-bite | item | 1 | 0.5
+9. cross-resisting-ground | item | 1 | 0.7
+10. move-faster | item | 2 | 0.55
+11. survive-a-hostile-environment | alchemical | 1 | 0.8
+12. numeric-variant | item | 1 | 0.5
+13. harm-many-at-once + reposition-another-creature | item | 2 | 0.55
+14. improve-what-a-companion-can-do | innate | 1 | 0.65
+15. improve-what-a-companion-can-do | innate | 1 | 0.5
+16. perceive-without-sight | innate | 1 | 0.6
+17. keep-a-bonded-creature | innate | 1 | 0.55
+18. sense-through-another-creature | innate | 1 | 0.8
+19. speak-with-the-otherwise-mute | innate | 1 | 0.45
+20. gain-a-buffer-of-vitality | innate | 1 | 0.75
+21. grants-another-option | magical | 1 | 0.55
+22. grants-another-option | trained-skill | 1 | 0.62
+23. grants-another-option | trained-skill | 1 | 0.58
+24. grants-another-option | trained-skill | 1 | 0.65
+25. increase-proficiency-or-defence | trained-skill | 1 | 0.55

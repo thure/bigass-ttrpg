@@ -1,0 +1,25 @@
+1. fly + resist-a-kind-of-harm | alchemical | 1 | 0.6
+2. bind-yourself-to-a-power | divine | 1 | 0.5
+3. enhance-a-weapon-s-bite | alchemical | 1 | 0.65
+4. become-hard-to-kill | magical | 1 | 0.5
+5. expand-a-resource-pool | item | 1 | 0.45
+6. resist-a-kind-of-harm | divine | 1 | 0.45
+7. be-harder-to-hit | magical | 1 | 0.4
+8. extend-your-senses | tool | 1 | 0.5
+9. imprison-a-creature + return-the-dead-to-life | magical | 1 | 0.55
+10. grants-another-option | magical | 1 | 0.4
+11. set-a-trap | item | 1 | 0.7
+12. hide-from-notice | item | 1 | 0.65
+13. climb-a-vertical-surface | alchemical | 1 | 0.75
+14. heal-a-body | alchemical | 1 | 0.85
+15. interpose-yourself-for-another | alchemical | 1 | 0.55
+16. keep-a-bonded-creature | innate | 1 | 0.35
+17. conceal-a-place | magical | 2 | 0.6
+18. set-a-trap | technological | 1 | 0.65
+19. call-a-creature-to-fight-for-you | magical | 1 | 0.55
+20. command-obedience + imprison-a-creature | divine | 1 | 0.45
+21. read-any-writing | magical | 1 | 0.75
+22. step-outside-time + shrug-off-an-effect-you-failed-to-avoid | divine | 3 | 0.5
+23. attack-more-often | tool | 1 | 0.4
+24. heal-a-body + cure-poison-or-disease | alchemical | 1 | 0.6
+25. command-obedience + fly | magical | 1 | 0.5

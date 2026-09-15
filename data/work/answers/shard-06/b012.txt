@@ -1,0 +1,25 @@
+1. command-obedience + turn-or-rebuke-a-creature-type | magical | 1 | 0.5
+2. increase-proficiency-or-defence | item | 1 | 0.85
+3. reposition-another-creature | magical | 1 | 0.35
+4. extend-your-senses + perceive-the-incorporeal | magical | 1 | 0.55
+5. grants-another-option | magical | 1 | 0.42
+6. store-an-effect-for-later | magical | 1 | 0.65
+7. secure-shelter-and-supply | item | 1 | 0.3
+8. resist-poison-and-disease | alchemical | 1 | 0.6
+9. secure-shelter-and-supply | item | 1 | 0.4
+10. lie-convincingly | magical | 1 | 0.45
+11. speak-with-the-otherwise-mute | alchemical | 1 | 0.62
+12. redirect-harm | magical | 2 | 0.66
+13. absorb-or-blunt-damage | magical | 1 | 0.7
+14. enhance-a-weapon-s-bite | item | 1 | 0.38
+15. guard-your-mind | magical | 1 | 0.68
+16. enhance-a-weapon-s-bite | item | 1 | 0.57
+17. breach-a-locked-boundary | magical | 1 | 0.82
+18. climb-a-vertical-surface | magical | 1 | 0.83
+19. poison-a-foe | alchemical | 1 | 0.72
+20. unclassified | manual | 1 | 0.2
+21. store-an-effect-for-later | magical | 1 | 0.63
+22. extend-your-senses + read-another-intent | magical | 1 | 0.58
+23. grants-another-option | item | 1 | 0.32
+24. gain-access-to-closed-circles + disguise-your-appearance | magical | 1 | 0.48
+25. perceive-the-incorporeal + strike-a-distant-foe | magical | 1 | 0.61

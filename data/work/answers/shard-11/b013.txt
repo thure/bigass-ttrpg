@@ -1,0 +1,25 @@
+1. create-a-persistent-zone | item | 2 | 0.4
+2. harm-many-at-once | item | 2 | 0.4
+3. harm-many-at-once + move-faster | item | 2 | 0.35
+4. dull-a-foe-s-capability | item | 1 | 0.55
+5. strike-a-distant-foe | item | 1 | 0.55
+6. increase-proficiency-or-defence | item | 1 | 0.6
+7. grants-another-option | manual | 1 | 0.3
+8. absorb-or-blunt-damage + turn-an-attack-back | item | 1 | 0.45
+9. move-faster | item | 2 | 0.65
+10. kill-outright | item | 1 | 0.5
+11. sense-a-distant-place | item | 2 | 0.45
+12. harm-many-at-once | item | 2 | 0.55
+13. read-or-enter-a-mind + read-another-intent | item | 1 | 0.45
+14. build-a-barrier + increase-attributes-or-health | item | 2 | 0.45
+15. gain-a-buffer-of-vitality + enhance-a-weapon-s-bite | item | 1 | 0.35
+16. strike-a-distant-foe | tool | 1 | 0.55
+17. gain-a-buffer-of-vitality | item | 2 | 0.55
+18. grants-another-option | tool | 1 | 0.3
+19. locate-a-person-or-thing | item | 1 | 0.55
+20. break-free-of-restraint | item | 1 | 0.42
+21. command-obedience | item | 1 | 0.35
+22. recall-what-you-have-learned + protect-a-group | item | 2 | 0.4
+23. charm-into-friendship | item | 1 | 0.4
+24. move-faster + hide-from-notice | item | 1 | 0.4
+25. enhance-a-weapon-s-bite | item | 1 | 0.75

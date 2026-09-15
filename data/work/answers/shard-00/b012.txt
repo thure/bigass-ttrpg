@@ -1,0 +1,25 @@
+1. negate-an-effect-outright | item | 1 | 0.75
+2. guard-your-mind | item | 1 | 0.68
+3. turn-an-attack-back | item | 1 | 0.82
+4. grow-a-natural-weapon + increase-proficiency-or-defence | item | 1 | 0.55
+5. grants-another-option | tool | 1 | 0.42
+6. climb-a-vertical-surface | tool | 1 | 0.38
+7. grants-another-option | manual | 1 | 0.3
+8. teleport-a-great-distance + speak-with-the-otherwise-mute | item | 2 | 0.4
+9. shrug-off-an-effect-you-failed-to-avoid + increase-proficiency-or-defence | item | 1 | 0.58
+10. enhance-a-weapon-s-bite | item | 2 | 0.47
+11. animate-the-inanimate | alchemical | 1 | 0.62
+12. move-unseen + pass-through-solid-matter | item | 1 | 0.44
+13. redirect-harm + carry-a-burden | item | 1 | 0.52
+14. set-a-trap | technological | 2 | 0.6
+15. absorb-or-blunt-damage | item | 1 | 0.33
+16. enhance-a-weapon-s-bite | alchemical | 1 | 0.56
+17. turn-or-rebuke-a-creature-type | item | 1 | 0.49
+18. exploit-a-known-weakness | item | 1 | 0.54
+19. obscure-an-area | technological | 1 | 0.57
+20. breach-a-locked-boundary | item | 1 | 0.72
+21. harm-many-at-once + heal-many-at-once | item | 2 | 0.39
+22. make-light | alchemical | 1 | 0.5
+23. store-an-effect-for-later | item | 1 | 0.65
+24. kill-outright + destroy-an-object | magical | 2 | 0.46
+25. set-a-trap | item | 1 | 0.61

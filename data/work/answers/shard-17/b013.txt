@@ -1,0 +1,25 @@
+1. extend-your-senses | tool | 1 | 0.85
+2. resist-a-kind-of-harm + grants-another-option | magical | 1 | 0.4
+3. dull-a-foe-s-capability | magical | 1 | 0.6
+4. gain-a-buffer-of-vitality | magical | 1 | 0.8
+5. improve-what-a-companion-can-do | magical | 1 | 0.6
+6. dull-a-foe-s-capability | magical | 1 | 0.65
+7. absorb-or-blunt-damage | magical | 1 | 0.6
+8. cross-resisting-ground | magical | 1 | 0.75
+9. drain-life-to-sustain-yourself | magical | 1 | 0.85
+10. inflict-a-lingering-wound | alchemical | 1 | 0.6
+11. grants-another-option | magical | 3 | 0.35
+12. glimpse-the-future | magical | 1 | 0.6
+13. lie-convincingly | magical | 1 | 0.5
+14. duplicate-a-thing-or-person + resist-a-kind-of-harm | magical | 1 | 0.55
+15. inflict-a-lingering-wound | magical | 1 | 0.5
+16. harm-many-at-once | magical | 1 | 0.5
+17. craft-an-object | tool | 1 | 0.6
+18. inflict-a-lingering-wound | magical | 1 | 0.5
+19. enhance-a-weapon-s-bite | magical | 1 | 0.5
+20. set-a-trap | item | 1 | 0.75
+21. confuse-or-scramble-a-mind | magical | 1 | 0.75
+22. enhance-a-weapon-s-bite | magical | 1 | 0.3
+23. redirect-harm + strike-a-distant-foe | magical | 1 | 0.5
+24. inflict-a-lingering-wound | magical | 1 | 0.7
+25. animate-the-inanimate | magical | 1 | 0.7

@@ -1,0 +1,25 @@
+1. see-through-deception + make-light | item | 1 | 0.55
+2. strike-a-foe-in-reach + mark-a-foe-as-vulnerable | magical | 1 | 0.5
+3. poison-a-foe | alchemical | 1 | 0.6
+4. heal-a-body + strike-a-foe-in-reach | magical | 2 | 0.4
+5. protect-a-group + gain-a-buffer-of-vitality | divine | 3 | 0.45
+6. secure-shelter-and-supply | social | 1 | 0.85
+7. enhance-a-weapon-s-bite | magical | 1 | 0.5
+8. increase-proficiency-or-defence | item | 1 | 0.9
+9. appraise-worth + control-fire | tool | 1 | 0.65
+10. increase-proficiency-or-defence | item | 1 | 0.85
+11. resist-a-kind-of-harm + heal-a-body | magical | 2 | 0.4
+12. move-unseen + strike-a-distant-foe | magical | 2 | 0.4
+13. poison-a-foe + blind-or-deafen | item | 1 | 0.55
+14. lie-convincingly + strike-a-foe-in-reach | magical | 1 | 0.45
+15. call-a-creature-to-fight-for-you | magical | 2 | 0.75
+16. disguise-your-appearance + resist-poison-and-disease | item | 1 | 0.7
+17. make-light | technological | 1 | 0.8
+18. read-or-enter-a-mind + identify-magic | magical | 2 | 0.5
+19. see-through-deception | psychic | 1 | 0.45
+20. evade-magical-detection + be-harder-to-hit | magical | 1 | 0.45
+21. heal-a-body + cheat-death | alchemical | 1 | 0.55
+22. enhance-a-weapon-s-bite + communicate-at-a-distance | divine | 2 | 0.4
+23. hide-a-message | magical | 1 | 0.75
+24. resist-a-kind-of-harm | alchemical | 1 | 0.7
+25. grants-another-option | magical | 1 | 0.55

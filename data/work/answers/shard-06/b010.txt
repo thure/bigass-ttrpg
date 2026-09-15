@@ -1,0 +1,25 @@
+1. frighten + drain-life-to-sustain-yourself | divine | 3 | 0.58
+2. bind-a-creature-in-place | tool | 1 | 0.35
+3. travel-overland | magical | 2 | 0.52
+4. store-an-effect-for-later | magical | 1 | 0.78
+5. communicate-at-a-distance | magical | 1 | 0.63
+6. go-without-necessities + guard-your-mind | magical | 1 | 0.6
+7. curse-a-creature | magical | 1 | 0.57
+8. charm-into-friendship | magical | 1 | 0.62
+9. restore-a-diminished-capacity | magical | 1 | 0.74
+10. negate-an-effect-outright + command-obedience | magical | 1 | 0.6
+11. protect-a-group | magical | 3 | 0.66
+12. disguise-your-appearance | magical | 1 | 0.53
+13. turn-an-attack-back | magical | 1 | 0.71
+14. bind-a-creature-in-place | tool | 1 | 0.82
+15. know-where-you-are | item | 2 | 0.44
+16. make-an-extradimensional-space | magical | 1 | 0.56
+17. grants-another-option | item | 1 | 0.46
+18. gain-access-to-closed-circles | social | 1 | 0.61
+19. increase-proficiency-or-defence | item | 1 | 0.5
+20. extend-your-senses | tool | 1 | 0.43
+21. confuse-or-scramble-a-mind | magical | 1 | 0.55
+22. reposition-another-creature | magical | 1 | 0.69
+23. learn-a-place-or-object-s-past | magical | 1 | 0.54
+24. inflict-a-lingering-wound | magical | 1 | 0.67
+25. know-where-you-are | magical | 1 | 0.73

@@ -1,0 +1,25 @@
+1. kill-outright | item | 1 | 0.75
+2. exploit-a-known-weakness | item | 1 | 0.35
+3. repair-an-object | item | 1 | 0.75
+4. make-light | item | 1 | 0.7
+5. learn-a-place-or-object-s-past | alchemical | 1 | 0.45
+6. conceal-an-object + strike-a-distant-foe | tool | 1 | 0.5
+7. enhance-a-weapon-s-bite | item | 1 | 0.4
+8. extend-your-senses | technological | 1 | 0.55
+9. fly + harm-many-at-once | item | 1 | 0.6
+10. enhance-a-weapon-s-bite | item | 1 | 0.55
+11. compound-a-substance | alchemical | 1 | 0.55
+12. raise-a-structure | item | 2 | 0.65
+13. increase-attributes-or-health | item | 1 | 0.65
+14. gain-a-buffer-of-vitality + increase-proficiency-or-defence | item | 1 | 0.55
+15. alter-belief-or-memory | item | 1 | 0.55
+16. enhance-a-weapon-s-bite | item | 1 | 0.6
+17. raise-a-structure | item | 2 | 0.6
+18. poison-a-foe + dull-a-foe-s-capability | alchemical | 1 | 0.65
+19. harm-many-at-once | alchemical | 2 | 0.6
+20. blind-or-deafen | item | 1 | 0.5
+21. read-any-writing | item | 1 | 0.4
+22. grow-or-shrink | item | 1 | 0.65
+23. cure-poison-or-disease | tool | 1 | 0.35
+24. heal-a-body + keep-the-dying-alive | item | 1 | 0.55
+25. store-an-effect-for-later + speak-with-the-otherwise-mute | item | 1 | 0.4

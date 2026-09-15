@@ -1,0 +1,25 @@
+1. alter-gravity-or-orientation | item | 1 | 0.7
+2. grants-another-option | item | 5 | 0.4
+3. resist-a-kind-of-harm + shake-off-an-affliction | item | 1 | 0.55
+4. travel-between-planes + strike-a-distant-foe | item | 4 | 0.42
+5. command-obedience | item | 2 | 0.6
+6. inscribe-a-lasting-mark | item | 1 | 0.4
+7. resist-a-kind-of-harm | item | 1 | 0.6
+8. tend-your-companion | item | 1 | 0.4
+9. bind-a-creature-in-place + strike-a-foe-in-reach | item | 1 | 0.5
+10. gather-information-from-people + hide-from-notice | item | 1 | 0.4
+11. know-where-you-are | item | 1 | 0.6
+12. destroy-an-object + inflict-a-lingering-wound | item | 1 | 0.5
+13. make-light + extend-your-senses | item | 1 | 0.5
+14. inflict-a-lingering-wound | item | 1 | 0.35
+15. numeric-variant | manual | 1 | 0.25
+16. harm-many-at-once + increase-proficiency-or-defence | item | 2 | 0.5
+17. disengage-from-danger + absorb-or-blunt-damage | item | 1 | 0.5
+18. poison-a-foe | alchemical | 1 | 0.75
+19. trade-and-bargain | social | 2 | 0.5
+20. alter-gravity-or-orientation | item | 1 | 0.65
+21. resist-a-kind-of-harm | item | 1 | 0.4
+22. store-an-effect-for-later + negate-an-effect-outright | item | 1 | 0.5
+23. strike-a-foe-in-reach + negate-an-effect-outright | item | 1 | 0.35
+24. climb-a-vertical-surface | alchemical | 1 | 0.75
+25. cross-resisting-ground + shake-off-an-affliction | divine | 1 | 0.45

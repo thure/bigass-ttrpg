@@ -1,0 +1,25 @@
+1. survive-a-hostile-environment | technological | 2 | 0.68
+2. resist-a-kind-of-harm | item | 1 | 0.55
+3. strike-a-distant-foe | manual | 1 | 0.62
+4. improve-your-luck | magical | 2 | 0.5
+5. numeric-variant | magical | 1 | 0.38
+6. craft-an-object | tool | 1 | 0.65
+7. open-a-portal | divine | 5 | 0.5
+8. persuade-by-reason-or-charm | manual | 1 | 0.48
+9. craft-an-object | technological | 2 | 0.4
+10. command-obedience | item | 1 | 0.45
+11. increase-proficiency-or-defence | tool | 1 | 0.55
+12. resist-a-kind-of-harm | item | 1 | 0.4
+13. resist-a-kind-of-harm | alchemical | 1 | 0.85
+14. increase-attributes-or-health + gain-a-buffer-of-vitality | alchemical | 1 | 0.7
+15. resist-a-kind-of-harm | alchemical | 1 | 0.85
+16. craft-an-object | tool | 1 | 0.65
+17. craft-an-object | technological | 2 | 0.43
+18. quiet-a-troubled-mind + guard-your-mind | alchemical | 1 | 0.5
+19. breach-a-locked-boundary + conceal-an-object | tool | 1 | 0.52
+20. grants-another-option | manual | 1 | 0.3
+21. blind-or-deafen + dull-a-foe-s-capability | item | 1 | 0.5
+22. resist-a-kind-of-harm + locate-a-person-or-thing | item | 2 | 0.47
+23. specialise-in-a-tradition | divine | 1 | 0.45
+24. harm-many-at-once | item | 1 | 0.57
+25. exploit-a-known-weakness + strike-a-foe-in-reach | item | 1 | 0.46

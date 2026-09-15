@@ -1,0 +1,25 @@
+1. make-light | item | 1 | 0.7
+2. craft-an-object | tool | 1 | 0.65
+3. dull-a-foe-s-capability | magical | 1 | 0.55
+4. be-harder-to-hit | item | 1 | 0.45
+5. poison-a-foe | item | 1 | 0.6
+6. harm-many-at-once | item | 1 | 0.55
+7. improve-your-luck | item | 1 | 0.8
+8. grants-another-option | item | 1 | 0.5
+9. slow-a-foe | item | 1 | 0.65
+10. reshape-the-ground | magical | 2 | 0.6
+11. grants-another-option | item | 2 | 0.5
+12. punish-an-opening | item | 1 | 0.7
+13. grants-another-option | item | 1 | 0.5
+14. bind-a-creature-in-place + strike-with-overwhelming-force | item | 1 | 0.55
+15. know-where-you-are | item | 2 | 0.7
+16. conjure-a-temporary-tool | magical | 1 | 0.65
+17. resist-poison-and-disease | alchemical | 1 | 0.75
+18. unclassified | item | 1 | 0.3
+19. make-light + strike-a-distant-foe | item | 1 | 0.55
+20. turn-an-attack-back | item | 1 | 0.75
+21. reshape-the-ground | technological | 2 | 0.6
+22. poison-a-foe | alchemical | 1 | 0.6
+23. resist-a-kind-of-harm | item | 1 | 0.5
+24. sway-an-audience | tool | 2 | 0.5
+25. survive-a-hostile-environment + resist-poison-and-disease | item | 1 | 0.7

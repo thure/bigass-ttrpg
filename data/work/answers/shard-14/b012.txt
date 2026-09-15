@@ -1,0 +1,25 @@
+1. resist-a-kind-of-harm | item | 1 | 0.85
+2. resist-a-kind-of-harm | item | 1 | 0.85
+3. survive-a-hostile-environment | item | 1 | 0.6
+4. grants-another-option | item | 1 | 0.5
+5. climb-a-vertical-surface | item | 1 | 0.55
+6. specialise-in-a-tradition | divine | 1 | 0.45
+7. survive-a-hostile-environment | item | 1 | 0.6
+8. heal-a-body + protect-a-group | item | 1 | 0.45
+9. increase-proficiency-or-defence | alchemical | 1 | 0.35
+10. lie-convincingly + frighten | item | 1 | 0.5
+11. frighten | item | 1 | 0.6
+12. sway-an-audience | trained-skill | 1 | 0.35
+13. know-where-you-are | item | 1 | 0.45
+14. pass-through-solid-matter | item | 1 | 0.7
+15. craft-an-object | manual | 1 | 0.3
+16. strike-a-distant-foe + harm-many-at-once | item | 1 | 0.45
+17. poison-a-foe | alchemical | 1 | 0.6
+18. craft-an-object | manual | 1 | 0.3
+19. conceal-an-object | social | 2 | 0.55
+20. harm-many-at-once | item | 2 | 0.55
+21. resist-a-kind-of-harm | item | 1 | 0.4
+22. store-an-effect-for-later | magical | 1 | 0.55
+23. resist-a-kind-of-harm | item | 1 | 0.65
+24. seal-a-boundary | tool | 1 | 0.55
+25. harm-many-at-once + inflict-a-lingering-wound | item | 2 | 0.5

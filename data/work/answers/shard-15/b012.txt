@@ -1,0 +1,25 @@
+1. cross-resisting-ground + break-free-of-restraint | magical | 1 | 0.55
+2. resist-a-kind-of-harm | magical | 1 | 0.85
+3. command-obedience + move-through-water | magical | 3 | 0.48
+4. grants-another-option | item | 1 | 0.60
+5. stop-a-foe-moving | magical | 1 | 0.75
+6. call-a-creature-to-fight-for-you | magical | 1 | 0.70
+7. increase-proficiency-or-defence + move-through-water | magical | 1 | 0.42
+8. frighten + change-your-own-shape | magical | 2 | 0.50
+9. sense-a-distant-place | magical | 1 | 0.63
+10. resist-a-kind-of-harm | alchemical | 1 | 0.50
+11. turn-an-attack-back + hide-from-notice | magical | 1 | 0.40
+12. move-through-water | magical | 1 | 0.55
+13. put-to-sleep + poison-a-foe | alchemical | 1 | 0.50
+14. resist-a-kind-of-harm | item | 1 | 0.45
+15. see-through-deception + strike-a-distant-foe | alchemical | 1 | 0.55
+16. communicate-at-a-distance + sense-a-distant-place | magical | 2 | 0.47
+17. harm-many-at-once | magical | 2 | 0.60
+18. numeric-variant | item | 1 | 0.55
+19. alter-gravity-or-orientation | magical | 1 | 0.40
+20. harm-many-at-once | magical | 2 | 0.52
+21. enhance-a-weapon-s-bite + dull-a-foe-s-capability | item | 1 | 0.53
+22. grants-another-option | item | 1 | 0.80
+23. resist-a-kind-of-harm | item | 1 | 0.45
+24. breach-a-locked-boundary + harm-many-at-once | magical | 2 | 0.38
+25. resist-a-kind-of-harm | magical | 1 | 0.45

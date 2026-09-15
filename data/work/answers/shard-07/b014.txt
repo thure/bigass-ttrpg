@@ -1,0 +1,25 @@
+1. speak-with-the-otherwise-mute | magical | 1 | 0.7
+2. harm-many-at-once | magical | 1 | 0.42
+3. detect-magic | magical | 1 | 0.8
+4. be-harder-to-hit + punish-an-opening | magical | 1 | 0.5
+5. bind-a-creature-in-place | magical | 2 | 0.68
+6. harm-many-at-once | magical | 2 | 0.53
+7. rally-the-faltering | magical | 2 | 0.47
+8. increase-proficiency-or-defence | magical | 1 | 0.85
+9. restore-a-diminished-capacity | item | 1 | 0.48
+10. make-an-extradimensional-space | magical | 1 | 0.7
+11. fly | magical | 1 | 0.75
+12. call-a-creature-to-fight-for-you | magical | 1 | 0.65
+13. gain-access-to-closed-circles | social | 1 | 0.58
+14. improve-what-a-companion-can-do | innate | 1 | 0.55
+15. blind-or-deafen | innate | 2 | 0.6
+16. tend-your-companion | magical | 1 | 0.72
+17. cross-resisting-ground | innate | 1 | 0.57
+18. perceive-without-sight | innate | 1 | 0.62
+19. notice-what-is-hidden | innate | 1 | 0.4
+20. guard-your-mind | divine | 1 | 0.7
+21. run-a-long-project | trained-skill | 1 | 0.45
+22. breach-a-locked-boundary | trained-skill | 1 | 0.63
+23. grants-another-option | manual | 1 | 0.52
+24. increase-proficiency-or-defence | trained-skill | 1 | 0.68
+25. strike-a-distant-foe | magical | 1 | 0.7

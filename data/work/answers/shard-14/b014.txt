@@ -1,0 +1,25 @@
+1. harm-many-at-once + survive-a-hostile-environment | item | 2 | 0.5
+2. move-faster + dull-a-foe-s-capability | item | 1 | 0.45
+3. strike-a-distant-foe + dull-a-foe-s-capability | item | 1 | 0.55
+4. harm-many-at-once | item | 2 | 0.6
+5. harm-many-at-once | item | 2 | 0.55
+6. specialise-in-a-tradition | magical | 1 | 0.4
+7. sense-a-distant-place | item | 1 | 0.6
+8. enhance-a-weapon-s-bite | alchemical | 1 | 0.6
+9. dull-a-foe-s-capability | magical | 1 | 0.4
+10. move-faster | item | 2 | 0.55
+11. resist-a-kind-of-harm | magical | 1 | 0.35
+12. craft-an-object | manual | 1 | 0.3
+13. poison-a-foe | alchemical | 1 | 0.65
+14. improve-what-a-companion-can-do | innate | 1 | 0.45
+15. improve-what-a-companion-can-do | innate | 1 | 0.5
+16. improve-what-a-companion-can-do | innate | 1 | 0.5
+17. improve-what-a-companion-can-do | innate | 1 | 0.45
+18. improve-what-a-companion-can-do | innate | 1 | 0.45
+19. increase-attributes-or-health | innate | 1 | 0.55
+20. cure-poison-or-disease | innate | 2 | 0.5
+21. specialise-in-a-tradition | magical | 1 | 0.45
+22. entry-into-an-archetype | trained-skill | 1 | 0.6
+23. entry-into-an-archetype | trained-skill | 1 | 0.6
+24. specialise-in-a-tradition | magical | 1 | 0.45
+25. increase-proficiency-or-defence | innate | 1 | 0.55

@@ -1,0 +1,25 @@
+1. make-light | tool | 1 | 0.8
+2. increase-proficiency-or-defence | item | 1 | 0.52
+3. strike-with-overwhelming-force | item | 1 | 0.58
+4. stop-a-foe-moving + drain-life-to-sustain-yourself | item | 1 | 0.48
+5. gain-an-extra-action | item | 1 | 0.42
+6. interpose-yourself-for-another | item | 1 | 0.72
+7. conjure-a-temporary-tool | item | 1 | 0.6
+8. increase-proficiency-or-defence | item | 1 | 0.78
+9. enhance-a-weapon-s-bite | item | 1 | 0.68
+10. rally-the-faltering | item | 2 | 0.38
+11. gain-a-buffer-of-vitality | alchemical | 1 | 0.82
+12. inflict-a-lingering-wound | alchemical | 1 | 0.54
+13. poison-a-foe | alchemical | 1 | 0.46
+14. extend-your-senses + know-where-you-are | item | 1 | 0.44
+15. know-where-you-are | tool | 2 | 0.53
+16. raise-a-structure | item | 1 | 0.37
+17. secure-shelter-and-supply | manual | 1 | 0.56
+18. recall-what-you-have-learned | item | 1 | 0.76
+19. poison-a-foe | alchemical | 1 | 0.43
+20. imprison-a-creature | item | 1 | 0.75
+21. close-on-a-foe + strike-a-foe-in-reach | item | 1 | 0.41
+22. enhance-a-weapon-s-bite + mark-a-foe-as-vulnerable | alchemical | 1 | 0.57
+23. enhance-a-weapon-s-bite | item | 1 | 0.51
+24. increase-proficiency-or-defence | tool | 1 | 0.59
+25. harm-many-at-once | item | 2 | 0.71

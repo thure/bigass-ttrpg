@@ -248,3 +248,78 @@
 {"id": "pf2e:equipment-2231", "functions": [{"slug": "resist-a-kind-of-harm", "role": "primary", "mechanism": "magical", "scope_tier": 1, "confidence": 0.5}, {"slug": "enhance-a-weapon-s-bite", "role": "secondary", "mechanism": "magical", "scope_tier": 1, "confidence": 0.5}]}
 {"id": "pf2e:equipment-2569-2323", "functions": [{"slug": "negate-an-effect-outright", "role": "primary", "mechanism": "item", "scope_tier": 1, "confidence": 0.4}]}
 {"id": "pf2e:equipment-1554", "functions": [{"slug": "repair-an-object", "role": "primary", "mechanism": "tool", "scope_tier": 1, "confidence": 0.72}]}
+{"id": "pf2e:equipment-3852", "functions": [{"slug": "frighten", "role": "primary", "mechanism": "divine", "scope_tier": 3, "confidence": 0.58}, {"slug": "drain-life-to-sustain-yourself", "role": "secondary", "mechanism": "divine", "scope_tier": 3, "confidence": 0.58}]}
+{"id": "pf2e:equipment-1703", "functions": [{"slug": "bind-a-creature-in-place", "role": "primary", "mechanism": "tool", "scope_tier": 1, "confidence": 0.35}]}
+{"id": "pf2e:equipment-4969-4530", "functions": [{"slug": "travel-overland", "role": "primary", "mechanism": "magical", "scope_tier": 2, "confidence": 0.52}]}
+{"id": "pf2e:equipment-1848", "functions": [{"slug": "store-an-effect-for-later", "role": "primary", "mechanism": "magical", "scope_tier": 1, "confidence": 0.78}]}
+{"id": "pf2e:equipment-3778", "functions": [{"slug": "communicate-at-a-distance", "role": "primary", "mechanism": "magical", "scope_tier": 1, "confidence": 0.63}]}
+{"id": "pf2e:equipment-664", "functions": [{"slug": "go-without-necessities", "role": "primary", "mechanism": "magical", "scope_tier": 1, "confidence": 0.6}, {"slug": "guard-your-mind", "role": "secondary", "mechanism": "magical", "scope_tier": 1, "confidence": 0.6}]}
+{"id": "pf2e:equipment-2383", "functions": [{"slug": "curse-a-creature", "role": "primary", "mechanism": "magical", "scope_tier": 1, "confidence": 0.57}]}
+{"id": "pf2e:equipment-3026", "functions": [{"slug": "charm-into-friendship", "role": "primary", "mechanism": "magical", "scope_tier": 1, "confidence": 0.62}]}
+{"id": "pf2e:equipment-2156", "functions": [{"slug": "restore-a-diminished-capacity", "role": "primary", "mechanism": "magical", "scope_tier": 1, "confidence": 0.74}]}
+{"id": "pf2e:equipment-3574-3431", "functions": [{"slug": "negate-an-effect-outright", "role": "primary", "mechanism": "magical", "scope_tier": 1, "confidence": 0.6}, {"slug": "command-obedience", "role": "secondary", "mechanism": "magical", "scope_tier": 1, "confidence": 0.6}]}
+{"id": "pf2e:equipment-3910-3637", "functions": [{"slug": "protect-a-group", "role": "primary", "mechanism": "magical", "scope_tier": 3, "confidence": 0.66}]}
+{"id": "pf2e:equipment-5107-4595", "functions": [{"slug": "disguise-your-appearance", "role": "primary", "mechanism": "magical", "scope_tier": 1, "confidence": 0.53}]}
+{"id": "pf2e:equipment-5067-4581", "functions": [{"slug": "turn-an-attack-back", "role": "primary", "mechanism": "magical", "scope_tier": 1, "confidence": 0.71}]}
+{"id": "pf2e:equipment-2733-2499", "functions": [{"slug": "bind-a-creature-in-place", "role": "primary", "mechanism": "tool", "scope_tier": 1, "confidence": 0.82}]}
+{"id": "pf2e:equipment-3585-3437", "functions": [{"slug": "know-where-you-are", "role": "primary", "mechanism": "item", "scope_tier": 2, "confidence": 0.44}]}
+{"id": "pf2e:equipment-3002-2862", "functions": [{"slug": "make-an-extradimensional-space", "role": "primary", "mechanism": "magical", "scope_tier": 1, "confidence": 0.56}]}
+{"id": "pf2e:equipment-33", "functions": [{"slug": "grants-another-option", "role": "primary", "mechanism": "item", "scope_tier": 1, "confidence": 0.46}]}
+{"id": "pf2e:equipment-4122", "functions": [{"slug": "gain-access-to-closed-circles", "role": "primary", "mechanism": "social", "scope_tier": 1, "confidence": 0.61}]}
+{"id": "pf2e:equipment-1595", "functions": [{"slug": "increase-proficiency-or-defence", "role": "primary", "mechanism": "item", "scope_tier": 1, "confidence": 0.5}]}
+{"id": "dnd5e-2024:equipment:mirror", "functions": [{"slug": "extend-your-senses", "role": "primary", "mechanism": "tool", "scope_tier": 1, "confidence": 0.43}]}
+{"id": "pf2e:equipment-4342", "functions": [{"slug": "confuse-or-scramble-a-mind", "role": "primary", "mechanism": "magical", "scope_tier": 1, "confidence": 0.55}]}
+{"id": "pf2e:equipment-3744-3545", "functions": [{"slug": "reposition-another-creature", "role": "primary", "mechanism": "magical", "scope_tier": 1, "confidence": 0.69}]}
+{"id": "pf2e:equipment-588", "functions": [{"slug": "learn-a-place-or-object-s-past", "role": "primary", "mechanism": "magical", "scope_tier": 1, "confidence": 0.54}]}
+{"id": "pf2e:equipment-2987", "functions": [{"slug": "inflict-a-lingering-wound", "role": "primary", "mechanism": "magical", "scope_tier": 1, "confidence": 0.67}]}
+{"id": "pf2e:equipment-2212", "functions": [{"slug": "know-where-you-are", "role": "primary", "mechanism": "magical", "scope_tier": 1, "confidence": 0.73}]}
+{"id": "pf2e:equipment-3343", "functions": [{"slug": "poison-a-foe", "role": "primary", "mechanism": "alchemical", "scope_tier": 1, "confidence": 0.82}]}
+{"id": "pf2e:equipment-1419-1329", "functions": [{"slug": "resist-a-kind-of-harm", "role": "primary", "mechanism": "item", "scope_tier": 1, "confidence": 0.42}]}
+{"id": "pf2e:equipment-2630", "functions": [{"slug": "bind-a-creature-in-place", "role": "primary", "mechanism": "magical", "scope_tier": 1, "confidence": 0.58}, {"slug": "blind-or-deafen", "role": "secondary", "mechanism": "magical", "scope_tier": 1, "confidence": 0.58}]}
+{"id": "dnd5e-2024:poisons:oil-of-taggit", "functions": [{"slug": "put-to-sleep", "role": "primary", "mechanism": "alchemical", "scope_tier": 1, "confidence": 0.74}, {"slug": "poison-a-foe", "role": "secondary", "mechanism": "alchemical", "scope_tier": 1, "confidence": 0.74}]}
+{"id": "dnd5e-2014:equipment:orb", "functions": [{"slug": "grants-another-option", "role": "primary", "mechanism": "item", "scope_tier": 1, "confidence": 0.35}]}
+{"id": "pf2e:equipment-4020", "functions": [{"slug": "frighten", "role": "primary", "mechanism": "divine", "scope_tier": 2, "confidence": 0.5}, {"slug": "harm-many-at-once", "role": "secondary", "mechanism": "divine", "scope_tier": 2, "confidence": 0.5}]}
+{"id": "dnd5e-2024:equipment:parchment", "functions": [{"slug": "grants-another-option", "role": "primary", "mechanism": "item", "scope_tier": 1, "confidence": 0.28}]}
+{"id": "pf2e:equipment-3890", "functions": [{"slug": "harm-many-at-once", "role": "primary", "mechanism": "magical", "scope_tier": 2, "confidence": 0.63}, {"slug": "frighten", "role": "secondary", "mechanism": "magical", "scope_tier": 2, "confidence": 0.63}]}
+{"id": "pf2e:equipment-1783", "functions": [{"slug": "pass-through-solid-matter", "role": "primary", "mechanism": "magical", "scope_tier": 1, "confidence": 0.48}, {"slug": "strike-a-foe-in-reach", "role": "secondary", "mechanism": "magical", "scope_tier": 1, "confidence": 0.48}]}
+{"id": "pf2e:equipment-2141", "functions": [{"slug": "shrug-off-an-effect-you-failed-to-avoid", "role": "primary", "mechanism": "magical", "scope_tier": 1, "confidence": 0.6}, {"slug": "increase-proficiency-or-defence", "role": "secondary", "mechanism": "magical", "scope_tier": 1, "confidence": 0.6}]}
+{"id": "pf2e:equipment-2781-2563", "functions": [{"slug": "change-your-nature", "role": "primary", "mechanism": "magical", "scope_tier": 1, "confidence": 0.45}, {"slug": "curse-a-creature", "role": "secondary", "mechanism": "magical", "scope_tier": 1, "confidence": 0.45}]}
+{"id": "pf2e:equipment-606-637", "functions": [{"slug": "curse-a-creature", "role": "primary", "mechanism": "magical", "scope_tier": 1, "confidence": 0.66}, {"slug": "poison-a-foe", "role": "secondary", "mechanism": "magical", "scope_tier": 1, "confidence": 0.66}]}
+{"id": "pf2e:equipment-5107", "functions": [{"slug": "disguise-your-appearance", "role": "primary", "mechanism": "magical", "scope_tier": 1, "confidence": 0.57}]}
+{"id": "dnd5e-2014:magic-items:potion-of-resistance-force", "functions": [{"slug": "resist-a-kind-of-harm", "role": "primary", "mechanism": "alchemical", "scope_tier": 1, "confidence": 0.88}]}
+{"id": "dnd5e-2014:magic-items:potion-of-resistance-necrotic", "functions": [{"slug": "resist-a-kind-of-harm", "role": "primary", "mechanism": "alchemical", "scope_tier": 1, "confidence": 0.86}]}
+{"id": "pf2e:equipment-2955", "functions": [{"slug": "evade-magical-detection", "role": "primary", "mechanism": "magical", "scope_tier": 1, "confidence": 0.65}, {"slug": "become-invisible", "role": "secondary", "mechanism": "magical", "scope_tier": 1, "confidence": 0.65}]}
+{"id": "pf2e:equipment-3715", "functions": [{"slug": "poison-a-foe", "role": "primary", "mechanism": "magical", "scope_tier": 2, "confidence": 0.59}, {"slug": "harm-many-at-once", "role": "secondary", "mechanism": "magical", "scope_tier": 2, "confidence": 0.59}]}
+{"id": "pf2e:equipment-3101", "functions": [{"slug": "move-faster", "role": "primary", "mechanism": "magical", "scope_tier": 1, "confidence": 0.79}]}
+{"id": "pf2e:equipment-655-660", "functions": [{"slug": "calm-hostility", "role": "primary", "mechanism": "alchemical", "scope_tier": 2, "confidence": 0.38}]}
+{"id": "pf2e:equipment-848", "functions": [{"slug": "repair-an-object", "role": "primary", "mechanism": "alchemical", "scope_tier": 1, "confidence": 0.76}]}
+{"id": "pf2e:equipment-573", "functions": [{"slug": "control-water", "role": "primary", "mechanism": "magical", "scope_tier": 2, "confidence": 0.61}]}
+{"id": "pf2e:equipment-4983", "functions": [{"slug": "absorb-or-blunt-damage", "role": "primary", "mechanism": "magical", "scope_tier": 2, "confidence": 0.55}, {"slug": "harm-many-at-once", "role": "secondary", "mechanism": "magical", "scope_tier": 2, "confidence": 0.55}]}
+{"id": "pf2e:equipment-2811-2622", "functions": [{"slug": "increase-proficiency-or-defence", "role": "primary", "mechanism": "item", "scope_tier": 1, "confidence": 0.72}]}
+{"id": "pf2e:equipment-880-862", "functions": [{"slug": "recruit-help", "role": "primary", "mechanism": "social", "scope_tier": 2, "confidence": 0.52}]}
+{"id": "pf2e:equipment-1090", "functions": [{"slug": "resist-a-kind-of-harm", "role": "primary", "mechanism": "magical", "scope_tier": 1, "confidence": 0.81}]}
+{"id": "dnd5e-2024:magic-items:ring-of-elemental-command", "functions": [{"slug": "command-obedience", "role": "primary", "mechanism": "magical", "scope_tier": 1, "confidence": 0.5}, {"slug": "turn-or-rebuke-a-creature-type", "role": "secondary", "mechanism": "magical", "scope_tier": 1, "confidence": 0.5}]}
+{"id": "dnd5e-2014:magic-items:ring-of-protection", "functions": [{"slug": "increase-proficiency-or-defence", "role": "primary", "mechanism": "item", "scope_tier": 1, "confidence": 0.85}]}
+{"id": "dnd5e-2014:magic-items:ring-of-telekinesis", "functions": [{"slug": "reposition-another-creature", "role": "primary", "mechanism": "magical", "scope_tier": 1, "confidence": 0.35}]}
+{"id": "dnd5e-2014:magic-items:robe-of-eyes", "functions": [{"slug": "extend-your-senses", "role": "primary", "mechanism": "magical", "scope_tier": 1, "confidence": 0.55}, {"slug": "perceive-the-incorporeal", "role": "secondary", "mechanism": "magical", "scope_tier": 1, "confidence": 0.55}]}
+{"id": "dnd5e-2014:magic-items:rod-of-lordly-might", "functions": [{"slug": "grants-another-option", "role": "primary", "mechanism": "magical", "scope_tier": 1, "confidence": 0.42}]}
+{"id": "pf2e:equipment-2113", "functions": [{"slug": "store-an-effect-for-later", "role": "primary", "mechanism": "magical", "scope_tier": 1, "confidence": 0.65}]}
+{"id": "pf2e:equipment-2750", "functions": [{"slug": "secure-shelter-and-supply", "role": "primary", "mechanism": "item", "scope_tier": 1, "confidence": 0.3}]}
+{"id": "pf2e:equipment-1964", "functions": [{"slug": "resist-poison-and-disease", "role": "primary", "mechanism": "alchemical", "scope_tier": 1, "confidence": 0.6}]}
+{"id": "dnd5e-2024:equipment:scholars-pack", "functions": [{"slug": "secure-shelter-and-supply", "role": "primary", "mechanism": "item", "scope_tier": 1, "confidence": 0.4}]}
+{"id": "pf2e:equipment-914-898", "functions": [{"slug": "lie-convincingly", "role": "primary", "mechanism": "magical", "scope_tier": 1, "confidence": 0.45}]}
+{"id": "pf2e:equipment-1314", "functions": [{"slug": "speak-with-the-otherwise-mute", "role": "primary", "mechanism": "alchemical", "scope_tier": 1, "confidence": 0.62}]}
+{"id": "pf2e:equipment-2386", "functions": [{"slug": "redirect-harm", "role": "primary", "mechanism": "magical", "scope_tier": 2, "confidence": 0.66}]}
+{"id": "pf2e:equipment-3400", "functions": [{"slug": "absorb-or-blunt-damage", "role": "primary", "mechanism": "magical", "scope_tier": 1, "confidence": 0.7}]}
+{"id": "pf2e:equipment-1423", "functions": [{"slug": "enhance-a-weapon-s-bite", "role": "primary", "mechanism": "item", "scope_tier": 1, "confidence": 0.38}]}
+{"id": "pf2e:equipment-1807", "functions": [{"slug": "guard-your-mind", "role": "primary", "mechanism": "magical", "scope_tier": 1, "confidence": 0.68}]}
+{"id": "pf2e:equipment-2860", "functions": [{"slug": "enhance-a-weapon-s-bite", "role": "primary", "mechanism": "item", "scope_tier": 1, "confidence": 0.57}]}
+{"id": "pf2e:equipment-3030", "functions": [{"slug": "breach-a-locked-boundary", "role": "primary", "mechanism": "magical", "scope_tier": 1, "confidence": 0.82}]}
+{"id": "dnd5e-2014:magic-items:slippers-of-spider-climbing", "functions": [{"slug": "climb-a-vertical-surface", "role": "primary", "mechanism": "magical", "scope_tier": 1, "confidence": 0.83}]}
+{"id": "pf2e:equipment-2014", "functions": [{"slug": "poison-a-foe", "role": "primary", "mechanism": "alchemical", "scope_tier": 1, "confidence": 0.72}]}
+{"id": "pf2e:equipment-2752", "functions": [{"slug": "unclassified", "role": "primary", "mechanism": "manual", "scope_tier": 1, "confidence": 0.2}]}
+{"id": "pf2e:equipment-1736", "functions": [{"slug": "store-an-effect-for-later", "role": "primary", "mechanism": "magical", "scope_tier": 1, "confidence": 0.63}]}
+{"id": "pf2e:equipment-2316", "functions": [{"slug": "extend-your-senses", "role": "primary", "mechanism": "magical", "scope_tier": 1, "confidence": 0.58}, {"slug": "read-another-intent", "role": "secondary", "mechanism": "magical", "scope_tier": 1, "confidence": 0.58}]}
+{"id": "dnd5e-2014:equipment:spellbook", "functions": [{"slug": "grants-another-option", "role": "primary", "mechanism": "item", "scope_tier": 1, "confidence": 0.32}]}
+{"id": "pf2e:equipment-4098", "functions": [{"slug": "gain-access-to-closed-circles", "role": "primary", "mechanism": "magical", "scope_tier": 1, "confidence": 0.48}, {"slug": "disguise-your-appearance", "role": "secondary", "mechanism": "magical", "scope_tier": 1, "confidence": 0.48}]}
+{"id": "pf2e:equipment-3285", "functions": [{"slug": "perceive-the-incorporeal", "role": "primary", "mechanism": "magical", "scope_tier": 1, "confidence": 0.61}, {"slug": "strike-a-distant-foe", "role": "secondary", "mechanism": "magical", "scope_tier": 1, "confidence": 0.61}]}

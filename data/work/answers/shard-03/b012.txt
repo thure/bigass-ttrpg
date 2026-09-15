@@ -1,0 +1,25 @@
+1. call-an-outsider | magical | 1 | 0.65
+2. resist-a-kind-of-harm | magical | 1 | 0.7
+3. move-through-water | magical | 1 | 0.75
+4. harm-many-at-once + frighten | magical | 1 | 0.5
+5. protect-a-group + act-sooner-than-others | magical | 2 | 0.45
+6. strike-a-distant-foe | magical | 1 | 0.4
+7. travel-between-planes | divine | 3 | 0.4
+8. poison-a-foe | magical | 1 | 0.45
+9. provoke-a-foe-to-target-you | magical | 1 | 0.55
+10. divine-an-answer | magical | 1 | 0.4
+11. call-a-creature-to-fight-for-you | magical | 1 | 0.55
+12. reshape-the-ground + command-the-weather | magical | 1 | 0.45
+13. poison-a-foe | magical | 1 | 0.5
+14. grow-or-shrink | magical | 1 | 0.7
+15. silence-magic | magical | 1 | 0.6
+16. store-an-effect-for-later | magical | 1 | 0.45
+17. grow-or-shrink | magical | 1 | 0.65
+18. read-another-intent | magical | 1 | 0.45
+19. resist-a-kind-of-harm | item | 1 | 0.4
+20. store-an-effect-for-later | magical | 2 | 0.45
+21. gain-a-buffer-of-vitality | magical | 1 | 0.5
+22. poison-a-foe | alchemical | 1 | 0.65
+23. store-an-effect-for-later | magical | 1 | 0.55
+24. unclassified | item | 1 | 0.2
+25. perceive-the-incorporeal + speak-with-the-otherwise-mute | item | 1 | 0.45

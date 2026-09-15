@@ -1,0 +1,25 @@
+1. conceal-an-object | magical | 1 | 0.72
+2. guard-your-mind | magical | 1 | 0.78
+3. teleport-a-great-distance | magical | 1 | 0.5
+4. move-faster | magical | 1 | 0.8
+5. negate-an-effect-outright + store-an-effect-for-later | magical | 1 | 0.65
+6. charm-into-friendship + curse-a-creature | magical | 1 | 0.6
+7. call-a-creature-to-fight-for-you | magical | 2 | 0.6
+8. raise-a-structure | magical | 3 | 0.75
+9. poison-a-foe | alchemical | 1 | 0.8
+10. heal-a-body | alchemical | 1 | 0.55
+11. poison-a-foe | alchemical | 1 | 0.8
+12. enhance-a-weapon-s-bite + gain-a-buffer-of-vitality | magical | 1 | 0.55
+13. redirect-harm | magical | 1 | 0.7
+14. breach-a-locked-boundary | tool | 1 | 0.7
+15. disguise-what-a-thing-is + survive-a-hostile-environment | magical | 1 | 0.6
+16. numeric-variant | item | 1 | 0.55
+17. enhance-a-weapon-s-bite | magical | 1 | 0.65
+18. put-to-sleep | magical | 1 | 0.82
+19. set-a-trap + obscure-an-area | alchemical | 2 | 0.65
+20. slow-a-foe | alchemical | 1 | 0.72
+21. heal-many-at-once + harm-many-at-once | divine | 3 | 0.55
+22. resist-a-kind-of-harm + strike-a-distant-foe | magical | 2 | 0.55
+23. grants-another-option | magical | 1 | 0.6
+24. destroy-an-object + kill-outright | magical | 2 | 0.4
+25. stop-a-foe-moving | magical | 1 | 0.75

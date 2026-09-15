@@ -1,0 +1,25 @@
+1. survive-a-hostile-environment + resist-a-kind-of-harm | alchemical | 1 | 0.55
+2. strike-a-foe-in-reach + slow-a-foe | magical | 1 | 0.6
+3. condition-state | magical | 1 | 0.42
+4. resist-a-kind-of-harm | manual | 1 | 0.35
+5. detect-a-kind-of-creature + resist-a-kind-of-harm | magical | 4 | 0.5
+6. increase-proficiency-or-defence | magical | 1 | 0.56
+7. be-harder-to-hit | manual | 1 | 0.63
+8. draw-on-a-higher-power + improve-your-luck | divine | 4 | 0.52
+9. strike-a-distant-foe + pass-through-solid-matter | magical | 1 | 0.58
+10. unclassified | manual | 1 | 0.3
+11. increase-proficiency-or-defence | item | 1 | 0.48
+12. harm-many-at-once | magical | 2 | 0.68
+13. negate-an-effect-outright + resist-a-kind-of-harm | magical | 1 | 0.65
+14. become-insubstantial | magical | 1 | 0.33
+15. poison-a-foe + disguise-what-a-thing-is | alchemical | 1 | 0.62
+16. survive-a-hostile-environment | magical | 1 | 0.78
+17. enhance-a-weapon-s-bite + change-your-own-shape | magical | 1 | 0.46
+18. poison-a-foe | magical | 1 | 0.53
+19. condition-state | magical | 1 | 0.61
+20. attack-more-often | magical | 1 | 0.75
+21. secure-shelter-and-supply | manual | 1 | 0.66
+22. learn-a-place-or-object-s-past | magical | 1 | 0.45
+23. specialise-in-a-tradition | divine | 1 | 0.47
+24. absorb-or-blunt-damage | magical | 1 | 0.8
+25. learn-a-place-or-object-s-past | magical | 1 | 0.44

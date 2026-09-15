@@ -1,0 +1,25 @@
+1. disguise-what-a-thing-is | item | 1 | 0.55
+2. harm-many-at-once | item | 2 | 0.4
+3. harm-many-at-once | item | 2 | 0.55
+4. extend-your-senses | item | 1 | 0.55
+5. be-harder-to-hit | technological | 1 | 0.55
+6. bind-yourself-to-a-power + increase-proficiency-or-defence | magical | 1 | 0.5
+7. put-to-sleep | alchemical | 1 | 0.6
+8. increase-proficiency-or-defence | item | 1 | 0.6
+9. command-obedience | magical | 1 | 0.35
+10. increase-proficiency-or-defence | item | 1 | 0.35
+11. grants-another-option | manual | 1 | 0.35
+12. command-obedience | item | 1 | 0.5
+13. grants-another-option | item | 1 | 0.45
+14. bind-yourself-to-a-power | magical | 1 | 0.5
+15. enhance-a-weapon-s-bite | item | 1 | 0.55
+16. harm-many-at-once | item | 1 | 0.55
+17. poison-a-foe | technological | 1 | 0.6
+18. craft-an-object | divine | 1 | 0.5
+19. craft-an-object | item | 1 | 0.6
+20. harm-many-at-once | item | 1 | 0.55
+21. increase-proficiency-or-defence + absorb-or-blunt-damage | item | 1 | 0.45
+22. cross-resisting-ground | item | 1 | 0.55
+23. alter-belief-or-memory + lie-convincingly | item | 1 | 0.6
+24. conjure-a-temporary-tool | magical | 1 | 0.5
+25. curse-a-creature | divine | 2 | 0.4

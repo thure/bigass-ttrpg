@@ -1,0 +1,25 @@
+1. resist-a-kind-of-harm | alchemical | 1 | 0.5
+2. turn-an-attack-back | item | 1 | 0.65
+3. sense-a-distant-place | magical | 2 | 0.5
+4. heal-a-body | magical | 1 | 0.7
+5. detect-a-kind-of-creature + communicate-at-a-distance | magical | 4 | 0.45
+6. bind-yourself-to-a-power | magical | 1 | 0.55
+7. communicate-at-a-distance | magical | 1 | 0.7
+8. cure-poison-or-disease | alchemical | 1 | 0.65
+9. turn-or-rebuke-a-creature-type | magical | 2 | 0.5
+10. ward-an-area | magical | 1 | 0.5
+11. kill-outright | magical | 1 | 0.45
+12. enhance-a-weapon-s-bite | magical | 1 | 0.75
+13. unclassified | item | 1 | 0.3
+14. increase-attributes-or-health | magical | 1 | 0.75
+15. change-your-own-shape | magical | 1 | 0.7
+16. go-without-necessities | magical | 1 | 0.8
+17. grants-another-option | magical | 1 | 0.45
+18. restore-a-diminished-capacity | item | 1 | 0.6
+19. poison-a-foe | alchemical | 1 | 0.8
+20. strike-a-distant-foe | magical | 1 | 0.55
+21. go-without-necessities | magical | 1 | 0.75
+22. learn-a-place-or-object-s-past | magical | 1 | 0.45
+23. specialise-in-a-tradition | divine | 1 | 0.4
+24. increase-proficiency-or-defence | magical | 1 | 0.8
+25. strike-a-distant-foe | magical | 1 | 0.6

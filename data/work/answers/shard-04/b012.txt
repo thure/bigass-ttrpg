@@ -1,0 +1,25 @@
+1. command-obedience + cross-resisting-ground | magical | 2 | 0.5
+2. notice-what-is-hidden | magical | 1 | 0.4
+3. move-through-water | magical | 1 | 0.8
+4. gain-access-to-closed-circles | social | 1 | 0.5
+5. protect-a-group + detect-magic | magical | 2 | 0.5
+6. travel-overland | tool | 1 | 0.45
+7. ride-a-mount | tool | 1 | 0.7
+8. inflict-a-lingering-wound + drain-vitality-lastingly | magical | 1 | 0.5
+9. craft-an-object | magical | 1 | 0.45
+10. lie-convincingly + conceal-an-object | magical | 1 | 0.45
+11. enhance-a-weapon-s-bite | magical | 1 | 0.75
+12. curse-a-creature | magical | 1 | 0.65
+13. cross-resisting-ground + reposition-another-creature | magical | 1 | 0.4
+14. destroy-an-object | magical | 1 | 0.55
+15. silence-magic | magical | 1 | 0.8
+16. enhance-a-weapon-s-bite | magical | 1 | 0.5
+17. resist-a-kind-of-harm + cure-poison-or-disease | magical | 1 | 0.45
+18. break-free-of-restraint | magical | 1 | 0.5
+19. enhance-a-weapon-s-bite | magical | 1 | 0.75
+20. cross-resisting-ground | tool | 1 | 0.75
+21. gain-a-buffer-of-vitality + heal-many-at-once | magical | 2 | 0.45
+22. lead-an-organisation + inflict-a-lingering-wound | magical | 4 | 0.5
+23. store-an-effect-for-later | magical | 1 | 0.75
+24. climb-a-vertical-surface + bind-a-creature-in-place | magical | 1 | 0.55
+25. detect-a-kind-of-creature | magical | 1 | 0.5

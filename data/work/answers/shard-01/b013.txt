@@ -1,0 +1,25 @@
+1. make-light | alchemical | 1 | 0.55
+2. grants-another-option + hide-from-notice | magical | 1 | 0.5
+3. grants-another-option | magical | 1 | 0.6
+4. harm-many-at-once + grants-another-option | magical | 3 | 0.45
+5. dull-a-foe-s-capability | magical | 1 | 0.55
+6. persuade-by-reason-or-charm + gain-a-buffer-of-vitality | magical | 1 | 0.55
+7. harm-many-at-once + resist-a-kind-of-harm | magical | 3 | 0.65
+8. tend-your-companion | magical | 1 | 0.5
+9. break-free-of-restraint + enhance-a-weapon-s-bite | magical | 1 | 0.6
+10. grants-another-option | magical | 1 | 0.55
+11. secure-shelter-and-supply | tool | 1 | 0.5
+12. secure-shelter-and-supply | tool | 1 | 0.65
+13. conceal-an-object + blind-or-deafen | magical | 1 | 0.5
+14. shrug-off-an-effect-you-failed-to-avoid + absorb-or-blunt-damage | magical | 1 | 0.68
+15. glimpse-the-future | magical | 1 | 0.75
+16. break-free-of-restraint + enhance-a-weapon-s-bite | technological | 1 | 0.62
+17. bind-a-creature-in-place | magical | 1 | 0.68
+18. trade-and-bargain | item | 1 | 0.3
+19. set-a-trap + reshape-the-ground | alchemical | 1 | 0.6
+20. cross-resisting-ground | technological | 1 | 0.72
+21. protect-a-group | divine | 2 | 0.6
+22. bind-a-creature-in-place | magical | 1 | 0.45
+23. enhance-a-weapon-s-bite + drain-vitality-lastingly | divine | 1 | 0.55
+24. drain-life-to-sustain-yourself | magical | 1 | 0.78
+25. grants-another-option | magical | 1 | 0.58

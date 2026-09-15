@@ -1,0 +1,25 @@
+1. confuse-or-scramble-a-mind | item | 1 | 0.55
+2. turn-or-rebuke-a-creature-type | technological | 1 | 0.6
+3. disengage-from-danger + be-harder-to-hit | item | 1 | 0.5
+4. cheat-death + absorb-or-blunt-damage | item | 1 | 0.65
+5. disengage-from-danger | item | 1 | 0.55
+6. secure-shelter-and-supply | item | 1 | 0.4
+7. improve-your-luck | item | 1 | 0.75
+8. increase-proficiency-or-defence | item | 1 | 0.75
+9. harm-many-at-once + know-where-you-are | item | 1 | 0.5
+10. persuade-by-reason-or-charm + inspire-allies | item | 1 | 0.5
+11. grants-another-option | item | 1 | 0.35
+12. store-an-effect-for-later | alchemical | 1 | 0.7
+13. glimpse-the-future + draw-on-an-inner-source | divine | 1 | 0.55
+14. resist-a-kind-of-harm | item | 1 | 0.75
+15. know-where-you-are | item | 1 | 0.45
+16. disguise-your-appearance + impersonate-a-specific-person | item | 1 | 0.55
+17. secure-shelter-and-supply | item | 1 | 0.5
+18. repair-an-object | alchemical | 1 | 0.6
+19. poison-a-foe + store-an-effect-for-later | alchemical | 1 | 0.65
+20. confuse-or-scramble-a-mind + sense-a-distant-place | item | 2 | 0.4
+21. negate-an-effect-outright + command-obedience | item | 1 | 0.55
+22. obscure-an-area + dull-a-foe-s-capability | item | 1 | 0.5
+23. inscribe-a-lasting-mark | item | 1 | 0.6
+24. strike-a-distant-foe + specialise-in-a-tradition | item | 1 | 0.45
+25. conjure-a-temporary-tool | item | 1 | 0.75

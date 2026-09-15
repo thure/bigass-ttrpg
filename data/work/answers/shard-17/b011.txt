@@ -1,0 +1,25 @@
+1. reshape-the-ground | magical | 1 | 0.6
+2. absorb-or-blunt-damage | alchemical | 1 | 0.5
+3. pass-through-solid-matter | magical | 1 | 0.75
+4. survive-a-hostile-environment | item | 1 | 0.75
+5. absorb-or-blunt-damage | item | 1 | 0.35
+6. perceive-without-sight | alchemical | 1 | 0.85
+7. guard-your-mind | alchemical | 1 | 0.7
+8. become-hard-to-kill + heal-a-body | magical | 1 | 0.7
+9. recover-on-your-own + resist-a-kind-of-harm | magical | 1 | 0.55
+10. dull-a-foe-s-capability | magical | 1 | 0.65
+11. lie-convincingly + guard-your-mind | alchemical | 1 | 0.5
+12. increase-proficiency-or-defence | item | 1 | 0.5
+13. climb-a-vertical-surface | alchemical | 1 | 0.85
+14. heal-a-body | alchemical | 1 | 0.9
+15. turn-an-attack-back | magical | 1 | 0.8
+16. grants-another-option | magical | 1 | 0.3
+17. conceal-a-place | magical | 1 | 0.7
+18. set-a-trap | magical | 1 | 0.75
+19. become-hard-to-kill | magical | 1 | 0.55
+20. make-light | magical | 1 | 0.45
+21. strike-a-foe-in-reach | magical | 1 | 0.55
+22. inflict-a-lingering-wound | alchemical | 1 | 0.6
+23. repair-an-object | tool | 1 | 0.85
+24. heal-a-body | magical | 1 | 0.6
+25. resist-a-kind-of-harm | magical | 1 | 0.9

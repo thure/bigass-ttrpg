@@ -1,0 +1,25 @@
+1. obscure-an-area | alchemical | 2 | 0.4
+2. charm-into-friendship + turn-an-attack-back | magical | 1 | 0.5
+3. harm-many-at-once | magical | 4 | 0.35
+4. specialise-in-a-tradition | magical | 1 | 0.42
+5. strike-a-foe-in-reach | magical | 1 | 0.55
+6. enhance-a-weapon-s-bite | alchemical | 1 | 0.65
+7. dull-a-foe-s-capability | divine | 2 | 0.45
+8. restore-a-diminished-capacity | alchemical | 1 | 0.5
+9. resist-a-kind-of-harm | item | 1 | 0.7
+10. lie-convincingly | magical | 1 | 0.6
+11. sense-a-distant-place | magical | 2 | 0.55
+12. frighten | magical | 1 | 0.75
+13. dull-a-foe-s-capability | magical | 2 | 0.55
+14. poison-a-foe | magical | 1 | 0.4
+15. breach-a-locked-boundary + disable-a-device | tool | 1 | 0.6
+16. turn-an-attack-back | psychic | 1 | 0.48
+17. unclassified | alchemical | 1 | 0.35
+18. gain-a-buffer-of-vitality | magical | 1 | 0.6
+19. unclassified | item | 1 | 0.3
+20. grow-or-wither-plants | magical | 1 | 0.55
+21. see-through-deception | magical | 1 | 0.6
+22. disengage-from-danger | magical | 1 | 0.5
+23. speak-with-the-otherwise-mute | magical | 1 | 0.55
+24. absorb-or-blunt-damage | magical | 1 | 0.55
+25. poison-a-foe | alchemical | 1 | 0.62

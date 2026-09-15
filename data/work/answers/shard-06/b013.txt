@@ -1,0 +1,25 @@
+1. move-faster | magical | 1 | 0.58
+2. store-an-effect-for-later + harm-many-at-once | magical | 2 | 0.52
+3. store-an-effect-for-later | magical | 1 | 0.50
+4. store-an-effect-for-later | magical | 1 | 0.47
+5. survive-a-hostile-environment + travel-between-planes | divine | 2 | 0.40
+6. shrug-off-an-effect-you-failed-to-avoid | magical | 2 | 0.45
+7. lie-convincingly | magical | 1 | 0.48
+8. heal-many-at-once | magical | 2 | 0.55
+9. harm-many-at-once | magical | 2 | 0.68
+10. recall-what-you-have-learned | magical | 2 | 0.33
+11. poison-a-foe | alchemical | 1 | 0.78
+12. conjure-a-temporary-tool | magical | 1 | 0.56
+13. harm-many-at-once + increase-proficiency-or-defence | magical | 2 | 0.44
+14. drain-life-to-sustain-yourself + command-obedience | magical | 1 | 0.53
+15. breach-a-locked-boundary | tool | 1 | 0.60
+16. fly + absorb-or-blunt-damage | magical | 1 | 0.62
+17. slow-or-hasten-time-for-others | magical | 1 | 0.65
+18. increase-attributes-or-health | item | 1 | 0.82
+19. poison-a-foe | alchemical | 1 | 0.80
+20. tend-your-companion | manual | 1 | 0.32
+21. poison-a-foe + negate-an-effect-outright | alchemical | 1 | 0.63
+22. learn-a-place-or-object-s-past + perceive-without-sight | magical | 1 | 0.51
+23. break-free-of-restraint + speak-with-the-otherwise-mute | magical | 1 | 0.42
+24. know-where-you-are + grants-another-option | magical | 1 | 0.38
+25. belong-to-an-order | social | 1 | 0.35

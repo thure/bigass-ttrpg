@@ -1,0 +1,25 @@
+1. keep-the-dying-alive | alchemical | 1 | 0.85
+2. bind-a-creature-in-place | magical | 1 | 0.78
+3. strike-a-distant-foe | magical | 1 | 0.68
+4. poison-a-foe + coerce-through-threat | divine | 1 | 0.48
+5. harm-many-at-once | magical | 3 | 0.72
+6. seal-a-boundary | tool | 1 | 0.82
+7. numeric-variant | item | 1 | 0.45
+8. frighten | magical | 3 | 0.8
+9. numeric-variant | magical | 1 | 0.88
+10. harm-many-at-once | magical | 3 | 0.6
+11. strike-a-distant-foe | magical | 1 | 0.68
+12. reposition-another-creature | magical | 1 | 0.73
+13. teleport-a-short-distance | magical | 1 | 0.58
+14. bind-a-creature-in-place | tool | 1 | 0.83
+15. increase-attributes-or-health | magical | 1 | 0.92
+16. raise-a-structure + charm-into-friendship | magical | 2 | 0.5
+17. teleport-a-short-distance + increase-proficiency-or-defence | magical | 1 | 0.52
+18. absorb-or-blunt-damage + persuade-by-reason-or-charm | magical | 1 | 0.55
+19. communicate-at-a-distance | magical | 1 | 0.77
+20. store-an-effect-for-later | alchemical | 1 | 0.7
+21. heal-a-body | magical | 1 | 0.85
+22. strike-a-distant-foe | alchemical | 1 | 0.75
+23. lift-a-curse | magical | 1 | 0.62
+24. disguise-your-appearance | magical | 1 | 0.71
+25. guard-your-mind + communicate-at-a-distance | magical | 2 | 0.55

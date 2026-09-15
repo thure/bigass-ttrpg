@@ -1,0 +1,25 @@
+1. frighten + close-on-a-foe | item | 1 | 0.6
+2. dull-a-foe-s-capability + slow-a-foe | item | 1 | 0.5
+3. animate-the-inanimate | alchemical | 1 | 0.7
+4. perceive-without-sight | item | 1 | 0.75
+5. become-hard-to-kill | item | 1 | 0.4
+6. travel-overland + survive-a-hostile-environment | item | 1 | 0.55
+7. communicate-at-a-distance | item | 1 | 0.6
+8. heal-a-body + resist-poison-and-disease | item | 1 | 0.7
+9. cure-poison-or-disease + quiet-a-troubled-mind | item | 1 | 0.5
+10. frighten | item | 2 | 0.6
+11. raise-a-structure | item | 3 | 0.55
+12. walk-on-unstable-footing | item | 1 | 0.8
+13. charm-into-friendship | item | 1 | 0.7
+14. redirect-harm | item | 1 | 0.8
+15. resist-a-kind-of-harm | item | 1 | 0.85
+16. numeric-variant | item | 1 | 0.5
+17. negate-an-effect-outright + turn-an-attack-back | item | 1 | 0.5
+18. detect-magic | alchemical | 1 | 0.55
+19. breach-a-locked-boundary + conceal-an-object | item | 1 | 0.55
+20. grants-another-option | item | 1 | 0.35
+21. speak-with-the-otherwise-mute | item | 1 | 0.75
+22. shrug-off-an-effect-you-failed-to-avoid | item | 1 | 0.75
+23. harm-many-at-once | alchemical | 1 | 0.5
+24. blind-or-deafen + resist-a-kind-of-harm | item | 1 | 0.5
+25. harm-many-at-once + blind-or-deafen | divine | 2 | 0.6

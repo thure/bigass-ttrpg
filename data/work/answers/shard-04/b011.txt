@@ -1,0 +1,25 @@
+1. move-a-group | magical | 3 | 0.6
+2. resist-a-kind-of-harm | item | 1 | 0.4
+3. draw-on-a-higher-power | magical | 2 | 0.3
+4. break-free-of-restraint + reshape-the-ground | magical | 1 | 0.55
+5. keep-a-bonded-creature | item | 1 | 0.4
+6. calm-hostility | magical | 1 | 0.65
+7. confuse-or-scramble-a-mind | magical | 2 | 0.45
+8. increase-proficiency-or-defence + communicate-at-a-distance | magical | 1 | 0.55
+9. bind-yourself-to-a-power | magical | 1 | 0.55
+10. bind-yourself-to-a-power | divine | 1 | 0.6
+11. change-your-nature | magical | 1 | 0.5
+12. curse-a-creature | magical | 1 | 0.7
+13. be-harder-to-hit | tool | 1 | 0.55
+14. fly | magical | 1 | 0.8
+15. read-or-enter-a-mind | magical | 1 | 0.8
+16. resist-a-kind-of-harm | magical | 1 | 0.75
+17. move-faster + be-harder-to-hit | alchemical | 1 | 0.6
+18. sway-an-audience | social | 3 | 0.55
+19. resist-a-kind-of-harm | alchemical | 1 | 0.75
+20. gain-an-extra-action | magical | 1 | 0.55
+21. cross-resisting-ground | tool | 1 | 0.65
+22. change-your-nature | magical | 1 | 0.75
+23. strike-a-foe-in-reach | tool | 1 | 0.5
+24. research-in-archives + recruit-help | social | 1 | 0.5
+25. change-your-nature + cheat-death | magical | 1 | 0.55

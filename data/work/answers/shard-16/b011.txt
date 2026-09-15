@@ -1,0 +1,25 @@
+1. obscure-an-area + poison-a-foe | item | 1 | 0.55
+2. mark-a-foe-as-vulnerable + grants-another-option | item | 1 | 0.58
+3. pass-through-solid-matter | alchemical | 1 | 0.68
+4. set-a-trap | technological | 1 | 0.72
+5. repair-an-object | magical | 1 | 0.5
+6. conjure-a-temporary-tool + blind-or-deafen | divine | 1 | 0.45
+7. increase-attributes-or-health + close-on-a-foe | item | 1 | 0.57
+8. keep-the-dying-alive + heal-a-body | item | 1 | 0.75
+9. sway-an-audience + bind-yourself-to-a-power | magical | 2 | 0.48
+10. grants-another-option + increase-proficiency-or-defence | item | 1 | 0.53
+11. gain-an-extra-action | item | 1 | 0.62
+12. disguise-what-a-thing-is | item | 1 | 0.77
+13. sense-a-distant-place | alchemical | 1 | 0.7
+14. heal-a-body | alchemical | 1 | 0.85
+15. resist-a-kind-of-harm | alchemical | 1 | 0.83
+16. increase-proficiency-or-defence | manual | 1 | 0.35
+17. hide-from-notice | item | 2 | 0.47
+18. poison-a-foe + break-free-of-restraint | alchemical | 1 | 0.56
+19. resist-a-kind-of-harm | item | 1 | 0.73
+20. exploit-a-known-weakness + make-light | divine | 1 | 0.52
+21. mark-a-foe-as-vulnerable | alchemical | 1 | 0.51
+22. absorb-or-blunt-damage + dull-a-foe-s-capability | item | 1 | 0.49
+23. repair-an-object | tool | 1 | 0.8
+24. secure-shelter-and-supply + conceal-a-place | item | 1 | 0.61
+25. survive-a-hostile-environment + shake-off-an-affliction | magical | 1 | 0.63

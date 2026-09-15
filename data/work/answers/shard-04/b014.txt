@@ -1,0 +1,25 @@
+1. go-without-necessities | magical | 1 | 0.65
+2. conceal-an-object | magical | 1 | 0.4
+3. harm-many-at-once | magical | 2 | 0.55
+4. notice-what-is-hidden | magical | 1 | 0.6
+5. poison-a-foe + build-a-barrier | magical | 1 | 0.5
+6. conjure-a-temporary-tool | magical | 1 | 0.3
+7. craft-an-object | item | 1 | 0.3
+8. increase-proficiency-or-defence | magical | 1 | 0.6
+9. banish-a-creature + make-an-extradimensional-space | magical | 1 | 0.4
+10. teleport-a-short-distance | magical | 1 | 0.45
+11. fly | magical | 1 | 0.8
+12. call-a-creature-to-fight-for-you | magical | 1 | 0.65
+13. frighten | magical | 1 | 0.55
+14. improve-what-a-companion-can-do | magical | 1 | 0.45
+15. absorb-or-blunt-damage | innate | 1 | 0.5
+16. carry-a-burden | innate | 1 | 0.3
+17. speak-with-the-otherwise-mute | innate | 1 | 0.65
+18. increase-proficiency-or-defence | innate | 2 | 0.45
+19. blind-or-deafen | innate | 2 | 0.55
+20. communicate-at-a-distance | innate | 1 | 0.5
+21. improve-your-luck | innate | 1 | 0.55
+22. guard-your-mind | innate | 1 | 0.55
+23. grants-another-option | trained-skill | 1 | 0.6
+24. grants-another-option | trained-skill | 1 | 0.5
+25. strike-a-foe-in-reach + reposition-another-creature | trained-skill | 1 | 0.55

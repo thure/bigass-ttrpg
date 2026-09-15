@@ -1,0 +1,25 @@
+1. bind-a-creature-in-place | tool | 1 | 0.8
+2. disguise-your-appearance | item | 1 | 0.78
+3. harm-many-at-once + enhance-a-weapon-s-bite | item | 2 | 0.55
+4. numeric-variant | alchemical | 1 | 0.82
+5. inflict-a-lingering-wound + slow-a-foe | alchemical | 1 | 0.5
+6. harm-many-at-once | alchemical | 2 | 0.72
+7. grants-another-option | manual | 1 | 0.4
+8. enhance-a-weapon-s-bite | item | 1 | 0.45
+9. strike-a-distant-foe | alchemical | 1 | 0.65
+10. harm-many-at-once + resist-a-kind-of-harm | divine | 2 | 0.43
+11. open-a-portal | item | 3 | 0.57
+12. compound-a-substance | tool | 1 | 0.68
+13. breach-a-locked-boundary | tool | 1 | 0.7
+14. disengage-from-danger | alchemical | 1 | 0.75
+15. move-faster | alchemical | 1 | 0.38
+16. increase-attributes-or-health | alchemical | 1 | 0.77
+17. resist-a-kind-of-harm | alchemical | 1 | 0.53
+18. sway-an-audience + run-a-long-project | social | 3 | 0.48
+19. cure-poison-or-disease | item | 1 | 0.6
+20. cure-poison-or-disease + shake-off-an-affliction | alchemical | 1 | 0.47
+21. breach-a-locked-boundary | tool | 1 | 0.73
+22. poison-a-foe | alchemical | 1 | 0.66
+23. turn-an-attack-back | item | 1 | 0.79
+24. research-in-archives + recruit-help | social | 1 | 0.52
+25. teleport-a-short-distance | item | 1 | 0.49

@@ -1,0 +1,25 @@
+1. sense-a-distant-place | magical | 1 | 0.5
+2. alter-gravity-or-orientation | magical | 1 | 0.55
+3. mark-a-foe-as-vulnerable | alchemical | 1 | 0.55
+4. lie-convincingly | magical | 1 | 0.5
+5. strike-from-hiding-and-vanish | magical | 1 | 0.6
+6. seal-a-boundary | item | 1 | 0.55
+7. improve-your-luck + grants-another-option | magical | 3 | 0.4
+8. impose-misfortune | magical | 1 | 0.35
+9. extend-your-senses | magical | 1 | 0.6
+10. store-an-effect-for-later | item | 2 | 0.45
+11. store-an-effect-for-later | item | 2 | 0.45
+12. store-an-effect-for-later + resist-a-kind-of-harm | divine | 1 | 0.45
+13. stop-a-foe-moving | technological | 1 | 0.6
+14. bind-a-creature-in-place | tool | 1 | 0.65
+15. animate-the-inanimate | ritual | 2 | 0.5
+16. conjure-a-temporary-tool | magical | 1 | 0.6
+17. cross-resisting-ground | magical | 1 | 0.55
+18. petrify-or-solidify | magical | 1 | 0.65
+19. communicate-at-a-distance | magical | 2 | 0.55
+20. cheat-death + evade-magical-detection | magical | 1 | 0.45
+21. recall-what-you-have-learned | magical | 1 | 0.55
+22. ward-an-area | magical | 1 | 0.5
+23. hide-a-message | alchemical | 1 | 0.6
+24. unclassified | item | 1 | 0.2
+25. set-a-trap + poison-a-foe | item | 1 | 0.55

@@ -1,0 +1,25 @@
+1. extend-your-senses | tool | 1 | 0.70
+2. strike-a-distant-foe + control-fire | magical | 2 | 0.52
+3. harm-many-at-once + strike-a-foe-in-reach | magical | 2 | 0.55
+4. set-a-trap + mark-a-foe-as-vulnerable | technological | 1 | 0.47
+5. disguise-your-appearance + resist-a-kind-of-harm | alchemical | 1 | 0.50
+6. curse-a-creature | magical | 1 | 0.55
+7. be-harder-to-hit | magical | 1 | 0.65
+8. bind-a-creature-in-place | tool | 1 | 0.70
+9. fly | magical | 1 | 0.85
+10. increase-proficiency-or-defence | magical | 2 | 0.33
+11. strike-a-distant-foe | magical | 1 | 0.60
+12. cross-resisting-ground | magical | 2 | 0.48
+13. make-an-extradimensional-space | magical | 3 | 0.55
+14. increase-proficiency-or-defence | magical | 1 | 0.58
+15. read-or-enter-a-mind | magical | 1 | 0.65
+16. set-a-trap + blind-or-deafen | technological | 1 | 0.53
+17. control-fire | tool | 1 | 0.75
+18. change-your-own-shape + grow-a-natural-weapon | magical | 1 | 0.57
+19. resist-a-kind-of-harm | magical | 1 | 0.65
+20. harm-many-at-once | magical | 2 | 0.43
+21. turn-an-attack-back | magical | 1 | 0.75
+22. obscure-an-area | magical | 1 | 0.37
+23. dull-a-foe-s-capability | magical | 1 | 0.42
+24. gain-an-extra-action + gain-a-buffer-of-vitality | alchemical | 1 | 0.60
+25. slow-a-foe + stop-a-foe-moving | magical | 1 | 0.55

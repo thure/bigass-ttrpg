@@ -1,0 +1,25 @@
+1. strike-with-overwhelming-force | magical | 1 | 0.7
+2. detect-a-kind-of-creature | magical | 2 | 0.75
+3. heal-a-body | magical | 1 | 0.85
+4. gain-a-buffer-of-vitality + frighten | magical | 1 | 0.55
+5. increase-proficiency-or-defence | magical | 1 | 0.85
+6. be-harder-to-hit | alchemical | 1 | 0.6
+7. resist-poison-and-disease | tool | 1 | 0.55
+8. increase-proficiency-or-defence | magical | 1 | 0.9
+9. command-obedience | magical | 1 | 0.75
+10. grants-another-option | technological | 1 | 0.3
+11. survive-a-hostile-environment | magical | 2 | 0.4
+12. increase-proficiency-or-defence | magical | 1 | 0.5
+13. confuse-or-scramble-a-mind | alchemical | 2 | 0.6
+14. condition-state | innate | 1 | 0.3
+15. improve-what-a-companion-can-do | magical | 1 | 0.65
+16. become-invisible | divine | 1 | 0.8
+17. improve-what-a-companion-can-do | magical | 1 | 0.6
+18. hide-from-notice | magical | 1 | 0.55
+19. improve-your-luck | magical | 1 | 0.7
+20. survive-a-hostile-environment | trained-skill | 2 | 0.75
+21. resist-a-kind-of-harm | trained-skill | 1 | 0.55
+22. entry-into-an-archetype | social | 1 | 0.6
+23. increase-proficiency-or-defence | trained-skill | 1 | 0.7
+24. entry-into-an-archetype | social | 1 | 0.6
+25. reposition-another-creature | manual | 1 | 0.65

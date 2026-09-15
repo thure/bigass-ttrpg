@@ -1,0 +1,25 @@
+1. speak-with-the-otherwise-mute | magical | 1 | 0.55
+2. harm-many-at-once | magical | 2 | 0.5
+3. strike-a-distant-foe | magical | 1 | 0.75
+4. move-faster + hide-from-notice | magical | 1 | 0.5
+5. bind-a-creature-in-place | magical | 2 | 0.7
+6. destroy-an-object | item | 1 | 0.55
+7. protect-a-group | item | 2 | 0.4
+8. unclassified | item | 1 | 0.25
+9. strike-a-foe-in-reach | item | 1 | 0.6
+10. speak-with-the-otherwise-mute | magical | 1 | 0.7
+11. strike-a-distant-foe | item | 1 | 0.55
+12. call-a-creature-to-fight-for-you | magical | 1 | 0.65
+13. craft-an-object | tool | 1 | 0.35
+14. adapt-your-body-to-a-place + move-through-water | innate | 1 | 0.6
+15. detect-magic | innate | 1 | 0.75
+16. heal-a-body | innate | 1 | 0.5
+17. interpose-yourself-for-another | innate | 1 | 0.7
+18. speak-with-the-otherwise-mute | innate | 1 | 0.55
+19. hide-from-notice + disguise-what-a-thing-is | magical | 1 | 0.45
+20. increase-proficiency-or-defence | ritual | 1 | 0.55
+21. perceive-without-sight | innate | 1 | 0.7
+22. grants-another-option | trained-skill | 1 | 0.45
+23. grants-another-option | trained-skill | 1 | 0.6
+24. grants-another-option | trained-skill | 1 | 0.6
+25. cure-poison-or-disease | divine | 1 | 0.55

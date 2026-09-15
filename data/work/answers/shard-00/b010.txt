@@ -1,0 +1,25 @@
+1. climb-a-vertical-surface | tool | 1 | 0.8
+2. read-another-intent + improve-your-luck | item | 1 | 0.48
+3. survive-a-hostile-environment + climb-a-vertical-surface | alchemical | 1 | 0.62
+4. conceal-an-object | tool | 1 | 0.55
+5. speak-with-the-otherwise-mute + bind-a-creature-in-place | item | 2 | 0.47
+6. seal-a-boundary | item | 1 | 0.72
+7. hide-a-message | alchemical | 1 | 0.78
+8. frighten | item | 2 | 0.8
+9. numeric-variant | item | 1 | 0.9
+10. harm-many-at-once | item | 2 | 0.63
+11. expand-a-resource-pool | item | 1 | 0.55
+12. poison-a-foe | item | 1 | 0.52
+13. act-sooner-than-others + increase-proficiency-or-defence | item | 1 | 0.58
+14. bind-a-creature-in-place | tool | 1 | 0.8
+15. craft-an-object | ritual | 2 | 0.53
+16. redirect-harm | item | 1 | 0.85
+17. disguise-your-appearance | item | 1 | 0.85
+18. keep-the-dying-alive | item | 1 | 0.7
+19. communicate-at-a-distance | item | 1 | 0.75
+20. command-obedience + negate-an-effect-outright | item | 1 | 0.46
+21. increase-proficiency-or-defence + move-unseen | item | 1 | 0.4
+22. travel-overland | item | 2 | 0.6
+23. lift-a-curse | item | 1 | 0.5
+24. strike-a-distant-foe | alchemical | 1 | 0.65
+25. strike-a-distant-foe | alchemical | 1 | 0.68

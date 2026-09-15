@@ -1,0 +1,25 @@
+1. bind-a-creature-in-place | tool | 1 | 0.55
+2. resist-a-kind-of-harm | item | 1 | 0.55
+3. call-a-creature-to-fight-for-you | magical | 1 | 0.65
+4. move-faster | alchemical | 1 | 0.75
+5. breach-a-locked-boundary | alchemical | 1 | 0.65
+6. frighten | alchemical | 2 | 0.7
+7. absorb-or-blunt-damage | magical | 1 | 0.7
+8. expand-a-resource-pool | item | 1 | 0.75
+9. blind-or-deafen | magical | 1 | 0.45
+10. grow-a-natural-weapon | magical | 1 | 0.75
+11. pass-through-solid-matter | magical | 1 | 0.8
+12. carry-a-burden | magical | 1 | 0.5
+13. be-harder-to-hit | tool | 1 | 0.4
+14. resist-a-kind-of-harm | alchemical | 1 | 0.8
+15. make-light | alchemical | 1 | 0.65
+16. heal-a-body | alchemical | 1 | 0.85
+17. transmute-raw-material | magical | 1 | 0.55
+18. sway-an-audience | social | 3 | 0.65
+19. cure-poison-or-disease | magical | 1 | 0.55
+20. disguise-your-appearance | magical | 1 | 0.8
+21. raise-a-structure | magical | 2 | 0.6
+22. strike-a-distant-foe + drain-vitality-lastingly | magical | 1 | 0.6
+23. repair-an-object | magical | 1 | 0.75
+24. recruit-help | social | 2 | 0.65
+25. bind-a-creature-in-place | magical | 1 | 0.55

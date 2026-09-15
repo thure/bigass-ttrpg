@@ -1,0 +1,25 @@
+1. survive-a-hostile-environment | magical | 1 | 0.55
+2. strike-a-foe-in-reach + dull-a-foe-s-capability | item | 1 | 0.5
+3. redirect-harm | magical | 1 | 0.4
+4. grants-another-option | magical | 1 | 0.35
+5. call-a-creature-to-fight-for-you | magical | 3 | 0.4
+6. bind-yourself-to-a-power | magical | 1 | 0.45
+7. hide-a-message | magical | 1 | 0.75
+8. grants-another-option | item | 1 | 0.5
+9. pass-through-solid-matter | item | 1 | 0.65
+10. strike-a-distant-foe | item | 1 | 0.4
+11. curse-a-creature | magical | 1 | 0.5
+12. survive-a-hostile-environment | item | 1 | 0.7
+13. increase-proficiency-or-defence | item | 1 | 0.55
+14. become-insubstantial | alchemical | 1 | 0.75
+15. poison-a-foe | alchemical | 1 | 0.65
+16. adapt-your-body-to-a-place | alchemical | 1 | 0.75
+17. grants-another-option | item | 1 | 0.4
+18. resist-poison-and-disease | item | 1 | 0.7
+19. turn-an-attack-back | magical | 1 | 0.45
+20. move-faster | alchemical | 1 | 0.65
+21. secure-shelter-and-supply | manual | 1 | 0.7
+22. learn-a-place-or-object-s-past | magical | 1 | 0.35
+23. grants-another-option | item | 1 | 0.4
+24. resist-a-kind-of-harm | item | 1 | 0.65
+25. destroy-an-object | item | 1 | 0.5

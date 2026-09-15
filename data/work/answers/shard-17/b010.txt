@@ -1,0 +1,25 @@
+1. make-light | item | 1 | 0.85
+2. set-a-trap | magical | 1 | 0.55
+3. stop-a-foe-moving | technological | 1 | 0.75
+4. increase-attributes-or-health + increase-proficiency-or-defence | item | 1 | 0.5
+5. survive-a-hostile-environment + increase-proficiency-or-defence | magical | 1 | 0.55
+6. resist-a-kind-of-harm | alchemical | 1 | 0.5
+7. grants-another-option | item | 1 | 0.4
+8. increase-proficiency-or-defence | magical | 1 | 0.9
+9. read-any-writing | magical | 1 | 0.85
+10. make-light + increase-proficiency-or-defence | magical | 2 | 0.6
+11. slow-a-foe | magical | 2 | 0.7
+12. grants-another-option | magical | 3 | 0.5
+13. enhance-a-weapon-s-bite | magical | 1 | 0.4
+14. increase-attributes-or-health | magical | 1 | 0.9
+15. know-where-you-are | tool | 1 | 0.85
+16. increase-proficiency-or-defence | magical | 1 | 0.55
+17. guard-your-mind | magical | 1 | 0.8
+18. appraise-worth | tool | 1 | 0.7
+19. confuse-or-scramble-a-mind | alchemical | 2 | 0.75
+20. hide-from-notice | magical | 1 | 0.45
+21. resist-a-kind-of-harm | magical | 1 | 0.8
+22. climb-a-vertical-surface | magical | 1 | 0.85
+23. notice-what-is-hidden | magical | 1 | 0.85
+24. absorb-or-blunt-damage + inflict-a-lingering-wound | item | 1 | 0.6
+25. charm-into-friendship | alchemical | 1 | 0.8

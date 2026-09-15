@@ -1,0 +1,25 @@
+1. cross-resisting-ground + break-free-of-restraint | item | 1 | 0.5
+2. harm-many-at-once + make-light | item | 2 | 0.46
+3. move-through-water | item | 1 | 0.75
+4. increase-proficiency-or-defence | item | 1 | 0.78
+5. bind-a-creature-in-place | manual | 1 | 0.64
+6. repair-an-object | alchemical | 1 | 0.7
+7. heal-a-body | alchemical | 1 | 0.82
+8. improve-your-luck | item | 1 | 0.54
+9. harm-many-at-once + strike-with-overwhelming-force | magical | 2 | 0.49
+10. redirect-harm + grants-another-option | item | 1 | 0.44
+11. increase-proficiency-or-defence | item | 1 | 0.73
+12. increase-proficiency-or-defence | item | 1 | 0.71
+13. enhance-a-weapon-s-bite | item | 1 | 0.58
+14. earn-income | tool | 1 | 0.38
+15. resist-a-kind-of-harm + locate-a-person-or-thing | item | 2 | 0.51
+16. inspire-allies + strike-a-foe-in-reach | item | 1 | 0.53
+17. harm-many-at-once | magical | 2 | 0.62
+18. curse-a-creature | item | 1 | 0.67
+19. set-a-trap + bind-a-creature-in-place | technological | 1 | 0.59
+20. shake-off-an-affliction | alchemical | 1 | 0.56
+21. make-an-extradimensional-space | item | 1 | 0.76
+22. grants-another-option | item | 1 | 0.66
+23. negate-an-effect-outright + increase-proficiency-or-defence | item | 1 | 0.57
+24. absorb-or-blunt-damage + strike-a-distant-foe | item | 1 | 0.48
+25. harm-many-at-once + inflict-a-lingering-wound | item | 2 | 0.6

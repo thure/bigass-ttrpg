@@ -1,0 +1,25 @@
+1. see-through-deception | item | 1 | 0.6
+2. resist-poison-and-disease | alchemical | 1 | 0.7
+3. store-an-effect-for-later | alchemical | 1 | 0.5
+4. poison-a-foe | alchemical | 1 | 0.55
+5. unclassified | manual | 1 | 0.25
+6. secure-shelter-and-supply | manual | 1 | 0.55
+7. craft-an-object | manual | 1 | 0.35
+8. increase-proficiency-or-defence | item | 1 | 0.8
+9. bind-a-creature-in-place | item | 1 | 0.55
+10. hide-a-message | item | 1 | 0.6
+11. protect-a-group | item | 3 | 0.45
+12. poison-a-foe + condition-state | alchemical | 1 | 0.5
+13. sense-a-distant-place + disguise-your-appearance | item | 1 | 0.55
+14. blind-or-deafen + resist-a-kind-of-harm | item | 3 | 0.5
+15. craft-an-object | manual | 1 | 0.3
+16. disguise-your-appearance | item | 1 | 0.6
+17. secure-shelter-and-supply | manual | 1 | 0.4
+18. repair-an-object | item | 1 | 0.75
+19. enhance-a-weapon-s-bite | alchemical | 1 | 0.7
+20. set-a-trap | alchemical | 1 | 0.6
+21. create-a-persistent-zone | alchemical | 1 | 0.5
+22. turn-an-attack-back | alchemical | 1 | 0.4
+23. cheat-death | item | 1 | 0.7
+24. poison-a-foe | alchemical | 1 | 0.6
+25. grants-another-option | item | 2 | 0.4

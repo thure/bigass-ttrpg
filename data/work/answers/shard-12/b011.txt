@@ -1,0 +1,25 @@
+1. enhance-a-weapon-s-bite + frighten | item | 1 | 0.5
+2. obscure-an-area | item | 2 | 0.55
+3. strike-a-distant-foe + harm-many-at-once | manual | 1 | 0.6
+4. hide-from-notice | alchemical | 1 | 0.55
+5. increase-proficiency-or-defence | item | 1 | 0.7
+6. teleport-a-short-distance | item | 2 | 0.45
+7. recall-what-you-have-learned | item | 1 | 0.7
+8. resist-poison-and-disease | item | 1 | 0.8
+9. transmute-raw-material + heal-a-body | alchemical | 2 | 0.4
+10. frighten | item | 2 | 0.6
+11. increase-proficiency-or-defence | item | 1 | 0.4
+12. gain-access-to-closed-circles | social | 2 | 0.5
+13. charm-into-friendship | item | 1 | 0.65
+14. heal-a-body | item | 1 | 0.85
+15. attack-more-often | item | 1 | 0.55
+16. expand-a-resource-pool | item | 1 | 0.3
+17. disguise-what-a-thing-is | item | 1 | 0.3
+18. become-invisible + guard-your-mind | item | 1 | 0.55
+19. breach-a-locked-boundary | trained-skill | 1 | 0.6
+20. expand-a-resource-pool | item | 1 | 0.3
+21. open-a-path-through-matter | magical | 3 | 0.35
+22. conjure-a-temporary-tool | item | 1 | 0.55
+23. specialise-in-a-tradition | item | 1 | 0.35
+24. harm-many-at-once + move-faster | item | 2 | 0.55
+25. strike-a-binding-bargain | magical | 1 | 0.55

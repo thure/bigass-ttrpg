@@ -1,0 +1,25 @@
+1. harm-many-at-once + blind-or-deafen | divine | 2 | 0.62
+2. drain-life-to-sustain-yourself | magical | 1 | 0.82
+3. ward-an-area | magical | 1 | 0.55
+4. inflict-a-lingering-wound | divine | 1 | 0.58
+5. communicate-at-a-distance + increase-proficiency-or-defence | magical | 1 | 0.5
+6. strike-a-distant-foe + inflict-a-lingering-wound | alchemical | 1 | 0.63
+7. improve-your-luck | magical | 1 | 0.83
+8. curse-a-creature | magical | 1 | 0.7
+9. craft-an-object | manual | 1 | 0.35
+10. strike-a-distant-foe + increase-proficiency-or-defence | magical | 1 | 0.42
+11. fly | magical | 1 | 0.88
+12. destroy-an-object + inflict-a-lingering-wound | magical | 1 | 0.6
+13. obscure-an-area | technological | 1 | 0.66
+14. strike-with-overwhelming-force + increase-proficiency-or-defence | magical | 1 | 0.68
+15. know-where-you-are | manual | 2 | 0.45
+16. conjure-a-temporary-tool | magical | 1 | 0.72
+17. reshape-the-ground + strike-a-foe-in-reach | magical | 3 | 0.48
+18. alter-belief-or-memory + communicate-at-a-distance | magical | 1 | 0.57
+19. swap-places-or-bodies | alchemical | 1 | 0.4
+20. hide-from-notice + provoke-a-foe-to-target-you | magical | 1 | 0.53
+21. resist-poison-and-disease | alchemical | 1 | 0.61
+22. reposition-another-creature + teleport-a-short-distance | magical | 1 | 0.65
+23. silence-magic | technological | 1 | 0.75
+24. sway-an-audience | manual | 1 | 0.38
+25. survive-a-hostile-environment + resist-poison-and-disease | magical | 1 | 0.8

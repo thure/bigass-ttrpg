@@ -1,0 +1,25 @@
+1. poison-a-foe | alchemical | 1 | 0.65
+2. turn-an-attack-back | item | 1 | 0.6
+3. store-an-effect-for-later | magical | 1 | 0.5
+4. break-free-of-restraint + reshape-the-ground | magical | 1 | 0.5
+5. recall-what-you-have-learned | magical | 1 | 0.45
+6. survive-a-hostile-environment | alchemical | 1 | 0.65
+7. travel-as-a-known-figure | item | 1 | 0.45
+8. adapt-your-body-to-a-place | item | 1 | 0.4
+9. be-harder-to-hit | magical | 1 | 0.55
+10. set-a-trap + blind-or-deafen | item | 1 | 0.6
+11. travel-between-planes | magical | 1 | 0.55
+12. curse-a-creature | magical | 1 | 0.55
+13. grants-another-option | tool | 1 | 0.35
+14. fly | magical | 1 | 0.75
+15. read-or-enter-a-mind | magical | 1 | 0.7
+16. move-through-water | magical | 1 | 0.75
+17. reposition-another-creature | alchemical | 1 | 0.5
+18. run-a-long-project | social | 3 | 0.55
+19. conceal-an-object + disguise-your-appearance | magical | 1 | 0.4
+20. disguise-your-appearance | tool | 1 | 0.4
+21. extend-your-senses | magical | 1 | 0.4
+22. drain-life-to-sustain-yourself | magical | 1 | 0.55
+23. absorb-or-blunt-damage | item | 1 | 0.6
+24. recruit-help | social | 1 | 0.6
+25. notice-what-is-hidden | alchemical | 1 | 0.4

@@ -1,0 +1,25 @@
+1. extend-your-senses | item | 1 | 0.65
+2. heal-a-body | item | 1 | 0.6
+3. store-an-effect-for-later | item | 2 | 0.4
+4. harm-many-at-once | item | 2 | 0.55
+5. fly | technological | 1 | 0.75
+6. recall-what-you-have-learned | item | 1 | 0.5
+7. move-through-water | item | 1 | 0.65
+8. shake-off-an-affliction | alchemical | 1 | 0.65
+9. strike-with-overwhelming-force | item | 1 | 0.55
+10. be-harder-to-hit + bind-a-creature-in-place | item | 1 | 0.45
+11. strike-with-overwhelming-force | item | 2 | 0.4
+12. move-faster + cross-resisting-ground | item | 1 | 0.5
+13. guard-your-mind | item | 1 | 0.55
+14. conjure-a-temporary-tool | item | 1 | 0.55
+15. poison-a-foe | item | 1 | 0.65
+16. enhance-a-weapon-s-bite + blind-or-deafen | item | 1 | 0.6
+17. grow-or-shrink | item | 2 | 0.55
+18. repair-an-object + enhance-a-weapon-s-bite | divine | 1 | 0.5
+19. travel-overland | social | 3 | 0.6
+20. grants-another-option | tool | 1 | 0.45
+21. harm-many-at-once + inflict-a-lingering-wound | alchemical | 1 | 0.6
+22. poison-a-foe | alchemical | 1 | 0.65
+23. persuade-by-reason-or-charm | item | 1 | 0.55
+24. resist-poison-and-disease | item | 1 | 0.55
+25. grants-another-option | tool | 1 | 0.45
