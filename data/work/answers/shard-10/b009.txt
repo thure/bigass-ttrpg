@@ -1,0 +1,25 @@
+1. alter-gravity-or-orientation | magical | 1 | 0.7
+2. inflict-a-lingering-wound + inspire-allies | magical | 2 | 0.5
+3. resist-a-kind-of-harm | magical | 1 | 0.65
+4. resist-a-kind-of-harm + enhance-a-weapon-s-bite | magical | 1 | 0.45
+5. become-insubstantial + resist-a-kind-of-harm | magical | 1 | 0.4
+6. hide-from-notice | magical | 1 | 0.45
+7. poison-a-foe + harm-many-at-once | magical | 1 | 0.5
+8. frighten | magical | 1 | 0.65
+9. frighten | magical | 1 | 0.65
+10. enhance-a-weapon-s-bite | magical | 1 | 0.6
+11. teleport-a-short-distance + fight-as-a-unit | magical | 1 | 0.45
+12. fly | magical | 1 | 0.65
+13. resist-a-kind-of-harm | magical | 1 | 0.55
+14. become-invisible + negate-an-effect-outright | magical | 1 | 0.5
+15. call-an-outsider | magical | 2 | 0.6
+16. strike-with-overwhelming-force | divine | 1 | 0.55
+17. recover-on-your-own | alchemical | 1 | 0.55
+18. break-free-of-restraint | magical | 1 | 0.5
+19. open-a-path-through-matter | magical | 1 | 0.6
+20. protect-a-group + conceal-a-place | magical | 2 | 0.45
+21. imprison-a-creature + command-obedience | magical | 1 | 0.6
+22. earn-income | magical | 1 | 0.4
+23. harm-many-at-once | divine | 2 | 0.4
+24. go-without-necessities + cure-poison-or-disease | magical | 1 | 0.5
+25. command-obedience | divine | 1 | 0.65

@@ -1,0 +1,25 @@
+1. turn-or-rebuke-a-creature-type + frighten | divine | 1 | 0.55
+2. enhance-a-weapon-s-bite + harm-many-at-once | magical | 1 | 0.5
+3. negate-an-effect-outright | magical | 1 | 0.68
+4. exploit-a-known-weakness + dull-a-foe-s-capability | magical | 1 | 0.4
+5. reposition-another-creature + bind-a-creature-in-place | magical | 1 | 0.56
+6. stop-a-foe-moving | magical | 1 | 0.62
+7. know-where-you-are + create-food-and-water | magical | 1 | 0.45
+8. enhance-a-weapon-s-bite | magical | 1 | 0.53
+9. enhance-a-weapon-s-bite | technological | 1 | 0.44
+10. enhance-a-weapon-s-bite | magical | 1 | 0.7
+11. increase-attributes-or-health | item | 1 | 0.8
+12. survive-a-hostile-environment | alchemical | 1 | 0.72
+13. poison-a-foe | alchemical | 1 | 0.75
+14. reposition-another-creature + strike-a-foe-in-reach | magical | 1 | 0.58
+15. carry-a-burden + grants-another-option | magical | 1 | 0.35
+16. grants-another-option | magical | 1 | 0.33
+17. set-a-trap | alchemical | 1 | 0.78
+18. absorb-or-blunt-damage + shrug-off-an-effect-you-failed-to-avoid | magical | 1 | 0.48
+19. recall-what-you-have-learned + strike-with-overwhelming-force | alchemical | 1 | 0.38
+20. hide-from-notice + move-unseen | magical | 1 | 0.6
+21. grants-another-option | magical | 1 | 0.42
+22. become-invisible + reposition-another-creature | magical | 1 | 0.52
+23. go-without-necessities | alchemical | 1 | 0.47
+24. turn-an-attack-back | magical | 1 | 0.65
+25. put-to-sleep | alchemical | 1 | 0.76

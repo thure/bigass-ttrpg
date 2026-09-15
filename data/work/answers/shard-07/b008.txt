@@ -1,0 +1,25 @@
+1. strike-a-foe-in-reach | item | 1 | 0.5
+2. absorb-or-blunt-damage | item | 1 | 0.3
+3. fly | item | 1 | 0.55
+4. keep-a-bonded-creature | item | 1 | 0.5
+5. move-unseen | item | 1 | 0.5
+6. absorb-or-blunt-damage + strike-with-overwhelming-force | item | 1 | 0.45
+7. bind-yourself-to-a-power + change-your-nature | magical | 1 | 0.4
+8. become-insubstantial | item | 1 | 0.55
+9. raise-a-structure + secure-shelter-and-supply | magical | 2 | 0.6
+10. blind-or-deafen + avoid-a-danger-you-foresaw | item | 2 | 0.5
+11. lie-convincingly | social | 1 | 0.65
+12. frighten | item | 1 | 0.75
+13. bind-a-creature-in-place | item | 1 | 0.75
+14. resist-a-kind-of-harm | alchemical | 1 | 0.7
+15. enhance-a-weapon-s-bite + make-light | item | 1 | 0.6
+16. destroy-an-object + strike-a-distant-foe | item | 1 | 0.45
+17. turn-an-attack-back | divine | 2 | 0.5
+18. poison-a-foe + resist-a-kind-of-harm | item | 1 | 0.45
+19. harm-many-at-once + strike-a-distant-foe | alchemical | 1 | 0.6
+20. ambush-an-unready-foe | item | 1 | 0.55
+21. see-through-deception | item | 1 | 0.5
+22. strike-a-distant-foe + pass-through-solid-matter | magical | 1 | 0.5
+23. open-a-path-through-matter | tool | 1 | 0.65
+24. drain-life-to-sustain-yourself | magical | 1 | 0.7
+25. shake-off-an-affliction | magical | 1 | 0.7

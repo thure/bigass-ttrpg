@@ -1,0 +1,25 @@
+1. see-in-darkness | alchemical | 1 | 0.65
+2. extend-your-senses | item | 1 | 0.55
+3. call-an-outsider | magical | 1 | 0.75
+4. poison-a-foe + turn-an-attack-back | alchemical | 1 | 0.55
+5. create-a-persistent-zone | magical | 1 | 0.65
+6. tend-your-companion | item | 1 | 0.5
+7. sway-an-audience | magical | 1 | 0.4
+8. sense-a-distant-place | magical | 1 | 0.55
+9. harm-many-at-once | magical | 1 | 0.65
+10. extend-your-senses | item | 1 | 0.55
+11. tend-your-companion | item | 1 | 0.5
+12. cross-resisting-ground | magical | 1 | 0.75
+13. call-a-creature-to-fight-for-you | magical | 1 | 0.45
+14. repair-an-object | tool | 1 | 0.5
+15. harm-many-at-once + resist-a-kind-of-harm | magical | 2 | 0.45
+16. craft-an-object | tool | 1 | 0.3
+17. alter-belief-or-memory | alchemical | 1 | 0.65
+18. enhance-a-weapon-s-bite + reshape-the-ground | alchemical | 1 | 0.5
+19. harm-many-at-once | magical | 1 | 0.65
+20. call-a-creature-to-fight-for-you | technological | 1 | 0.55
+21. inspire-allies | item | 1 | 0.65
+22. strike-from-hiding-and-vanish | magical | 1 | 0.55
+23. fly | magical | 1 | 0.7
+24. kill-outright | magical | 1 | 0.55
+25. frighten | magical | 2 | 0.6

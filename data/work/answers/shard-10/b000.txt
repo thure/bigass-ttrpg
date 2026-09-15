@@ -1,0 +1,25 @@
+1. inspire-allies | trained-skill | 1 | 0.4
+2. strike-a-foe-in-reach + close-on-a-foe | innate | 1 | 0.6
+3. gain-followers | social | 1 | 0.4
+4. earn-income | social | 4 | 0.6
+5. hide-from-notice | trained-skill | 1 | 0.55
+6. impose-misfortune | manual | 1 | 0.6
+7. disengage-from-danger | trained-skill | 2 | 0.6
+8. harm-many-at-once | magical | 1 | 0.75
+9. build-your-reputation | social | 4 | 0.5
+10. forge-a-document | trained-skill | 1 | 0.85
+11. alter-gravity-or-orientation | trained-skill | 1 | 0.7
+12. identify-magic | trained-skill | 1 | 0.65
+13. command-obedience | divine | 1 | 0.6
+14. gain-a-buffer-of-vitality + repair-an-object | trained-skill | 1 | 0.55
+15. wage-mass-combat | trained-skill | 3 | 0.55
+16. guard-your-mind | psychic | 1 | 0.65
+17. recall-what-you-have-learned | trained-skill | 1 | 0.8
+18. undo-what-has-happened | magical | 1 | 0.45
+19. gain-access-to-closed-circles | social | 4 | 0.45
+20. avoid-a-danger-you-foresaw | tool | 1 | 0.4
+21. attack-more-often | innate | 1 | 0.75
+22. poison-a-foe | innate | 1 | 0.8
+23. strike-a-foe-in-reach + inflict-a-lingering-wound | innate | 1 | 0.7
+24. keep-a-bonded-creature | innate | 1 | 0.85
+25. keep-a-bonded-creature | innate | 1 | 0.85

@@ -1,0 +1,25 @@
+1. increase-proficiency-or-defence | magical | 1 | 0.8
+2. grants-another-option | trained-skill | 1 | 0.4
+3. specialise-in-a-tradition | magical | 1 | 0.6
+4. increase-proficiency-or-defence | trained-skill | 1 | 0.85
+5. enhance-a-weapon-s-bite | trained-skill | 1 | 0.6
+6. enhance-a-weapon-s-bite | innate | 1 | 0.55
+7. enhance-a-weapon-s-bite | trained-skill | 1 | 0.58
+8. grants-another-option | manual | 1 | 0.72
+9. condition-state | magical | 1 | 0.85
+10. condition-state | innate | 1 | 0.85
+11. condition-state | manual | 1 | 0.85
+12. absorb-or-blunt-damage | innate | 1 | 0.42
+13. enhance-a-weapon-s-bite | innate | 1 | 0.48
+14. curse-a-creature + kill-outright | magical | 2 | 0.55
+15. curse-a-creature | magical | 1 | 0.6
+16. frighten | divine | 1 | 0.5
+17. shake-off-an-affliction | divine | 1 | 0.52
+18. command-obedience | divine | 1 | 0.4
+19. keep-a-bonded-creature | magical | 1 | 0.75
+20. store-an-effect-for-later | item | 1 | 0.53
+21. set-a-trap | technological | 1 | 0.7
+22. conceal-an-object | item | 1 | 0.32
+23. numeric-variant | item | 1 | 0.35
+24. extend-your-senses | technological | 1 | 0.38
+25. breach-a-locked-boundary | magical | 3 | 0.45

@@ -1,0 +1,25 @@
+1. unclassified | tool | 1 | 0.3
+2. harm-many-at-once + poison-a-foe | alchemical | 2 | 0.45
+3. blind-or-deafen + make-light | item | 1 | 0.45
+4. grants-another-option | item | 1 | 0.5
+5. read-another-intent | item | 1 | 0.6
+6. resist-a-kind-of-harm | item | 1 | 0.7
+7. change-your-nature | magical | 4 | 0.35
+8. conjure-a-temporary-tool | item | 1 | 0.6
+9. survive-a-hostile-environment | item | 1 | 0.6
+10. extend-your-senses | item | 1 | 0.55
+11. communicate-at-a-distance | item | 1 | 0.65
+12. conjure-a-temporary-tool | item | 1 | 0.5
+13. inspire-allies | item | 2 | 0.6
+14. fly | item | 1 | 0.45
+15. condition-state | alchemical | 1 | 0.45
+16. conjure-a-temporary-tool | item | 1 | 0.5
+17. call-a-creature-to-fight-for-you | item | 1 | 0.6
+18. enhance-a-weapon-s-bite | item | 1 | 0.6
+19. control-fire | item | 1 | 0.65
+20. increase-attributes-or-health | item | 1 | 0.75
+21. become-invisible | item | 1 | 0.7
+22. exploit-a-known-weakness | item | 1 | 0.55
+23. protect-a-group | item | 2 | 0.5
+24. blind-or-deafen + shake-off-an-affliction | item | 2 | 0.45
+25. climb-a-vertical-surface | tool | 1 | 0.5

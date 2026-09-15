@@ -1,0 +1,25 @@
+1. increase-proficiency-or-defence | trained-skill | 1 | 0.85
+2. grants-another-option | magical | 1 | 0.7
+3. increase-proficiency-or-defence | magical | 1 | 0.85
+4. increase-proficiency-or-defence | trained-skill | 1 | 0.8
+5. increase-proficiency-or-defence | trained-skill | 1 | 0.85
+6. grants-another-option | magical | 1 | 0.4
+7. harm-many-at-once | manual | 1 | 0.75
+8. resist-a-kind-of-harm + guard-your-mind | innate | 1 | 0.55
+9. bind-yourself-to-a-power | divine | 1 | 0.75
+10. expand-a-resource-pool | divine | 1 | 0.55
+11. increase-proficiency-or-defence | trained-skill | 1 | 0.85
+12. enhance-a-weapon-s-bite | manual | 1 | 0.5
+13. specialise-in-a-tradition | psychic | 1 | 0.7
+14. increase-proficiency-or-defence | trained-skill | 1 | 0.85
+15. cheat-death | innate | 1 | 0.8
+16. punish-an-opening | manual | 1 | 0.8
+17. increase-proficiency-or-defence | divine | 1 | 0.85
+18. increase-proficiency-or-defence | magical | 1 | 0.8
+19. grants-another-option | magical | 1 | 0.6
+20. heal-many-at-once | social | 2 | 0.55
+21. grants-another-option | magical | 1 | 0.65
+22. move-faster | innate | 1 | 0.55
+23. resist-a-kind-of-harm | innate | 1 | 0.65
+24. gain-an-extra-action | trained-skill | 1 | 0.6
+25. attack-more-often | manual | 1 | 0.85

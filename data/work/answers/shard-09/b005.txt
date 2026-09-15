@@ -1,0 +1,25 @@
+1. be-harder-to-hit | innate | 1 | 0.72
+2. hide-from-notice + erase-your-trail | trained-skill | 1 | 0.61
+3. increase-proficiency-or-defence | manual | 1 | 0.85
+4. grants-another-option | trained-skill | 1 | 0.56
+5. numeric-variant | manual | 1 | 0.63
+6. numeric-variant | manual | 1 | 0.63
+7. speak-with-the-otherwise-mute | trained-skill | 1 | 0.74
+8. condition-state | innate | 1 | 0.79
+9. condition-state | innate | 1 | 0.77
+10. condition-state | innate | 3 | 0.69
+11. condition-state | innate | 1 | 0.81
+12. inflict-disease | innate | 1 | 0.76
+13. bind-a-creature-in-place + inflict-a-lingering-wound | innate | 1 | 0.54
+14. curse-a-creature | magical | 1 | 0.73
+15. curse-a-creature | magical | 1 | 0.51
+16. rally-the-faltering | divine | 1 | 0.38
+17. transmute-raw-material | divine | 1 | 0.57
+18. command-obedience | divine | 1 | 0.59
+19. keep-a-bonded-creature | magical | 1 | 0.65
+20. negate-an-effect-outright | alchemical | 1 | 0.68
+21. absorb-or-blunt-damage | item | 1 | 0.49
+22. go-without-necessities + survive-a-hostile-environment | item | 1 | 0.44
+23. grants-another-option | item | 1 | 0.41
+24. negate-an-effect-outright | item | 1 | 0.53
+25. command-obedience | item | 1 | 0.47

@@ -1,0 +1,25 @@
+1. increase-proficiency-or-defence | innate | 1 | 0.7
+2. grants-another-option | magical | 1 | 0.45
+3. increase-proficiency-or-defence | trained-skill | 1 | 0.78
+4. grants-another-option | trained-skill | 1 | 0.5
+5. numeric-variant | manual | 1 | 0.6
+6. numeric-variant | manual | 1 | 0.58
+7. call-a-creature-to-fight-for-you | magical | 1 | 0.65
+8. condition-state | innate | 1 | 0.5
+9. condition-state | manual | 3 | 0.5
+10. condition-state | manual | 3 | 0.5
+11. condition-state | innate | 1 | 0.55
+12. see-in-darkness | innate | 1 | 0.8
+13. dull-a-foe-s-capability | innate | 2 | 0.45
+14. curse-a-creature | magical | 1 | 0.7
+15. curse-a-creature + sever-a-supernatural-connection | magical | 1 | 0.65
+16. command-the-weather | divine | 2 | 0.4
+17. specialise-in-a-tradition | divine | 1 | 0.35
+18. see-through-deception | divine | 1 | 0.6
+19. improve-what-a-companion-can-do | magical | 1 | 0.45
+20. move-a-group | magical | 2 | 0.4
+21. be-harder-to-hit | item | 1 | 0.5
+22. communicate-at-a-distance | item | 1 | 0.6
+23. heal-a-body | item | 1 | 0.35
+24. strike-a-distant-foe + craft-an-object | item | 1 | 0.4
+25. provoke-a-foe-to-target-you | item | 1 | 0.55

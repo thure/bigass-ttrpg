@@ -1,0 +1,25 @@
+1. poison-a-foe | alchemical | 1 | 0.55
+2. unclassified | item | 1 | 0.28
+3. enhance-a-weapon-s-bite | item | 1 | 0.58
+4. call-a-creature-to-fight-for-you | magical | 2 | 0.45
+5. shake-off-an-affliction | alchemical | 1 | 0.52
+6. expand-a-resource-pool | item | 1 | 0.56
+7. set-a-trap + bind-a-creature-in-place | technological | 1 | 0.6
+8. harm-many-at-once | alchemical | 1 | 0.44
+9. detect-magic | item | 1 | 0.55
+10. frighten + sense-a-distant-place | magical | 1 | 0.42
+11. lie-convincingly | social | 1 | 0.62
+12. frighten | magical | 1 | 0.65
+13. resist-a-kind-of-harm | alchemical | 1 | 0.66
+14. become-hard-to-kill | divine | 1 | 0.7
+15. set-a-trap | technological | 1 | 0.63
+16. be-harder-to-hit | item | 1 | 0.5
+17. resist-a-kind-of-harm | magical | 1 | 0.53
+18. call-a-creature-to-fight-for-you | magical | 1 | 0.6
+19. survive-a-hostile-environment + cross-resisting-ground | item | 1 | 0.54
+20. hide-a-message + store-an-effect-for-later | magical | 1 | 0.38
+21. climb-a-vertical-surface | alchemical | 1 | 0.46
+22. enhance-a-weapon-s-bite | item | 1 | 0.43
+23. enhance-a-weapon-s-bite + inspire-allies | item | 1 | 0.4
+24. make-light | alchemical | 1 | 0.75
+25. silence-magic + hide-from-notice | magical | 1 | 0.37

@@ -1,0 +1,25 @@
+1. teleport-a-great-distance | item | 4 | 0.65
+2. ward-an-area | alchemical | 1 | 0.35
+3. conjure-a-temporary-tool | item | 1 | 0.4
+4. notice-what-is-hidden | item | 1 | 0.42
+5. increase-proficiency-or-defence + heal-a-body | item | 1 | 0.45
+6. poison-a-foe | alchemical | 1 | 0.75
+7. set-a-trap | technological | 1 | 0.7
+8. make-an-extradimensional-space + bind-a-creature-in-place | item | 1 | 0.5
+9. inflict-a-lingering-wound | item | 2 | 0.55
+10. strike-a-binding-bargain | ritual | 1 | 0.65
+11. call-a-creature-to-fight-for-you | item | 1 | 0.55
+12. increase-attributes-or-health | item | 1 | 0.8
+13. become-hard-to-kill | item | 1 | 0.4
+14. interpose-yourself-for-another + harm-many-at-once | item | 2 | 0.45
+15. enhance-a-weapon-s-bite + reposition-another-creature | technological | 1 | 0.5
+16. poison-a-foe | alchemical | 1 | 0.75
+17. enhance-a-weapon-s-bite | alchemical | 1 | 0.6
+18. craft-an-object | tool | 1 | 0.4
+19. move-faster | item | 1 | 0.65
+20. create-food-and-water | item | 1 | 0.7
+21. heal-many-at-once + raise-a-structure | item | 2 | 0.45
+22. enhance-a-weapon-s-bite | item | 1 | 0.35
+23. fly | item | 1 | 0.8
+24. craft-an-object | tool | 1 | 0.6
+25. mark-a-foe-as-vulnerable | alchemical | 2 | 0.5

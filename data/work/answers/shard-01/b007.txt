@@ -1,0 +1,25 @@
+1. grants-another-option | item | 1 | 0.45
+2. enhance-a-weapon-s-bite | item | 1 | 0.5
+3. turn-an-attack-back | divine | 2 | 0.4
+4. unclassified | manual | 1 | 0.3
+5. harm-many-at-once | magical | 2 | 0.4
+6. grow-a-natural-weapon | magical | 1 | 0.55
+7. numeric-variant | item | 1 | 0.65
+8. communicate-at-a-distance | technological | 1 | 0.35
+9. obscure-an-area | magical | 2 | 0.6
+10. enhance-a-weapon-s-bite | alchemical | 1 | 0.55
+11. know-where-you-are | item | 1 | 0.65
+12. cure-poison-or-disease | alchemical | 1 | 0.7
+13. poison-a-foe | magical | 1 | 0.35
+14. be-harder-to-hit | magical | 1 | 0.5
+15. see-through-deception | magical | 1 | 0.6
+16. open-a-portal + travel-between-planes | magical | 5 | 0.55
+17. mark-a-foe-as-vulnerable | alchemical | 1 | 0.55
+18. resist-a-kind-of-harm | alchemical | 1 | 0.3
+19. disguise-what-a-thing-is | magical | 1 | 0.65
+20. harm-many-at-once | alchemical | 2 | 0.55
+21. poison-a-foe | alchemical | 1 | 0.6
+22. negate-an-effect-outright | magical | 1 | 0.7
+23. enhance-a-weapon-s-bite | item | 1 | 0.5
+24. shake-off-an-affliction | alchemical | 1 | 0.65
+25. resist-a-kind-of-harm | item | 1 | 0.45

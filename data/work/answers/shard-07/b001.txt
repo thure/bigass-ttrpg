@@ -1,0 +1,25 @@
+1. keep-a-bonded-creature + ride-a-mount | innate | 1 | 0.7
+2. keep-a-bonded-creature | innate | 1 | 0.7
+3. specialise-in-a-tradition | magical | 1 | 0.5
+4. entry-into-an-archetype | trained-skill | 1 | 0.45
+5. entry-into-an-archetype | divine | 1 | 0.4
+6. entry-into-an-archetype | divine | 1 | 0.55
+7. bind-yourself-to-a-power | divine | 1 | 0.75
+8. turn-or-rebuke-a-creature-type | divine | 1 | 0.45
+9. heal-a-body | divine | 1 | 0.55
+10. raise-or-command-the-dead + entry-into-an-archetype | magical | 1 | 0.6
+11. belong-to-an-order | divine | 1 | 0.5
+12. entry-into-an-archetype | magical | 1 | 0.4
+13. entry-into-an-archetype | trained-skill | 1 | 0.5
+14. move-unseen + entry-into-an-archetype | innate | 1 | 0.45
+15. disguise-your-appearance + be-harder-to-hit | item | 1 | 0.45
+16. be-harder-to-hit | item | 1 | 0.4
+17. claim-a-past-vocation | social | 1 | 0.65
+18. claim-a-past-vocation | social | 1 | 0.45
+19. belong-to-an-order | social | 1 | 0.5
+20. claim-a-past-vocation | social | 1 | 0.5
+21. gain-access-to-closed-circles | social | 1 | 0.65
+22. claim-a-past-vocation | social | 1 | 0.6
+23. claim-a-past-vocation | social | 1 | 0.5
+24. claim-a-past-vocation | social | 1 | 0.6
+25. carry-a-burden | social | 1 | 0.4

@@ -1,0 +1,25 @@
+1. strike-a-distant-foe + dull-a-foe-s-capability | item | 1 | 0.5
+2. resist-a-kind-of-harm | item | 1 | 0.57
+3. command-obedience + guard-your-mind | item | 1 | 0.45
+4. sway-an-audience | item | 1 | 0.42
+5. silence-magic | item | 1 | 0.65
+6. store-an-effect-for-later | alchemical | 1 | 0.53
+7. resist-a-kind-of-harm | item | 1 | 0.4
+8. enhance-a-weapon-s-bite | item | 1 | 0.5
+9. harm-many-at-once | item | 1 | 0.62
+10. disguise-your-appearance | item | 1 | 0.6
+11. disguise-your-appearance | item | 1 | 0.75
+12. communicate-at-a-distance + inspire-allies | item | 1 | 0.48
+13. poison-a-foe | alchemical | 1 | 0.8
+14. recruit-help | social | 1 | 0.7
+15. harm-many-at-once + blind-or-deafen | item | 1 | 0.58
+16. fly | alchemical | 1 | 0.6
+17. fly + enhance-a-weapon-s-bite | item | 1 | 0.4
+18. mark-a-foe-as-vulnerable | item | 1 | 0.47
+19. bind-a-creature-in-place | item | 1 | 0.5
+20. repair-an-object | alchemical | 1 | 0.53
+21. bind-a-creature-in-place | item | 1 | 0.7
+22. secure-shelter-and-supply | social | 1 | 0.58
+23. strike-a-distant-foe | item | 1 | 0.6
+24. evade-magical-detection | item | 1 | 0.4
+25. inspire-allies | item | 1 | 0.63

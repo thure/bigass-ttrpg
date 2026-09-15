@@ -1,0 +1,25 @@
+1. set-a-trap | item | 1 | 0.75
+2. inflict-a-lingering-wound | magical | 2 | 0.6
+3. persuade-by-reason-or-charm | item | 1 | 0.65
+4. enhance-a-weapon-s-bite + resist-a-kind-of-harm | magical | 1 | 0.45
+5. calm-hostility | item | 1 | 0.4
+6. strike-a-distant-foe + exploit-a-known-weakness | alchemical | 1 | 0.5
+7. turn-an-attack-back | magical | 1 | 0.6
+8. drain-life-to-sustain-yourself | magical | 1 | 0.65
+9. teleport-a-great-distance | magical | 2 | 0.6
+10. bind-a-creature-in-place | item | 1 | 0.75
+11. lie-convincingly | item | 1 | 0.5
+12. communicate-at-a-distance + inspire-allies | magical | 1 | 0.5
+13. control-water | magical | 2 | 0.55
+14. strike-a-foe-in-reach | item | 1 | 0.4
+15. reposition-another-creature | item | 1 | 0.35
+16. cross-resisting-ground | item | 1 | 0.6
+17. resist-a-kind-of-harm | magical | 1 | 0.45
+18. conjure-a-temporary-tool | item | 1 | 0.35
+19. mark-a-foe-as-vulnerable | alchemical | 1 | 0.6
+20. reposition-another-creature | item | 1 | 0.35
+21. go-without-necessities | item | 1 | 0.8
+22. secure-shelter-and-supply | social | 2 | 0.6
+23. frighten | magical | 1 | 0.5
+24. evade-magical-detection | item | 1 | 0.6
+25. make-an-extradimensional-space + create-food-and-water | magical | 1 | 0.5

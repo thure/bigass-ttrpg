@@ -1,0 +1,25 @@
+1. harm-many-at-once + set-off-or-quell-a-hazard | item | 3 | 0.52
+2. raise-or-command-the-dead | item | 1 | 0.78
+3. know-where-you-are | item | 1 | 0.44
+4. gain-an-extra-action | technological | 1 | 0.58
+5. specialise-in-a-tradition | item | 1 | 0.24
+6. harm-many-at-once | alchemical | 2 | 0.72
+7. communicate-at-a-distance | item | 1 | 0.63
+8. survive-a-hostile-environment | item | 1 | 0.79
+9. conceal-an-object | item | 1 | 0.67
+10. extend-your-senses | item | 1 | 0.81
+11. move-a-group | item | 2 | 0.46
+12. conjure-a-temporary-tool | item | 1 | 0.59
+13. secure-shelter-and-supply | item | 1 | 0.43
+14. resist-a-kind-of-harm + strike-a-foe-in-reach | item | 1 | 0.61
+15. harm-many-at-once + make-light | item | 2 | 0.48
+16. attack-more-often | item | 1 | 0.42
+17. craft-an-object | item | 1 | 0.38
+18. gain-an-extra-action | item | 1 | 0.53
+19. grants-another-option | item | 1 | 0.33
+20. earn-income | item | 1 | 0.28
+21. keep-a-bonded-creature | manual | 1 | 0.29
+22. bind-a-creature-in-place | tool | 1 | 0.66
+23. set-a-trap + blind-or-deafen | item | 1 | 0.57
+24. see-in-darkness | item | 1 | 0.86
+25. improve-your-luck | item | 1 | 0.64

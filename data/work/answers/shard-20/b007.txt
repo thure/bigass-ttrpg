@@ -1,0 +1,25 @@
+1. fly | item | 1 | 0.8
+2. poison-a-foe | alchemical | 1 | 0.8
+3. hide-from-notice + resist-a-kind-of-harm | item | 1 | 0.4
+4. unclassified | item | 1 | 0.3
+5. sense-a-distant-place + travel-between-planes | item | 1 | 0.55
+6. rest-and-recover | item | 1 | 0.5
+7. see-in-darkness | technological | 1 | 0.65
+8. unclassified | item | 1 | 0.3
+9. be-harder-to-hit | item | 1 | 0.35
+10. inspire-allies | item | 1 | 0.6
+11. be-harder-to-hit | item | 1 | 0.4
+12. strike-a-distant-foe + raise-or-command-the-dead | item | 1 | 0.45
+13. repair-an-object + craft-an-object | item | 1 | 0.5
+14. dull-a-foe-s-capability | item | 1 | 0.6
+15. build-a-barrier | item | 1 | 0.6
+16. poison-a-foe + reposition-another-creature | alchemical | 1 | 0.55
+17. dull-a-foe-s-capability | item | 1 | 0.4
+18. duplicate-a-thing-or-person | item | 1 | 0.55
+19. curse-a-creature | magical | 1 | 0.45
+20. lift-a-curse + poison-a-foe | divine | 1 | 0.45
+21. disguise-your-appearance | tool | 1 | 0.7
+22. change-another-s-shape | item | 1 | 0.55
+23. exploit-a-known-weakness | item | 1 | 0.5
+24. move-faster | item | 1 | 0.4
+25. raise-a-structure | item | 1 | 0.6

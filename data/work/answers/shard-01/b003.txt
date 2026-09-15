@@ -1,0 +1,25 @@
+1. guard-your-mind | social | 2 | 0.55
+2. increase-proficiency-or-defence | manual | 1 | 0.75
+3. enhance-a-weapon-s-bite + increase-proficiency-or-defence | innate | 1 | 0.45
+4. draw-on-a-higher-power | divine | 2 | 0.7
+5. compound-a-substance | alchemical | 1 | 0.55
+6. fly | magical | 1 | 0.75
+7. improve-what-a-companion-can-do | magical | 1 | 0.65
+8. enhance-a-weapon-s-bite | magical | 1 | 0.65
+9. be-harder-to-hit | innate | 1 | 0.7
+10. absorb-or-blunt-damage | innate | 1 | 0.55
+11. increase-proficiency-or-defence | manual | 1 | 0.75
+12. increase-proficiency-or-defence | manual | 1 | 0.75
+13. improve-your-luck | divine | 1 | 0.4
+14. increase-proficiency-or-defence | manual | 1 | 0.75
+15. enhance-a-weapon-s-bite | trained-skill | 1 | 0.4
+16. increase-proficiency-or-defence | manual | 1 | 0.75
+17. shrug-off-an-effect-you-failed-to-avoid + increase-proficiency-or-defence | innate | 1 | 0.45
+18. enhance-a-weapon-s-bite | trained-skill | 1 | 0.5
+19. increase-proficiency-or-defence | manual | 1 | 0.6
+20. grants-another-option | trained-skill | 1 | 0.45
+21. numeric-variant | manual | 1 | 0.6
+22. increase-proficiency-or-defence | manual | 1 | 0.7
+23. increase-proficiency-or-defence | manual | 1 | 0.65
+24. increase-proficiency-or-defence | trained-skill | 1 | 0.5
+25. increase-proficiency-or-defence | manual | 1 | 0.75

@@ -1,0 +1,25 @@
+1. increase-proficiency-or-defence | magical | 1 | 0.82
+2. kill-outright | divine | 2 | 0.68
+3. expand-a-resource-pool | divine | 1 | 0.55
+4. grants-another-option | divine | 1 | 0.58
+5. claim-a-lineage | innate | 1 | 0.76
+6. increase-proficiency-or-defence | innate | 1 | 0.85
+7. read-any-writing | magical | 1 | 0.92
+8. resist-a-kind-of-harm | magical | 1 | 0.52
+9. increase-proficiency-or-defence + grants-another-option | trained-skill | 1 | 0.48
+10. increase-proficiency-or-defence | trained-skill | 1 | 0.66
+11. increase-proficiency-or-defence | trained-skill | 1 | 0.83
+12. grants-another-option | magical | 1 | 0.6
+13. resist-a-kind-of-harm | innate | 1 | 0.8
+14. improve-your-luck | manual | 1 | 0.62
+15. increase-proficiency-or-defence | innate | 1 | 0.87
+16. grants-another-option | manual | 1 | 0.72
+17. numeric-variant | manual | 1 | 0.74
+18. grants-another-option | magical | 1 | 0.5
+19. harm-many-at-once | divine | 2 | 0.64
+20. mark-a-foe-as-vulnerable + dull-a-foe-s-capability | manual | 1 | 0.47
+21. improve-your-luck | innate | 1 | 0.43
+22. increase-proficiency-or-defence | trained-skill | 1 | 0.88
+23. increase-proficiency-or-defence + shrug-off-an-effect-you-failed-to-avoid | innate | 1 | 0.53
+24. increase-proficiency-or-defence | magical | 1 | 0.9
+25. increase-proficiency-or-defence | trained-skill | 1 | 0.86

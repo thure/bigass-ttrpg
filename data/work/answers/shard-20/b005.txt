@@ -1,0 +1,25 @@
+1. heal-a-body + expand-a-resource-pool | innate | 1 | 0.55
+2. move-faster | social | 1 | 0.7
+3. increase-proficiency-or-defence | manual | 1 | 0.85
+4. increase-proficiency-or-defence | manual | 1 | 0.85
+5. numeric-variant | manual | 1 | 0.75
+6. numeric-variant | manual | 1 | 0.75
+7. increase-proficiency-or-defence | manual | 1 | 0.85
+8. condition-state | innate | 1 | 0.85
+9. condition-state | innate | 1 | 0.85
+10. condition-state | manual | 3 | 0.55
+11. condition-state | manual | 3 | 0.55
+12. condition-state | innate | 1 | 0.5
+13. alter-belief-or-memory | magical | 1 | 0.55
+14. curse-a-creature | magical | 1 | 0.6
+15. curse-a-creature | magical | 1 | 0.55
+16. reshape-the-ground | divine | 1 | 0.45
+17. protect-a-group | divine | 2 | 0.45
+18. share-power-with-a-bonded-creature | magical | 1 | 0.6
+19. grants-another-option | item | 1 | 0.5
+20. sway-an-audience | item | 1 | 0.5
+21. rally-the-faltering | item | 2 | 0.55
+22. go-without-necessities | item | 1 | 0.4
+23. resist-poison-and-disease | alchemical | 1 | 0.45
+24. unclassified | manual | 1 | 0.3
+25. numeric-variant | item | 1 | 0.75

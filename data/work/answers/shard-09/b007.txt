@@ -1,0 +1,25 @@
+1. obscure-an-area + inflict-a-lingering-wound | alchemical | 1 | 0.58
+2. unclassified | manual | 1 | 0.28
+3. call-an-outsider | magical | 1 | 0.78
+4. resist-a-kind-of-harm | alchemical | 1 | 0.4
+5. resist-poison-and-disease + go-without-necessities | item | 1 | 0.5
+6. climb-a-vertical-surface | tool | 1 | 0.76
+7. fly + hide-from-notice | item | 1 | 0.6
+8. unclassified | manual | 1 | 0.25
+9. hide-a-message | social | 1 | 0.74
+10. seal-a-boundary | alchemical | 1 | 0.42
+11. conceal-an-object | item | 1 | 0.73
+12. inspire-allies | item | 1 | 0.35
+13. disguise-what-a-thing-is | social | 1 | 0.48
+14. breach-a-locked-boundary | tool | 1 | 0.55
+15. sense-a-distant-place | item | 1 | 0.79
+16. rest-and-recover + guard-your-mind | item | 1 | 0.52
+17. absorb-or-blunt-damage | item | 1 | 0.45
+18. enhance-a-weapon-s-bite + drain-life-to-sustain-yourself | item | 1 | 0.44
+19. turn-an-attack-back | item | 1 | 0.7
+20. extend-your-senses | tool | 1 | 0.33
+21. block-magical-passage + bind-a-creature-in-place | item | 1 | 0.68
+22. detect-magic | item | 1 | 0.38
+23. frighten | alchemical | 1 | 0.46
+24. grants-another-option | item | 1 | 0.43
+25. strike-a-foe-in-reach + harm-many-at-once | item | 1 | 0.53

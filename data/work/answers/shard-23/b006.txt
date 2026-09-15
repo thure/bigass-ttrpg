@@ -1,0 +1,25 @@
+1. improve-your-luck | magical | 1 | 0.55
+2. enhance-a-weapon-s-bite + inflict-a-lingering-wound | item | 1 | 0.6
+3. grow-or-shrink + move-faster | alchemical | 1 | 0.55
+4. be-harder-to-hit | item | 1 | 0.7
+5. hide-from-notice | alchemical | 1 | 0.45
+6. harm-many-at-once | magical | 2 | 0.65
+7. keep-a-bonded-creature | manual | 1 | 0.4
+8. grants-another-option | tool | 1 | 0.35
+9. tend-your-companion | item | 1 | 0.5
+10. craft-an-object | tool | 1 | 0.45
+11. charm-into-friendship | magical | 2 | 0.55
+12. curse-a-creature | magical | 1 | 0.55
+13. bind-a-creature-in-place | item | 1 | 0.65
+14. poison-a-foe | alchemical | 1 | 0.75
+15. set-a-trap | technological | 1 | 0.7
+16. drain-vitality-lastingly | alchemical | 1 | 0.4
+17. walk-on-unstable-footing + rest-and-recover | magical | 1 | 0.5
+18. speak-with-the-otherwise-mute | tool | 1 | 0.6
+19. negate-an-effect-outright | magical | 1 | 0.55
+20. curse-a-creature | magical | 1 | 0.65
+21. gain-an-extra-action | magical | 1 | 0.55
+22. punish-an-opening | item | 1 | 0.35
+23. dull-a-foe-s-capability + frighten | alchemical | 2 | 0.45
+24. hide-from-notice | alchemical | 1 | 0.6
+25. make-terrain-look-otherwise + be-harder-to-hit | magical | 3 | 0.45

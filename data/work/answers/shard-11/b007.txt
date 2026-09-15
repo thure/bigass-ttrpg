@@ -1,0 +1,25 @@
+1. dull-a-foe-s-capability | alchemical | 2 | 0.4
+2. bind-a-creature-in-place | tool | 1 | 0.65
+3. strike-a-distant-foe | item | 1 | 0.4
+4. enhance-a-weapon-s-bite | divine | 1 | 0.5
+5. resist-a-kind-of-harm | alchemical | 1 | 0.5
+6. slow-a-foe | alchemical | 2 | 0.5
+7. move-through-water + survive-a-hostile-environment | item | 1 | 0.6
+8. unclassified | item | 1 | 0.25
+9. divine-an-answer | magical | 1 | 0.4
+10. reshape-the-ground | alchemical | 1 | 0.35
+11. travel-between-planes + sense-a-distant-place | magical | 1 | 0.4
+12. unclassified | item | 1 | 0.2
+13. make-an-extradimensional-space | magical | 1 | 0.5
+14. breach-a-locked-boundary | tool | 1 | 0.55
+15. sense-a-distant-place | magical | 1 | 0.75
+16. craft-an-object | divine | 1 | 0.35
+17. unclassified | item | 1 | 0.2
+18. make-light | magical | 1 | 0.4
+19. burrow-through-earth | alchemical | 1 | 0.55
+20. strike-a-foe-in-reach + destroy-an-object | magical | 1 | 0.4
+21. grow-or-shrink | magical | 1 | 0.45
+22. unclassified | item | 1 | 0.2
+23. call-an-outsider | magical | 2 | 0.35
+24. harm-many-at-once | magical | 1 | 0.35
+25. strike-a-distant-foe | technological | 1 | 0.55

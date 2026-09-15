@@ -1,0 +1,25 @@
+1. know-where-you-are | tool | 1 | 0.5
+2. dull-a-foe-s-capability | alchemical | 2 | 0.55
+3. enhance-a-weapon-s-bite + heal-a-body | divine | 1 | 0.5
+4. breach-a-locked-boundary | magical | 1 | 0.8
+5. disguise-your-appearance | magical | 1 | 0.55
+6. turn-an-attack-back | magical | 1 | 0.55
+7. communicate-at-a-distance | technological | 1 | 0.45
+8. unclassified | manual | 1 | 0.3
+9. exploit-a-known-weakness | item | 1 | 0.4
+10. share-power-with-a-bonded-creature | magical | 1 | 0.5
+11. bind-a-creature-in-place + enhance-a-weapon-s-bite | item | 1 | 0.55
+12. enhance-a-weapon-s-bite + destroy-an-object | magical | 1 | 0.6
+13. poison-a-foe + kill-outright | alchemical | 1 | 0.6
+14. unclassified | manual | 1 | 0.3
+15. silence-magic | magical | 2 | 0.5
+16. animate-the-inanimate | magical | 1 | 0.6
+17. reposition-another-creature | alchemical | 1 | 0.5
+18. sense-or-shape-fate | magical | 5 | 0.4
+19. build-a-barrier | technological | 1 | 0.55
+20. strike-a-distant-foe + resist-a-kind-of-harm | magical | 1 | 0.4
+21. disguise-your-appearance | tool | 1 | 0.6
+22. open-a-portal + travel-between-planes | ritual | 5 | 0.5
+23. be-harder-to-hit | item | 1 | 0.75
+24. resist-a-kind-of-harm | item | 1 | 0.75
+25. dull-a-foe-s-capability | magical | 1 | 0.55

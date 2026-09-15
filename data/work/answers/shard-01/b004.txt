@@ -1,0 +1,25 @@
+1. increase-proficiency-or-defence | manual | 1 | 0.75
+2. increase-proficiency-or-defence | manual | 1 | 0.75
+3. carry-a-burden + expand-a-resource-pool | divine | 1 | 0.4
+4. increase-proficiency-or-defence | manual | 1 | 0.75
+5. increase-proficiency-or-defence | manual | 1 | 0.75
+6. increase-proficiency-or-defence | manual | 1 | 0.75
+7. guard-your-mind | innate | 1 | 0.7
+8. draw-on-a-higher-power | magical | 1 | 0.5
+9. enhance-a-weapon-s-bite | technological | 1 | 0.65
+10. specialise-in-a-tradition | magical | 1 | 0.45
+11. increase-proficiency-or-defence | manual | 1 | 0.75
+12. expand-a-resource-pool | magical | 1 | 0.6
+13. increase-proficiency-or-defence | manual | 1 | 0.75
+14. enhance-a-weapon-s-bite | divine | 1 | 0.65
+15. increase-proficiency-or-defence | manual | 1 | 0.75
+16. specialise-in-a-tradition | alchemical | 1 | 0.5
+17. grants-another-option | manual | 1 | 0.7
+18. increase-proficiency-or-defence | manual | 1 | 0.65
+19. absorb-or-blunt-damage | item | 1 | 0.6
+20. increase-proficiency-or-defence | manual | 1 | 0.75
+21. specialise-in-a-tradition | magical | 1 | 0.5
+22. specialise-in-a-tradition | divine | 1 | 0.45
+23. shrug-off-an-effect-you-failed-to-avoid + increase-proficiency-or-defence | innate | 1 | 0.45
+24. expand-a-resource-pool | magical | 1 | 0.6
+25. increase-proficiency-or-defence | manual | 1 | 0.75

@@ -1,0 +1,25 @@
+1. sway-an-audience | item | 1 | 0.3
+2. see-through-deception | item | 2 | 0.5
+3. burrow-through-earth | item | 1 | 0.78
+4. destroy-a-barrier | technological | 1 | 0.45
+5. grants-another-option | item | 1 | 0.28
+6. resist-a-kind-of-harm | item | 1 | 0.7
+7. set-a-trap + poison-a-foe | alchemical | 1 | 0.65
+8. change-your-own-shape | alchemical | 1 | 0.42
+9. enhance-a-weapon-s-bite | item | 1 | 0.38
+10. extend-your-senses | item | 1 | 0.6
+11. disguise-what-a-thing-is | item | 1 | 0.66
+12. call-a-creature-to-fight-for-you + bind-a-creature-in-place | item | 2 | 0.4
+13. sway-an-audience + harm-many-at-once | item | 1 | 0.36
+14. move-faster + create-a-persistent-zone | alchemical | 1 | 0.44
+15. set-a-trap + communicate-at-a-distance | item | 1 | 0.48
+16. change-your-own-shape + identify-magic | item | 1 | 0.43
+17. alter-belief-or-memory | item | 1 | 0.68
+18. set-a-trap + inflict-a-lingering-wound | item | 1 | 0.56
+19. shake-off-an-affliction + strike-a-distant-foe | divine | 1 | 0.49
+20. call-a-creature-to-fight-for-you + harm-many-at-once | item | 1 | 0.46
+21. recall-what-you-have-learned + read-or-enter-a-mind | item | 1 | 0.41
+22. dull-a-foe-s-capability + resist-a-kind-of-harm | item | 1 | 0.39
+23. see-through-deception | item | 1 | 0.55
+24. see-in-darkness | item | 1 | 0.75
+25. grow-a-natural-weapon | item | 1 | 0.62

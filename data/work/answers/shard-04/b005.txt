@@ -1,0 +1,25 @@
+1. share-power-with-a-bonded-creature | magical | 1 | 0.55
+2. grants-another-option | magical | 1 | 0.55
+3. increase-proficiency-or-defence | trained-skill | 1 | 0.85
+4. increase-proficiency-or-defence | trained-skill | 1 | 0.85
+5. numeric-variant | manual | 1 | 0.75
+6. numeric-variant | manual | 1 | 0.7
+7. increase-proficiency-or-defence | trained-skill | 1 | 0.7
+8. specialise-in-a-tradition | magical | 1 | 0.55
+9. condition-state | manual | 1 | 0.8
+10. condition-state | social | 1 | 0.75
+11. condition-state | manual | 1 | 0.8
+12. change-your-own-shape + disguise-your-appearance | magical | 1 | 0.7
+13. interpose-yourself-for-another + strike-a-foe-in-reach | manual | 1 | 0.65
+14. curse-a-creature | magical | 1 | 0.65
+15. see-in-darkness | magical | 1 | 0.55
+16. command-the-weather | divine | 3 | 0.7
+17. quiet-a-troubled-mind | divine | 1 | 0.4
+18. slow-or-hasten-time-for-others | divine | 3 | 0.6
+19. keep-a-bonded-creature + protect-a-group | magical | 1 | 0.55
+20. appraise-worth | item | 1 | 0.8
+21. improve-your-luck | item | 1 | 0.65
+22. grants-another-option | item | 1 | 0.45
+23. go-without-necessities | item | 1 | 0.5
+24. grants-another-option | alchemical | 1 | 0.4
+25. compound-a-substance | alchemical | 1 | 0.4

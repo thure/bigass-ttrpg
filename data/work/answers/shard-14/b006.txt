@@ -1,0 +1,25 @@
+1. strike-from-hiding-and-vanish | item | 1 | 0.5
+2. calm-hostility | alchemical | 1 | 0.5
+3. bind-a-creature-in-place | item | 1 | 0.6
+4. rest-and-recover | item | 1 | 0.35
+5. resist-a-kind-of-harm + curse-a-creature | item | 1 | 0.45
+6. increase-proficiency-or-defence | alchemical | 1 | 0.55
+7. reposition-another-creature | item | 1 | 0.55
+8. destroy-an-object | item | 1 | 0.4
+9. harm-many-at-once | item | 1 | 0.55
+10. be-harder-to-hit | item | 1 | 0.5
+11. grants-another-option | item | 1 | 0.35
+12. increase-proficiency-or-defence | item | 1 | 0.55
+13. become-hard-to-kill | item | 1 | 0.4
+14. resist-a-kind-of-harm | item | 1 | 0.45
+15. harm-many-at-once | item | 1 | 0.45
+16. dull-a-foe-s-capability | alchemical | 1 | 0.55
+17. harm-many-at-once | item | 1 | 0.55
+18. craft-an-object | item | 1 | 0.3
+19. move-faster | item | 1 | 0.7
+20. trade-and-bargain | item | 1 | 0.5
+21. grants-another-option | item | 1 | 0.45
+22. craft-an-object | tool | 1 | 0.5
+23. fly | item | 1 | 0.75
+24. teleport-a-short-distance | item | 1 | 0.5
+25. see-in-darkness | item | 1 | 0.45

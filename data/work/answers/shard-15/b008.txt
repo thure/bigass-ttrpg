@@ -1,0 +1,25 @@
+1. move-faster + grants-another-option | magical | 1 | 0.4
+2. become-invisible | magical | 2 | 0.75
+3. command-obedience | magical | 1 | 0.75
+4. change-your-own-shape + call-a-creature-to-fight-for-you | magical | 1 | 0.45
+5. fly | magical | 1 | 0.4
+6. resist-a-kind-of-harm + move-faster | magical | 1 | 0.4
+7. strike-a-distant-foe + harm-many-at-once | technological | 2 | 0.5
+8. curse-a-creature | magical | 1 | 0.5
+9. climb-a-vertical-surface | technological | 1 | 0.5
+10. become-invisible | magical | 1 | 0.75
+11. heal-many-at-once | magical | 2 | 0.7
+12. communicate-at-a-distance | magical | 1 | 0.55
+13. dull-a-foe-s-capability | divine | 1 | 0.45
+14. keep-a-bonded-creature | manual | 1 | 0.35
+15. unclassified | item | 1 | 0.25
+16. set-a-trap | technological | 1 | 0.65
+17. absorb-or-blunt-damage | magical | 1 | 0.5
+18. numeric-variant | magical | 1 | 0.4
+19. grants-another-option | magical | 1 | 0.55
+20. inflict-a-lingering-wound | item | 1 | 0.55
+21. pass-through-solid-matter | magical | 1 | 0.5
+22. poison-a-foe | alchemical | 1 | 0.75
+23. set-a-trap | technological | 1 | 0.5
+24. resist-a-kind-of-harm + locate-a-person-or-thing | item | 1 | 0.55
+25. sense-a-distant-place | magical | 1 | 0.7

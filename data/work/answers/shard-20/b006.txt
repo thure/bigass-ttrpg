@@ -1,0 +1,25 @@
+1. turn-or-rebuke-a-creature-type + banish-a-creature | item | 2 | 0.45
+2. be-harder-to-hit | item | 1 | 0.6
+3. move-through-water | technological | 1 | 0.5
+4. resist-a-kind-of-harm + harm-many-at-once | item | 1 | 0.55
+5. numeric-variant | item | 1 | 0.6
+6. poison-a-foe | alchemical | 1 | 0.8
+7. enhance-a-weapon-s-bite | item | 1 | 0.55
+8. call-a-creature-to-fight-for-you | item | 1 | 0.7
+9. be-harder-to-hit | item | 1 | 0.5
+10. build-a-barrier + harm-many-at-once | item | 1 | 0.55
+11. unclassified | item | 1 | 0.3
+12. gain-a-creature-s-trait + gain-a-buffer-of-vitality | item | 1 | 0.45
+13. become-hard-to-kill | item | 1 | 0.45
+14. harm-many-at-once | alchemical | 1 | 0.6
+15. enhance-a-weapon-s-bite | item | 1 | 0.55
+16. inflict-a-lingering-wound | alchemical | 1 | 0.65
+17. teleport-a-short-distance + teleport-a-great-distance | item | 1 | 0.5
+18. make-terrain-look-otherwise | item | 1 | 0.45
+19. survive-a-hostile-environment | item | 1 | 0.7
+20. create-food-and-water | item | 1 | 0.65
+21. rally-the-faltering | item | 1 | 0.4
+22. enhance-a-weapon-s-bite | item | 1 | 0.6
+23. move-through-water | item | 1 | 0.7
+24. set-a-trap | item | 1 | 0.55
+25. command-obedience | item | 1 | 0.5

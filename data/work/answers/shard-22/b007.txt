@@ -1,0 +1,25 @@
+1. harm-many-at-once | magical | 2 | 0.66
+2. dull-a-foe-s-capability + resist-a-kind-of-harm | alchemical | 2 | 0.52
+3. earn-income | item | 1 | 0.6
+4. breach-a-locked-boundary | item | 1 | 0.85
+5. strike-a-distant-foe | item | 1 | 0.73
+6. become-invisible | magical | 1 | 0.7
+7. shake-off-an-affliction + strike-a-distant-foe | item | 1 | 0.5
+8. unclassified | item | 1 | 0.25
+9. exploit-a-known-weakness | item | 1 | 0.46
+10. communicate-at-a-distance | item | 2 | 0.88
+11. protect-a-group + move-a-group | divine | 2 | 0.48
+12. extend-your-senses | item | 1 | 0.35
+13. poison-a-foe + stop-a-foe-moving | alchemical | 1 | 0.62
+14. bind-a-creature-in-place | magical | 1 | 0.58
+15. build-a-barrier | item | 1 | 0.76
+16. animate-the-inanimate + strike-a-foe-in-reach | item | 1 | 0.64
+17. blind-or-deafen + see-through-obscurement | item | 2 | 0.54
+18. call-a-creature-to-fight-for-you | magical | 1 | 0.38
+19. repair-an-object | alchemical | 1 | 0.3
+20. stop-a-foe-moving | magical | 1 | 0.4
+21. disguise-your-appearance | tool | 1 | 0.79
+22. mark-a-foe-as-vulnerable | item | 1 | 0.82
+23. harm-many-at-once | item | 2 | 0.68
+24. craft-an-object + resist-a-kind-of-harm | item | 1 | 0.43
+25. set-a-trap + charm-into-friendship | alchemical | 1 | 0.56

@@ -1,0 +1,25 @@
+1. identify-a-creature | item | 1 | 0.75
+2. animate-the-inanimate | magical | 1 | 0.4
+3. ward-an-area | magical | 1 | 0.55
+4. expand-a-resource-pool | magical | 1 | 0.6
+5. increase-proficiency-or-defence | item | 1 | 0.8
+6. increase-attributes-or-health | item | 1 | 0.45
+7. enhance-a-weapon-s-bite | item | 1 | 0.65
+8. make-an-extradimensional-space | item | 1 | 0.8
+9. charm-into-friendship | item | 1 | 0.55
+10. build-a-barrier | alchemical | 1 | 0.8
+11. rest-and-recover | manual | 1 | 0.35
+12. increase-attributes-or-health | item | 1 | 0.85
+13. gain-a-buffer-of-vitality | item | 1 | 0.5
+14. compound-a-substance | alchemical | 1 | 0.55
+15. condition-state | alchemical | 1 | 0.35
+16. unclassified | manual | 1 | 0.3
+17. negate-an-effect-outright + command-obedience | item | 1 | 0.55
+18. unclassified | manual | 1 | 0.3
+19. mark-a-foe-as-vulnerable | item | 1 | 0.45
+20. strike-a-distant-foe + reposition-another-creature | alchemical | 1 | 0.55
+21. call-a-creature-to-fight-for-you | item | 2 | 0.75
+22. poison-a-foe | alchemical | 1 | 0.75
+23. command-obedience | item | 1 | 0.6
+24. set-a-trap | technological | 1 | 0.7
+25. expand-a-resource-pool | divine | 1 | 0.65

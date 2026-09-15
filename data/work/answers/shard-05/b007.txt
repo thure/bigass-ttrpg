@@ -1,0 +1,25 @@
+1. strike-a-distant-foe + frighten | item | 1 | 0.45
+2. secure-shelter-and-supply | tool | 1 | 0.25
+3. heal-a-body + lift-a-curse | divine | 1 | 0.52
+4. increase-proficiency-or-defence | item | 1 | 0.58
+5. strike-a-foe-in-reach | item | 1 | 0.35
+6. ambush-an-unready-foe | item | 1 | 0.62
+7. turn-an-attack-back | item | 1 | 0.7
+8. harm-many-at-once | technological | 1 | 0.65
+9. craft-an-object | tool | 1 | 0.48
+10. sense-through-another-creature | item | 1 | 0.8
+11. sway-an-audience | item | 1 | 0.35
+12. persuade-by-reason-or-charm | item | 1 | 0.58
+13. craft-an-object | tool | 1 | 0.25
+14. frighten | item | 1 | 0.52
+15. sense-a-distant-place | item | 1 | 0.7
+16. poison-a-foe | alchemical | 1 | 0.8
+17. heal-a-body | divine | 1 | 0.42
+18. poison-a-foe + kill-outright | alchemical | 1 | 0.55
+19. increase-proficiency-or-defence | item | 1 | 0.63
+20. strike-a-distant-foe + harm-many-at-once | item | 1 | 0.55
+21. teleport-a-short-distance | item | 1 | 0.68
+22. move-through-water + absorb-or-blunt-damage | item | 1 | 0.6
+23. strike-a-foe-in-reach | item | 1 | 0.35
+24. harm-many-at-once | item | 1 | 0.47
+25. resist-a-kind-of-harm + frighten | item | 1 | 0.55

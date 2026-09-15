@@ -1,0 +1,25 @@
+1. poison-a-foe | alchemical | 1 | 0.7
+2. inflict-a-lingering-wound | alchemical | 1 | 0.45
+3. harm-many-at-once + grow-or-wither-plants | alchemical | 1 | 0.5
+4. fly | magical | 1 | 0.55
+5. obscure-an-area | alchemical | 1 | 0.5
+6. poison-a-foe + harm-many-at-once | alchemical | 1 | 0.5
+7. grants-another-option | magical | 1 | 0.35
+8. curse-a-creature + drain-vitality-lastingly | magical | 1 | 0.55
+9. drain-life-to-sustain-yourself + strike-a-distant-foe | magical | 1 | 0.55
+10. enhance-a-weapon-s-bite | magical | 1 | 0.6
+11. increase-attributes-or-health | item | 1 | 0.65
+12. cure-poison-or-disease | magical | 1 | 0.35
+13. swap-places-or-bodies + impersonate-a-specific-person | magical | 1 | 0.55
+14. set-a-trap | technological | 1 | 0.65
+15. turn-or-rebuke-a-creature-type + enhance-a-weapon-s-bite | item | 2 | 0.55
+16. know-where-you-are | item | 1 | 0.4
+17. cross-resisting-ground + reshape-the-ground | magical | 1 | 0.5
+18. gain-a-buffer-of-vitality | divine | 1 | 0.55
+19. keep-a-bonded-creature | magical | 1 | 0.35
+20. become-invisible | alchemical | 1 | 0.75
+21. strike-with-overwhelming-force | item | 1 | 0.45
+22. see-through-obscurement | magical | 1 | 0.65
+23. create-food-and-water | alchemical | 1 | 0.7
+24. negate-an-effect-outright | item | 1 | 0.4
+25. travel-as-a-known-figure | social | 1 | 0.45

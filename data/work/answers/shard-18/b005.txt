@@ -1,0 +1,25 @@
+1. absorb-or-blunt-damage | innate | 1 | 0.8
+2. increase-proficiency-or-defence | trained-skill | 1 | 0.85
+3. increase-proficiency-or-defence | trained-skill | 1 | 0.85
+4. increase-proficiency-or-defence | trained-skill | 1 | 0.85
+5. numeric-variant | manual | 1 | 0.7
+6. numeric-variant | manual | 1 | 0.7
+7. increase-proficiency-or-defence | trained-skill | 1 | 0.85
+8. condition-state | magical | 1 | 0.85
+9. condition-state | innate | 1 | 0.85
+10. condition-state | magical | 1 | 0.85
+11. condition-state | social | 1 | 0.55
+12. alter-gravity-or-orientation | innate | 1 | 0.55
+13. perceive-without-sight | innate | 1 | 0.75
+14. command-obedience | magical | 1 | 0.55
+15. silence-magic | magical | 1 | 0.6
+16. specialise-in-a-tradition | divine | 1 | 0.5
+17. specialise-in-a-tradition | divine | 1 | 0.5
+18. keep-a-bonded-creature | magical | 1 | 0.75
+19. grants-another-option | item | 1 | 0.55
+20. enhance-a-weapon-s-bite | item | 1 | 0.6
+21. cure-poison-or-disease | alchemical | 1 | 0.45
+22. increase-proficiency-or-defence | item | 1 | 0.45
+23. ward-an-area | technological | 1 | 0.55
+24. strike-a-distant-foe + inflict-a-lingering-wound | alchemical | 1 | 0.65
+25. numeric-variant | item | 1 | 0.7

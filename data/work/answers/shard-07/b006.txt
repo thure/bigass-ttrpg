@@ -1,0 +1,25 @@
+1. grants-another-option | item | 1 | 0.3
+2. make-light + dull-a-foe-s-capability | item | 1 | 0.5
+3. negate-an-effect-outright | item | 1 | 0.65
+4. store-an-effect-for-later | item | 1 | 0.4
+5. numeric-variant | item | 1 | 0.75
+6. identify-magic + repair-an-object | item | 1 | 0.45
+7. resist-a-kind-of-harm | item | 1 | 0.65
+8. secure-shelter-and-supply | item | 1 | 0.35
+9. sway-an-audience | item | 1 | 0.3
+10. tend-your-companion | item | 1 | 0.4
+11. reposition-another-creature | alchemical | 1 | 0.6
+12. draw-on-a-higher-power | magical | 1 | 0.4
+13. secure-shelter-and-supply | manual | 1 | 0.3
+14. turn-an-attack-back | item | 1 | 0.7
+15. enhance-a-weapon-s-bite | item | 1 | 0.4
+16. poison-a-foe + inflict-disease | alchemical | 1 | 0.65
+17. change-your-own-shape | alchemical | 1 | 0.7
+18. inflict-a-lingering-wound | alchemical | 1 | 0.55
+19. move-unseen | item | 1 | 0.75
+20. strike-a-distant-foe | alchemical | 1 | 0.65
+21. be-harder-to-hit | item | 1 | 0.8
+22. become-hard-to-kill + shrug-off-an-effect-you-failed-to-avoid | item | 1 | 0.45
+23. call-a-creature-to-fight-for-you | item | 1 | 0.75
+24. keep-a-bonded-creature | manual | 1 | 0.35
+25. recruit-help + gather-information-from-people | social | 1 | 0.55

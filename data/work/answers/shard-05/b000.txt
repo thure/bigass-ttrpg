@@ -1,0 +1,25 @@
+1. keep-the-dying-alive | trained-skill | 1 | 0.78
+2. heal-many-at-once | trained-skill | 3 | 0.62
+3. frighten | manual | 1 | 0.85
+4. specialise-in-a-tradition | magical | 1 | 0.55
+5. strike-a-foe-in-reach | innate | 1 | 0.68
+6. strike-a-foe-in-reach | innate | 1 | 0.6
+7. negate-an-effect-outright | manual | 1 | 0.5
+8. strike-a-foe-in-reach | magical | 1 | 0.72
+9. identify-a-creature | trained-skill | 1 | 0.6
+10. strike-a-foe-in-reach + close-on-a-foe | innate | 1 | 0.55
+11. interpose-yourself-for-another | divine | 1 | 0.75
+12. track-a-creature | trained-skill | 1 | 0.45
+13. recall-what-you-have-learned | trained-skill | 1 | 0.5
+14. cross-resisting-ground | trained-skill | 1 | 0.45
+15. strike-with-overwhelming-force | trained-skill | 1 | 0.52
+16. earn-income | social | 3 | 0.58
+17. run-a-long-project | social | 3 | 0.45
+18. resist-a-kind-of-harm | innate | 1 | 0.65
+19. fly | innate | 1 | 0.6
+20. turn-an-attack-back | innate | 1 | 0.62
+21. grants-another-option | magical | 1 | 0.4
+22. strike-a-distant-foe | innate | 1 | 0.82
+23. wage-mass-combat | trained-skill | 3 | 0.5
+24. keep-a-bonded-creature | innate | 1 | 0.75
+25. keep-a-bonded-creature | innate | 1 | 0.72

@@ -1,0 +1,25 @@
+1. carry-a-burden | psychic | 1 | 0.5
+2. claim-a-past-vocation | social | 1 | 0.65
+3. claim-a-past-vocation | trained-skill | 1 | 0.65
+4. belong-to-an-order | social | 1 | 0.55
+5. gain-access-to-closed-circles | social | 1 | 0.6
+6. claim-a-past-vocation | trained-skill | 1 | 0.55
+7. claim-a-past-vocation | trained-skill | 1 | 0.65
+8. belong-to-an-order | social | 1 | 0.55
+9. claim-a-past-vocation | trained-skill | 1 | 0.5
+10. claim-a-past-vocation | trained-skill | 1 | 0.65
+11. carry-a-burden | technological | 1 | 0.6
+12. claim-a-past-vocation | trained-skill | 1 | 0.6
+13. claim-a-past-vocation | trained-skill | 1 | 0.55
+14. specialise-in-a-tradition | magical | 1 | 0.6
+15. increase-proficiency-or-defence | trained-skill | 1 | 0.8
+16. increase-proficiency-or-defence | trained-skill | 1 | 0.85
+17. grants-another-option | innate | 1 | 0.8
+18. grants-another-option | innate | 1 | 0.8
+19. specialise-in-a-tradition | magical | 1 | 0.75
+20. increase-attributes-or-health | innate | 1 | 0.85
+21. increase-attributes-or-health | innate | 1 | 0.85
+22. inspire-allies | magical | 1 | 0.7
+23. increase-proficiency-or-defence | trained-skill | 1 | 0.8
+24. heal-a-body + turn-or-rebuke-a-creature-type | divine | 2 | 0.5
+25. expand-a-resource-pool | psychic | 1 | 0.85

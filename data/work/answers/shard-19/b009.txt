@@ -1,0 +1,25 @@
+1. make-light | item | 1 | 0.45
+2. inspire-allies | item | 1 | 0.35
+3. mark-a-foe-as-vulnerable | item | 1 | 0.75
+4. slow-a-foe | alchemical | 1 | 0.55
+5. teleport-a-short-distance | item | 1 | 0.5
+6. improve-your-luck | item | 1 | 0.5
+7. go-without-necessities | alchemical | 1 | 0.55
+8. recruit-help | social | 1 | 0.5
+9. communicate-at-a-distance | item | 3 | 0.55
+10. bind-a-creature-in-place | item | 1 | 0.5
+11. heal-many-at-once | alchemical | 1 | 0.7
+12. speak-with-the-otherwise-mute | item | 1 | 0.6
+13. destroy-an-object | technological | 1 | 0.5
+14. exploit-a-known-weakness | item | 1 | 0.5
+15. frighten + dull-a-foe-s-capability | magical | 1 | 0.45
+16. strike-a-distant-foe + locate-a-person-or-thing | item | 1 | 0.5
+17. shrug-off-an-effect-you-failed-to-avoid | divine | 1 | 0.45
+18. absorb-or-blunt-damage | item | 1 | 0.35
+19. conjure-a-temporary-tool | item | 1 | 0.35
+20. increase-attributes-or-health | item | 1 | 0.8
+21. breach-a-locked-boundary | magical | 2 | 0.45
+22. turn-an-attack-back | item | 1 | 0.55
+23. ward-an-area | item | 2 | 0.5
+24. enhance-a-weapon-s-bite | item | 1 | 0.55
+25. identify-a-creature | technological | 1 | 0.55

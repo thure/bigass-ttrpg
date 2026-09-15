@@ -1,0 +1,25 @@
+1. attack-more-often | item | 1 | 0.5
+2. dull-a-foe-s-capability | item | 1 | 0.55
+3. bind-a-creature-in-place | item | 1 | 0.3
+4. resist-a-kind-of-harm | item | 1 | 0.7
+5. grants-another-option | item | 1 | 0.35
+6. climb-a-vertical-surface + resist-a-kind-of-harm | item | 1 | 0.45
+7. earn-income | technological | 1 | 0.35
+8. negate-an-effect-outright | item | 1 | 0.65
+9. increase-proficiency-or-defence | alchemical | 1 | 0.55
+10. reshape-the-ground | alchemical | 1 | 0.4
+11. grants-another-option | item | 1 | 0.3
+12. protect-a-group | item | 1 | 0.45
+13. keep-a-bonded-creature | item | 1 | 0.3
+14. increase-proficiency-or-defence | item | 1 | 0.55
+15. sense-a-distant-place | item | 1 | 0.55
+16. bind-a-creature-in-place | item | 3 | 0.5
+17. unclassified | item | 1 | 0.25
+18. dull-a-foe-s-capability | item | 1 | 0.5
+19. destroy-an-object | alchemical | 1 | 0.6
+20. follow-a-code | divine | 1 | 0.4
+21. secure-shelter-and-supply | item | 1 | 0.45
+22. grants-another-option | alchemical | 1 | 0.4
+23. persuade-by-reason-or-charm | item | 1 | 0.35
+24. harm-many-at-once | item | 1 | 0.6
+25. sense-a-distant-place | item | 1 | 0.4

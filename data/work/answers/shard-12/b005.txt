@@ -1,0 +1,25 @@
+1. climb-a-vertical-surface + move-through-water | innate | 1 | 0.55
+2. increase-proficiency-or-defence | trained-skill | 1 | 0.8
+3. increase-proficiency-or-defence | trained-skill | 1 | 0.77
+4. increase-proficiency-or-defence | trained-skill | 1 | 0.79
+5. enhance-a-weapon-s-bite | manual | 1 | 0.5
+6. enhance-a-weapon-s-bite | manual | 1 | 0.53
+7. change-your-own-shape | magical | 1 | 0.72
+8. condition-state | magical | 1 | 0.61
+9. condition-state | manual | 1 | 0.59
+10. condition-state | manual | 3 | 0.44
+11. condition-state | manual | 1 | 0.66
+12. become-hard-to-kill | innate | 1 | 0.75
+13. strike-a-distant-foe | manual | 1 | 0.63
+14. curse-a-creature | magical | 1 | 0.68
+15. bless-or-blight-a-place + curse-a-creature | magical | 3 | 0.57
+16. kill-outright | divine | 1 | 0.41
+17. specialise-in-a-tradition | divine | 1 | 0.36
+18. control-water | divine | 2 | 0.7
+19. share-power-with-a-bonded-creature | magical | 1 | 0.6
+20. absorb-or-blunt-damage + poison-a-foe | item | 1 | 0.46
+21. transmute-raw-material | item | 1 | 0.4
+22. go-without-necessities | item | 1 | 0.42
+23. increase-proficiency-or-defence | item | 1 | 0.35
+24. harm-many-at-once | alchemical | 1 | 0.64
+25. keep-a-bonded-creature | item | 1 | 0.3

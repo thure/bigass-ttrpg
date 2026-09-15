@@ -1,0 +1,25 @@
+1. dull-a-foe-s-capability + curse-a-creature | divine | 1 | 0.4
+2. harm-many-at-once | magical | 2 | 0.55
+3. notice-what-is-hidden | magical | 1 | 0.45
+4. fly | magical | 1 | 0.45
+5. cross-resisting-ground | item | 1 | 0.55
+6. frighten | magical | 1 | 0.4
+7. gain-a-buffer-of-vitality | magical | 1 | 0.4
+8. frighten | magical | 1 | 0.6
+9. raise-a-structure | magical | 2 | 0.55
+10. disguise-your-appearance | magical | 1 | 0.55
+11. unclassified | item | 1 | 0.3
+12. inspire-allies + communicate-at-a-distance | magical | 1 | 0.45
+13. expand-a-resource-pool | divine | 1 | 0.5
+14. ride-a-mount | alchemical | 1 | 0.55
+15. set-a-trap | item | 1 | 0.65
+16. cross-resisting-ground | item | 1 | 0.55
+17. attack-more-often | item | 1 | 0.5
+18. grants-another-option | item | 1 | 0.3
+19. disguise-your-appearance | alchemical | 1 | 0.65
+20. enhance-a-weapon-s-bite | item | 1 | 0.35
+21. increase-attributes-or-health | item | 1 | 0.75
+22. secure-shelter-and-supply | social | 2 | 0.55
+23. enhance-a-weapon-s-bite + heal-a-body | magical | 1 | 0.35
+24. evade-magical-detection | item | 1 | 0.4
+25. ward-an-area + heal-many-at-once | magical | 2 | 0.5

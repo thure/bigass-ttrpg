@@ -1,0 +1,25 @@
+1. wage-mass-combat | trained-skill | 4 | 0.55
+2. frighten | innate | 2 | 0.75
+3. burrow-through-earth | innate | 1 | 0.85
+4. grants-another-option | magical | 1 | 0.5
+5. secure-shelter-and-supply | trained-skill | 3 | 0.7
+6. strike-a-foe-in-reach | innate | 1 | 0.6
+7. lead-an-organisation | social | 4 | 0.45
+8. harm-many-at-once | magical | 2 | 0.7
+9. strike-a-foe-in-reach | innate | 1 | 0.4
+10. attack-more-often + fly | innate | 1 | 0.65
+11. strike-a-foe-in-reach + inflict-a-lingering-wound | innate | 1 | 0.72
+12. secure-shelter-and-supply | trained-skill | 3 | 0.68
+13. gain-a-buffer-of-vitality | innate | 1 | 0.78
+14. strike-a-foe-in-reach | innate | 1 | 0.6
+15. punish-an-opening | trained-skill | 1 | 0.75
+16. run-a-long-project | magical | 4 | 0.5
+17. store-an-effect-for-later | manual | 1 | 0.55
+18. increase-proficiency-or-defence | innate | 1 | 0.62
+19. notice-what-is-hidden | trained-skill | 2 | 0.8
+20. harm-many-at-once + reposition-another-creature | technological | 2 | 0.68
+21. harm-many-at-once | magical | 2 | 0.7
+22. strike-a-distant-foe | innate | 1 | 0.75
+23. protect-a-group | magical | 3 | 0.52
+24. keep-a-bonded-creature | innate | 1 | 0.82
+25. keep-a-bonded-creature | magical | 1 | 0.8

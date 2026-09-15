@@ -1,0 +1,25 @@
+1. increase-proficiency-or-defence | magical | 1 | 0.8
+2. kill-outright | divine | 1 | 0.7
+3. expand-a-resource-pool | divine | 1 | 0.55
+4. grants-another-option | divine | 1 | 0.55
+5. call-a-creature-to-fight-for-you | magical | 1 | 0.65
+6. improve-what-a-companion-can-do | magical | 1 | 0.5
+7. gain-a-buffer-of-vitality | magical | 1 | 0.65
+8. resist-a-kind-of-harm | magical | 1 | 0.6
+9. increase-proficiency-or-defence + grants-another-option | trained-skill | 1 | 0.4
+10. increase-proficiency-or-defence | technological | 1 | 0.5
+11. grants-another-option | trained-skill | 1 | 0.45
+12. increase-proficiency-or-defence | magical | 1 | 0.75
+13. resist-a-kind-of-harm | magical | 1 | 0.65
+14. interpose-yourself-for-another | manual | 1 | 0.7
+15. increase-proficiency-or-defence | psychic | 1 | 0.7
+16. grants-another-option | technological | 1 | 0.55
+17. numeric-variant | manual | 1 | 0.75
+18. increase-proficiency-or-defence | trained-skill | 1 | 0.75
+19. harm-many-at-once | divine | 2 | 0.45
+20. strike-with-overwhelming-force | manual | 1 | 0.45
+21. increase-proficiency-or-defence | manual | 1 | 0.4
+22. grants-another-option | technological | 1 | 0.75
+23. increase-proficiency-or-defence | innate | 1 | 0.55
+24. increase-proficiency-or-defence | technological | 1 | 0.55
+25. increase-proficiency-or-defence | trained-skill | 1 | 0.8

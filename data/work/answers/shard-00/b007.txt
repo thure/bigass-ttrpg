@@ -1,0 +1,25 @@
+1. move-faster | item | 1 | 0.65
+2. craft-an-object | tool | 1 | 0.5
+3. dull-a-foe-s-capability + harm-many-at-once | alchemical | 2 | 0.5
+4. negate-an-effect-outright | item | 1 | 0.6
+5. breach-a-locked-boundary | item | 1 | 0.85
+6. see-through-deception | item | 1 | 0.7
+7. numeric-variant | item | 1 | 0.7
+8. set-a-trap | item | 1 | 0.7
+9. fly | alchemical | 1 | 0.8
+10. absorb-or-blunt-damage | item | 1 | 0.55
+11. know-where-you-are | tool | 1 | 0.8
+12. grow-a-natural-weapon + bind-a-creature-in-place | item | 1 | 0.55
+13. inflict-a-lingering-wound + destroy-an-object | alchemical | 1 | 0.5
+14. question-the-dead | item | 1 | 0.8
+15. keep-the-dying-alive | divine | 1 | 0.75
+16. teleport-a-great-distance | item | 2 | 0.6
+17. absorb-or-blunt-damage | item | 1 | 0.45
+18. grow-a-natural-weapon | item | 1 | 0.7
+19. sense-or-shape-fate | item | 1 | 0.4
+20. build-a-barrier | item | 1 | 0.6
+21. expand-a-resource-pool | divine | 1 | 0.5
+22. kill-outright | item | 1 | 0.55
+23. disable-a-device | item | 2 | 0.55
+24. move-through-water | item | 1 | 0.8
+25. resist-a-kind-of-harm | item | 1 | 0.75

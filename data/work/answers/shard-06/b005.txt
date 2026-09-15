@@ -1,0 +1,25 @@
+1. increase-proficiency-or-defence | trained-skill | 1 | 0.85
+2. increase-proficiency-or-defence | trained-skill | 1 | 0.84
+3. increase-proficiency-or-defence | trained-skill | 1 | 0.86
+4. increase-proficiency-or-defence | trained-skill | 1 | 0.85
+5. numeric-variant | manual | 1 | 0.75
+6. numeric-variant | manual | 1 | 0.74
+7. heal-a-body | innate | 1 | 0.82
+8. increase-proficiency-or-defence | trained-skill | 1 | 0.8
+9. condition-state | manual | 1 | 0.85
+10. condition-state | magical | 1 | 0.88
+11. condition-state | social | 4 | 0.6
+12. strike-a-foe-in-reach | innate | 1 | 0.55
+13. absorb-or-blunt-damage | item | 1 | 0.72
+14. frighten | magical | 1 | 0.55
+15. kill-outright | magical | 1 | 0.65
+16. specialise-in-a-tradition | divine | 1 | 0.6
+17. specialise-in-a-tradition | divine | 1 | 0.58
+18. specialise-in-a-tradition | divine | 1 | 0.63
+19. keep-a-bonded-creature + harm-many-at-once | magical | 1 | 0.62
+20. gain-a-buffer-of-vitality | item | 1 | 0.75
+21. absorb-or-blunt-damage | item | 1 | 0.7
+22. grants-another-option | magical | 1 | 0.5
+23. become-hard-to-kill | magical | 1 | 0.35
+24. store-an-effect-for-later | alchemical | 1 | 0.58
+25. resist-a-kind-of-harm + notice-what-is-hidden | magical | 1 | 0.5

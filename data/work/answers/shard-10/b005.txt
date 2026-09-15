@@ -1,0 +1,25 @@
+1. be-harder-to-hit | innate | 1 | 0.75
+2. increase-proficiency-or-defence | manual | 1 | 0.8
+3. increase-proficiency-or-defence | manual | 1 | 0.8
+4. grants-another-option | manual | 1 | 0.55
+5. numeric-variant | manual | 1 | 0.6
+6. numeric-variant | manual | 1 | 0.6
+7. expand-a-resource-pool | magical | 1 | 0.6
+8. condition-state | innate | 1 | 0.85
+9. condition-state | innate | 1 | 0.85
+10. condition-state | innate | 1 | 0.7
+11. condition-state | innate | 1 | 0.85
+12. bind-a-creature-in-place | innate | 1 | 0.55
+13. guard-your-mind | innate | 1 | 0.6
+14. curse-a-creature | magical | 1 | 0.75
+15. curse-a-creature | item | 1 | 0.65
+16. specialise-in-a-tradition | divine | 1 | 0.5
+17. specialise-in-a-tradition | divine | 1 | 0.5
+18. specialise-in-a-tradition | divine | 1 | 0.5
+19. share-power-with-a-bonded-creature | magical | 1 | 0.65
+20. craft-an-object | item | 1 | 0.4
+21. craft-an-object | item | 1 | 0.45
+22. numeric-variant | item | 1 | 0.45
+23. numeric-variant | item | 1 | 0.4
+24. strike-a-distant-foe + inflict-a-lingering-wound | alchemical | 1 | 0.75
+25. see-through-deception | item | 1 | 0.5

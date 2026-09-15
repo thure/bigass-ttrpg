@@ -1,0 +1,25 @@
+1. keep-a-bonded-creature | innate | 1 | 0.72
+2. keep-a-bonded-creature | innate | 1 | 0.7
+3. specialise-in-a-tradition | magical | 1 | 0.58
+4. entry-into-an-archetype + gain-followers | magical | 4 | 0.42
+5. gain-followers | social | 2 | 0.5
+6. claim-a-lineage | innate | 1 | 0.48
+7. entry-into-an-archetype | manual | 1 | 0.35
+8. entry-into-an-archetype + sense-or-shape-fate | magical | 1 | 0.44
+9. entry-into-an-archetype + read-any-writing | trained-skill | 1 | 0.4
+10. entry-into-an-archetype + ride-a-mount | social | 1 | 0.38
+11. raise-or-command-the-dead | magical | 2 | 0.55
+12. read-or-enter-a-mind | psychic | 2 | 0.47
+13. entry-into-an-archetype | manual | 1 | 0.33
+14. disguise-your-appearance + entry-into-an-archetype | social | 1 | 0.52
+15. be-harder-to-hit | item | 1 | 0.5
+16. be-harder-to-hit | item | 1 | 0.46
+17. claim-a-past-vocation | trained-skill | 1 | 0.45
+18. claim-a-past-vocation | social | 1 | 0.43
+19. belong-to-an-order | social | 2 | 0.56
+20. belong-to-an-order | social | 3 | 0.5
+21. belong-to-an-order | trained-skill | 2 | 0.49
+22. sense-or-shape-fate | innate | 1 | 0.41
+23. follow-a-code | social | 1 | 0.39
+24. gain-access-to-closed-circles | trained-skill | 1 | 0.44
+25. belong-to-an-order | social | 2 | 0.53

@@ -1,0 +1,25 @@
+1. travel-between-planes | item | 5 | 0.6
+2. grants-another-option | item | 1 | 0.45
+3. harm-many-at-once | item | 3 | 0.5
+4. strike-a-distant-foe | item | 1 | 0.55
+5. be-harder-to-hit | item | 1 | 0.65
+6. become-invisible + frighten | item | 1 | 0.5
+7. resist-a-kind-of-harm | item | 1 | 0.5
+8. make-an-extradimensional-space | item | 1 | 0.6
+9. protect-a-group | item | 2 | 0.55
+10. unclassified | manual | 1 | 0.25
+11. improve-your-luck | item | 2 | 0.65
+12. increase-attributes-or-health | item | 1 | 0.65
+13. become-hard-to-kill | item | 1 | 0.45
+14. harm-many-at-once | item | 2 | 0.55
+15. absorb-or-blunt-damage | item | 1 | 0.55
+16. unclassified | tool | 1 | 0.3
+17. inflict-a-lingering-wound | item | 1 | 0.55
+18. gain-a-buffer-of-vitality | item | 1 | 0.65
+19. move-faster | item | 1 | 0.68
+20. reshape-the-ground | magical | 1 | 0.45
+21. resist-a-kind-of-harm + locate-a-person-or-thing | item | 1 | 0.5
+22. unclassified | manual | 1 | 0.2
+23. survive-a-hostile-environment | magical | 1 | 0.6
+24. recall-what-you-have-learned | item | 1 | 0.45
+25. open-a-portal | item | 5 | 0.55

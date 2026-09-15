@@ -1,0 +1,25 @@
+1. rest-and-recover | magical | 1 | 0.6
+2. numeric-variant | item | 1 | 0.65
+3. enhance-a-weapon-s-bite | item | 1 | 0.55
+4. grow-or-wither-plants | magical | 2 | 0.6
+5. survive-a-hostile-environment | alchemical | 1 | 0.65
+6. expand-a-resource-pool | magical | 1 | 0.5
+7. harm-many-at-once | magical | 1 | 0.7
+8. strike-a-distant-foe | alchemical | 1 | 0.5
+9. extend-your-senses | item | 1 | 0.45
+10. see-through-obscurement | divine | 1 | 0.5
+11. lie-convincingly | social | 1 | 0.6
+12. create-food-and-water + survive-a-hostile-environment | magical | 1 | 0.5
+13. keep-a-bonded-creature | manual | 1 | 0.35
+14. fly + resist-a-kind-of-harm | magical | 2 | 0.5
+15. protect-a-group | magical | 2 | 0.7
+16. control-fire | manual | 1 | 0.55
+17. harm-many-at-once | alchemical | 1 | 0.65
+18. call-a-creature-to-fight-for-you | magical | 1 | 0.6
+19. set-a-trap | item | 1 | 0.75
+20. hide-from-notice | alchemical | 1 | 0.5
+21. climb-a-vertical-surface | technological | 1 | 0.75
+22. frighten + glimpse-the-future | magical | 2 | 0.45
+23. enhance-a-weapon-s-bite | magical | 1 | 0.7
+24. climb-a-vertical-surface + move-through-water | item | 1 | 0.65
+25. curse-a-creature + follow-a-code | magical | 1 | 0.5

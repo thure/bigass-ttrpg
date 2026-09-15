@@ -1,0 +1,25 @@
+1. move-through-water + adapt-your-body-to-a-place | magical | 1 | 0.6
+2. fly | item | 1 | 0.6
+3. resist-a-kind-of-harm | alchemical | 1 | 0.65
+4. perceive-without-sight | alchemical | 1 | 0.55
+5. build-your-reputation | tool | 1 | 0.45
+6. interpose-yourself-for-another | item | 1 | 0.75
+7. grants-another-option | magical | 1 | 0.4
+8. reposition-another-creature | item | 1 | 0.6
+9. set-a-trap | item | 1 | 0.55
+10. absorb-or-blunt-damage | item | 1 | 0.5
+11. keep-a-bonded-creature | manual | 1 | 0.35
+12. conjure-a-temporary-tool | item | 1 | 0.65
+13. trade-and-bargain | social | 1 | 0.3
+14. keep-a-bonded-creature | manual | 1 | 0.35
+15. strike-a-distant-foe | tool | 1 | 0.55
+16. resist-a-kind-of-harm | item | 1 | 0.6
+17. harm-many-at-once | item | 1 | 0.7
+18. poison-a-foe + frighten | alchemical | 1 | 0.65
+19. harm-many-at-once | item | 1 | 0.65
+20. unclassified | manual | 1 | 0.3
+21. increase-proficiency-or-defence | item | 1 | 0.7
+22. call-an-outsider | item | 1 | 0.75
+23. be-harder-to-hit | item | 1 | 0.5
+24. inflict-a-lingering-wound | item | 1 | 0.6
+25. make-an-extradimensional-space | item | 1 | 0.7

@@ -1,0 +1,25 @@
+1. run-a-long-project | trained-skill | 4 | 0.4
+2. inflict-a-lingering-wound + close-on-a-foe | innate | 1 | 0.5
+3. trade-and-bargain | social | 1 | 0.6
+4. run-a-long-project | social | 4 | 0.4
+5. enhance-a-weapon-s-bite | magical | 1 | 0.6
+6. close-on-a-foe | innate | 1 | 0.65
+7. exploit-a-known-weakness | trained-skill | 1 | 0.55
+8. condition-state | manual | 1 | 0.35
+9. notice-what-is-hidden | trained-skill | 1 | 0.5
+10. attack-more-often | magical | 1 | 0.5
+11. secure-shelter-and-supply | trained-skill | 4 | 0.55
+12. harm-many-at-once + inflict-a-lingering-wound | innate | 2 | 0.6
+13. avoid-a-danger-you-foresaw | social | 3 | 0.4
+14. lie-convincingly | social | 1 | 0.85
+15. lead-an-organisation | social | 4 | 0.6
+16. research-in-archives | trained-skill | 1 | 0.5
+17. protect-a-group | magical | 1 | 0.6
+18. store-an-effect-for-later | magical | 1 | 0.4
+19. frighten + strike-a-distant-foe | innate | 1 | 0.55
+20. reposition-another-creature | innate | 1 | 0.6
+21. direct-a-companion-in-battle | innate | 1 | 0.7
+22. act-sooner-than-others | trained-skill | 1 | 0.55
+23. increase-proficiency-or-defence | trained-skill | 1 | 0.45
+24. keep-a-bonded-creature | innate | 1 | 0.65
+25. keep-a-bonded-creature | innate | 1 | 0.65

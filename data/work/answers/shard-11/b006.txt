@@ -1,0 +1,25 @@
+1. guard-your-mind | item | 2 | 0.45
+2. hide-from-notice | item | 1 | 0.65
+3. resist-poison-and-disease | alchemical | 1 | 0.75
+4. mark-a-foe-as-vulnerable | magical | 2 | 0.55
+5. resist-a-kind-of-harm | item | 1 | 0.8
+6. enhance-a-weapon-s-bite | alchemical | 1 | 0.6
+7. set-a-trap | magical | 1 | 0.5
+8. call-a-creature-to-fight-for-you + change-your-own-shape | magical | 1 | 0.5
+9. exploit-a-known-weakness | alchemical | 1 | 0.5
+10. be-harder-to-hit | item | 1 | 0.45
+11. cross-resisting-ground | magical | 2 | 0.65
+12. increase-attributes-or-health | item | 1 | 0.75
+13. become-hard-to-kill | magical | 1 | 0.4
+14. raise-a-structure | magical | 1 | 0.6
+15. gain-a-buffer-of-vitality | item | 2 | 0.55
+16. blind-or-deafen | alchemical | 2 | 0.6
+17. drain-life-to-sustain-yourself | magical | 1 | 0.55
+18. harm-many-at-once | item | 2 | 0.45
+19. fly | magical | 1 | 0.5
+20. reposition-another-creature + call-a-creature-to-fight-for-you | alchemical | 1 | 0.45
+21. shrug-off-an-effect-you-failed-to-avoid | item | 1 | 0.65
+22. poison-a-foe | alchemical | 1 | 0.65
+23. resist-a-kind-of-harm | item | 1 | 0.75
+24. glimpse-the-future | magical | 1 | 0.7
+25. gather-information-from-people | social | 2 | 0.5

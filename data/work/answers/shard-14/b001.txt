@@ -1,0 +1,25 @@
+1. keep-a-bonded-creature | innate | 1 | 0.7
+2. keep-a-bonded-creature + ride-a-mount | innate | 1 | 0.55
+3. specialise-in-a-tradition | magical | 1 | 0.5
+4. entry-into-an-archetype | innate | 1 | 0.55
+5. entry-into-an-archetype | trained-skill | 1 | 0.55
+6. entry-into-an-archetype | trained-skill | 1 | 0.55
+7. entry-into-an-archetype | trained-skill | 1 | 0.5
+8. entry-into-an-archetype | trained-skill | 1 | 0.5
+9. entry-into-an-archetype | trained-skill | 1 | 0.5
+10. entry-into-an-archetype | magical | 1 | 0.5
+11. entry-into-an-archetype | trained-skill | 1 | 0.55
+12. entry-into-an-archetype | magical | 1 | 0.5
+13. entry-into-an-archetype | trained-skill | 1 | 0.5
+14. entry-into-an-archetype | trained-skill | 1 | 0.55
+15. be-harder-to-hit | item | 1 | 0.6
+16. be-harder-to-hit | item | 1 | 0.65
+17. gain-access-to-closed-circles | social | 1 | 0.5
+18. claim-a-past-vocation | social | 1 | 0.45
+19. belong-to-an-order | social | 1 | 0.45
+20. communicate-at-a-distance | innate | 1 | 0.6
+21. improve-your-luck | magical | 1 | 0.5
+22. impose-misfortune | magical | 1 | 0.6
+23. identify-magic | trained-skill | 1 | 0.4
+24. persuade-by-reason-or-charm | social | 1 | 0.5
+25. conceal-an-object | trained-skill | 1 | 0.55

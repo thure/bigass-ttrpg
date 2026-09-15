@@ -1,0 +1,25 @@
+1. slow-a-foe | alchemical | 1 | 0.7
+2. be-harder-to-hit | item | 1 | 0.6
+3. fly | magical | 1 | 0.5
+4. change-your-own-shape | alchemical | 1 | 0.5
+5. know-where-you-are | item | 1 | 0.45
+6. resist-a-kind-of-harm + turn-an-attack-back | magical | 1 | 0.55
+7. strike-a-distant-foe | alchemical | 1 | 0.5
+8. kill-outright + poison-a-foe | alchemical | 1 | 0.6
+9. extend-your-senses | item | 1 | 0.75
+10. poison-a-foe | alchemical | 1 | 0.7
+11. sense-or-shape-fate | magical | 1 | 0.5
+12. secure-shelter-and-supply | manual | 1 | 0.4
+13. call-a-creature-to-fight-for-you | magical | 1 | 0.6
+14. recruit-help + gather-information-from-people | social | 1 | 0.5
+15. reshape-the-ground | magical | 2 | 0.55
+16. harm-many-at-once | alchemical | 2 | 0.55
+17. call-a-creature-to-fight-for-you | magical | 1 | 0.6
+18. enhance-a-weapon-s-bite + slow-a-foe | magical | 1 | 0.5
+19. resist-poison-and-disease | magical | 1 | 0.65
+20. locate-a-person-or-thing + extend-your-senses | magical | 2 | 0.45
+21. enhance-a-weapon-s-bite | magical | 2 | 0.4
+22. adapt-your-body-to-a-place | magical | 1 | 0.8
+23. absorb-or-blunt-damage | item | 1 | 0.75
+24. inspire-allies | item | 2 | 0.55
+25. climb-a-vertical-surface | tool | 1 | 0.7

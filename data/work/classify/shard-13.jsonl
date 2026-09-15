@@ -1,0 +1,250 @@
+{"id": "pf2e:action-729", "functions": [{"slug": "poison-a-foe", "role": "primary", "mechanism": "innate", "scope_tier": 1, "confidence": 0.85}]}
+{"id": "pf2e:action-2277", "functions": [{"slug": "close-on-a-foe", "role": "primary", "mechanism": "manual", "scope_tier": 1, "confidence": 0.6}, {"slug": "strike-a-foe-in-reach", "role": "secondary", "mechanism": "manual", "scope_tier": 1, "confidence": 0.6}]}
+{"id": "pf2e:action-1", "functions": [{"slug": "increase-proficiency-or-defence", "role": "primary", "mechanism": "innate", "scope_tier": 1, "confidence": 0.6}]}
+{"id": "pf2e:action-918", "functions": [{"slug": "reposition-another-creature", "role": "primary", "mechanism": "trained-skill", "scope_tier": 1, "confidence": 0.62}]}
+{"id": "pf2e:action-2385", "functions": [{"slug": "craft-an-object", "role": "primary", "mechanism": "trained-skill", "scope_tier": 1, "confidence": 0.92}]}
+{"id": "pf2e:action-2623", "functions": [{"slug": "avoid-a-danger-you-foresaw", "role": "primary", "mechanism": "manual", "scope_tier": 1, "confidence": 0.5}]}
+{"id": "pf2e:action-925", "functions": [{"slug": "negate-an-effect-outright", "role": "primary", "mechanism": "magical", "scope_tier": 1, "confidence": 0.58}, {"slug": "strike-a-distant-foe", "role": "secondary", "mechanism": "magical", "scope_tier": 1, "confidence": 0.58}]}
+{"id": "pf2e:action-1482", "functions": [{"slug": "enhance-a-weapon-s-bite", "role": "primary", "mechanism": "manual", "scope_tier": 2, "confidence": 0.55}]}
+{"id": "pf2e:action-1434", "functions": [{"slug": "wage-mass-combat", "role": "primary", "mechanism": "manual", "scope_tier": 3, "confidence": 0.52}, {"slug": "mark-a-foe-as-vulnerable", "role": "secondary", "mechanism": "manual", "scope_tier": 3, "confidence": 0.52}]}
+{"id": "pf2e:action-1388", "functions": [{"slug": "secure-shelter-and-supply", "role": "primary", "mechanism": "manual", "scope_tier": 3, "confidence": 0.48}]}
+{"id": "pf2e:action-2135", "functions": [{"slug": "bind-a-creature-in-place", "role": "primary", "mechanism": "innate", "scope_tier": 1, "confidence": 0.78}]}
+{"id": "pf2e:action-3555", "functions": [{"slug": "punish-an-opening", "role": "primary", "mechanism": "magical", "scope_tier": 1, "confidence": 0.68}]}
+{"id": "pf2e:action-541", "functions": [{"slug": "curse-a-creature", "role": "primary", "mechanism": "magical", "scope_tier": 1, "confidence": 0.83}]}
+{"id": "pf2e:action-2371", "functions": [{"slug": "fly", "role": "primary", "mechanism": "trained-skill", "scope_tier": 1, "confidence": 0.4}]}
+{"id": "pf2e:action-1436", "functions": [{"slug": "wage-mass-combat", "role": "primary", "mechanism": "tool", "scope_tier": 3, "confidence": 0.56}, {"slug": "destroy-an-object", "role": "secondary", "mechanism": "tool", "scope_tier": 3, "confidence": 0.56}]}
+{"id": "pf2e:action-1409", "functions": [{"slug": "trade-and-bargain", "role": "primary", "mechanism": "social", "scope_tier": 4, "confidence": 0.66}]}
+{"id": "pf2e:action-477", "functions": [{"slug": "notice-what-is-hidden", "role": "primary", "mechanism": "trained-skill", "scope_tier": 3, "confidence": 0.47}]}
+{"id": "pf2e:action-2807", "functions": [{"slug": "interpose-yourself-for-another", "role": "primary", "mechanism": "divine", "scope_tier": 1, "confidence": 0.72}, {"slug": "strike-a-foe-in-reach", "role": "secondary", "mechanism": "divine", "scope_tier": 1, "confidence": 0.72}]}
+{"id": "pf2e:action-3477", "functions": [{"slug": "mark-a-foe-as-vulnerable", "role": "primary", "mechanism": "manual", "scope_tier": 1, "confidence": 0.7}]}
+{"id": "pf2e:action-2410", "functions": [{"slug": "conceal-an-object", "role": "primary", "mechanism": "trained-skill", "scope_tier": 1, "confidence": 0.38}]}
+{"id": "pf2e:action-2307", "functions": [{"slug": "be-harder-to-hit", "role": "primary", "mechanism": "manual", "scope_tier": 1, "confidence": 0.75}]}
+{"id": "pf2e:action-1396", "functions": [{"slug": "trade-and-bargain", "role": "primary", "mechanism": "social", "scope_tier": 4, "confidence": 0.63}]}
+{"id": "pf2e:action-2274", "functions": [{"slug": "attack-more-often", "role": "primary", "mechanism": "manual", "scope_tier": 1, "confidence": 0.5}]}
+{"id": "pf2e:animal-companion-118", "functions": [{"slug": "keep-a-bonded-creature", "role": "primary", "mechanism": "innate", "scope_tier": 1, "confidence": 0.65}]}
+{"id": "pf2e:animal-companion-128", "functions": [{"slug": "keep-a-bonded-creature", "role": "primary", "mechanism": "innate", "scope_tier": 1, "confidence": 0.67}]}
+{"id": "pf2e:animal-companion-24", "functions": [{"slug": "keep-a-bonded-creature", "role": "primary", "mechanism": "innate", "scope_tier": 1, "confidence": 0.66}]}
+{"id": "pf2e:animal-companion-65", "functions": [{"slug": "keep-a-bonded-creature", "role": "primary", "mechanism": "innate", "scope_tier": 1, "confidence": 0.69}]}
+{"id": "pf2e:arcane-school-20", "functions": [{"slug": "specialise-in-a-tradition", "role": "primary", "mechanism": "magical", "scope_tier": 1, "confidence": 0.58}]}
+{"id": "pf2e:archetype-338", "functions": [{"slug": "entry-into-an-archetype", "role": "primary", "mechanism": "magical", "scope_tier": 1, "confidence": 0.5}]}
+{"id": "dnd5e-2014:subclasses:champion", "functions": [{"slug": "entry-into-an-archetype", "role": "primary", "mechanism": "manual", "scope_tier": 1, "confidence": 0.42}]}
+{"id": "pf2e:archetype-213", "functions": [{"slug": "entry-into-an-archetype", "role": "primary", "mechanism": "magical", "scope_tier": 1, "confidence": 0.56}]}
+{"id": "pf2e:archetype-105", "functions": [{"slug": "entry-into-an-archetype", "role": "primary", "mechanism": "magical", "scope_tier": 1, "confidence": 0.44}]}
+{"id": "pf2e:archetype-339", "functions": [{"slug": "entry-into-an-archetype", "role": "primary", "mechanism": "magical", "scope_tier": 1, "confidence": 0.4}]}
+{"id": "dnd5e-2014:subclasses:lore", "functions": [{"slug": "entry-into-an-archetype", "role": "primary", "mechanism": "magical", "scope_tier": 1, "confidence": 0.46}]}
+{"id": "pf2e:archetype-233", "functions": [{"slug": "entry-into-an-archetype", "role": "primary", "mechanism": "divine", "scope_tier": 1, "confidence": 0.55}]}
+{"id": "pf2e:archetype-310", "functions": [{"slug": "entry-into-an-archetype", "role": "primary", "mechanism": "magical", "scope_tier": 1, "confidence": 0.48}]}
+{"id": "pf2e:archetype-393", "functions": [{"slug": "entry-into-an-archetype", "role": "primary", "mechanism": "magical", "scope_tier": 1, "confidence": 0.5}]}
+{"id": "dnd5e-2024:subclasses:thief", "functions": [{"slug": "entry-into-an-archetype", "role": "primary", "mechanism": "trained-skill", "scope_tier": 1, "confidence": 0.43}]}
+{"id": "pf2e:archetype-286", "functions": [{"slug": "entry-into-an-archetype", "role": "primary", "mechanism": "divine", "scope_tier": 1, "confidence": 0.45}]}
+{"id": "pf2e:armor-43", "functions": [{"slug": "be-harder-to-hit", "role": "primary", "mechanism": "item", "scope_tier": 1, "confidence": 0.55}]}
+{"id": "pf2e:armor-34", "functions": [{"slug": "be-harder-to-hit", "role": "primary", "mechanism": "item", "scope_tier": 1, "confidence": 0.53}]}
+{"id": "pf2e:background-508", "functions": [{"slug": "claim-a-past-vocation", "role": "primary", "mechanism": "social", "scope_tier": 1, "confidence": 0.57}]}
+{"id": "pf2e:background-654", "functions": [{"slug": "claim-a-past-vocation", "role": "primary", "mechanism": "social", "scope_tier": 1, "confidence": 0.5}]}
+{"id": "pf2e:background-648", "functions": [{"slug": "claim-a-past-vocation", "role": "primary", "mechanism": "social", "scope_tier": 1, "confidence": 0.45}]}
+{"id": "pf2e:background-54", "functions": [{"slug": "claim-a-past-vocation", "role": "primary", "mechanism": "social", "scope_tier": 1, "confidence": 0.4}]}
+{"id": "pf2e:background-417", "functions": [{"slug": "gain-access-to-closed-circles", "role": "primary", "mechanism": "social", "scope_tier": 1, "confidence": 0.6}]}
+{"id": "pf2e:background-559", "functions": [{"slug": "claim-a-past-vocation", "role": "primary", "mechanism": "social", "scope_tier": 1, "confidence": 0.38}]}
+{"id": "pf2e:background-560", "functions": [{"slug": "claim-a-past-vocation", "role": "primary", "mechanism": "social", "scope_tier": 1, "confidence": 0.33}]}
+{"id": "pf2e:background-594", "functions": [{"slug": "claim-a-past-vocation", "role": "primary", "mechanism": "social", "scope_tier": 1, "confidence": 0.47}]}
+{"id": "pf2e:background-53", "functions": [{"slug": "gain-access-to-closed-circles", "role": "primary", "mechanism": "social", "scope_tier": 1, "confidence": 0.52}]}
+{"id": "pf2e:background-208", "functions": [{"slug": "claim-a-past-vocation", "role": "primary", "mechanism": "social", "scope_tier": 1, "confidence": 0.5}]}
+{"id": "pf2e:background-194", "functions": [{"slug": "gain-access-to-closed-circles", "role": "primary", "mechanism": "social", "scope_tier": 1, "confidence": 0.52}]}
+{"id": "pf2e:background-263", "functions": [{"slug": "keep-a-bonded-creature", "role": "primary", "mechanism": "magical", "scope_tier": 1, "confidence": 0.45}]}
+{"id": "pf2e:background-435", "functions": [{"slug": "belong-to-an-order", "role": "primary", "mechanism": "social", "scope_tier": 1, "confidence": 0.48}]}
+{"id": "pf2e:background-311", "functions": [{"slug": "belong-to-an-order", "role": "primary", "mechanism": "social", "scope_tier": 1, "confidence": 0.58}]}
+{"id": "pf2e:background-386", "functions": [{"slug": "claim-a-past-vocation", "role": "primary", "mechanism": "social", "scope_tier": 1, "confidence": 0.38}]}
+{"id": "pf2e:background-153", "functions": [{"slug": "claim-a-past-vocation", "role": "primary", "mechanism": "trained-skill", "scope_tier": 1, "confidence": 0.47}]}
+{"id": "pf2e:background-497", "functions": [{"slug": "claim-a-past-vocation", "role": "primary", "mechanism": "trained-skill", "scope_tier": 1, "confidence": 0.6}]}
+{"id": "pf2e:background-299", "functions": [{"slug": "claim-a-past-vocation", "role": "primary", "mechanism": "social", "scope_tier": 1, "confidence": 0.62}]}
+{"id": "pf2e:background-532", "functions": [{"slug": "claim-a-past-vocation", "role": "primary", "mechanism": "trained-skill", "scope_tier": 1, "confidence": 0.5}]}
+{"id": "pf2e:background-512", "functions": [{"slug": "claim-a-past-vocation", "role": "primary", "mechanism": "social", "scope_tier": 1, "confidence": 0.42}]}
+{"id": "pf2e:background-540", "functions": [{"slug": "claim-a-past-vocation", "role": "primary", "mechanism": "social", "scope_tier": 1, "confidence": 0.65}]}
+{"id": "pf2e:background-499", "functions": [{"slug": "claim-a-past-vocation", "role": "primary", "mechanism": "social", "scope_tier": 1, "confidence": 0.44}]}
+{"id": "dnd5e-2024:features:fighter-action-surge", "functions": [{"slug": "gain-an-extra-action", "role": "primary", "mechanism": "innate", "scope_tier": 1, "confidence": 0.85}]}
+{"id": "pf2e:class-feature-102", "functions": [{"slug": "increase-proficiency-or-defence", "role": "primary", "mechanism": "innate", "scope_tier": 1, "confidence": 0.87}]}
+{"id": "pf2e:class-feature-1240", "functions": [{"slug": "grants-another-option", "role": "primary", "mechanism": "innate", "scope_tier": 1, "confidence": 0.8}]}
+{"id": "pf2e:class-feature-634", "functions": [{"slug": "grants-another-option", "role": "primary", "mechanism": "innate", "scope_tier": 1, "confidence": 0.78}]}
+{"id": "pf2e:class-feature-1260", "functions": [{"slug": "draw-on-an-inner-source", "role": "primary", "mechanism": "magical", "scope_tier": 1, "confidence": 0.4}]}
+{"id": "pf2e:class-feature-1109", "functions": [{"slug": "increase-proficiency-or-defence", "role": "primary", "mechanism": "innate", "scope_tier": 1, "confidence": 0.88}]}
+{"id": "pf2e:class-feature-647", "functions": [{"slug": "increase-attributes-or-health", "role": "primary", "mechanism": "innate", "scope_tier": 1, "confidence": 0.9}]}
+{"id": "dnd5e-2024:features:barbarian-subclass", "functions": [{"slug": "grants-another-option", "role": "primary", "mechanism": "innate", "scope_tier": 1, "confidence": 0.55}]}
+{"id": "dnd5e-2024:features:life-blessed-healer", "functions": [{"slug": "heal-a-body", "role": "primary", "mechanism": "divine", "scope_tier": 1, "confidence": 0.5}]}
+{"id": "pf2e:class-feature-1084", "functions": [{"slug": "increase-proficiency-or-defence", "role": "primary", "mechanism": "divine", "scope_tier": 1, "confidence": 0.86}]}
+{"id": "dnd5e-2014:features:circle-spells-4", "functions": [{"slug": "specialise-in-a-tradition", "role": "primary", "mechanism": "magical", "scope_tier": 1, "confidence": 0.5}]}
+{"id": "pf2e:class-feature-59", "functions": [{"slug": "specialise-in-a-tradition", "role": "primary", "mechanism": "magical", "scope_tier": 1, "confidence": 0.45}]}
+{"id": "dnd5e-2024:features:fiend-patron-dark-ones-own-luck", "functions": [{"slug": "improve-your-luck", "role": "primary", "mechanism": "magical", "scope_tier": 1, "confidence": 0.72}]}
+{"id": "pf2e:class-feature-113", "functions": [{"slug": "bind-yourself-to-a-power", "role": "primary", "mechanism": "divine", "scope_tier": 1, "confidence": 0.78}]}
+{"id": "pf2e:class-feature-967", "functions": [{"slug": "grants-another-option", "role": "primary", "mechanism": "divine", "scope_tier": 1, "confidence": 0.45}]}
+{"id": "pf2e:class-feature-1076", "functions": [{"slug": "increase-proficiency-or-defence", "role": "primary", "mechanism": "divine", "scope_tier": 1, "confidence": 0.85}]}
+{"id": "dnd5e-2014:features:dragon-ancestor-black---acid-damage", "functions": [{"slug": "claim-a-lineage", "role": "primary", "mechanism": "innate", "scope_tier": 1, "confidence": 0.68}]}
+{"id": "dnd5e-2024:features:druid-druidic", "functions": [{"slug": "hide-a-message", "role": "primary", "mechanism": "magical", "scope_tier": 1, "confidence": 0.5}, {"slug": "speak-with-the-otherwise-mute", "role": "secondary", "mechanism": "magical", "scope_tier": 1, "confidence": 0.5}]}
+{"id": "dnd5e-2014:features:eldritch-invocation-beast-speech", "functions": [{"slug": "speak-with-the-otherwise-mute", "role": "primary", "mechanism": "magical", "scope_tier": 1, "confidence": 0.75}]}
+{"id": "dnd5e-2014:features:eldritch-invocation-thirsting-blade", "functions": [{"slug": "attack-more-often", "role": "primary", "mechanism": "magical", "scope_tier": 1, "confidence": 0.82}]}
+{"id": "dnd5e-2024:features:paladin-epic-boon", "functions": [{"slug": "grants-another-option", "role": "primary", "mechanism": "innate", "scope_tier": 1, "confidence": 0.75}]}
+{"id": "dnd5e-2024:features:evoker-evocation-savant", "functions": [{"slug": "grants-another-option", "role": "primary", "mechanism": "magical", "scope_tier": 1, "confidence": 0.55}]}
+{"id": "pf2e:class-feature-551", "functions": [{"slug": "increase-proficiency-or-defence", "role": "primary", "mechanism": "psychic", "scope_tier": 1, "confidence": 0.8}]}
+{"id": "dnd5e-2014:features:paladin-extra-attack", "functions": [{"slug": "attack-more-often", "role": "primary", "mechanism": "manual", "scope_tier": 1, "confidence": 0.87}]}
+{"id": "dnd5e-2014:features:favored-enemy-2-types", "functions": [{"slug": "track-a-creature", "role": "primary", "mechanism": "trained-skill", "scope_tier": 1, "confidence": 0.55}, {"slug": "identify-a-creature", "role": "secondary", "mechanism": "trained-skill", "scope_tier": 1, "confidence": 0.55}]}
+{"id": "dnd5e-2014:features:fighter-fighting-style-archery", "functions": [{"slug": "increase-proficiency-or-defence", "role": "primary", "mechanism": "manual", "scope_tier": 1, "confidence": 0.73}]}
+{"id": "dnd5e-2024:features:ranger-foe-slayer", "functions": [{"slug": "numeric-variant", "role": "primary", "mechanism": "innate", "scope_tier": 1, "confidence": 0.85}]}
+{"id": "pf2e:class-feature-197", "functions": [{"slug": "increase-proficiency-or-defence", "role": "primary", "mechanism": "innate", "scope_tier": 1, "confidence": 0.86}]}
+{"id": "pf2e:class-feature-358", "functions": [{"slug": "shrug-off-an-effect-you-failed-to-avoid", "role": "primary", "mechanism": "innate", "scope_tier": 1, "confidence": 0.48}, {"slug": "increase-proficiency-or-defence", "role": "secondary", "mechanism": "innate", "scope_tier": 1, "confidence": 0.48}]}
+{"id": "pf2e:class-feature-529", "functions": [{"slug": "numeric-variant", "role": "primary", "mechanism": "innate", "scope_tier": 1, "confidence": 0.68}]}
+{"id": "pf2e:class-feature-526", "functions": [{"slug": "increase-proficiency-or-defence", "role": "primary", "mechanism": "trained-skill", "scope_tier": 1, "confidence": 0.83}]}
+{"id": "pf2e:class-feature-1261", "functions": [{"slug": "grants-another-option", "role": "primary", "mechanism": "magical", "scope_tier": 1, "confidence": 0.42}]}
+{"id": "pf2e:class-feature-1253", "functions": [{"slug": "increase-proficiency-or-defence", "role": "primary", "mechanism": "innate", "scope_tier": 1, "confidence": 0.84}]}
+{"id": "pf2e:class-feature-846", "functions": [{"slug": "draw-on-an-inner-source", "role": "primary", "mechanism": "innate", "scope_tier": 1, "confidence": 0.53}]}
+{"id": "pf2e:class-feature-100", "functions": [{"slug": "increase-proficiency-or-defence", "role": "primary", "mechanism": "innate", "scope_tier": 1, "confidence": 0.79}]}
+{"id": "pf2e:class-feature-599", "functions": [{"slug": "grants-another-option", "role": "primary", "mechanism": "innate", "scope_tier": 1, "confidence": 0.78}]}
+{"id": "pf2e:class-feature-788", "functions": [{"slug": "increase-proficiency-or-defence", "role": "primary", "mechanism": "magical", "scope_tier": 1, "confidence": 0.86}]}
+{"id": "pf2e:class-feature-924", "functions": [{"slug": "increase-proficiency-or-defence", "role": "primary", "mechanism": "innate", "scope_tier": 1, "confidence": 0.87}]}
+{"id": "pf2e:class-feature-966", "functions": [{"slug": "increase-proficiency-or-defence", "role": "primary", "mechanism": "innate", "scope_tier": 1, "confidence": 0.85}]}
+{"id": "pf2e:class-feature-1305", "functions": [{"slug": "increase-proficiency-or-defence", "role": "primary", "mechanism": "magical", "scope_tier": 1, "confidence": 0.84}]}
+{"id": "pf2e:class-feature-198", "functions": [{"slug": "increase-proficiency-or-defence", "role": "primary", "mechanism": "innate", "scope_tier": 1, "confidence": 0.86}]}
+{"id": "pf2e:class-feature-730", "functions": [{"slug": "increase-proficiency-or-defence", "role": "primary", "mechanism": "innate", "scope_tier": 1, "confidence": 0.83}]}
+{"id": "dnd5e-2014:features:metamagic-distant-spell", "functions": [{"slug": "grants-another-option", "role": "primary", "mechanism": "magical", "scope_tier": 1, "confidence": 0.45}]}
+{"id": "dnd5e-2024:features:monk-subclass", "functions": [{"slug": "grants-another-option", "role": "primary", "mechanism": "innate", "scope_tier": 1, "confidence": 0.6}]}
+{"id": "pf2e:class-feature-220", "functions": [{"slug": "mark-a-foe-as-vulnerable", "role": "primary", "mechanism": "trained-skill", "scope_tier": 1, "confidence": 0.75}]}
+{"id": "pf2e:class-feature-978", "functions": [{"slug": "grants-another-option", "role": "primary", "mechanism": "divine", "scope_tier": 1, "confidence": 0.44}]}
+{"id": "pf2e:class-feature-940", "functions": [{"slug": "increase-proficiency-or-defence", "role": "primary", "mechanism": "innate", "scope_tier": 1, "confidence": 0.78}]}
+{"id": "pf2e:class-feature-994", "functions": [{"slug": "increase-proficiency-or-defence", "role": "primary", "mechanism": "innate", "scope_tier": 1, "confidence": 0.85}]}
+{"id": "pf2e:class-feature-556", "functions": [{"slug": "increase-proficiency-or-defence", "role": "primary", "mechanism": "psychic", "scope_tier": 1, "confidence": 0.8}]}
+{"id": "pf2e:class-feature-1142", "functions": [{"slug": "specialise-in-a-tradition", "role": "primary", "mechanism": "psychic", "scope_tier": 1, "confidence": 0.43}]}
+{"id": "pf2e:class-feature-728", "functions": [{"slug": "increase-proficiency-or-defence", "role": "primary", "mechanism": "trained-skill", "scope_tier": 1, "confidence": 0.82}]}
+{"id": "pf2e:class-feature-993", "functions": [{"slug": "increase-proficiency-or-defence", "role": "primary", "mechanism": "innate", "scope_tier": 1, "confidence": 0.85}]}
+{"id": "pf2e:class-feature-498", "functions": [{"slug": "increase-proficiency-or-defence", "role": "primary", "mechanism": "innate", "scope_tier": 1, "confidence": 0.79}]}
+{"id": "pf2e:class-feature-1312", "functions": [{"slug": "inscribe-a-lasting-mark", "role": "primary", "mechanism": "magical", "scope_tier": 1, "confidence": 0.7}]}
+{"id": "dnd5e-2024:features:fighter-second-wind", "functions": [{"slug": "heal-a-body", "role": "primary", "mechanism": "innate", "scope_tier": 1, "confidence": 0.63}]}
+{"id": "dnd5e-2014:features:signature-spell", "functions": [{"slug": "grants-another-option", "role": "primary", "mechanism": "magical", "scope_tier": 1, "confidence": 0.46}]}
+{"id": "dnd5e-2014:features:sneak-attack", "functions": [{"slug": "ambush-an-unready-foe", "role": "primary", "mechanism": "trained-skill", "scope_tier": 1, "confidence": 0.85}]}
+{"id": "pf2e:class-feature-1141", "functions": [{"slug": "specialise-in-a-tradition", "role": "primary", "mechanism": "psychic", "scope_tier": 1, "confidence": 0.47}]}
+{"id": "dnd5e-2014:features:spellcasting-wizard", "functions": [{"slug": "specialise-in-a-tradition", "role": "primary", "mechanism": "magical", "scope_tier": 1, "confidence": 0.55}]}
+{"id": "pf2e:class-feature-451", "functions": [{"slug": "grants-another-option", "role": "primary", "mechanism": "innate", "scope_tier": 1, "confidence": 0.76}]}
+{"id": "pf2e:class-feature-381", "functions": [{"slug": "increase-proficiency-or-defence", "role": "primary", "mechanism": "trained-skill", "scope_tier": 1, "confidence": 0.81}]}
+{"id": "pf2e:class-feature-1047", "functions": [{"slug": "grants-another-option", "role": "primary", "mechanism": "magical", "scope_tier": 1, "confidence": 0.42}, {"slug": "expand-a-resource-pool", "role": "secondary", "mechanism": "magical", "scope_tier": 1, "confidence": 0.42}]}
+{"id": "dnd5e-2024:features:monk-unarmored-movement", "functions": [{"slug": "move-faster", "role": "primary", "mechanism": "innate", "scope_tier": 1, "confidence": 0.85}]}
+{"id": "pf2e:class-feature-218", "functions": [{"slug": "increase-proficiency-or-defence", "role": "primary", "mechanism": "innate", "scope_tier": 1, "confidence": 0.85}]}
+{"id": "pf2e:class-feature-320", "functions": [{"slug": "increase-proficiency-or-defence", "role": "primary", "mechanism": "innate", "scope_tier": 1, "confidence": 0.84}]}
+{"id": "pf2e:class-feature-106", "functions": [{"slug": "increase-proficiency-or-defence", "role": "primary", "mechanism": "innate", "scope_tier": 1, "confidence": 0.83}]}
+{"id": "pf2e:class-feature-1304", "functions": [{"slug": "numeric-variant", "role": "primary", "mechanism": "innate", "scope_tier": 1, "confidence": 0.7}]}
+{"id": "pf2e:class-feature-684", "functions": [{"slug": "numeric-variant", "role": "primary", "mechanism": "innate", "scope_tier": 1, "confidence": 0.68}]}
+{"id": "dnd5e-2014:features:wild-shape-cr-1-2-or-below-no-flying-speed", "functions": [{"slug": "change-your-own-shape", "role": "primary", "mechanism": "magical", "scope_tier": 1, "confidence": 0.85}]}
+{"id": "dnd5e-2024:conditions:charmed", "functions": [{"slug": "condition-state", "role": "primary", "mechanism": "magical", "scope_tier": 1, "confidence": 0.88}]}
+{"id": "pf2e:condition-74", "functions": [{"slug": "condition-state", "role": "primary", "mechanism": "magical", "scope_tier": 1, "confidence": 0.86}]}
+{"id": "dnd5e-2014:conditions:paralyzed", "functions": [{"slug": "condition-state", "role": "primary", "mechanism": "magical", "scope_tier": 1, "confidence": 0.9}]}
+{"id": "pf2e:condition-94", "functions": [{"slug": "condition-state", "role": "primary", "mechanism": "magical", "scope_tier": 1, "confidence": 0.87}]}
+{"id": "pf2e:creature-ability-43", "functions": [{"slug": "fight-as-a-unit", "role": "primary", "mechanism": "manual", "scope_tier": 2, "confidence": 0.5}]}
+{"id": "pf2e:creature-ability-81", "functions": [{"slug": "harm-many-at-once", "role": "primary", "mechanism": "manual", "scope_tier": 2, "confidence": 0.58}]}
+{"id": "pf2e:curse-45", "functions": [{"slug": "curse-a-creature", "role": "primary", "mechanism": "magical", "scope_tier": 1, "confidence": 0.82}]}
+{"id": "pf2e:curse-84", "functions": [{"slug": "curse-a-creature", "role": "primary", "mechanism": "magical", "scope_tier": 1, "confidence": 0.55}, {"slug": "confuse-or-scramble-a-mind", "role": "secondary", "mechanism": "magical", "scope_tier": 1, "confidence": 0.55}]}
+{"id": "pf2e:domain-104", "functions": [{"slug": "specialise-in-a-tradition", "role": "primary", "mechanism": "divine", "scope_tier": 1, "confidence": 0.5}]}
+{"id": "pf2e:domain-85", "functions": [{"slug": "specialise-in-a-tradition", "role": "primary", "mechanism": "divine", "scope_tier": 1, "confidence": 0.48}]}
+{"id": "pf2e:domain-99", "functions": [{"slug": "specialise-in-a-tradition", "role": "primary", "mechanism": "divine", "scope_tier": 1, "confidence": 0.46}]}
+{"id": "pf2e:eidolon-10", "functions": [{"slug": "share-power-with-a-bonded-creature", "role": "primary", "mechanism": "magical", "scope_tier": 1, "confidence": 0.65}]}
+{"id": "pf2e:equipment-1405-1291", "functions": [{"slug": "compound-a-substance", "role": "primary", "mechanism": "alchemical", "scope_tier": 1, "confidence": 0.4}]}
+{"id": "pf2e:equipment-2915-2763", "functions": [{"slug": "craft-an-object", "role": "primary", "mechanism": "item", "scope_tier": 1, "confidence": 0.35}]}
+{"id": "pf2e:equipment-3055-2973", "functions": [{"slug": "grants-another-option", "role": "primary", "mechanism": "item", "scope_tier": 1, "confidence": 0.45}]}
+{"id": "pf2e:equipment-407-874", "functions": [{"slug": "go-without-necessities", "role": "primary", "mechanism": "item", "scope_tier": 1, "confidence": 0.55}]}
+{"id": "pf2e:equipment-2305", "functions": [{"slug": "make-an-extradimensional-space", "role": "primary", "mechanism": "item", "scope_tier": 1, "confidence": 0.72}]}
+{"id": "pf2e:equipment-560", "functions": [{"slug": "command-obedience", "role": "primary", "mechanism": "item", "scope_tier": 1, "confidence": 0.64}]}
+{"id": "dnd5e-2024:magic-items:amulet-of-proof-against-detection-and-location", "functions": [{"slug": "evade-magical-detection", "role": "primary", "mechanism": "item", "scope_tier": 1, "confidence": 0.85}]}
+{"id": "pf2e:equipment-2636", "functions": [{"slug": "confuse-or-scramble-a-mind", "role": "primary", "mechanism": "alchemical", "scope_tier": 1, "confidence": 0.35}]}
+{"id": "pf2e:equipment-902", "functions": [{"slug": "cure-poison-or-disease", "role": "primary", "mechanism": "alchemical", "scope_tier": 1, "confidence": 0.72}]}
+{"id": "pf2e:equipment-4998", "functions": [{"slug": "be-harder-to-hit", "role": "primary", "mechanism": "item", "scope_tier": 1, "confidence": 0.78}]}
+{"id": "dnd5e-2014:magic-items:armor-of-vulnerability", "functions": [{"slug": "resist-a-kind-of-harm", "role": "primary", "mechanism": "item", "scope_tier": 1, "confidence": 0.5}, {"slug": "curse-a-creature", "role": "secondary", "mechanism": "item", "scope_tier": 1, "confidence": 0.5}]}
+{"id": "pf2e:equipment-2550", "functions": [{"slug": "inflict-a-lingering-wound", "role": "primary", "mechanism": "item", "scope_tier": 1, "confidence": 0.55}]}
+{"id": "pf2e:equipment-1840", "functions": [{"slug": "obscure-an-area", "role": "primary", "mechanism": "item", "scope_tier": 1, "confidence": 0.6}]}
+{"id": "dnd5e-2024:magic-items:bag-of-devouring", "functions": [{"slug": "set-a-trap", "role": "primary", "mechanism": "magical", "scope_tier": 1, "confidence": 0.38}, {"slug": "kill-outright", "role": "secondary", "mechanism": "magical", "scope_tier": 1, "confidence": 0.38}]}
+{"id": "pf2e:equipment-4952", "functions": [{"slug": "rally-the-faltering", "role": "primary", "mechanism": "item", "scope_tier": 2, "confidence": 0.62}]}
+{"id": "dnd5e-2014:equipment:barding-splint", "functions": [{"slug": "be-harder-to-hit", "role": "primary", "mechanism": "item", "scope_tier": 1, "confidence": 0.42}]}
+{"id": "dnd5e-2024:magic-items:bead-of-force", "functions": [{"slug": "harm-many-at-once", "role": "primary", "mechanism": "item", "scope_tier": 1, "confidence": 0.48}, {"slug": "imprison-a-creature", "role": "secondary", "mechanism": "item", "scope_tier": 1, "confidence": 0.48}]}
+{"id": "dnd5e-2014:magic-items:belt-of-giant-strength", "functions": [{"slug": "increase-attributes-or-health", "role": "primary", "mechanism": "item", "scope_tier": 1, "confidence": 0.8}]}
+{"id": "pf2e:equipment-2203-1896", "functions": [{"slug": "shrug-off-an-effect-you-failed-to-avoid", "role": "primary", "mechanism": "item", "scope_tier": 1, "confidence": 0.55}]}
+{"id": "pf2e:equipment-3746", "functions": [{"slug": "enhance-a-weapon-s-bite", "role": "primary", "mechanism": "alchemical", "scope_tier": 1, "confidence": 0.52}]}
+{"id": "pf2e:equipment-1104", "functions": [{"slug": "move-faster", "role": "primary", "mechanism": "technological", "scope_tier": 1, "confidence": 0.42}]}
+{"id": "pf2e:equipment-2455", "functions": [{"slug": "teleport-a-short-distance", "role": "primary", "mechanism": "item", "scope_tier": 1, "confidence": 0.72}]}
+{"id": "pf2e:equipment-2319", "functions": [{"slug": "gain-an-extra-action", "role": "primary", "mechanism": "item", "scope_tier": 1, "confidence": 0.4}, {"slug": "expand-a-resource-pool", "role": "secondary", "mechanism": "item", "scope_tier": 1, "confidence": 0.4}]}
+{"id": "pf2e:equipment-1974", "functions": [{"slug": "resist-a-kind-of-harm", "role": "primary", "mechanism": "alchemical", "scope_tier": 1, "confidence": 0.68}]}
+{"id": "dnd5e-2014:magic-items:boots-of-speed", "functions": [{"slug": "move-faster", "role": "primary", "mechanism": "item", "scope_tier": 1, "confidence": 0.78}]}
+{"id": "pf2e:equipment-1532", "functions": [{"slug": "strike-a-distant-foe", "role": "primary", "mechanism": "alchemical", "scope_tier": 1, "confidence": 0.48}, {"slug": "make-light", "role": "secondary", "mechanism": "alchemical", "scope_tier": 1, "confidence": 0.48}]}
+{"id": "pf2e:equipment-953", "functions": [{"slug": "keep-the-dying-alive", "role": "primary", "mechanism": "technological", "scope_tier": 1, "confidence": 0.3}]}
+{"id": "pf2e:equipment-1309", "functions": [{"slug": "shake-off-an-affliction", "role": "primary", "mechanism": "alchemical", "scope_tier": 1, "confidence": 0.52}]}
+{"id": "pf2e:equipment-418", "functions": [{"slug": "absorb-or-blunt-damage", "role": "primary", "mechanism": "item", "scope_tier": 1, "confidence": 0.75}]}
+{"id": "pf2e:equipment-1386", "functions": [{"slug": "teleport-a-short-distance", "role": "primary", "mechanism": "item", "scope_tier": 1, "confidence": 0.58}]}
+{"id": "dnd5e-2024:equipment:candle", "functions": [{"slug": "make-light", "role": "primary", "mechanism": "item", "scope_tier": 1, "confidence": 0.86}]}
+{"id": "pf2e:equipment-1995", "functions": [{"slug": "poison-a-foe", "role": "primary", "mechanism": "alchemical", "scope_tier": 1, "confidence": 0.55}, {"slug": "dull-a-foe-s-capability", "role": "secondary", "mechanism": "alchemical", "scope_tier": 1, "confidence": 0.55}]}
+{"id": "pf2e:equipment-2863", "functions": [{"slug": "harm-many-at-once", "role": "primary", "mechanism": "item", "scope_tier": 2, "confidence": 0.6}, {"slug": "blind-or-deafen", "role": "secondary", "mechanism": "item", "scope_tier": 2, "confidence": 0.6}]}
+{"id": "dnd5e-2024:equipment:chain", "functions": [{"slug": "bind-a-creature-in-place", "role": "primary", "mechanism": "manual", "scope_tier": 1, "confidence": 0.68}]}
+{"id": "pf2e:equipment-3064", "functions": [{"slug": "conceal-an-object", "role": "primary", "mechanism": "magical", "scope_tier": 1, "confidence": 0.4}]}
+{"id": "pf2e:equipment-470-818", "functions": [{"slug": "grants-another-option", "role": "primary", "mechanism": "item", "scope_tier": 1, "confidence": 0.38}]}
+{"id": "dnd5e-2014:magic-items:cloak-of-arachnida", "functions": [{"slug": "climb-a-vertical-surface", "role": "primary", "mechanism": "item", "scope_tier": 1, "confidence": 0.58}, {"slug": "bind-a-creature-in-place", "role": "secondary", "mechanism": "item", "scope_tier": 1, "confidence": 0.58}]}
+{"id": "pf2e:equipment-1141", "functions": [{"slug": "conceal-an-object", "role": "primary", "mechanism": "technological", "scope_tier": 1, "confidence": 0.6}]}
+{"id": "pf2e:equipment-1773-1564", "functions": [{"slug": "craft-an-object", "role": "primary", "mechanism": "item", "scope_tier": 1, "confidence": 0.22}]}
+{"id": "pf2e:equipment-991", "functions": [{"slug": "notice-what-is-hidden", "role": "primary", "mechanism": "item", "scope_tier": 1, "confidence": 0.42}, {"slug": "recall-what-you-have-learned", "role": "secondary", "mechanism": "item", "scope_tier": 1, "confidence": 0.42}]}
+{"id": "pf2e:equipment-1938-1697", "functions": [{"slug": "walk-on-unstable-footing", "role": "primary", "mechanism": "alchemical", "scope_tier": 1, "confidence": 0.32}]}
+{"id": "pf2e:equipment-919", "functions": [{"slug": "enhance-a-weapon-s-bite", "role": "primary", "mechanism": "item", "scope_tier": 1, "confidence": 0.65}]}
+{"id": "pf2e:equipment-2100", "functions": [{"slug": "shrug-off-an-effect-you-failed-to-avoid", "role": "primary", "mechanism": "item", "scope_tier": 1, "confidence": 0.4}]}
+{"id": "pf2e:equipment-4075", "functions": [{"slug": "lie-convincingly", "role": "primary", "mechanism": "alchemical", "scope_tier": 1, "confidence": 0.33}]}
+{"id": "pf2e:equipment-1289", "functions": [{"slug": "notice-what-is-hidden", "role": "primary", "mechanism": "item", "scope_tier": 1, "confidence": 0.7}]}
+{"id": "dnd5e-2024:magic-items:crystal-ball-of-mind-reading", "functions": [{"slug": "read-or-enter-a-mind", "role": "primary", "mechanism": "item", "scope_tier": 1, "confidence": 0.55}, {"slug": "sense-a-distant-place", "role": "secondary", "mechanism": "item", "scope_tier": 1, "confidence": 0.55}]}
+{"id": "pf2e:equipment-4045", "functions": [{"slug": "grants-another-option", "role": "primary", "mechanism": "item", "scope_tier": 1, "confidence": 0.4}]}
+{"id": "pf2e:equipment-2814", "functions": [{"slug": "be-harder-to-hit", "role": "primary", "mechanism": "item", "scope_tier": 1, "confidence": 0.38}]}
+{"id": "pf2e:equipment-3703", "functions": [{"slug": "poison-a-foe", "role": "primary", "mechanism": "alchemical", "scope_tier": 1, "confidence": 0.85}]}
+{"id": "pf2e:equipment-1464", "functions": [{"slug": "destroy-an-object", "role": "primary", "mechanism": "item", "scope_tier": 1, "confidence": 0.58}, {"slug": "inflict-a-lingering-wound", "role": "secondary", "mechanism": "item", "scope_tier": 1, "confidence": 0.58}]}
+{"id": "pf2e:equipment-5215", "functions": [{"slug": "impose-misfortune", "role": "primary", "mechanism": "item", "scope_tier": 1, "confidence": 0.52}, {"slug": "improve-your-luck", "role": "secondary", "mechanism": "item", "scope_tier": 1, "confidence": 0.52}]}
+{"id": "pf2e:equipment-1914", "functions": [{"slug": "persuade-by-reason-or-charm", "role": "primary", "mechanism": "alchemical", "scope_tier": 1, "confidence": 0.4}]}
+{"id": "pf2e:equipment-1413-1309", "functions": [{"slug": "resist-a-kind-of-harm", "role": "primary", "mechanism": "item", "scope_tier": 1, "confidence": 0.55}]}
+{"id": "pf2e:equipment-4011", "functions": [{"slug": "resist-a-kind-of-harm", "role": "primary", "mechanism": "item", "scope_tier": 1, "confidence": 0.5}]}
+{"id": "pf2e:equipment-502", "functions": [{"slug": "strike-a-distant-foe", "role": "primary", "mechanism": "item", "scope_tier": 1, "confidence": 0.38}, {"slug": "see-in-darkness", "role": "secondary", "mechanism": "item", "scope_tier": 1, "confidence": 0.38}]}
+{"id": "pf2e:equipment-2177", "functions": [{"slug": "mark-a-foe-as-vulnerable", "role": "primary", "mechanism": "item", "scope_tier": 1, "confidence": 0.45}]}
+{"id": "pf2e:equipment-1281", "functions": [{"slug": "harm-many-at-once", "role": "primary", "mechanism": "item", "scope_tier": 3, "confidence": 0.52}, {"slug": "set-off-or-quell-a-hazard", "role": "secondary", "mechanism": "item", "scope_tier": 3, "confidence": 0.52}]}
+{"id": "pf2e:equipment-3413", "functions": [{"slug": "raise-or-command-the-dead", "role": "primary", "mechanism": "item", "scope_tier": 1, "confidence": 0.78}]}
+{"id": "pf2e:equipment-3417", "functions": [{"slug": "know-where-you-are", "role": "primary", "mechanism": "item", "scope_tier": 1, "confidence": 0.44}]}
+{"id": "pf2e:equipment-1109", "functions": [{"slug": "gain-an-extra-action", "role": "primary", "mechanism": "technological", "scope_tier": 1, "confidence": 0.58}]}
+{"id": "dnd5e-2024:equipment:emblem", "functions": [{"slug": "specialise-in-a-tradition", "role": "primary", "mechanism": "item", "scope_tier": 1, "confidence": 0.24}]}
+{"id": "pf2e:equipment-2941", "functions": [{"slug": "harm-many-at-once", "role": "primary", "mechanism": "alchemical", "scope_tier": 2, "confidence": 0.72}]}
+{"id": "pf2e:equipment-729", "functions": [{"slug": "communicate-at-a-distance", "role": "primary", "mechanism": "item", "scope_tier": 1, "confidence": 0.63}]}
+{"id": "pf2e:equipment-2565", "functions": [{"slug": "survive-a-hostile-environment", "role": "primary", "mechanism": "item", "scope_tier": 1, "confidence": 0.79}]}
+{"id": "pf2e:equipment-1332-1225", "functions": [{"slug": "conceal-an-object", "role": "primary", "mechanism": "item", "scope_tier": 1, "confidence": 0.67}]}
+{"id": "dnd5e-2014:magic-items:eyes-of-the-eagle", "functions": [{"slug": "extend-your-senses", "role": "primary", "mechanism": "item", "scope_tier": 1, "confidence": 0.81}]}
+{"id": "dnd5e-2014:magic-items:feather-token-fan", "functions": [{"slug": "move-a-group", "role": "primary", "mechanism": "item", "scope_tier": 2, "confidence": 0.46}]}
+{"id": "pf2e:equipment-244-242", "functions": [{"slug": "conjure-a-temporary-tool", "role": "primary", "mechanism": "item", "scope_tier": 1, "confidence": 0.59}]}
+{"id": "pf2e:equipment-3246", "functions": [{"slug": "secure-shelter-and-supply", "role": "primary", "mechanism": "item", "scope_tier": 1, "confidence": 0.43}]}
+{"id": "pf2e:equipment-3963", "functions": [{"slug": "resist-a-kind-of-harm", "role": "primary", "mechanism": "item", "scope_tier": 1, "confidence": 0.61}, {"slug": "strike-a-foe-in-reach", "role": "secondary", "mechanism": "item", "scope_tier": 1, "confidence": 0.61}]}
+{"id": "pf2e:equipment-3222", "functions": [{"slug": "harm-many-at-once", "role": "primary", "mechanism": "item", "scope_tier": 2, "confidence": 0.48}, {"slug": "make-light", "role": "secondary", "mechanism": "item", "scope_tier": 2, "confidence": 0.48}]}
+{"id": "pf2e:equipment-1867", "functions": [{"slug": "attack-more-often", "role": "primary", "mechanism": "item", "scope_tier": 1, "confidence": 0.42}]}
+{"id": "pf2e:equipment-2724", "functions": [{"slug": "craft-an-object", "role": "primary", "mechanism": "item", "scope_tier": 1, "confidence": 0.38}]}
+{"id": "pf2e:equipment-3883", "functions": [{"slug": "gain-an-extra-action", "role": "primary", "mechanism": "item", "scope_tier": 1, "confidence": 0.53}]}
+{"id": "pf2e:equipment-943", "functions": [{"slug": "grants-another-option", "role": "primary", "mechanism": "item", "scope_tier": 1, "confidence": 0.33}]}
+{"id": "pf2e:equipment-1333", "functions": [{"slug": "earn-income", "role": "primary", "mechanism": "item", "scope_tier": 1, "confidence": 0.28}]}
+{"id": "pf2e:equipment-1681", "functions": [{"slug": "keep-a-bonded-creature", "role": "primary", "mechanism": "manual", "scope_tier": 1, "confidence": 0.29}]}
+{"id": "pf2e:equipment-3245-3101", "functions": [{"slug": "bind-a-creature-in-place", "role": "primary", "mechanism": "tool", "scope_tier": 1, "confidence": 0.66}]}
+{"id": "pf2e:equipment-4341", "functions": [{"slug": "set-a-trap", "role": "primary", "mechanism": "item", "scope_tier": 1, "confidence": 0.57}, {"slug": "blind-or-deafen", "role": "secondary", "mechanism": "item", "scope_tier": 1, "confidence": 0.57}]}
+{"id": "dnd5e-2024:magic-items:goggles-of-night", "functions": [{"slug": "see-in-darkness", "role": "primary", "mechanism": "item", "scope_tier": 1, "confidence": 0.86}]}
+{"id": "pf2e:equipment-3684", "functions": [{"slug": "improve-your-luck", "role": "primary", "mechanism": "item", "scope_tier": 1, "confidence": 0.64}]}
+{"id": "pf2e:equipment-2553", "functions": [{"slug": "harm-many-at-once", "role": "primary", "mechanism": "item", "scope_tier": 2, "confidence": 0.61}, {"slug": "inflict-a-lingering-wound", "role": "secondary", "mechanism": "item", "scope_tier": 2, "confidence": 0.61}]}
+{"id": "pf2e:equipment-3723-3477", "functions": [{"slug": "set-a-trap", "role": "primary", "mechanism": "alchemical", "scope_tier": 1, "confidence": 0.49}]}
+{"id": "pf2e:equipment-4042-3721", "functions": [{"slug": "survive-a-hostile-environment", "role": "primary", "mechanism": "alchemical", "scope_tier": 1, "confidence": 0.56}, {"slug": "increase-proficiency-or-defence", "role": "secondary", "mechanism": "alchemical", "scope_tier": 1, "confidence": 0.56}]}
+{"id": "pf2e:equipment-5155-4641", "functions": [{"slug": "grants-another-option", "role": "primary", "mechanism": "item", "scope_tier": 1, "confidence": 0.34}]}
+{"id": "pf2e:equipment-5107-4594", "functions": [{"slug": "disguise-your-appearance", "role": "primary", "mechanism": "item", "scope_tier": 1, "confidence": 0.51}]}
+{"id": "pf2e:equipment-5171-4679", "functions": [{"slug": "speak-with-the-otherwise-mute", "role": "primary", "mechanism": "item", "scope_tier": 1, "confidence": 0.39}]}
+{"id": "pf2e:equipment-2841", "functions": [{"slug": "enhance-a-weapon-s-bite", "role": "primary", "mechanism": "item", "scope_tier": 1, "confidence": 0.66}]}
+{"id": "pf2e:equipment-4943", "functions": [{"slug": "cheat-death", "role": "primary", "mechanism": "item", "scope_tier": 1, "confidence": 0.69}]}
+{"id": "pf2e:equipment-935-1528", "functions": [{"slug": "sense-through-another-creature", "role": "primary", "mechanism": "item", "scope_tier": 1, "confidence": 0.71}]}
+{"id": "pf2e:equipment-3086-3026", "functions": [{"slug": "enhance-a-weapon-s-bite", "role": "primary", "mechanism": "item", "scope_tier": 1, "confidence": 0.63}]}
+{"id": "pf2e:equipment-3087", "functions": [{"slug": "heal-a-body", "role": "primary", "mechanism": "item", "scope_tier": 1, "confidence": 0.79}]}
+{"id": "pf2e:equipment-2253", "functions": [{"slug": "call-an-outsider", "role": "primary", "mechanism": "item", "scope_tier": 1, "confidence": 0.54}]}
+{"id": "pf2e:equipment-2324", "functions": [{"slug": "keep-a-bonded-creature", "role": "primary", "mechanism": "item", "scope_tier": 1, "confidence": 0.41}]}
+{"id": "dnd5e-2014:magic-items:holy-avenger", "functions": [{"slug": "exploit-a-known-weakness", "role": "primary", "mechanism": "item", "scope_tier": 2, "confidence": 0.48}, {"slug": "protect-a-group", "role": "secondary", "mechanism": "item", "scope_tier": 2, "confidence": 0.48}]}
+{"id": "pf2e:equipment-3938", "functions": [{"slug": "harm-many-at-once", "role": "primary", "mechanism": "item", "scope_tier": 2, "confidence": 0.47}, {"slug": "inspire-allies", "role": "secondary", "mechanism": "item", "scope_tier": 2, "confidence": 0.47}]}
+{"id": "pf2e:equipment-3940", "functions": [{"slug": "kill-outright", "role": "primary", "mechanism": "item", "scope_tier": 2, "confidence": 0.44}, {"slug": "harm-many-at-once", "role": "secondary", "mechanism": "item", "scope_tier": 2, "confidence": 0.44}]}
+{"id": "pf2e:equipment-1151", "functions": [{"slug": "control-fire", "role": "primary", "mechanism": "technological", "scope_tier": 1, "confidence": 0.57}]}
+{"id": "pf2e:equipment-1868", "functions": [{"slug": "close-on-a-foe", "role": "primary", "mechanism": "item", "scope_tier": 1, "confidence": 0.43}, {"slug": "strike-a-foe-in-reach", "role": "secondary", "mechanism": "item", "scope_tier": 1, "confidence": 0.43}]}
+{"id": "dnd5e-2014:magic-items:instant-fortress", "functions": [{"slug": "raise-a-structure", "role": "primary", "mechanism": "item", "scope_tier": 2, "confidence": 0.6}, {"slug": "harm-many-at-once", "role": "secondary", "mechanism": "item", "scope_tier": 2, "confidence": 0.6}]}
+{"id": "dnd5e-2014:magic-items:ioun-stone-of-absorption", "functions": [{"slug": "negate-an-effect-outright", "role": "primary", "mechanism": "item", "scope_tier": 1, "confidence": 0.76}]}
+{"id": "dnd5e-2024:magic-items:horn-of-valhalla-4", "functions": [{"slug": "call-a-creature-to-fight-for-you", "role": "primary", "mechanism": "item", "scope_tier": 2, "confidence": 0.72}]}
+{"id": "pf2e:equipment-2982", "functions": [{"slug": "cross-resisting-ground", "role": "primary", "mechanism": "item", "scope_tier": 1, "confidence": 0.58}]}
+{"id": "pf2e:equipment-3318", "functions": [{"slug": "gain-a-buffer-of-vitality", "role": "primary", "mechanism": "alchemical", "scope_tier": 1, "confidence": 0.53}]}
+{"id": "pf2e:equipment-3968-3658", "functions": [{"slug": "inflict-a-lingering-wound", "role": "primary", "mechanism": "item", "scope_tier": 1, "confidence": 0.55}]}
+{"id": "pf2e:equipment-3468", "functions": [{"slug": "animate-the-inanimate", "role": "primary", "mechanism": "item", "scope_tier": 1, "confidence": 0.82}]}

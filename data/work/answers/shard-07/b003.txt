@@ -1,0 +1,25 @@
+1. impose-misfortune | magical | 1 | 0.55
+2. absorb-or-blunt-damage + redirect-harm | trained-skill | 1 | 0.6
+3. grants-another-option | divine | 1 | 0.55
+4. strike-with-overwhelming-force | divine | 1 | 0.6
+5. store-an-effect-for-later | magical | 1 | 0.65
+6. grants-another-option | innate | 1 | 0.8
+7. increase-proficiency-or-defence | innate | 1 | 0.85
+8. become-invisible | magical | 1 | 0.85
+9. grants-another-option | innate | 1 | 0.8
+10. increase-proficiency-or-defence | trained-skill | 1 | 0.55
+11. increase-proficiency-or-defence | magical | 1 | 0.85
+12. grants-another-option | technological | 1 | 0.5
+13. gain-an-extra-action | trained-skill | 1 | 0.55
+14. grants-another-option | trained-skill | 1 | 0.7
+15. expand-a-resource-pool | magical | 1 | 0.55
+16. strike-with-overwhelming-force | innate | 1 | 0.6
+17. increase-proficiency-or-defence + shrug-off-an-effect-you-failed-to-avoid | innate | 1 | 0.6
+18. numeric-variant | trained-skill | 1 | 0.6
+19. grants-another-option | trained-skill | 1 | 0.8
+20. grants-another-option + attack-more-often | trained-skill | 1 | 0.4
+21. increase-proficiency-or-defence + shrug-off-an-effect-you-failed-to-avoid | trained-skill | 1 | 0.6
+22. improve-your-luck | innate | 1 | 0.5
+23. grants-another-option | trained-skill | 1 | 0.8
+24. increase-proficiency-or-defence | innate | 1 | 0.55
+25. increase-proficiency-or-defence | magical | 1 | 0.85

@@ -1,0 +1,25 @@
+1. keep-a-bonded-creature | innate | 1 | 0.55
+2. control-water | magical | 1 | 0.65
+3. perceive-without-sight | technological | 1 | 0.7
+4. call-an-outsider | magical | 1 | 0.7
+5. absorb-or-blunt-damage + teleport-a-short-distance | magical | 1 | 0.55
+6. resist-a-kind-of-harm + walk-on-unstable-footing | item | 1 | 0.55
+7. break-free-of-restraint + hide-from-notice | magical | 1 | 0.5
+8. make-light | magical | 1 | 0.85
+9. unclassified | tool | 1 | 0.2
+10. see-through-deception | magical | 1 | 0.45
+11. set-a-trap + poison-a-foe | alchemical | 1 | 0.65
+12. conjure-a-temporary-tool | magical | 1 | 0.6
+13. specialise-in-a-tradition | divine | 1 | 0.3
+14. create-food-and-water | tool | 1 | 0.45
+15. detect-a-kind-of-creature + command-obedience | magical | 3 | 0.35
+16. detect-a-kind-of-creature | magical | 1 | 0.65
+17. improve-your-luck | magical | 1 | 0.75
+18. cross-resisting-ground | technological | 1 | 0.4
+19. resist-a-kind-of-harm + enhance-a-weapon-s-bite | item | 1 | 0.55
+20. resist-poison-and-disease + go-without-necessities | item | 1 | 0.55
+21. strike-a-distant-foe + dull-a-foe-s-capability | alchemical | 1 | 0.55
+22. enhance-a-weapon-s-bite + exploit-a-known-weakness | item | 1 | 0.55
+23. teleport-a-short-distance + close-on-a-foe | magical | 1 | 0.55
+24. inscribe-a-lasting-mark | magical | 1 | 0.35
+25. see-through-obscurement | item | 1 | 0.75

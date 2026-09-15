@@ -1,0 +1,25 @@
+1. raise-or-command-the-dead | magical | 1 | 0.6
+2. specialise-in-a-tradition | magical | 1 | 0.75
+3. specialise-in-a-tradition | magical | 1 | 0.75
+4. entry-into-an-archetype | trained-skill | 1 | 0.5
+5. entry-into-an-archetype | divine | 1 | 0.6
+6. entry-into-an-archetype | magical | 1 | 0.55
+7. change-your-nature | magical | 1 | 0.5
+8. entry-into-an-archetype | trained-skill | 1 | 0.5
+9. inspire-allies | social | 2 | 0.5
+10. entry-into-an-archetype | social | 1 | 0.5
+11. keep-a-bonded-creature | magical | 1 | 0.5
+12. entry-into-an-archetype | trained-skill | 1 | 0.5
+13. entry-into-an-archetype | social | 1 | 0.45
+14. specialise-in-a-tradition | magical | 2 | 0.4
+15. be-harder-to-hit | item | 1 | 0.6
+16. claim-a-past-vocation | social | 1 | 0.5
+17. claim-a-past-vocation | social | 1 | 0.55
+18. claim-a-past-vocation | trained-skill | 1 | 0.6
+19. claim-a-past-vocation | trained-skill | 1 | 0.6
+20. claim-a-past-vocation | trained-skill | 1 | 0.6
+21. carry-a-burden + resist-a-kind-of-harm | magical | 1 | 0.5
+22. belong-to-an-order | social | 1 | 0.5
+23. claim-a-past-vocation | manual | 1 | 0.6
+24. gain-access-to-closed-circles | social | 1 | 0.55
+25. carry-a-burden + exploit-a-known-weakness | innate | 1 | 0.45

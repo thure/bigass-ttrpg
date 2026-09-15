@@ -1,0 +1,25 @@
+1. resist-poison-and-disease | item | 1 | 0.4
+2. craft-an-object | item | 1 | 0.3
+3. disguise-what-a-thing-is | item | 1 | 0.65
+4. move-faster | alchemical | 1 | 0.53
+5. be-harder-to-hit | item | 1 | 0.6
+6. absorb-or-blunt-damage + strike-a-distant-foe | item | 1 | 0.48
+7. be-harder-to-hit | item | 1 | 0.4
+8. strike-a-distant-foe | item | 1 | 0.55
+9. detect-magic | item | 1 | 0.52
+10. communicate-at-a-distance | item | 1 | 0.45
+11. lie-convincingly | social | 1 | 0.62
+12. poison-a-foe + frighten | alchemical | 1 | 0.58
+13. bind-a-creature-in-place | item | 1 | 0.7
+14. set-a-trap | technological | 1 | 0.7
+15. shrug-off-an-effect-you-failed-to-avoid | item | 1 | 0.45
+16. secure-shelter-and-supply | tool | 1 | 0.57
+17. notice-what-is-hidden | alchemical | 1 | 0.4
+18. enhance-a-weapon-s-bite | item | 1 | 0.53
+19. harm-many-at-once | item | 1 | 0.58
+20. move-faster | technological | 1 | 0.6
+21. make-light + blind-or-deafen | item | 1 | 0.53
+22. resist-a-kind-of-harm | item | 1 | 0.4
+23. disguise-what-a-thing-is + be-harder-to-hit | item | 1 | 0.57
+24. slow-a-foe + stop-a-foe-moving | alchemical | 1 | 0.63
+25. fly | item | 1 | 0.7

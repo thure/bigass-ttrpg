@@ -1,0 +1,25 @@
+1. harm-many-at-once + inflict-a-lingering-wound | item | 2 | 0.61
+2. set-a-trap | alchemical | 1 | 0.49
+3. survive-a-hostile-environment + increase-proficiency-or-defence | alchemical | 1 | 0.56
+4. grants-another-option | item | 1 | 0.34
+5. disguise-your-appearance | item | 1 | 0.51
+6. speak-with-the-otherwise-mute | item | 1 | 0.39
+7. enhance-a-weapon-s-bite | item | 1 | 0.66
+8. cheat-death | item | 1 | 0.69
+9. sense-through-another-creature | item | 1 | 0.71
+10. enhance-a-weapon-s-bite | item | 1 | 0.63
+11. heal-a-body | item | 1 | 0.79
+12. call-an-outsider | item | 1 | 0.54
+13. keep-a-bonded-creature | item | 1 | 0.41
+14. exploit-a-known-weakness + protect-a-group | item | 2 | 0.48
+15. harm-many-at-once + inspire-allies | item | 2 | 0.47
+16. kill-outright + harm-many-at-once | item | 2 | 0.44
+17. control-fire | technological | 1 | 0.57
+18. close-on-a-foe + strike-a-foe-in-reach | item | 1 | 0.43
+19. raise-a-structure + harm-many-at-once | item | 2 | 0.6
+20. negate-an-effect-outright | item | 1 | 0.76
+21. call-a-creature-to-fight-for-you | item | 2 | 0.72
+22. cross-resisting-ground | item | 1 | 0.58
+23. gain-a-buffer-of-vitality | alchemical | 1 | 0.53
+24. inflict-a-lingering-wound | item | 1 | 0.55
+25. animate-the-inanimate | item | 1 | 0.82

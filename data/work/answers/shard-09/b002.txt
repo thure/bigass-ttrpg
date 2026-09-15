@@ -1,0 +1,25 @@
+1. travel-as-a-known-figure | social | 1 | 0.52
+2. claim-a-past-vocation | trained-skill | 1 | 0.6
+3. claim-a-past-vocation | social | 1 | 0.68
+4. claim-a-past-vocation | social | 1 | 0.5
+5. bind-yourself-to-a-power | divine | 1 | 0.58
+6. claim-a-past-vocation + appraise-worth | trained-skill | 1 | 0.55
+7. claim-a-past-vocation + heal-a-body | ritual | 1 | 0.46
+8. claim-a-past-vocation | trained-skill | 1 | 0.7
+9. claim-a-lineage | innate | 1 | 0.53
+10. claim-a-past-vocation | trained-skill | 1 | 0.66
+11. claim-a-past-vocation | trained-skill | 1 | 0.64
+12. claim-a-past-vocation | trained-skill | 1 | 0.71
+13. claim-a-past-vocation + detect-magic | trained-skill | 1 | 0.49
+14. specialise-in-a-tradition | divine | 1 | 0.62
+15. grants-another-option | manual | 1 | 0.85
+16. grants-another-option | manual | 1 | 0.83
+17. grants-another-option | manual | 1 | 0.83
+18. bind-yourself-to-a-power | divine | 1 | 0.45
+19. increase-proficiency-or-defence | item | 1 | 0.86
+20. increase-attributes-or-health | manual | 1 | 0.88
+21. protect-a-group | divine | 2 | 0.72
+22. grants-another-option | magical | 1 | 0.48
+23. strike-with-overwhelming-force + reposition-another-creature | manual | 1 | 0.56
+24. increase-proficiency-or-defence | alchemical | 1 | 0.74
+25. inspire-allies + protect-a-group | item | 2 | 0.57

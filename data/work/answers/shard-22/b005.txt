@@ -1,0 +1,25 @@
+1. increase-proficiency-or-defence + shrug-off-an-effect-you-failed-to-avoid | magical | 1 | 0.6
+2. grants-another-option | innate | 1 | 0.55
+3. increase-proficiency-or-defence | trained-skill | 1 | 0.86
+4. increase-proficiency-or-defence | trained-skill | 1 | 0.88
+5. numeric-variant | manual | 1 | 0.69
+6. numeric-variant | manual | 1 | 0.71
+7. grants-another-option | manual | 1 | 0.66
+8. condition-state | innate | 1 | 0.85
+9. condition-state | social | 1 | 0.8
+10. condition-state | innate | 1 | 0.83
+11. extend-your-senses | innate | 1 | 0.5
+12. poison-a-foe | innate | 1 | 0.84
+13. curse-a-creature | magical | 1 | 0.58
+14. curse-a-creature | magical | 1 | 0.62
+15. curse-a-creature | magical | 1 | 0.65
+16. sense-or-shape-fate | divine | 1 | 0.57
+17. specialise-in-a-tradition | divine | 1 | 0.48
+18. keep-a-bonded-creature | magical | 1 | 0.72
+19. store-an-effect-for-later | item | 1 | 0.64
+20. store-an-effect-for-later + gain-a-buffer-of-vitality | item | 1 | 0.52
+21. frighten | item | 1 | 0.46
+22. go-without-necessities | item | 1 | 0.4
+23. survive-a-hostile-environment | item | 1 | 0.73
+24. keep-the-dying-alive | item | 1 | 0.54
+25. numeric-variant | item | 1 | 0.81

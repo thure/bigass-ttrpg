@@ -1,0 +1,25 @@
+1. draw-on-an-inner-source | innate | 1 | 0.6
+2. strike-with-overwhelming-force + inflict-a-lingering-wound | manual | 1 | 0.55
+3. unclassified | magical | 1 | 0.3
+4. direct-a-companion-in-battle | trained-skill | 1 | 0.75
+5. build-your-reputation | social | 4 | 0.65
+6. punish-an-opening | divine | 1 | 0.5
+7. heal-a-body + gain-a-buffer-of-vitality | magical | 1 | 0.6
+8. expand-a-resource-pool | social | 3 | 0.55
+9. strike-a-distant-foe | magical | 1 | 0.8
+10. move-faster | innate | 1 | 0.85
+11. expand-a-resource-pool | social | 3 | 0.55
+12. mark-a-foe-as-vulnerable | magical | 1 | 0.6
+13. break-free-of-restraint + strike-a-foe-in-reach | innate | 1 | 0.55
+14. ride-a-mount | manual | 1 | 0.9
+15. gather-information-from-people + detect-a-lie | social | 1 | 0.5
+16. close-on-a-foe + reposition-another-creature | innate | 1 | 0.5
+17. lead-an-organisation | social | 4 | 0.45
+18. cross-resisting-ground + move-faster | innate | 1 | 0.65
+19. store-an-effect-for-later | innate | 1 | 0.4
+20. disengage-from-danger + strike-a-foe-in-reach | innate | 1 | 0.55
+21. harm-many-at-once | divine | 2 | 0.65
+22. raise-or-command-the-dead | magical | 2 | 0.5
+23. keep-a-bonded-creature | innate | 1 | 0.7
+24. keep-a-bonded-creature | innate | 1 | 0.7
+25. keep-a-bonded-creature | innate | 1 | 0.7

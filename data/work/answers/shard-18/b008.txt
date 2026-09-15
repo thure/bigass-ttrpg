@@ -1,0 +1,25 @@
+1. increase-proficiency-or-defence | item | 1 | 0.45
+2. control-water | item | 1 | 0.6
+3. divine-an-answer | item | 1 | 0.5
+4. call-a-creature-to-fight-for-you | item | 1 | 0.75
+5. perceive-without-sight | item | 1 | 0.5
+6. fly + resist-a-kind-of-harm | item | 1 | 0.55
+7. shrug-off-an-effect-you-failed-to-avoid | item | 1 | 0.6
+8. obscure-an-area | item | 2 | 0.8
+9. strike-a-distant-foe | item | 1 | 0.5
+10. grants-another-option | divine | 1 | 0.55
+11. change-your-own-shape | magical | 1 | 0.7
+12. conjure-a-temporary-tool | item | 1 | 0.55
+13. teleport-a-short-distance | magical | 1 | 0.55
+14. secure-shelter-and-supply | tool | 1 | 0.4
+15. craft-an-object | item | 1 | 0.55
+16. raise-a-structure | item | 1 | 0.4
+17. improve-your-luck | item | 1 | 0.8
+18. poison-a-foe | alchemical | 1 | 0.65
+19. bind-a-creature-in-place | item | 2 | 0.5
+20. grants-another-option | magical | 1 | 0.55
+21. communicate-at-a-distance | magical | 2 | 0.75
+22. harm-many-at-once | item | 1 | 0.7
+23. obscure-an-area | item | 1 | 0.6
+24. heal-a-body | magical | 1 | 0.75
+25. grants-another-option | magical | 1 | 0.45

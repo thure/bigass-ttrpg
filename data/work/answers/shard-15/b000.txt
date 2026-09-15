@@ -1,0 +1,25 @@
+1. enhance-a-weapon-s-bite + resist-a-kind-of-harm | magical | 1 | 0.55
+2. unclassified | manual | 1 | 0.3
+3. improve-your-luck | divine | 1 | 0.62
+4. inspire-allies | social | 1 | 0.45
+5. run-a-long-project | social | 4 | 0.58
+6. turn-an-attack-back + be-harder-to-hit | innate | 1 | 0.52
+7. strike-a-foe-in-reach | manual | 1 | 0.68
+8. open-a-portal | magical | 3 | 0.7
+9. harm-many-at-once | divine | 2 | 0.5
+10. frighten | innate | 1 | 0.72
+11. frighten | social | 3 | 0.5
+12. raise-or-command-the-dead | magical | 1 | 0.65
+13. reposition-another-creature | manual | 1 | 0.42
+14. know-where-you-are | trained-skill | 2 | 0.75
+15. sway-an-audience | trained-skill | 2 | 0.78
+16. notice-what-is-hidden | trained-skill | 1 | 0.4
+17. recruit-help | social | 3 | 0.55
+18. improve-your-luck | innate | 1 | 0.6
+19. set-a-trap | trained-skill | 2 | 0.68
+20. unclassified | manual | 1 | 0.3
+21. strike-a-foe-in-reach | manual | 1 | 0.72
+22. travel-overland | manual | 3 | 0.75
+23. strike-a-foe-in-reach + bind-a-creature-in-place | manual | 1 | 0.6
+24. ride-a-mount | innate | 1 | 0.55
+25. keep-a-bonded-creature | innate | 1 | 0.5

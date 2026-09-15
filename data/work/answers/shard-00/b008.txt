@@ -1,0 +1,25 @@
+1. avoid-a-danger-you-foresaw | item | 1 | 0.55
+2. dull-a-foe-s-capability + harm-many-at-once | alchemical | 2 | 0.6
+3. numeric-variant + shrug-off-an-effect-you-failed-to-avoid | item | 1 | 0.45
+4. make-an-extradimensional-space | item | 1 | 0.8
+5. heal-a-body | alchemical | 1 | 0.85
+6. coerce-through-threat | item | 1 | 0.55
+7. resist-a-kind-of-harm | item | 1 | 0.85
+8. harm-many-at-once | alchemical | 2 | 0.5
+9. numeric-variant | item | 1 | 0.4
+10. improve-your-luck | item | 1 | 0.8
+11. poison-a-foe | alchemical | 1 | 0.85
+12. destroy-an-object | item | 1 | 0.6
+13. secure-shelter-and-supply | item | 1 | 0.5
+14. kill-outright | item | 1 | 0.8
+15. recruit-help | social | 1 | 0.7
+16. call-a-creature-to-fight-for-you | item | 1 | 0.4
+17. harm-many-at-once | alchemical | 2 | 0.7
+18. call-a-creature-to-fight-for-you | item | 1 | 0.75
+19. build-a-barrier + survive-a-hostile-environment | item | 1 | 0.5
+20. exploit-a-known-weakness | alchemical | 1 | 0.7
+21. slow-a-foe | alchemical | 1 | 0.75
+22. enhance-a-weapon-s-bite | alchemical | 1 | 0.4
+23. shake-off-an-affliction | alchemical | 1 | 0.7
+24. improve-your-luck | item | 1 | 0.6
+25. fly + harm-many-at-once | item | 1 | 0.65

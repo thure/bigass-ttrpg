@@ -1,0 +1,25 @@
+1. resist-poison-and-disease | item | 1 | 0.5
+2. unclassified | item | 1 | 0.3
+3. teleport-a-short-distance | magical | 1 | 0.55
+4. call-an-outsider | item | 1 | 0.75
+5. increase-proficiency-or-defence | alchemical | 1 | 0.45
+6. enhance-a-weapon-s-bite | item | 1 | 0.6
+7. extend-your-senses | item | 1 | 0.65
+8. harm-many-at-once | item | 1 | 0.6
+9. identify-magic | item | 1 | 0.4
+10. notice-what-is-hidden | item | 1 | 0.5
+11. lie-convincingly | social | 1 | 0.65
+12. frighten | divine | 1 | 0.5
+13. gain-a-buffer-of-vitality + curse-a-creature | magical | 1 | 0.5
+14. learn-a-place-or-object-s-past | tool | 1 | 0.5
+15. take-on-an-elemental-substance | alchemical | 1 | 0.55
+16. secure-shelter-and-supply | item | 1 | 0.5
+17. build-a-barrier | magical | 1 | 0.5
+18. negate-an-effect-outright + strike-a-foe-in-reach | divine | 1 | 0.5
+19. harm-many-at-once | alchemical | 1 | 0.65
+20. grants-another-option | alchemical | 1 | 0.5
+21. resist-a-kind-of-harm + guard-your-mind | magical | 1 | 0.5
+22. enhance-a-weapon-s-bite | item | 1 | 0.6
+23. mark-a-foe-as-vulnerable | item | 1 | 0.5
+24. make-light + survive-a-hostile-environment | item | 1 | 0.6
+25. close-on-a-foe | item | 1 | 0.55

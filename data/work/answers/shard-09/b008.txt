@@ -1,0 +1,25 @@
+1. command-obedience | magical | 1 | 0.68
+2. unclassified | item | 1 | 0.3
+3. resist-a-kind-of-harm | item | 1 | 0.45
+4. banish-a-creature + negate-an-effect-outright | magical | 1 | 0.55
+5. protect-a-group + gain-a-buffer-of-vitality | magical | 2 | 0.5
+6. increase-proficiency-or-defence | magical | 1 | 0.4
+7. sway-an-audience + grants-another-option | magical | 1 | 0.46
+8. negate-an-effect-outright | technological | 1 | 0.7
+9. set-a-trap | technological | 1 | 0.78
+10. charm-into-friendship | magical | 1 | 0.65
+11. improve-what-a-companion-can-do | magical | 1 | 0.6
+12. charm-into-friendship + speak-with-the-otherwise-mute | magical | 1 | 0.44
+13. confuse-or-scramble-a-mind | magical | 1 | 0.52
+14. teleport-a-short-distance | magical | 1 | 0.66
+15. enhance-a-weapon-s-bite + inflict-a-lingering-wound | magical | 1 | 0.67
+16. dull-a-foe-s-capability | magical | 1 | 0.56
+17. poison-a-foe + confuse-or-scramble-a-mind | alchemical | 1 | 0.62
+18. break-free-of-restraint + strike-a-foe-in-reach | divine | 2 | 0.49
+19. harm-many-at-once | magical | 1 | 0.72
+20. kill-outright + question-the-dead | magical | 1 | 0.41
+21. learn-a-place-or-object-s-past | magical | 1 | 0.69
+22. open-a-path-through-matter | magical | 1 | 0.71
+23. recall-what-you-have-learned | magical | 1 | 0.47
+24. mark-a-foe-as-vulnerable | magical | 1 | 0.35
+25. slow-a-foe + poison-a-foe | alchemical | 1 | 0.59

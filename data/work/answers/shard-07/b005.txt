@@ -1,0 +1,25 @@
+1. be-harder-to-hit | innate | 1 | 0.6
+2. grants-another-option | trained-skill | 1 | 0.45
+3. increase-proficiency-or-defence | trained-skill | 1 | 0.85
+4. grants-another-option | trained-skill | 1 | 0.55
+5. numeric-variant | magical | 1 | 0.55
+6. numeric-variant | trained-skill | 1 | 0.6
+7. heal-a-body | innate | 1 | 0.8
+8. kill-outright + heal-a-body | magical | 1 | 0.5
+9. condition-state | innate | 1 | 0.8
+10. condition-state | innate | 1 | 0.8
+11. condition-state | innate | 2 | 0.7
+12. fight-as-a-unit | magical | 2 | 0.55
+13. ambush-an-unready-foe | innate | 1 | 0.85
+14. curse-a-creature | magical | 1 | 0.7
+15. curse-a-creature | magical | 1 | 0.6
+16. specialise-in-a-tradition | divine | 1 | 0.45
+17. improve-your-luck | divine | 1 | 0.55
+18. lie-convincingly | divine | 1 | 0.45
+19. share-power-with-a-bonded-creature | magical | 1 | 0.55
+20. gain-a-buffer-of-vitality | technological | 1 | 0.6
+21. absorb-or-blunt-damage | item | 1 | 0.75
+22. go-without-necessities | item | 1 | 0.4
+23. go-without-necessities | item | 1 | 0.35
+24. enhance-a-weapon-s-bite | alchemical | 1 | 0.7
+25. transmute-raw-material | item | 1 | 0.65

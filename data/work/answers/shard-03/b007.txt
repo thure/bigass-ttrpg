@@ -1,0 +1,25 @@
+1. sway-an-audience | magical | 2 | 0.5
+2. unclassified | item | 1 | 0.28
+3. heal-a-body + return-the-dead-to-life | divine | 1 | 0.55
+4. gain-a-buffer-of-vitality | item | 1 | 0.42
+5. enhance-a-weapon-s-bite | item | 1 | 0.55
+6. resist-a-kind-of-harm | magical | 1 | 0.38
+7. persuade-by-reason-or-charm | magical | 1 | 0.45
+8. absorb-or-blunt-damage | technological | 1 | 0.55
+9. poison-a-foe | alchemical | 1 | 0.75
+10. strike-a-distant-foe | item | 1 | 0.45
+11. unclassified | item | 1 | 0.28
+12. undo-what-has-happened | magical | 1 | 0.62
+13. alter-belief-or-memory | divine | 1 | 0.42
+14. draw-on-a-higher-power | magical | 1 | 0.35
+15. unclassified | item | 1 | 0.3
+16. frighten | divine | 1 | 0.4
+17. see-in-darkness | magical | 1 | 0.68
+18. blind-or-deafen | magical | 2 | 0.65
+19. survive-a-hostile-environment + move-through-water | magical | 1 | 0.5
+20. strike-a-distant-foe + harm-many-at-once | item | 1 | 0.55
+21. heal-a-body | alchemical | 1 | 0.55
+22. negate-an-effect-outright | magical | 1 | 0.6
+23. see-through-deception | divine | 1 | 0.45
+24. grants-another-option | item | 1 | 0.34
+25. harm-many-at-once | magical | 1 | 0.6

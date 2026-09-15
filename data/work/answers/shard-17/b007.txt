@@ -1,0 +1,25 @@
+1. fly | item | 1 | 0.85
+2. shake-off-an-affliction | technological | 1 | 0.55
+3. attack-more-often | item | 1 | 0.55
+4. inspire-allies | magical | 1 | 0.35
+5. heal-a-body + resist-a-kind-of-harm | alchemical | 1 | 0.65
+6. be-harder-to-hit | magical | 1 | 0.75
+7. unclassified | item | 1 | 0.2
+8. unclassified | item | 1 | 0.2
+9. enhance-a-weapon-s-bite | item | 1 | 0.4
+10. increase-proficiency-or-defence + improve-your-luck | item | 1 | 0.45
+11. avoid-a-danger-you-foresaw + persuade-by-reason-or-charm | magical | 1 | 0.4
+12. gain-a-buffer-of-vitality + shake-off-an-affliction | magical | 1 | 0.45
+13. create-food-and-water | item | 1 | 0.4
+14. resist-a-kind-of-harm + heal-a-body | item | 1 | 0.65
+15. sense-a-distant-place + see-through-deception | magical | 1 | 0.6
+16. ambush-an-unready-foe | item | 1 | 0.65
+17. blind-or-deafen + strike-a-distant-foe | item | 1 | 0.55
+18. create-food-and-water + reposition-another-creature | magical | 1 | 0.5
+19. absorb-or-blunt-damage + inflict-a-lingering-wound | magical | 1 | 0.5
+20. destroy-an-object | alchemical | 1 | 0.75
+21. damage-another-s-standing | magical | 1 | 0.45
+22. silence-magic | item | 1 | 0.55
+23. resist-a-kind-of-harm | magical | 1 | 0.7
+24. grants-another-option | item | 1 | 0.35
+25. frighten | magical | 1 | 0.7

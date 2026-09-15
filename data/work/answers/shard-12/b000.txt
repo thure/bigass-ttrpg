@@ -1,0 +1,25 @@
+1. absorb-or-blunt-damage | magical | 1 | 0.65
+2. drain-life-to-sustain-yourself + direct-a-companion-in-battle | innate | 1 | 0.5
+3. teleport-a-great-distance | magical | 2 | 0.42
+4. run-a-long-project | trained-skill | 3 | 0.55
+5. strike-a-foe-in-reach + direct-a-companion-in-battle | innate | 1 | 0.5
+6. transmute-raw-material | tool | 1 | 0.48
+7. negate-an-effect-outright | manual | 1 | 0.35
+8. increase-proficiency-or-defence | innate | 2 | 0.45
+9. heal-a-body | item | 1 | 0.4
+10. raise-a-structure | trained-skill | 2 | 0.6
+11. bind-a-creature-in-place + direct-a-companion-in-battle | innate | 1 | 0.52
+12. disguise-your-appearance | trained-skill | 1 | 0.55
+13. curse-a-creature | magical | 1 | 0.75
+14. trade-and-bargain | social | 3 | 0.6
+15. bind-a-creature-in-place + direct-a-companion-in-battle | innate | 1 | 0.58
+16. inflict-a-lingering-wound + bind-a-creature-in-place | manual | 1 | 0.53
+17. draw-on-an-inner-source | psychic | 1 | 0.44
+18. wage-mass-combat | social | 4 | 0.5
+19. read-another-intent | trained-skill | 1 | 0.7
+20. break-free-of-restraint | manual | 1 | 0.3
+21. ride-a-mount | trained-skill | 1 | 0.35
+22. track-a-creature | trained-skill | 2 | 0.8
+23. strike-a-foe-in-reach + mark-a-foe-as-vulnerable | trained-skill | 1 | 0.48
+24. keep-a-bonded-creature | innate | 1 | 0.75
+25. keep-a-bonded-creature | innate | 1 | 0.72

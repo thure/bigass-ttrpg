@@ -1,0 +1,25 @@
+1. evade-magical-detection | item | 1 | 0.85
+2. confuse-or-scramble-a-mind | alchemical | 1 | 0.35
+3. cure-poison-or-disease | alchemical | 1 | 0.72
+4. be-harder-to-hit | item | 1 | 0.78
+5. resist-a-kind-of-harm + curse-a-creature | item | 1 | 0.5
+6. inflict-a-lingering-wound | item | 1 | 0.55
+7. obscure-an-area | item | 1 | 0.6
+8. set-a-trap + kill-outright | magical | 1 | 0.38
+9. rally-the-faltering | item | 2 | 0.62
+10. be-harder-to-hit | item | 1 | 0.42
+11. harm-many-at-once + imprison-a-creature | item | 1 | 0.48
+12. increase-attributes-or-health | item | 1 | 0.8
+13. shrug-off-an-effect-you-failed-to-avoid | item | 1 | 0.55
+14. enhance-a-weapon-s-bite | alchemical | 1 | 0.52
+15. move-faster | technological | 1 | 0.42
+16. teleport-a-short-distance | item | 1 | 0.72
+17. gain-an-extra-action + expand-a-resource-pool | item | 1 | 0.4
+18. resist-a-kind-of-harm | alchemical | 1 | 0.68
+19. move-faster | item | 1 | 0.78
+20. strike-a-distant-foe + make-light | alchemical | 1 | 0.48
+21. keep-the-dying-alive | technological | 1 | 0.3
+22. shake-off-an-affliction | alchemical | 1 | 0.52
+23. absorb-or-blunt-damage | item | 1 | 0.75
+24. teleport-a-short-distance | item | 1 | 0.58
+25. make-light | item | 1 | 0.86

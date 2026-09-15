@@ -1,0 +1,25 @@
+1. call-a-creature-to-fight-for-you | item | 1 | 0.75
+2. conjure-a-temporary-tool | item | 1 | 0.72
+3. harm-many-at-once + dull-a-foe-s-capability | alchemical | 1 | 0.5
+4. heal-a-body + resist-a-kind-of-harm | item | 1 | 0.45
+5. resist-a-kind-of-harm + dull-a-foe-s-capability | item | 1 | 0.4
+6. create-food-and-water + travel-overland | item | 2 | 0.38
+7. poison-a-foe | alchemical | 1 | 0.6
+8. command-obedience | item | 1 | 0.55
+9. sense-through-another-creature | item | 1 | 0.53
+10. enhance-a-weapon-s-bite | item | 1 | 0.7
+11. gain-a-buffer-of-vitality | item | 1 | 0.58
+12. direct-a-companion-in-battle + inflict-a-lingering-wound | item | 1 | 0.37
+13. curse-a-creature + frighten | item | 1 | 0.54
+14. enhance-a-weapon-s-bite + heal-a-body | item | 1 | 0.52
+15. confuse-or-scramble-a-mind | item | 2 | 0.48
+16. guard-your-mind + imprison-a-creature | item | 1 | 0.56
+17. bind-yourself-to-a-power + resist-a-kind-of-harm | magical | 1 | 0.57
+18. absorb-or-blunt-damage + frighten | item | 1 | 0.59
+19. set-a-trap | tool | 1 | 0.65
+20. negate-an-effect-outright + increase-attributes-or-health | item | 1 | 0.42
+21. call-a-creature-to-fight-for-you | item | 2 | 0.68
+22. mark-a-foe-as-vulnerable | item | 1 | 0.61
+23. persuade-by-reason-or-charm + recall-what-you-have-learned | item | 1 | 0.49
+24. inflict-a-lingering-wound + coerce-through-threat | item | 1 | 0.63
+25. silence-magic + guard-your-mind | item | 1 | 0.51

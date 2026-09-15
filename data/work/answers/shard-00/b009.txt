@@ -1,0 +1,25 @@
+1. climb-a-vertical-surface | tool | 1 | 0.75
+2. resist-a-kind-of-harm | item | 1 | 0.55
+3. hide-a-message | item | 1 | 0.75
+4. inflict-a-lingering-wound | alchemical | 1 | 0.6
+5. breach-a-locked-boundary | alchemical | 1 | 0.75
+6. survive-a-hostile-environment + disguise-your-appearance | item | 1 | 0.5
+7. build-a-barrier + protect-a-group | item | 2 | 0.65
+8. resist-a-kind-of-harm | item | 1 | 0.8
+9. inspire-allies | item | 1 | 0.5
+10. absorb-or-blunt-damage | item | 1 | 0.4
+11. glimpse-the-future | item | 1 | 0.5
+12. change-your-nature + heal-a-body | alchemical | 1 | 0.55
+13. teleport-a-great-distance | item | 2 | 0.65
+14. fly | item | 1 | 0.4
+15. make-light + survive-a-hostile-environment | item | 1 | 0.45
+16. move-faster | item | 1 | 0.8
+17. change-your-own-shape | alchemical | 1 | 0.75
+18. bind-a-creature-in-place | alchemical | 1 | 0.45
+19. disguise-what-a-thing-is | item | 1 | 0.75
+20. pass-through-solid-matter | item | 1 | 0.4
+21. store-an-effect-for-later | item | 1 | 0.8
+22. secure-shelter-and-supply | social | 1 | 0.65
+23. craft-an-object | tool | 1 | 0.5
+24. numeric-variant | item | 1 | 0.7
+25. harm-many-at-once | item | 2 | 0.65

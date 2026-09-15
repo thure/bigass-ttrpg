@@ -1,0 +1,25 @@
+1. close-on-a-foe + strike-a-foe-in-reach | magical | 1 | 0.45
+2. persuade-by-reason-or-charm + gain-a-buffer-of-vitality | magical | 1 | 0.45
+3. resist-a-kind-of-harm + strike-a-foe-in-reach | magical | 1 | 0.55
+4. coerce-through-threat | divine | 1 | 0.5
+5. gain-a-buffer-of-vitality | magical | 1 | 0.5
+6. strike-a-distant-foe + mark-a-foe-as-vulnerable | alchemical | 1 | 0.5
+7. resist-a-kind-of-harm | item | 1 | 0.35
+8. sense-through-another-creature | item | 1 | 0.5
+9. set-a-trap + reshape-the-ground | technological | 1 | 0.55
+10. sense-or-shape-fate | item | 1 | 0.45
+11. gain-an-extra-action + kill-outright | magical | 1 | 0.5
+12. teleport-a-great-distance | magical | 2 | 0.6
+13. bind-a-creature-in-place + inflict-a-lingering-wound | magical | 1 | 0.55
+14. confuse-or-scramble-a-mind | alchemical | 1 | 0.55
+15. move-faster | magical | 1 | 0.75
+16. enhance-a-weapon-s-bite + repair-an-object | magical | 1 | 0.5
+17. alter-gravity-or-orientation | magical | 1 | 0.4
+18. call-a-creature-to-fight-for-you | magical | 1 | 0.5
+19. pass-through-solid-matter | item | 1 | 0.35
+20. recover-on-your-own | magical | 1 | 0.65
+21. secure-shelter-and-supply | social | 1 | 0.55
+22. move-faster + shrug-off-an-effect-you-failed-to-avoid | magical | 1 | 0.5
+23. move-through-water | tool | 1 | 0.45
+24. unclassified | manual | 1 | 0.3
+25. climb-a-vertical-surface | tool | 1 | 0.65

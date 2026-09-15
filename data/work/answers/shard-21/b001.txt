@@ -1,0 +1,25 @@
+1. keep-a-bonded-creature | innate | 1 | 0.7
+2. specialise-in-a-tradition | magical | 1 | 0.65
+3. specialise-in-a-tradition | magical | 1 | 0.6
+4. move-a-group | social | 2 | 0.5
+5. raise-or-command-the-dead | technological | 2 | 0.6
+6. entry-into-an-archetype | social | 1 | 0.4
+7. build-your-reputation | social | 1 | 0.55
+8. walk-on-unstable-footing | trained-skill | 1 | 0.4
+9. entry-into-an-archetype | trained-skill | 1 | 0.45
+10. coerce-through-threat | social | 1 | 0.55
+11. know-where-you-are | trained-skill | 2 | 0.5
+12. absorb-or-blunt-damage | trained-skill | 1 | 0.55
+13. earn-trust-under-false-pretences | social | 1 | 0.6
+14. fly | innate | 1 | 0.65
+15. increase-proficiency-or-defence | item | 1 | 0.5
+16. claim-a-past-vocation + gain-access-to-closed-circles | social | 1 | 0.7
+17. claim-a-past-vocation | social | 1 | 0.65
+18. claim-a-past-vocation | social | 1 | 0.8
+19. claim-a-past-vocation | social | 1 | 0.6
+20. gain-access-to-closed-circles | social | 1 | 0.55
+21. carry-a-burden | innate | 1 | 0.6
+22. gain-access-to-closed-circles | social | 1 | 0.6
+23. sense-or-shape-fate | innate | 1 | 0.4
+24. claim-a-past-vocation | social | 1 | 0.65
+25. claim-a-past-vocation | social | 1 | 0.65

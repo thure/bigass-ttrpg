@@ -1,0 +1,25 @@
+1. increase-proficiency-or-defence | innate | 1 | 0.8
+2. expand-a-resource-pool | magical | 1 | 0.5
+3. increase-proficiency-or-defence | magical | 1 | 0.79
+4. exploit-a-known-weakness | trained-skill | 1 | 0.52
+5. increase-proficiency-or-defence | trained-skill | 1 | 0.78
+6. duplicate-a-thing-or-person | magical | 1 | 0.45
+7. specialise-in-a-tradition | magical | 1 | 0.4
+8. resist-a-kind-of-harm + resist-poison-and-disease | innate | 1 | 0.55
+9. strike-with-overwhelming-force | magical | 1 | 0.75
+10. grants-another-option | trained-skill | 1 | 0.48
+11. increase-proficiency-or-defence | innate | 1 | 0.82
+12. enhance-a-weapon-s-bite | innate | 1 | 0.57
+13. resist-poison-and-disease | innate | 1 | 0.85
+14. gain-an-extra-action | innate | 1 | 0.53
+15. punish-an-opening | divine | 1 | 0.58
+16. numeric-variant | innate | 1 | 0.5
+17. bind-yourself-to-a-power | divine | 1 | 0.65
+18. increase-proficiency-or-defence + share-power-with-a-bonded-creature | magical | 1 | 0.6
+19. grants-another-option | magical | 1 | 0.44
+20. heal-many-at-once | trained-skill | 2 | 0.56
+21. grants-another-option | magical | 1 | 0.42
+22. quiet-a-troubled-mind | innate | 1 | 0.83
+23. grants-another-option | trained-skill | 1 | 0.46
+24. gain-an-extra-action | trained-skill | 1 | 0.47
+25. become-hard-to-kill | magical | 1 | 0.35

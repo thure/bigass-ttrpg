@@ -1,0 +1,25 @@
+1. increase-proficiency-or-defence | trained-skill | 1 | 0.85
+2. grants-another-option | magical | 1 | 0.65
+3. increase-proficiency-or-defence | magical | 1 | 0.85
+4. increase-proficiency-or-defence | trained-skill | 1 | 0.85
+5. increase-proficiency-or-defence | trained-skill | 1 | 0.85
+6. gain-an-extra-action | magical | 1 | 0.55
+7. harm-many-at-once | trained-skill | 1 | 0.65
+8. become-invisible | magical | 1 | 0.8
+9. bind-yourself-to-a-power | magical | 1 | 0.75
+10. expand-a-resource-pool | magical | 1 | 0.5
+11. increase-proficiency-or-defence | trained-skill | 1 | 0.85
+12. increase-proficiency-or-defence | alchemical | 1 | 0.7
+13. specialise-in-a-tradition | psychic | 1 | 0.6
+14. increase-proficiency-or-defence + exploit-a-known-weakness | trained-skill | 1 | 0.55
+15. become-hard-to-kill | innate | 1 | 0.8
+16. turn-an-attack-back | trained-skill | 1 | 0.65
+17. expand-a-resource-pool | magical | 1 | 0.4
+18. increase-proficiency-or-defence | magical | 1 | 0.8
+19. grants-another-option | magical | 1 | 0.45
+20. heal-many-at-once | social | 2 | 0.6
+21. specialise-in-a-tradition | magical | 1 | 0.55
+22. improve-your-luck | trained-skill | 1 | 0.65
+23. numeric-variant | trained-skill | 1 | 0.55
+24. specialise-in-a-tradition | trained-skill | 1 | 0.55
+25. increase-proficiency-or-defence + shrug-off-an-effect-you-failed-to-avoid | innate | 1 | 0.55

@@ -1,0 +1,25 @@
+1. store-an-effect-for-later | item | 1 | 0.55
+2. secure-shelter-and-supply | manual | 1 | 0.3
+3. shrug-off-an-effect-you-failed-to-avoid | divine | 1 | 0.75
+4. hide-from-notice | technological | 1 | 0.75
+5. transmute-raw-material | alchemical | 1 | 0.45
+6. craft-an-object | manual | 1 | 0.3
+7. build-your-reputation | item | 1 | 0.65
+8. return-the-dead-to-life | technological | 1 | 0.8
+9. poison-a-foe | alchemical | 1 | 0.75
+10. exploit-a-known-weakness | item | 1 | 0.65
+11. track-a-creature | magical | 2 | 0.45
+12. survive-a-hostile-environment | technological | 1 | 0.75
+13. resist-a-kind-of-harm | magical | 1 | 0.5
+14. inflict-a-lingering-wound | magical | 1 | 0.55
+15. reshape-the-ground + harm-many-at-once | alchemical | 1 | 0.5
+16. open-a-portal + travel-between-planes | magical | 2 | 0.65
+17. see-in-darkness | alchemical | 1 | 0.85
+18. set-a-trap | item | 1 | 0.75
+19. make-an-extradimensional-space | magical | 1 | 0.7
+20. strike-a-distant-foe + harm-many-at-once | alchemical | 1 | 0.5
+21. grants-another-option | tool | 1 | 0.3
+22. reposition-another-creature | alchemical | 1 | 0.55
+23. divine-an-answer | technological | 1 | 0.65
+24. harm-many-at-once | magical | 1 | 0.4
+25. resist-a-kind-of-harm | item | 1 | 0.8

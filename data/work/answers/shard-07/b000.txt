@@ -1,0 +1,25 @@
+1. disengage-from-danger + strike-a-foe-in-reach | innate | 1 | 0.5
+2. move-a-group | innate | 1 | 0.4
+3. ambush-an-unready-foe + burrow-through-earth | innate | 1 | 0.65
+4. absorb-or-blunt-damage | technological | 1 | 0.55
+5. secure-shelter-and-supply | manual | 2 | 0.65
+6. strike-a-foe-in-reach | innate | 1 | 0.65
+7. identify-a-creature | trained-skill | 1 | 0.5
+8. harm-many-at-once | innate | 2 | 0.45
+9. mark-a-foe-as-vulnerable + strike-a-distant-foe | magical | 1 | 0.55
+10. run-a-long-project | social | 4 | 0.4
+11. inflict-a-lingering-wound + slow-a-foe | innate | 1 | 0.7
+12. mark-a-foe-as-vulnerable | innate | 1 | 0.45
+13. resist-a-kind-of-harm | divine | 1 | 0.5
+14. rest-and-recover | manual | 1 | 0.85
+15. strike-a-foe-in-reach | social | 1 | 0.35
+16. learn-a-place-or-object-s-past + disable-a-device | magical | 1 | 0.5
+17. attack-more-often | innate | 1 | 0.75
+18. run-a-long-project | social | 4 | 0.4
+19. gain-a-buffer-of-vitality | innate | 1 | 0.55
+20. strike-a-distant-foe + dull-a-foe-s-capability | innate | 1 | 0.6
+21. move-through-water | trained-skill | 1 | 0.9
+22. bind-a-creature-in-place + reposition-another-creature | innate | 1 | 0.55
+23. sense-a-distant-place | magical | 1 | 0.5
+24. keep-a-bonded-creature | innate | 1 | 0.8
+25. keep-a-bonded-creature + ride-a-mount | innate | 1 | 0.7

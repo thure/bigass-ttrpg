@@ -1,0 +1,25 @@
+1. be-harder-to-hit | innate | 1 | 0.55
+2. gain-an-extra-action | magical | 1 | 0.5
+3. recall-what-you-have-learned + act-sooner-than-others | trained-skill | 1 | 0.55
+4. increase-proficiency-or-defence | trained-skill | 1 | 0.85
+5. increase-proficiency-or-defence | trained-skill | 1 | 0.85
+6. numeric-variant | trained-skill | 1 | 0.6
+7. numeric-variant | trained-skill | 1 | 0.6
+8. grants-another-option | manual | 1 | 0.85
+9. condition-state | divine | 1 | 0.8
+10. condition-state | innate | 1 | 0.85
+11. condition-state | magical | 1 | 0.75
+12. reposition-another-creature | innate | 1 | 0.5
+13. recover-on-your-own | innate | 1 | 0.75
+14. change-another-s-shape | magical | 1 | 0.65
+15. confuse-or-scramble-a-mind | magical | 1 | 0.5
+16. turn-an-attack-back | magical | 1 | 0.55
+17. specialise-in-a-tradition + heal-a-body | divine | 1 | 0.55
+18. specialise-in-a-tradition + turn-or-rebuke-a-creature-type | divine | 1 | 0.5
+19. keep-a-bonded-creature | magical | 1 | 0.7
+20. store-an-effect-for-later | item | 1 | 0.6
+21. strike-a-distant-foe | alchemical | 1 | 0.65
+22. grants-another-option | item | 1 | 0.4
+23. grants-another-option | item | 1 | 0.4
+24. move-faster | item | 1 | 0.65
+25. strike-a-distant-foe + exploit-a-known-weakness | alchemical | 1 | 0.6

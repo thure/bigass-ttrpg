@@ -1,0 +1,25 @@
+1. increase-proficiency-or-defence | trained-skill | 1 | 0.85
+2. grants-another-option | magical | 1 | 0.55
+3. specialise-in-a-tradition | trained-skill | 1 | 0.55
+4. increase-proficiency-or-defence | magical | 1 | 0.85
+5. increase-proficiency-or-defence | trained-skill | 1 | 0.85
+6. enhance-a-weapon-s-bite | innate | 1 | 0.65
+7. specialise-in-a-tradition | trained-skill | 1 | 0.55
+8. enhance-a-weapon-s-bite | innate | 1 | 0.7
+9. reposition-another-creature + stop-a-foe-moving | trained-skill | 1 | 0.4
+10. grants-another-option | divine | 1 | 0.6
+11. increase-proficiency-or-defence | trained-skill | 1 | 0.85
+12. increase-proficiency-or-defence | trained-skill | 1 | 0.8
+13. grants-another-option | magical | 1 | 0.55
+14. resist-a-kind-of-harm | innate | 1 | 0.7
+15. increase-proficiency-or-defence | trained-skill | 1 | 0.85
+16. increase-proficiency-or-defence | trained-skill | 1 | 0.8
+17. specialise-in-a-tradition | trained-skill | 1 | 0.6
+18. grants-another-option | magical | 1 | 0.55
+19. absorb-or-blunt-damage | item | 1 | 0.8
+20. enhance-a-weapon-s-bite | technological | 1 | 0.65
+21. increase-proficiency-or-defence | magical | 1 | 0.42
+22. specialise-in-a-tradition | magical | 1 | 0.5
+23. stop-a-foe-moving + slow-a-foe | innate | 1 | 0.6
+24. move-unseen | trained-skill | 1 | 0.7
+25. increase-proficiency-or-defence | trained-skill | 1 | 0.8

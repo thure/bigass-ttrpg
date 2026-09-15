@@ -1,0 +1,25 @@
+1. erase-your-trail | innate | 1 | 0.7
+2. draw-on-an-inner-source | psychic | 1 | 0.45
+3. increase-proficiency-or-defence | manual | 1 | 0.75
+4. increase-proficiency-or-defence | manual | 1 | 0.75
+5. increase-proficiency-or-defence | manual | 1 | 0.75
+6. enhance-a-weapon-s-bite | trained-skill | 1 | 0.55
+7. enhance-a-weapon-s-bite | trained-skill | 1 | 0.55
+8. specialise-in-a-tradition | magical | 1 | 0.5
+9. condition-state | manual | 3 | 0.6
+10. condition-state | manual | 1 | 0.65
+11. condition-state | manual | 1 | 0.65
+12. harm-many-at-once | innate | 2 | 0.3
+13. punish-an-opening | innate | 1 | 0.75
+14. curse-a-creature + inflict-a-lingering-wound | magical | 1 | 0.6
+15. inflict-disease | magical | 1 | 0.65
+16. curse-a-creature | magical | 1 | 0.6
+17. specialise-in-a-tradition | divine | 1 | 0.5
+18. specialise-in-a-tradition | divine | 1 | 0.5
+19. keep-a-bonded-creature | magical | 1 | 0.55
+20. store-an-effect-for-later | item | 1 | 0.55
+21. strike-a-distant-foe | alchemical | 1 | 0.65
+22. grants-another-option | item | 1 | 0.3
+23. grants-another-option | item | 1 | 0.3
+24. improve-what-a-companion-can-do | item | 1 | 0.55
+25. enhance-a-weapon-s-bite | alchemical | 1 | 0.6

@@ -1,0 +1,25 @@
+1. alter-belief-or-memory | magical | 1 | 0.62
+2. block-magical-passage | magical | 1 | 0.68
+3. tend-your-companion | item | 1 | 0.4
+4. bind-a-creature-in-place | magical | 1 | 0.58
+5. grants-another-option | item | 1 | 0.32
+6. redirect-harm | item | 1 | 0.75
+7. dull-a-foe-s-capability | alchemical | 1 | 0.52
+8. turn-or-rebuke-a-creature-type | alchemical | 1 | 0.48
+9. unclassified | item | 1 | 0.28
+10. absorb-or-blunt-damage | item | 1 | 0.42
+11. absorb-or-blunt-damage + persuade-by-reason-or-charm | divine | 1 | 0.44
+12. poison-a-foe | alchemical | 1 | 0.75
+13. change-your-own-shape | magical | 1 | 0.55
+14. store-an-effect-for-later | magical | 1 | 0.38
+15. conjure-a-temporary-tool | item | 1 | 0.65
+16. enhance-a-weapon-s-bite | divine | 1 | 0.42
+17. inflict-a-lingering-wound | item | 1 | 0.6
+18. return-the-dead-to-life | alchemical | 1 | 0.38
+19. set-a-trap | alchemical | 1 | 0.68
+20. harm-many-at-once | magical | 2 | 0.46
+21. move-faster | item | 1 | 0.7
+22. guard-your-mind | alchemical | 1 | 0.58
+23. set-a-trap | alchemical | 1 | 0.45
+24. poison-a-foe | alchemical | 1 | 0.73
+25. conceal-a-place | magical | 2 | 0.66

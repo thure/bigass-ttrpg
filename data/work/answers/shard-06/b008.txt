@@ -1,0 +1,25 @@
+1. resist-a-kind-of-harm | item | 1 | 0.45
+2. unclassified | item | 1 | 0.3
+3. unclassified | item | 1 | 0.25
+4. recall-what-you-have-learned | alchemical | 1 | 0.5
+5. be-harder-to-hit | item | 1 | 0.7
+6. turn-an-attack-back | magical | 1 | 0.62
+7. see-through-deception | alchemical | 1 | 0.5
+8. harm-many-at-once | alchemical | 2 | 0.6
+9. unclassified | item | 1 | 0.3
+10. increase-proficiency-or-defence | item | 1 | 0.45
+11. recruit-help | social | 1 | 0.55
+12. guard-your-mind + rally-the-faltering | magical | 2 | 0.55
+13. bind-a-creature-in-place | item | 1 | 0.7
+14. call-an-outsider | magical | 1 | 0.68
+15. enhance-a-weapon-s-bite | magical | 1 | 0.72
+16. secure-shelter-and-supply | item | 1 | 0.5
+17. resist-a-kind-of-harm + turn-an-attack-back | magical | 2 | 0.55
+18. keep-a-bonded-creature | innate | 1 | 0.4
+19. harm-many-at-once | alchemical | 2 | 0.65
+20. impose-misfortune | magical | 1 | 0.45
+21. blind-or-deafen | item | 2 | 0.55
+22. frighten | alchemical | 1 | 0.55
+23. disguise-your-appearance | item | 1 | 0.6
+24. slow-a-foe | alchemical | 1 | 0.55
+25. strike-a-distant-foe | magical | 1 | 0.4

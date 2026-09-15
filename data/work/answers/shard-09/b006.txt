@@ -1,0 +1,25 @@
+1. increase-attributes-or-health | item | 1 | 0.8
+2. disguise-your-appearance + lie-convincingly | magical | 1 | 0.45
+3. resist-poison-and-disease + cure-poison-or-disease | alchemical | 1 | 0.62
+4. curse-a-creature | magical | 1 | 0.55
+5. resist-a-kind-of-harm | item | 1 | 0.63
+6. craft-an-object | tool | 1 | 0.66
+7. strike-a-foe-in-reach + reposition-another-creature | item | 1 | 0.52
+8. harm-many-at-once | alchemical | 1 | 0.35
+9. enhance-a-weapon-s-bite | item | 1 | 0.5
+10. be-harder-to-hit | item | 1 | 0.4
+11. heal-a-body | item | 1 | 0.6
+12. increase-attributes-or-health + gain-a-creature-s-trait | item | 1 | 0.48
+13. unclassified | item | 1 | 0.3
+14. poison-a-foe + break-free-of-restraint | alchemical | 1 | 0.44
+15. strike-a-foe-in-reach + mark-a-foe-as-vulnerable | item | 1 | 0.53
+16. resist-poison-and-disease | item | 1 | 0.68
+17. change-your-own-shape | alchemical | 1 | 0.65
+18. set-a-trap | alchemical | 1 | 0.75
+19. climb-a-vertical-surface | item | 1 | 0.7
+20. make-darkness | alchemical | 1 | 0.76
+21. reposition-another-creature + increase-attributes-or-health | item | 1 | 0.51
+22. break-free-of-restraint | item | 1 | 0.74
+23. call-a-creature-to-fight-for-you | item | 2 | 0.78
+24. imprison-a-creature | item | 1 | 0.47
+25. gather-information-from-people | social | 1 | 0.58

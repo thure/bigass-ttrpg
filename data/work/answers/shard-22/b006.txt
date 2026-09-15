@@ -1,0 +1,25 @@
+1. grants-another-option + change-your-own-shape | divine | 2 | 0.4
+2. burrow-through-earth + resist-a-kind-of-harm | item | 1 | 0.55
+3. set-a-trap | alchemical | 1 | 0.52
+4. shrug-off-an-effect-you-failed-to-avoid + shake-off-an-affliction | item | 1 | 0.5
+5. harm-many-at-once + craft-an-object | magical | 5 | 0.35
+6. know-where-you-are | tool | 1 | 0.8
+7. enhance-a-weapon-s-bite | item | 1 | 0.75
+8. make-an-extradimensional-space + animate-the-inanimate | magical | 1 | 0.45
+9. tend-your-companion | item | 1 | 0.58
+10. tend-your-companion | item | 1 | 0.48
+11. animate-the-inanimate | alchemical | 1 | 0.78
+12. harm-many-at-once + speak-with-the-otherwise-mute | item | 2 | 0.53
+13. strike-a-distant-foe | alchemical | 1 | 0.65
+14. poison-a-foe | item | 1 | 0.72
+15. grow-a-natural-weapon + inflict-a-lingering-wound | item | 1 | 0.57
+16. lie-convincingly | item | 1 | 0.32
+17. harm-many-at-once + inflict-a-lingering-wound | item | 2 | 0.68
+18. divine-an-answer + drain-vitality-lastingly | magical | 1 | 0.42
+19. resist-poison-and-disease | technological | 1 | 0.7
+20. strike-a-distant-foe | divine | 1 | 0.73
+21. fly | item | 1 | 0.77
+22. poison-a-foe | alchemical | 1 | 0.66
+23. secure-shelter-and-supply | item | 1 | 0.3
+24. inspire-allies | item | 2 | 0.46
+25. unclassified | item | 1 | 0.28

@@ -1,0 +1,25 @@
+1. avoid-a-danger-you-foresaw | innate | 1 | 0.6
+2. absorb-or-blunt-damage | manual | 1 | 0.4
+3. increase-proficiency-or-defence + shrug-off-an-effect-you-failed-to-avoid | innate | 1 | 0.55
+4. grants-another-option | divine | 1 | 0.3
+5. frighten + charm-into-friendship | magical | 2 | 0.55
+6. grants-another-option | innate | 1 | 0.8
+7. improve-what-a-companion-can-do | innate | 1 | 0.55
+8. move-faster | magical | 1 | 0.5
+9. grants-another-option | innate | 1 | 0.75
+10. increase-proficiency-or-defence | trained-skill | 1 | 0.6
+11. increase-proficiency-or-defence | trained-skill | 1 | 0.78
+12. grants-another-option | technological | 1 | 0.45
+13. move-faster | innate | 1 | 0.75
+14. grants-another-option | manual | 1 | 0.7
+15. expand-a-resource-pool | magical | 1 | 0.5
+16. move-faster | innate | 1 | 0.72
+17. increase-proficiency-or-defence + absorb-or-blunt-damage | magical | 1 | 0.5
+18. numeric-variant | manual | 1 | 0.6
+19. increase-proficiency-or-defence + grants-another-option | technological | 1 | 0.5
+20. strike-a-foe-in-reach | manual | 1 | 0.35
+21. grants-another-option | manual | 1 | 0.65
+22. keep-a-bonded-creature | technological | 1 | 0.4
+23. grants-another-option | trained-skill | 1 | 0.78
+24. increase-proficiency-or-defence | magical | 1 | 0.78
+25. increase-proficiency-or-defence | divine | 1 | 0.8

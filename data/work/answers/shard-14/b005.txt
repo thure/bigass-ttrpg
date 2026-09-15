@@ -1,0 +1,25 @@
+1. increase-proficiency-or-defence | trained-skill | 1 | 0.75
+2. increase-proficiency-or-defence | trained-skill | 1 | 0.75
+3. increase-proficiency-or-defence | trained-skill | 1 | 0.75
+4. increase-proficiency-or-defence | trained-skill | 1 | 0.75
+5. increase-proficiency-or-defence | trained-skill | 1 | 0.6
+6. increase-proficiency-or-defence | trained-skill | 1 | 0.6
+7. change-your-own-shape | magical | 1 | 0.7
+8. condition-state | innate | 1 | 0.8
+9. condition-state | social | 3 | 0.55
+10. condition-state | magical | 1 | 0.85
+11. condition-state | innate | 1 | 0.85
+12. frighten | innate | 1 | 0.7
+13. perceive-without-sight | innate | 1 | 0.85
+14. curse-a-creature | magical | 1 | 0.45
+15. impose-misfortune + sway-an-audience | divine | 1 | 0.5
+16. specialise-in-a-tradition | divine | 1 | 0.5
+17. specialise-in-a-tradition | divine | 1 | 0.5
+18. specialise-in-a-tradition | divine | 1 | 0.5
+19. keep-a-bonded-creature | magical | 1 | 0.55
+20. compound-a-substance | alchemical | 1 | 0.4
+21. absorb-or-blunt-damage | item | 1 | 0.5
+22. grants-another-option | item | 1 | 0.3
+23. improve-your-luck | item | 1 | 0.5
+24. compound-a-substance | tool | 1 | 0.55
+25. resist-a-kind-of-harm | item | 1 | 0.5

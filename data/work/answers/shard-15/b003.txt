@@ -1,0 +1,25 @@
+1. grants-another-option | manual | 1 | 0.6
+2. bind-yourself-to-a-power | divine | 1 | 0.6
+3. increase-proficiency-or-defence | divine | 1 | 0.8
+4. increase-proficiency-or-defence + improve-your-luck | divine | 1 | 0.55
+5. claim-a-lineage | innate | 1 | 0.6
+6. specialise-in-a-tradition | magical | 1 | 0.55
+7. command-obedience | magical | 1 | 0.55
+8. sense-through-another-creature | magical | 1 | 0.75
+9. grants-another-option | innate | 1 | 0.65
+10. improve-what-a-companion-can-do | magical | 1 | 0.55
+11. increase-proficiency-or-defence | magical | 1 | 0.8
+12. attack-more-often | manual | 1 | 0.85
+13. act-sooner-than-others | innate | 1 | 0.7
+14. increase-proficiency-or-defence | manual | 1 | 0.75
+15. expand-a-resource-pool | magical | 1 | 0.6
+16. specialise-in-a-tradition | magical | 1 | 0.5
+17. increase-proficiency-or-defence + shrug-off-an-effect-you-failed-to-avoid | manual | 1 | 0.55
+18. numeric-variant | manual | 1 | 0.7
+19. increase-proficiency-or-defence | innate | 1 | 0.8
+20. grants-another-option | magical | 1 | 0.6
+21. increase-proficiency-or-defence | innate | 1 | 0.8
+22. mark-a-foe-as-vulnerable | magical | 1 | 0.5
+23. increase-proficiency-or-defence + improve-your-luck | manual | 1 | 0.55
+24. cross-resisting-ground | innate | 1 | 0.75
+25. increase-proficiency-or-defence | magical | 1 | 0.8

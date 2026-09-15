@@ -1,0 +1,25 @@
+1. negate-an-effect-outright | divine | 1 | 0.6
+2. turn-an-attack-back | innate | 1 | 0.7
+3. attack-more-often | innate | 1 | 0.7
+4. change-your-own-shape | magical | 1 | 0.75
+5. strike-a-foe-in-reach | trained-skill | 1 | 0.7
+6. strike-a-foe-in-reach + close-on-a-foe | innate | 1 | 0.55
+7. direct-a-companion-in-battle | social | 1 | 0.7
+8. negate-an-effect-outright | magical | 1 | 0.7
+9. curse-a-creature + impose-misfortune | magical | 1 | 0.6
+10. attack-more-often | trained-skill | 1 | 0.8
+11. strike-from-hiding-and-vanish | technological | 1 | 0.55
+12. hide-from-notice | trained-skill | 1 | 0.85
+13. close-on-a-foe | manual | 1 | 0.6
+14. be-harder-to-hit | manual | 1 | 0.6
+15. heal-a-body | innate | 1 | 0.55
+16. secure-shelter-and-supply | trained-skill | 2 | 0.7
+17. wage-mass-combat + rally-the-faltering | social | 3 | 0.55
+18. reposition-another-creature | trained-skill | 1 | 0.8
+19. move-faster | innate | 1 | 0.6
+20. strike-a-foe-in-reach + bind-a-creature-in-place | innate | 1 | 0.65
+21. protect-a-group | item | 2 | 0.55
+22. strike-a-foe-in-reach | innate | 1 | 0.7
+23. enhance-a-weapon-s-bite | innate | 1 | 0.55
+24. keep-a-bonded-creature | innate | 1 | 0.75
+25. keep-a-bonded-creature | innate | 1 | 0.75

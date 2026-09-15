@@ -1,0 +1,25 @@
+1. move-unseen | trained-skill | 1 | 0.75
+2. break-free-of-restraint + strike-a-foe-in-reach | innate | 1 | 0.6
+3. disengage-from-danger | tool | 1 | 0.65
+4. direct-a-companion-in-battle | manual | 1 | 0.7
+5. hide-from-notice | social | 1 | 0.75
+6. move-a-group | trained-skill | 4 | 0.6
+7. strike-a-foe-in-reach | tool | 2 | 0.55
+8. trade-and-bargain | social | 4 | 0.65
+9. recall-what-you-have-learned | trained-skill | 1 | 0.6
+10. move-faster | innate | 1 | 0.85
+11. gain-a-buffer-of-vitality + shake-off-an-affliction | innate | 1 | 0.55
+12. frighten | social | 1 | 0.5
+13. break-free-of-restraint | divine | 1 | 0.75
+14. duplicate-a-thing-or-person | magical | 1 | 0.75
+15. gather-information-from-people | social | 1 | 0.7
+16. hide-from-notice | social | 1 | 0.45
+17. strike-a-foe-in-reach | tool | 1 | 0.75
+18. turn-an-attack-back | magical | 1 | 0.55
+19. strike-a-foe-in-reach | innate | 1 | 0.6
+20. secure-shelter-and-supply | trained-skill | 1 | 0.8
+21. inflict-a-lingering-wound | innate | 1 | 0.85
+22. blind-or-deafen | innate | 1 | 0.5
+23. keep-a-bonded-creature | innate | 1 | 0.7
+24. keep-a-bonded-creature | innate | 1 | 0.7
+25. keep-a-bonded-creature | innate | 1 | 0.7

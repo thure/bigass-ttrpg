@@ -1,0 +1,25 @@
+1. attack-more-often | manual | 1 | 0.85
+2. increase-proficiency-or-defence | magical | 1 | 0.85
+3. increase-proficiency-or-defence | trained-skill | 1 | 0.85
+4. increase-proficiency-or-defence | trained-skill | 1 | 0.85
+5. numeric-variant | manual | 1 | 0.7
+6. numeric-variant | manual | 1 | 0.7
+7. increase-proficiency-or-defence | trained-skill | 1 | 0.7
+8. grants-another-option | manual | 1 | 0.55
+9. condition-state | manual | 3 | 0.6
+10. condition-state | magical | 1 | 0.8
+11. condition-state | manual | 1 | 0.8
+12. grants-another-option | magical | 1 | 0.3
+13. perceive-without-sight | innate | 1 | 0.85
+14. curse-a-creature | magical | 1 | 0.7
+15. curse-a-creature | magical | 1 | 0.7
+16. specialise-in-a-tradition | divine | 1 | 0.4
+17. divine-an-answer | divine | 1 | 0.45
+18. go-without-necessities | divine | 1 | 0.35
+19. keep-a-bonded-creature | magical | 1 | 0.7
+20. guard-your-mind | item | 1 | 0.6
+21. craft-an-object | item | 1 | 0.35
+22. survive-a-hostile-environment | item | 1 | 0.4
+23. survive-a-hostile-environment | item | 1 | 0.4
+24. compound-a-substance | alchemical | 1 | 0.45
+25. build-a-barrier + harm-many-at-once | item | 3 | 0.65

@@ -1,0 +1,25 @@
+1. grants-another-option | item | 1 | 0.35
+2. wage-mass-combat | manual | 3 | 0.7
+3. run-a-long-project | trained-skill | 3 | 0.6
+4. change-your-own-shape | innate | 1 | 0.8
+5. strike-a-foe-in-reach | manual | 1 | 0.75
+6. heal-many-at-once | divine | 3 | 0.65
+7. disable-a-device | trained-skill | 1 | 0.9
+8. earn-income | trained-skill | 1 | 0.9
+9. harm-many-at-once | technological | 1 | 0.55
+10. strike-a-foe-in-reach + fly | innate | 1 | 0.55
+11. interpose-yourself-for-another | divine | 1 | 0.7
+12. recruit-help | social | 4 | 0.55
+13. grants-another-option | item | 1 | 0.4
+14. bind-a-creature-in-place | manual | 1 | 0.8
+15. shrug-off-an-effect-you-failed-to-avoid | divine | 3 | 0.6
+16. frighten | innate | 3 | 0.6
+17. strike-a-foe-in-reach + punish-an-opening | manual | 1 | 0.85
+18. trade-and-bargain | social | 4 | 0.5
+19. disguise-your-appearance | trained-skill | 1 | 0.55
+20. strike-a-foe-in-reach | magical | 1 | 0.6
+21. grants-another-option | item | 1 | 0.3
+22. frighten | trained-skill | 1 | 0.75
+23. strike-a-distant-foe + inflict-a-lingering-wound | manual | 1 | 0.65
+24. keep-a-bonded-creature | innate | 1 | 0.6
+25. keep-a-bonded-creature | innate | 1 | 0.6

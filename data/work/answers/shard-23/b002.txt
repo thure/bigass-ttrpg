@@ -1,0 +1,25 @@
+1. claim-a-lineage | social | 1 | 0.45
+2. claim-a-past-vocation | social | 1 | 0.45
+3. claim-a-past-vocation + gain-access-to-closed-circles | social | 1 | 0.5
+4. carry-a-burden | innate | 1 | 0.45
+5. gain-access-to-closed-circles | social | 1 | 0.5
+6. claim-a-past-vocation | trained-skill | 1 | 0.5
+7. claim-a-past-vocation | trained-skill | 1 | 0.55
+8. claim-a-past-vocation | social | 1 | 0.55
+9. claim-a-past-vocation | trained-skill | 1 | 0.5
+10. claim-a-past-vocation | trained-skill | 1 | 0.55
+11. strike-a-distant-foe | divine | 1 | 0.4
+12. claim-a-past-vocation | trained-skill | 1 | 0.55
+13. specialise-in-a-tradition | magical | 1 | 0.55
+14. grants-another-option | alchemical | 1 | 0.4
+15. increase-proficiency-or-defence | trained-skill | 1 | 0.85
+16. grants-another-option | manual | 1 | 0.75
+17. grants-another-option | manual | 1 | 0.75
+18. specialise-in-a-tradition | magical | 1 | 0.6
+19. increase-attributes-or-health | manual | 1 | 0.85
+20. increase-attributes-or-health | manual | 1 | 0.85
+21. improve-your-luck | magical | 1 | 0.65
+22. increase-proficiency-or-defence | trained-skill | 1 | 0.75
+23. grants-another-option | divine | 1 | 0.55
+24. expand-a-resource-pool | psychic | 1 | 0.8
+25. grants-another-option | manual | 1 | 0.4

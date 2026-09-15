@@ -1,0 +1,25 @@
+1. charm-into-friendship | item | 1 | 0.55
+2. become-invisible | item | 1 | 0.7
+3. grants-another-option | magical | 1 | 0.3
+4. inflict-a-lingering-wound | alchemical | 1 | 0.55
+5. grants-another-option | magical | 1 | 0.3
+6. resist-a-kind-of-harm | alchemical | 1 | 0.45
+7. inflict-a-lingering-wound | alchemical | 1 | 0.55
+8. build-a-barrier + resist-a-kind-of-harm | item | 1 | 0.4
+9. inflict-a-lingering-wound | alchemical | 1 | 0.5
+10. extend-your-senses | item | 1 | 0.65
+11. obscure-an-area | item | 1 | 0.35
+12. conjure-a-temporary-tool | item | 1 | 0.55
+13. resist-a-kind-of-harm | item | 1 | 0.6
+14. inflict-a-lingering-wound | alchemical | 1 | 0.4
+15. strike-a-foe-in-reach | item | 1 | 0.4
+16. sway-an-audience | tool | 1 | 0.35
+17. absorb-or-blunt-damage | item | 1 | 0.55
+18. command-obedience | alchemical | 1 | 0.5
+19. grants-another-option | magical | 1 | 0.3
+20. unclassified | item | 1 | 0.25
+21. heal-a-body | magical | 1 | 0.4
+22. dull-a-foe-s-capability | alchemical | 1 | 0.5
+23. gain-access-to-closed-circles | social | 1 | 0.6
+24. craft-an-object | item | 1 | 0.3
+25. divine-an-answer | magical | 3 | 0.4

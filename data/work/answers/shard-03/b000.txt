@@ -1,0 +1,25 @@
+1. share-power-with-a-bonded-creature | innate | 1 | 0.62
+2. conjure-a-temporary-tool | magical | 1 | 0.45
+3. run-a-long-project | social | 4 | 0.58
+4. change-your-own-shape | divine | 1 | 0.78
+5. strike-with-overwhelming-force | trained-skill | 1 | 0.52
+6. close-on-a-foe | innate | 1 | 0.55
+7. wage-mass-combat | manual | 3 | 0.5
+8. turn-an-attack-back | magical | 1 | 0.63
+9. harm-many-at-once | technological | 1 | 0.72
+10. fly | innate | 1 | 0.92
+11. strike-a-distant-foe + harm-many-at-once | divine | 1 | 0.48
+12. unclassified | manual | 1 | 0.35
+13. resist-a-kind-of-harm | innate | 1 | 0.68
+14. close-on-a-foe | innate | 1 | 0.57
+15. wage-mass-combat | social | 4 | 0.47
+16. run-a-long-project | magical | 4 | 0.53
+17. inspire-allies | social | 1 | 0.64
+18. persuade-by-reason-or-charm | social | 1 | 0.75
+19. notice-what-is-hidden | trained-skill | 1 | 0.82
+20. move-unseen | trained-skill | 1 | 0.88
+21. unclassified | magical | 1 | 0.3
+22. recall-what-you-have-learned | trained-skill | 1 | 0.4
+23. confuse-or-scramble-a-mind | psychic | 1 | 0.56
+24. keep-a-bonded-creature | innate | 1 | 0.8
+25. keep-a-bonded-creature | innate | 1 | 0.76

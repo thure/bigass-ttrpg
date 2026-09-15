@@ -1,0 +1,25 @@
+1. alter-gravity-or-orientation | magical | 2 | 0.7
+2. heal-a-body | divine | 1 | 0.6
+3. harm-many-at-once | magical | 2 | 0.55
+4. gain-a-buffer-of-vitality | magical | 1 | 0.55
+5. strike-a-distant-foe + resist-a-kind-of-harm | item | 1 | 0.4
+6. grants-another-option | magical | 1 | 0.4
+7. resist-a-kind-of-harm + locate-a-person-or-thing | item | 1 | 0.45
+8. move-faster | magical | 2 | 0.5
+9. sense-through-another-creature | magical | 1 | 0.65
+10. enhance-a-weapon-s-bite | magical | 1 | 0.7
+11. glimpse-the-future + shrug-off-an-effect-you-failed-to-avoid | magical | 1 | 0.45
+12. curse-a-creature | magical | 1 | 0.4
+13. resist-a-kind-of-harm | magical | 1 | 0.45
+14. conceal-an-object | tool | 1 | 0.7
+15. call-a-creature-to-fight-for-you | magical | 2 | 0.7
+16. poison-a-foe | alchemical | 1 | 0.55
+17. harm-many-at-once | magical | 2 | 0.5
+18. grow-or-shrink | alchemical | 1 | 0.65
+19. make-light + inspire-allies | magical | 2 | 0.4
+20. negate-an-effect-outright | item | 1 | 0.35
+21. imprison-a-creature + command-obedience | magical | 1 | 0.6
+22. hide-from-notice | magical | 1 | 0.5
+23. unclassified | item | 1 | 0.2
+24. breach-a-locked-boundary | tool | 1 | 0.7
+25. divine-an-answer | magical | 1 | 0.5

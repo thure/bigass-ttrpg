@@ -1,0 +1,25 @@
+1. craft-an-object | tool | 1 | 0.6
+2. frighten + duplicate-a-thing-or-person | magical | 2 | 0.5
+3. bind-a-creature-in-place | item | 1 | 0.35
+4. hide-from-notice | magical | 1 | 0.45
+5. enhance-a-weapon-s-bite | magical | 1 | 0.7
+6. turn-an-attack-back | magical | 1 | 0.65
+7. set-a-trap | technological | 1 | 0.55
+8. gain-access-to-closed-circles | item | 1 | 0.6
+9. shake-off-an-affliction | magical | 1 | 0.6
+10. reshape-the-ground | alchemical | 1 | 0.3
+11. speak-with-the-otherwise-mute | magical | 1 | 0.65
+12. identify-a-creature + call-a-creature-to-fight-for-you | magical | 1 | 0.45
+13. hide-from-notice | magical | 1 | 0.55
+14. increase-proficiency-or-defence | magical | 1 | 0.4
+15. sense-a-distant-place + command-obedience | magical | 2 | 0.5
+16. poison-a-foe + alter-belief-or-memory | alchemical | 1 | 0.55
+17. resist-a-kind-of-harm | item | 1 | 0.4
+18. create-food-and-water + reposition-another-creature | magical | 1 | 0.7
+19. curse-a-creature + enhance-a-weapon-s-bite | magical | 1 | 0.5
+20. notice-what-is-hidden | tool | 1 | 0.6
+21. reshape-the-ground | magical | 1 | 0.7
+22. craft-an-object | tool | 1 | 0.4
+23. resist-a-kind-of-harm + locate-a-person-or-thing | magical | 1 | 0.5
+24. call-a-creature-to-fight-for-you + imprison-a-creature | magical | 4 | 0.45
+25. frighten | magical | 2 | 0.6

@@ -1,0 +1,25 @@
+1. grants-another-option | magical | 1 | 0.35
+2. set-a-trap | alchemical | 1 | 0.65
+3. stop-a-foe-moving | magical | 1 | 0.35
+4. move-through-water | item | 1 | 0.5
+5. heal-many-at-once | magical | 2 | 0.6
+6. strike-a-distant-foe | item | 1 | 0.35
+7. recover-on-your-own | magical | 1 | 0.45
+8. charm-into-friendship + confuse-or-scramble-a-mind | magical | 1 | 0.4
+9. set-a-trap | technological | 1 | 0.55
+10. extend-your-senses | item | 1 | 0.55
+11. keep-a-bonded-creature | magical | 1 | 0.45
+12. unclassified | item | 2 | 0.3
+13. guard-your-mind | alchemical | 1 | 0.6
+14. blind-or-deafen | alchemical | 1 | 0.55
+15. communicate-at-a-distance | item | 2 | 0.5
+16. negate-an-effect-outright | magical | 1 | 0.45
+17. evade-magical-detection | magical | 1 | 0.5
+18. slow-a-foe | alchemical | 1 | 0.6
+19. harm-many-at-once | alchemical | 2 | 0.65
+20. improve-your-luck + earn-income | magical | 1 | 0.4
+21. communicate-at-a-distance | magical | 2 | 0.45
+22. resist-a-kind-of-harm | item | 1 | 0.6
+23. absorb-or-blunt-damage | item | 1 | 0.45
+24. strike-a-distant-foe | magical | 1 | 0.5
+25. petrify-or-solidify | alchemical | 1 | 0.75

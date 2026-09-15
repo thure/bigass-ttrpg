@@ -1,0 +1,25 @@
+1. set-a-trap | technological | 1 | 0.7
+2. protect-a-group | item | 2 | 0.5
+3. resist-a-kind-of-harm | magical | 1 | 0.52
+4. guard-your-mind | magical | 1 | 0.48
+5. heal-a-body | magical | 1 | 0.6
+6. heal-many-at-once + harm-many-at-once | magical | 1 | 0.4
+7. shake-off-an-affliction | item | 1 | 0.35
+8. poison-a-foe | alchemical | 1 | 0.58
+9. blind-or-deafen | magical | 1 | 0.42
+10. bind-a-creature-in-place | tool | 1 | 0.68
+11. improve-your-luck | magical | 1 | 0.55
+12. communicate-at-a-distance | magical | 1 | 0.45
+13. move-through-water | magical | 1 | 0.53
+14. recruit-help | social | 1 | 0.75
+15. inspire-allies | item | 2 | 0.44
+16. tend-your-companion | magical | 1 | 0.36
+17. survive-a-hostile-environment | magical | 1 | 0.56
+18. alter-gravity-or-orientation | magical | 1 | 0.47
+19. unclassified | item | 1 | 0.25
+20. enhance-a-weapon-s-bite | item | 1 | 0.51
+21. strike-a-distant-foe + improve-your-luck | item | 1 | 0.39
+22. secure-shelter-and-supply | social | 1 | 0.65
+23. breach-a-locked-boundary | magical | 3 | 0.46
+24. resist-a-kind-of-harm + evade-magical-detection | item | 1 | 0.43
+25. inspire-allies | item | 2 | 0.41

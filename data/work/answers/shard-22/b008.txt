@@ -1,0 +1,25 @@
+1. secure-shelter-and-supply | item | 1 | 0.32
+2. strike-a-distant-foe + blind-or-deafen | alchemical | 1 | 0.62
+3. walk-on-unstable-footing | item | 1 | 0.84
+4. know-where-you-are | item | 1 | 0.49
+5. guard-your-mind | item | 1 | 0.51
+6. mark-a-foe-as-vulnerable | item | 1 | 0.86
+7. poison-a-foe + confuse-or-scramble-a-mind | alchemical | 1 | 0.64
+8. resist-a-kind-of-harm + turn-an-attack-back | item | 1 | 0.53
+9. survive-a-hostile-environment + shrug-off-an-effect-you-failed-to-avoid | alchemical | 1 | 0.4
+10. cheat-death + teleport-a-short-distance | item | 1 | 0.78
+11. numeric-variant | item | 1 | 0.43
+12. strike-a-distant-foe | item | 1 | 0.56
+13. call-a-creature-to-fight-for-you | item | 1 | 0.88
+14. recruit-help | social | 1 | 0.8
+15. grow-a-natural-weapon + reshape-the-ground | item | 1 | 0.46
+16. climb-a-vertical-surface | tool | 1 | 0.68
+17. call-a-creature-to-fight-for-you | item | 1 | 0.72
+18. harm-many-at-once + reshape-the-ground | alchemical | 2 | 0.58
+19. resist-poison-and-disease | item | 1 | 0.74
+20. block-magical-passage | magical | 4 | 0.6
+21. hide-a-message | alchemical | 1 | 0.82
+22. return-the-dead-to-life + curse-a-creature | magical | 1 | 0.66
+23. absorb-or-blunt-damage | item | 1 | 0.76
+24. turn-an-attack-back | item | 1 | 0.36
+25. climb-a-vertical-surface | technological | 1 | 0.7

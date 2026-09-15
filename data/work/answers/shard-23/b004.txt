@@ -1,0 +1,25 @@
+1. increase-proficiency-or-defence | trained-skill | 1 | 0.8
+2. specialise-in-a-tradition | magical | 1 | 0.5
+3. increase-proficiency-or-defence | divine | 1 | 0.8
+4. increase-proficiency-or-defence | trained-skill | 1 | 0.85
+5. increase-proficiency-or-defence | trained-skill | 1 | 0.85
+6. increase-proficiency-or-defence + strike-with-overwhelming-force | innate | 1 | 0.4
+7. specialise-in-a-tradition | divine | 1 | 0.6
+8. grants-another-option | divine | 1 | 0.55
+9. grants-another-option | magical | 1 | 0.5
+10. increase-proficiency-or-defence | psychic | 1 | 0.75
+11. increase-proficiency-or-defence | trained-skill | 1 | 0.8
+12. increase-proficiency-or-defence | psychic | 1 | 0.75
+13. kill-outright + store-an-effect-for-later | innate | 1 | 0.65
+14. craft-an-object | trained-skill | 1 | 0.45
+15. act-sooner-than-others | innate | 1 | 0.4
+16. increase-proficiency-or-defence | trained-skill | 1 | 0.8
+17. enhance-a-weapon-s-bite | divine | 1 | 0.6
+18. absorb-or-blunt-damage | item | 1 | 0.8
+19. grants-another-option | magical | 1 | 0.45
+20. specialise-in-a-tradition | magical | 1 | 0.5
+21. increase-proficiency-or-defence | magical | 1 | 0.55
+22. improve-your-luck | innate | 1 | 0.8
+23. absorb-or-blunt-damage | innate | 1 | 0.75
+24. fight-as-a-unit | trained-skill | 3 | 0.55
+25. become-hard-to-kill | item | 1 | 0.8

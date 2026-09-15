@@ -1,0 +1,25 @@
+1. frighten + obscure-an-area | magical | 1 | 0.55
+2. store-an-effect-for-later | item | 1 | 0.35
+3. resist-a-kind-of-harm + enhance-a-weapon-s-bite | item | 1 | 0.55
+4. kill-outright | item | 1 | 0.6
+5. dull-a-foe-s-capability | alchemical | 1 | 0.45
+6. enhance-a-weapon-s-bite | magical | 2 | 0.45
+7. obscure-an-area + dull-a-foe-s-capability | technological | 2 | 0.5
+8. heal-a-body | item | 1 | 0.5
+9. ride-a-mount | technological | 1 | 0.4
+10. enhance-a-weapon-s-bite | item | 1 | 0.65
+11. reposition-another-creature | item | 1 | 0.75
+12. drain-life-to-sustain-yourself + enhance-a-weapon-s-bite | magical | 1 | 0.5
+13. compound-a-substance | tool | 1 | 0.55
+14. identify-a-creature + track-a-creature | tool | 1 | 0.55
+15. strike-a-distant-foe + harm-many-at-once | item | 1 | 0.55
+16. forge-a-document | item | 1 | 0.7
+17. raise-a-structure | magical | 1 | 0.55
+18. enhance-a-weapon-s-bite + reposition-another-creature | item | 1 | 0.6
+19. communicate-at-a-distance | manual | 1 | 0.3
+20. become-invisible | item | 1 | 0.8
+21. strike-a-foe-in-reach | item | 1 | 0.45
+22. call-a-creature-to-fight-for-you | item | 1 | 0.65
+23. kill-outright | magical | 1 | 0.55
+24. resist-a-kind-of-harm + absorb-or-blunt-damage | item | 1 | 0.55
+25. inspire-allies | social | 1 | 0.45

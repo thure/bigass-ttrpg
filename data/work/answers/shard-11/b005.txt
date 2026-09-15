@@ -1,0 +1,25 @@
+1. move-faster + climb-a-vertical-surface | innate | 1 | 0.55
+2. increase-proficiency-or-defence | manual | 1 | 0.8
+3. increase-proficiency-or-defence | manual | 1 | 0.8
+4. enhance-a-weapon-s-bite | manual | 1 | 0.4
+5. increase-proficiency-or-defence | manual | 1 | 0.55
+6. increase-proficiency-or-defence | manual | 1 | 0.55
+7. change-your-own-shape | magical | 1 | 0.85
+8. condition-state | item | 1 | 0.75
+9. condition-state | innate | 1 | 0.5
+10. condition-state | innate | 1 | 0.5
+11. condition-state | innate | 1 | 0.5
+12. recover-on-your-own | innate | 1 | 0.75
+13. communicate-at-a-distance | innate | 1 | 0.7
+14. put-to-sleep | magical | 1 | 0.55
+15. curse-a-creature | magical | 1 | 0.55
+16. specialise-in-a-tradition | divine | 1 | 0.65
+17. specialise-in-a-tradition | divine | 1 | 0.65
+18. specialise-in-a-tradition | divine | 1 | 0.65
+19. keep-a-bonded-creature | magical | 1 | 0.75
+20. dull-a-foe-s-capability | alchemical | 2 | 0.4
+21. be-harder-to-hit + improve-your-luck | item | 1 | 0.35
+22. increase-proficiency-or-defence | item | 1 | 0.35
+23. increase-proficiency-or-defence | item | 1 | 0.3
+24. strike-a-distant-foe + inflict-a-lingering-wound | alchemical | 1 | 0.55
+25. unclassified | manual | 1 | 0.3

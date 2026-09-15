@@ -1,0 +1,25 @@
+1. store-an-effect-for-later | tool | 1 | 0.55
+2. bind-a-creature-in-place + strike-a-foe-in-reach | innate | 1 | 0.6
+3. keep-a-bonded-creature | innate | 1 | 0.4
+4. run-a-long-project | manual | 4 | 0.45
+5. erase-your-trail | trained-skill | 1 | 0.88
+6. calm-hostility | social | 3 | 0.48
+7. disengage-from-danger | manual | 3 | 0.52
+8. confuse-or-scramble-a-mind | innate | 1 | 0.38
+9. wage-mass-combat | manual | 3 | 0.5
+10. breach-a-locked-boundary | manual | 1 | 0.85
+11. gather-information-from-people | social | 1 | 0.82
+12. travel-overland | manual | 2 | 0.58
+13. command-obedience | divine | 1 | 0.72
+14. close-on-a-foe + strike-a-foe-in-reach | innate | 1 | 0.65
+15. secure-shelter-and-supply | social | 3 | 0.55
+16. heal-many-at-once | trained-skill | 3 | 0.5
+17. teleport-a-short-distance | magical | 1 | 0.47
+18. heal-a-body + guard-your-mind | psychic | 1 | 0.62
+19. absorb-or-blunt-damage | divine | 1 | 0.68
+20. strike-a-foe-in-reach + reposition-another-creature | innate | 1 | 0.7
+21. break-free-of-restraint | innate | 1 | 0.8
+22. close-on-a-foe | manual | 1 | 0.42
+23. harm-many-at-once | innate | 1 | 0.56
+24. keep-a-bonded-creature | innate | 1 | 0.66
+25. keep-a-bonded-creature | innate | 1 | 0.64

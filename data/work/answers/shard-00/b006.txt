@@ -1,0 +1,25 @@
+1. numeric-variant | item | 1 | 0.75
+2. bind-a-creature-in-place | item | 1 | 0.35
+3. harm-many-at-once | item | 2 | 0.65
+4. change-your-own-shape | alchemical | 1 | 0.8
+5. numeric-variant | item | 1 | 0.7
+6. track-a-creature | alchemical | 1 | 0.55
+7. sense-a-distant-place | item | 3 | 0.6
+8. strike-a-foe-in-reach | item | 1 | 0.3
+9. store-an-effect-for-later | item | 1 | 0.55
+10. be-harder-to-hit | item | 1 | 0.7
+11. resist-poison-and-disease | item | 1 | 0.75
+12. silence-magic | item | 1 | 0.7
+13. curse-a-creature | item | 1 | 0.6
+14. set-a-trap + bind-a-creature-in-place | item | 1 | 0.75
+15. slow-a-foe | alchemical | 1 | 0.7
+16. become-invisible | item | 1 | 0.75
+17. detect-a-kind-of-creature | alchemical | 1 | 0.45
+18. resist-a-kind-of-harm + sense-a-distant-place | item | 1 | 0.55
+19. speak-with-the-otherwise-mute | tool | 1 | 0.75
+20. store-an-effect-for-later | item | 1 | 0.5
+21. call-an-outsider | item | 1 | 0.8
+22. heal-a-body | item | 1 | 0.55
+23. teleport-a-short-distance + move-a-group | item | 2 | 0.5
+24. heal-a-body | alchemical | 1 | 0.5
+25. hide-from-notice + move-unseen | item | 1 | 0.55

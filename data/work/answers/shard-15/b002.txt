@@ -1,0 +1,25 @@
+1. claim-a-past-vocation | social | 1 | 0.55
+2. travel-as-a-known-figure | social | 1 | 0.55
+3. claim-a-past-vocation | trained-skill | 1 | 0.55
+4. claim-a-past-vocation | trained-skill | 1 | 0.5
+5. gain-access-to-closed-circles | social | 1 | 0.48
+6. belong-to-an-order | social | 1 | 0.55
+7. claim-a-past-vocation | trained-skill | 1 | 0.5
+8. claim-a-past-vocation | trained-skill | 1 | 0.5
+9. survive-a-hostile-environment | magical | 1 | 0.6
+10. claim-a-past-vocation | social | 1 | 0.5
+11. claim-a-past-vocation | trained-skill | 1 | 0.48
+12. belong-to-an-order | social | 1 | 0.55
+13. claim-a-lineage | divine | 1 | 0.5
+14. gain-an-extra-action | innate | 1 | 0.75
+15. increase-proficiency-or-defence | manual | 1 | 0.8
+16. grants-another-option | manual | 1 | 0.75
+17. grants-another-option | manual | 1 | 0.75
+18. expand-a-resource-pool | magical | 1 | 0.7
+19. increase-proficiency-or-defence | trained-skill | 1 | 0.78
+20. increase-attributes-or-health | manual | 1 | 0.85
+21. grants-another-option | magical | 1 | 0.55
+22. grants-another-option | divine | 1 | 0.5
+23. increase-proficiency-or-defence | divine | 1 | 0.8
+24. specialise-in-a-tradition | magical | 1 | 0.5
+25. increase-proficiency-or-defence + improve-your-luck | manual | 1 | 0.55

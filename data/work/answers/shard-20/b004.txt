@@ -1,0 +1,25 @@
+1. increase-proficiency-or-defence | manual | 1 | 0.85
+2. specialise-in-a-tradition | magical | 1 | 0.45
+3. increase-proficiency-or-defence | magical | 1 | 0.85
+4. increase-proficiency-or-defence + exploit-a-known-weakness | trained-skill | 1 | 0.55
+5. increase-proficiency-or-defence | manual | 1 | 0.85
+6. specialise-in-a-tradition | trained-skill | 1 | 0.45
+7. specialise-in-a-tradition | magical | 1 | 0.5
+8. grants-another-option | magical | 1 | 0.75
+9. strike-with-overwhelming-force | magical | 1 | 0.7
+10. grants-another-option | trained-skill | 1 | 0.55
+11. increase-proficiency-or-defence | trained-skill | 1 | 0.85
+12. exploit-a-known-weakness | magical | 1 | 0.6
+13. resist-a-kind-of-harm | divine | 1 | 0.5
+14. punish-an-opening | manual | 1 | 0.8
+15. improve-your-luck | trained-skill | 1 | 0.5
+16. grants-another-option | technological | 1 | 0.6
+17. follow-a-code | divine | 1 | 0.55
+18. increase-proficiency-or-defence + shrug-off-an-effect-you-failed-to-avoid | innate | 1 | 0.6
+19. grants-another-option | magical | 1 | 0.5
+20. heal-many-at-once | social | 2 | 0.65
+21. specialise-in-a-tradition | magical | 1 | 0.5
+22. exploit-a-known-weakness | trained-skill | 1 | 0.6
+23. resist-a-kind-of-harm | innate | 1 | 0.7
+24. grants-another-option | manual | 1 | 0.5
+25. go-without-necessities | innate | 1 | 0.75

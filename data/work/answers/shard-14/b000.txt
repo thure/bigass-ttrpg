@@ -1,0 +1,25 @@
+1. reposition-another-creature | innate | 1 | 0.55
+2. close-on-a-foe | innate | 1 | 0.6
+3. increase-proficiency-or-defence | innate | 1 | 0.55
+4. climb-a-vertical-surface | trained-skill | 1 | 0.85
+5. craft-an-object | trained-skill | 1 | 0.6
+6. be-harder-to-hit + turn-an-attack-back | innate | 1 | 0.5
+7. dull-a-foe-s-capability | innate | 1 | 0.65
+8. improve-your-luck | innate | 1 | 0.6
+9. mark-a-foe-as-vulnerable | trained-skill | 1 | 0.6
+10. strike-with-overwhelming-force | magical | 1 | 0.55
+11. bind-a-creature-in-place + reposition-another-creature | trained-skill | 1 | 0.55
+12. increase-proficiency-or-defence | social | 4 | 0.45
+13. reposition-another-creature | innate | 1 | 0.75
+14. keep-a-bonded-creature | magical | 1 | 0.5
+15. conceal-an-object | trained-skill | 1 | 0.7
+16. research-in-archives | trained-skill | 1 | 0.4
+17. heal-many-at-once | trained-skill | 3 | 0.5
+18. absorb-or-blunt-damage + strike-a-foe-in-reach | divine | 1 | 0.5
+19. ward-an-area | magical | 1 | 0.6
+20. disengage-from-danger | manual | 1 | 0.6
+21. rest-and-recover | manual | 1 | 0.8
+22. run-a-long-project | social | 3 | 0.4
+23. harm-many-at-once | innate | 1 | 0.5
+24. keep-a-bonded-creature | innate | 1 | 0.7
+25. keep-a-bonded-creature | innate | 1 | 0.7

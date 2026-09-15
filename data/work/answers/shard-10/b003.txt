@@ -1,0 +1,25 @@
+1. gain-a-buffer-of-vitality | divine | 1 | 0.75
+2. increase-proficiency-or-defence + grants-another-option | trained-skill | 1 | 0.55
+3. heal-a-body | divine | 1 | 0.6
+4. specialise-in-a-tradition | divine | 1 | 0.6
+5. increase-attributes-or-health + be-harder-to-hit | innate | 1 | 0.55
+6. grants-another-option | magical | 1 | 0.6
+7. numeric-variant | magical | 1 | 0.6
+8. change-another-s-shape | magical | 1 | 0.6
+9. grants-another-option | magical | 1 | 0.65
+10. increase-proficiency-or-defence | trained-skill | 1 | 0.75
+11. increase-proficiency-or-defence | magical | 1 | 0.75
+12. attack-more-often | manual | 1 | 0.8
+13. grants-another-option | magical | 1 | 0.55
+14. grants-another-option | manual | 1 | 0.6
+15. attack-more-often | manual | 1 | 0.7
+16. increase-proficiency-or-defence | divine | 1 | 0.8
+17. increase-proficiency-or-defence + shrug-off-an-effect-you-failed-to-avoid | trained-skill | 1 | 0.55
+18. numeric-variant | manual | 1 | 0.55
+19. grants-another-option | trained-skill | 1 | 0.5
+20. attack-more-often | manual | 1 | 0.75
+21. grants-another-option | magical | 1 | 0.5
+22. numeric-variant | magical | 1 | 0.5
+23. increase-proficiency-or-defence | manual | 1 | 0.8
+24. increase-proficiency-or-defence | magical | 1 | 0.8
+25. increase-proficiency-or-defence | magical | 1 | 0.75

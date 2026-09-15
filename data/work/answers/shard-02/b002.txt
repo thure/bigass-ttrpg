@@ -1,0 +1,25 @@
+1. claim-a-past-vocation | divine | 1 | 0.5
+2. claim-a-past-vocation | trained-skill | 1 | 0.75
+3. grants-another-option | magical | 1 | 0.5
+4. gain-access-to-closed-circles | social | 1 | 0.65
+5. claim-a-past-vocation | trained-skill | 1 | 0.6
+6. claim-a-past-vocation | social | 1 | 0.65
+7. claim-a-past-vocation | social | 1 | 0.4
+8. gain-access-to-closed-circles | social | 1 | 0.6
+9. belong-to-an-order | social | 1 | 0.65
+10. claim-a-past-vocation | trained-skill | 1 | 0.6
+11. claim-a-past-vocation | innate | 1 | 0.45
+12. gain-access-to-closed-circles | social | 1 | 0.65
+13. belong-to-an-order | social | 1 | 0.6
+14. specialise-in-a-tradition + be-harder-to-hit | magical | 1 | 0.5
+15. increase-proficiency-or-defence | alchemical | 1 | 0.85
+16. follow-a-code | divine | 1 | 0.6
+17. grants-another-option | manual | 1 | 0.8
+18. grants-another-option | manual | 1 | 0.8
+19. specialise-in-a-tradition | magical | 1 | 0.6
+20. increase-attributes-or-health | manual | 1 | 0.85
+21. increase-attributes-or-health | manual | 1 | 0.85
+22. inspire-allies | magical | 1 | 0.6
+23. guard-your-mind | trained-skill | 1 | 0.55
+24. draw-on-a-higher-power | divine | 1 | 0.55
+25. grants-another-option | manual | 1 | 0.85

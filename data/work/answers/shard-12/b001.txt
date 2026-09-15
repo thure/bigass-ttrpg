@@ -1,0 +1,25 @@
+1. keep-a-bonded-creature | magical | 1 | 0.72
+2. keep-a-bonded-creature | innate | 1 | 0.78
+3. specialise-in-a-tradition | magical | 2 | 0.44
+4. entry-into-an-archetype | social | 1 | 0.66
+5. entry-into-an-archetype | social | 1 | 0.58
+6. entry-into-an-archetype | social | 1 | 0.52
+7. entry-into-an-archetype | magical | 1 | 0.7
+8. heal-a-body | trained-skill | 1 | 0.48
+9. bind-yourself-to-a-power | magical | 1 | 0.56
+10. reposition-another-creature + heal-a-body | innate | 1 | 0.42
+11. bind-yourself-to-a-power | divine | 1 | 0.46
+12. entry-into-an-archetype | divine | 1 | 0.38
+13. entry-into-an-archetype | trained-skill | 1 | 0.45
+14. entry-into-an-archetype | magical | 1 | 0.64
+15. be-harder-to-hit | item | 1 | 0.54
+16. move-through-water + be-harder-to-hit | item | 1 | 0.5
+17. carry-a-burden | social | 1 | 0.4
+18. resist-poison-and-disease + claim-a-past-vocation | trained-skill | 1 | 0.51
+19. claim-a-past-vocation + shake-off-an-affliction | magical | 1 | 0.47
+20. gain-access-to-closed-circles | social | 1 | 0.53
+21. claim-a-past-vocation | social | 1 | 0.6
+22. belong-to-an-order | social | 1 | 0.55
+23. gain-access-to-closed-circles | social | 1 | 0.62
+24. build-your-reputation + claim-a-past-vocation | social | 1 | 0.57
+25. gain-access-to-closed-circles | social | 1 | 0.68

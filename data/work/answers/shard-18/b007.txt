@@ -1,0 +1,25 @@
+1. fly | item | 1 | 0.85
+2. confuse-or-scramble-a-mind | item | 2 | 0.6
+3. sever-a-supernatural-connection | item | 1 | 0.55
+4. move-faster | alchemical | 1 | 0.85
+5. shrug-off-an-effect-you-failed-to-avoid | alchemical | 1 | 0.6
+6. hide-from-notice + move-unseen | item | 1 | 0.55
+7. disguise-your-appearance | technological | 1 | 0.65
+8. resist-a-kind-of-harm | item | 1 | 0.4
+9. be-harder-to-hit | item | 1 | 0.4
+10. unclassified | tool | 1 | 0.3
+11. increase-proficiency-or-defence | item | 1 | 0.5
+12. cheat-death + shrug-off-an-effect-you-failed-to-avoid | magical | 1 | 0.6
+13. harm-many-at-once | alchemical | 1 | 0.65
+14. carry-a-burden | psychic | 1 | 0.35
+15. gain-a-buffer-of-vitality | item | 1 | 0.75
+16. enhance-a-weapon-s-bite | item | 1 | 0.7
+17. poison-a-foe | alchemical | 1 | 0.8
+18. enhance-a-weapon-s-bite | item | 1 | 0.75
+19. condition-state | alchemical | 1 | 0.35
+20. set-a-trap | technological | 1 | 0.75
+21. grants-another-option | magical | 1 | 0.35
+22. tend-your-companion | divine | 1 | 0.55
+23. harm-many-at-once | item | 2 | 0.55
+24. resist-a-kind-of-harm | item | 1 | 0.65
+25. frighten | alchemical | 1 | 0.6

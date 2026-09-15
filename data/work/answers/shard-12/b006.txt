@@ -1,0 +1,25 @@
+1. evade-magical-detection | item | 1 | 0.82
+2. increase-proficiency-or-defence | item | 1 | 0.38
+3. resist-poison-and-disease | alchemical | 1 | 0.78
+4. know-where-you-are | item | 1 | 0.34
+5. resist-a-kind-of-harm | item | 1 | 0.8
+6. resist-a-kind-of-harm + harm-many-at-once | item | 1 | 0.5
+7. grants-another-option | item | 1 | 0.33
+8. kill-outright + destroy-an-object | item | 1 | 0.42
+9. coerce-through-threat + gain-a-buffer-of-vitality | item | 1 | 0.46
+10. absorb-or-blunt-damage | item | 1 | 0.4
+11. bind-a-creature-in-place + harm-many-at-once | item | 1 | 0.52
+12. increase-attributes-or-health | item | 1 | 0.76
+13. become-hard-to-kill | item | 1 | 0.58
+14. poison-a-foe | alchemical | 1 | 0.77
+15. survive-a-hostile-environment | item | 1 | 0.72
+16. blind-or-deafen | alchemical | 1 | 0.74
+17. inflict-a-lingering-wound + drain-life-to-sustain-yourself | item | 1 | 0.54
+18. transmute-raw-material | item | 1 | 0.36
+19. travel-overland | item | 2 | 0.44
+20. inflict-a-lingering-wound | item | 1 | 0.48
+21. bind-a-creature-in-place + increase-attributes-or-health | item | 1 | 0.51
+22. grants-another-option | item | 1 | 0.31
+23. resist-a-kind-of-harm | item | 1 | 0.79
+24. avoid-a-danger-you-foresaw | item | 1 | 0.56
+25. make-light | item | 1 | 0.83

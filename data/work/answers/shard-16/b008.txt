@@ -1,0 +1,25 @@
+1. strike-a-distant-foe | item | 1 | 0.38
+2. become-invisible | item | 1 | 0.75
+3. ride-a-mount | item | 1 | 0.55
+4. call-an-outsider | item | 1 | 0.68
+5. disguise-your-appearance | item | 1 | 0.65
+6. resist-a-kind-of-harm + climb-a-vertical-surface | item | 1 | 0.55
+7. impose-misfortune | item | 1 | 0.6
+8. seal-a-boundary | alchemical | 1 | 0.35
+9. destroy-an-object | alchemical | 1 | 0.6
+10. ward-an-area | divine | 2 | 0.42
+11. command-the-weather | item | 2 | 0.6
+12. conjure-a-temporary-tool | item | 1 | 0.5
+13. grants-another-option + identify-a-creature | divine | 1 | 0.5
+14. unclassified | manual | 1 | 0.2
+15. persuade-by-reason-or-charm | item | 1 | 0.5
+16. fly | item | 1 | 0.68
+17. earn-income + strike-a-distant-foe | item | 1 | 0.5
+18. unclassified | manual | 1 | 0.25
+19. harm-many-at-once | item | 2 | 0.62
+20. inflict-a-lingering-wound | item | 1 | 0.55
+21. frighten + harm-many-at-once | alchemical | 2 | 0.5
+22. exploit-a-known-weakness + reposition-another-creature | item | 1 | 0.42
+23. dull-a-foe-s-capability + drain-vitality-lastingly | item | 1 | 0.48
+24. command-obedience + inflict-a-lingering-wound | item | 1 | 0.45
+25. make-an-extradimensional-space | item | 1 | 0.65

@@ -1,0 +1,25 @@
+1. increase-proficiency-or-defence | trained-skill | 1 | 0.85
+2. increase-proficiency-or-defence | trained-skill | 1 | 0.85
+3. increase-proficiency-or-defence | trained-skill | 1 | 0.85
+4. increase-proficiency-or-defence | trained-skill | 1 | 0.85
+5. increase-proficiency-or-defence | trained-skill | 1 | 0.65
+6. increase-proficiency-or-defence | trained-skill | 1 | 0.65
+7. belong-to-an-order | social | 1 | 0.5
+8. condition-state | innate | 1 | 0.85
+9. condition-state | innate | 1 | 0.85
+10. condition-state | innate | 1 | 0.85
+11. condition-state | innate | 1 | 0.85
+12. reposition-another-creature + bind-a-creature-in-place | innate | 1 | 0.45
+13. resist-a-kind-of-harm | innate | 1 | 0.5
+14. curse-a-creature | magical | 1 | 0.75
+15. transmute-raw-material | magical | 1 | 0.3
+16. read-or-enter-a-mind | divine | 1 | 0.5
+17. charm-into-friendship | divine | 1 | 0.45
+18. keep-a-bonded-creature | divine | 1 | 0.65
+19. keep-a-bonded-creature | magical | 1 | 0.65
+20. absorb-or-blunt-damage + poison-a-foe | item | 1 | 0.5
+21. disguise-what-a-thing-is | item | 1 | 0.4
+22. increase-proficiency-or-defence | item | 1 | 0.4
+23. strike-a-distant-foe | alchemical | 1 | 0.6
+24. compound-a-substance | tool | 1 | 0.4
+25. cheat-death | alchemical | 1 | 0.8

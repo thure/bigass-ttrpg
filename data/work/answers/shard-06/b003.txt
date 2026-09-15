@@ -1,0 +1,25 @@
+1. impose-misfortune | social | 1 | 0.62
+2. guard-your-mind | trained-skill | 1 | 0.72
+3. specialise-in-a-tradition | divine | 1 | 0.55
+4. detect-a-kind-of-creature | divine | 2 | 0.78
+5. grants-another-option | magical | 1 | 0.5
+6. specialise-in-a-tradition | magical | 1 | 0.55
+7. increase-proficiency-or-defence | innate | 1 | 0.8
+8. grants-another-option | magical | 1 | 0.65
+9. become-invisible + resist-a-kind-of-harm | innate | 1 | 0.55
+10. increase-proficiency-or-defence | trained-skill | 1 | 0.82
+11. increase-proficiency-or-defence | magical | 1 | 0.8
+12. increase-proficiency-or-defence | trained-skill | 1 | 0.85
+13. grants-another-option | trained-skill | 1 | 0.58
+14. increase-proficiency-or-defence + grants-another-option | trained-skill | 1 | 0.5
+15. grants-another-option | innate | 1 | 0.5
+16. attack-more-often | innate | 1 | 0.72
+17. increase-proficiency-or-defence + absorb-or-blunt-damage | innate | 1 | 0.5
+18. numeric-variant | manual | 1 | 0.78
+19. grants-another-option | manual | 1 | 0.7
+20. grants-another-option | trained-skill | 1 | 0.55
+21. increase-proficiency-or-defence + absorb-or-blunt-damage | trained-skill | 1 | 0.5
+22. grants-another-option | psychic | 1 | 0.55
+23. increase-proficiency-or-defence | trained-skill | 1 | 0.75
+24. grants-another-option | magical | 1 | 0.6
+25. increase-proficiency-or-defence | magical | 1 | 0.8

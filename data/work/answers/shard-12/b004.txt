@@ -1,0 +1,25 @@
+1. increase-proficiency-or-defence | manual | 1 | 0.82
+2. increase-proficiency-or-defence | magical | 1 | 0.84
+3. notice-what-is-hidden + increase-proficiency-or-defence | trained-skill | 2 | 0.5
+4. kill-outright + increase-proficiency-or-defence | trained-skill | 1 | 0.48
+5. increase-proficiency-or-defence | manual | 1 | 0.79
+6. protect-a-group | magical | 2 | 0.45
+7. grants-another-option | manual | 1 | 0.58
+8. increase-proficiency-or-defence | innate | 1 | 0.72
+9. draw-on-a-higher-power | divine | 2 | 0.4
+10. increase-proficiency-or-defence | innate | 1 | 0.68
+11. increase-proficiency-or-defence | trained-skill | 1 | 0.76
+12. increase-proficiency-or-defence | psychic | 1 | 0.7
+13. increase-proficiency-or-defence | innate | 1 | 0.65
+14. increase-proficiency-or-defence | trained-skill | 1 | 0.74
+15. increase-proficiency-or-defence | trained-skill | 1 | 0.77
+16. increase-proficiency-or-defence | innate | 1 | 0.66
+17. climb-a-vertical-surface + move-through-water | innate | 1 | 0.44
+18. recover-on-your-own | innate | 1 | 0.69
+19. strike-a-distant-foe + increase-proficiency-or-defence | trained-skill | 1 | 0.51
+20. protect-a-group | divine | 2 | 0.55
+21. expand-a-resource-pool | magical | 1 | 0.43
+22. claim-a-lineage | innate | 1 | 0.63
+23. grants-another-option | manual | 1 | 0.56
+24. increase-proficiency-or-defence | trained-skill | 1 | 0.71
+25. hide-a-message | social | 1 | 0.6

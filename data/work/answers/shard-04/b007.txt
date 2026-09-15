@@ -1,0 +1,25 @@
+1. blind-or-deafen + make-light | item | 1 | 0.65
+2. unclassified | tool | 1 | 0.3
+3. return-the-dead-to-life | divine | 1 | 0.8
+4. increase-proficiency-or-defence + gain-a-buffer-of-vitality | item | 1 | 0.55
+5. glimpse-the-future + mark-a-foe-as-vulnerable | magical | 1 | 0.55
+6. grow-or-wither-plants | item | 1 | 0.55
+7. fly | item | 1 | 0.65
+8. open-a-portal | technological | 1 | 0.45
+9. make-an-extradimensional-space | item | 1 | 0.55
+10. unclassified | item | 1 | 0.3
+11. unclassified | item | 1 | 0.3
+12. read-any-writing | item | 1 | 0.75
+13. impersonate-a-specific-person | item | 1 | 0.7
+14. keep-the-dying-alive | item | 1 | 0.55
+15. sense-a-distant-place | item | 1 | 0.65
+16. identify-a-creature | item | 1 | 0.6
+17. make-light | item | 1 | 0.6
+18. set-a-trap | technological | 1 | 0.7
+19. communicate-at-a-distance + make-darkness | item | 1 | 0.5
+20. strike-a-distant-foe + harm-many-at-once | item | 1 | 0.55
+21. gain-an-extra-action | alchemical | 1 | 0.5
+22. hide-from-notice | item | 1 | 0.45
+23. frighten | item | 1 | 0.7
+24. harm-many-at-once | item | 1 | 0.45
+25. grants-another-option | item | 1 | 0.55

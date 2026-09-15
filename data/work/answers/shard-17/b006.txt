@@ -1,0 +1,25 @@
+1. see-through-deception | item | 1 | 0.6
+2. be-harder-to-hit + hide-from-notice | item | 1 | 0.55
+3. strike-a-foe-in-reach + dull-a-foe-s-capability | item | 1 | 0.5
+4. detect-magic + see-through-obscurement | item | 1 | 0.5
+5. be-harder-to-hit | item | 1 | 0.75
+6. break-free-of-restraint + shrug-off-an-effect-you-failed-to-avoid | item | 1 | 0.45
+7. enhance-a-weapon-s-bite | item | 1 | 0.6
+8. make-an-extradimensional-space + kill-outright | magical | 1 | 0.5
+9. keep-the-dying-alive | magical | 2 | 0.75
+10. build-a-barrier | item | 1 | 0.7
+11. survive-a-hostile-environment | item | 1 | 0.65
+12. gain-a-buffer-of-vitality + heal-a-body | item | 1 | 0.5
+13. shrug-off-an-effect-you-failed-to-avoid | item | 1 | 0.4
+14. poison-a-foe | alchemical | 1 | 0.8
+15. strike-a-distant-foe + blind-or-deafen | alchemical | 1 | 0.6
+16. unclassified | tool | 1 | 0.2
+17. shrug-off-an-effect-you-failed-to-avoid + interpose-yourself-for-another | item | 1 | 0.5
+18. teleport-a-short-distance + reposition-another-creature | item | 1 | 0.55
+19. avoid-a-danger-you-foresaw | item | 1 | 0.5
+20. strike-a-foe-in-reach + harm-many-at-once | item | 1 | 0.45
+21. extend-your-senses | item | 1 | 0.55
+22. speak-with-the-otherwise-mute + poison-a-foe | magical | 1 | 0.35
+23. unclassified | manual | 1 | 0.2
+24. mark-a-foe-as-vulnerable | technological | 2 | 0.6
+25. open-a-portal | magical | 5 | 0.5

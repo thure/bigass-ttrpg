@@ -1,0 +1,25 @@
+1. dull-a-foe-s-capability | item | 1 | 0.4
+2. dull-a-foe-s-capability | alchemical | 1 | 0.5
+3. expand-a-resource-pool | item | 1 | 0.45
+4. resist-a-kind-of-harm | item | 1 | 0.5
+5. shake-off-an-affliction | item | 1 | 0.5
+6. grants-another-option | item | 1 | 0.35
+7. strike-a-foe-in-reach | item | 1 | 0.3
+8. interpose-yourself-for-another | item | 1 | 0.5
+9. sense-a-distant-place | item | 1 | 0.5
+10. secure-shelter-and-supply | item | 1 | 0.35
+11. heal-a-body | tool | 1 | 0.55
+12. harm-many-at-once | item | 1 | 0.6
+13. protect-a-group | item | 1 | 0.5
+14. increase-proficiency-or-defence + protect-a-group | item | 1 | 0.45
+15. harm-many-at-once | item | 1 | 0.5
+16. harm-many-at-once + notice-what-is-hidden | item | 1 | 0.45
+17. call-a-creature-to-fight-for-you | item | 1 | 0.4
+18. lie-convincingly | alchemical | 1 | 0.55
+19. build-a-barrier | item | 3 | 0.55
+20. increase-proficiency-or-defence | item | 1 | 0.7
+21. shrug-off-an-effect-you-failed-to-avoid | item | 1 | 0.6
+22. teleport-a-great-distance | item | 3 | 0.5
+23. close-on-a-foe | item | 1 | 0.45
+24. ward-an-area | item | 3 | 0.4
+25. learn-a-place-or-object-s-past | item | 1 | 0.5

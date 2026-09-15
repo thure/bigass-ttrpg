@@ -1,0 +1,25 @@
+1. increase-proficiency-or-defence | trained-skill | 1 | 0.75
+2. be-harder-to-hit | trained-skill | 1 | 0.75
+3. specialise-in-a-tradition | divine | 1 | 0.75
+4. specialise-in-a-tradition | divine | 1 | 0.75
+5. claim-a-lineage | innate | 1 | 0.7
+6. increase-proficiency-or-defence | innate | 1 | 0.8
+7. bind-a-creature-in-place | magical | 1 | 0.75
+8. see-through-deception | magical | 1 | 0.8
+9. grants-another-option | innate | 1 | 0.75
+10. protect-a-group | divine | 2 | 0.45
+11. increase-proficiency-or-defence | magical | 1 | 0.85
+12. attack-more-often | trained-skill | 1 | 0.85
+13. perceive-without-sight | innate | 1 | 0.65
+14. be-harder-to-hit | trained-skill | 1 | 0.85
+15. expand-a-resource-pool | magical | 1 | 0.55
+16. increase-proficiency-or-defence | trained-skill | 1 | 0.85
+17. numeric-variant | item | 1 | 0.6
+18. numeric-variant | trained-skill | 1 | 0.65
+19. become-hard-to-kill | divine | 1 | 0.55
+20. grants-another-option | magical | 1 | 0.55
+21. increase-proficiency-or-defence | trained-skill | 1 | 0.85
+22. frighten | social | 1 | 0.8
+23. increase-proficiency-or-defence | trained-skill | 1 | 0.8
+24. heal-a-body + cure-poison-or-disease | divine | 1 | 0.8
+25. increase-proficiency-or-defence + grants-another-option | trained-skill | 1 | 0.55

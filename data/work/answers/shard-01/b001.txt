@@ -1,0 +1,25 @@
+1. keep-a-bonded-creature | innate | 1 | 0.65
+2. keep-a-bonded-creature | innate | 1 | 0.65
+3. specialise-in-a-tradition | magical | 1 | 0.55
+4. entry-into-an-archetype | social | 1 | 0.5
+5. entry-into-an-archetype | magical | 1 | 0.5
+6. entry-into-an-archetype | tool | 1 | 0.5
+7. entry-into-an-archetype | magical | 1 | 0.5
+8. entry-into-an-archetype | technological | 1 | 0.5
+9. entry-into-an-archetype | social | 1 | 0.5
+10. entry-into-an-archetype | trained-skill | 1 | 0.55
+11. entry-into-an-archetype | social | 1 | 0.5
+12. entry-into-an-archetype | magical | 1 | 0.5
+13. entry-into-an-archetype | technological | 1 | 0.5
+14. entry-into-an-archetype | trained-skill | 1 | 0.5
+15. entry-into-an-archetype | magical | 1 | 0.5
+16. be-harder-to-hit | item | 1 | 0.5
+17. claim-a-past-vocation | trained-skill | 1 | 0.55
+18. claim-a-past-vocation | trained-skill | 1 | 0.55
+19. gain-access-to-closed-circles | social | 1 | 0.5
+20. belong-to-an-order | social | 1 | 0.55
+21. claim-a-past-vocation | trained-skill | 1 | 0.6
+22. claim-a-past-vocation | trained-skill | 1 | 0.55
+23. impose-misfortune + carry-a-burden | innate | 1 | 0.45
+24. improve-your-luck | magical | 1 | 0.6
+25. improve-your-luck | divine | 1 | 0.6

@@ -1,0 +1,25 @@
+1. improve-your-luck | magical | 1 | 0.72
+2. bind-yourself-to-a-power | divine | 1 | 0.78
+3. grants-another-option | divine | 1 | 0.45
+4. increase-proficiency-or-defence | divine | 1 | 0.85
+5. claim-a-lineage | innate | 1 | 0.68
+6. hide-a-message + speak-with-the-otherwise-mute | magical | 1 | 0.5
+7. speak-with-the-otherwise-mute | magical | 1 | 0.75
+8. attack-more-often | magical | 1 | 0.82
+9. grants-another-option | innate | 1 | 0.75
+10. grants-another-option | magical | 1 | 0.55
+11. increase-proficiency-or-defence | psychic | 1 | 0.8
+12. attack-more-often | manual | 1 | 0.87
+13. track-a-creature + identify-a-creature | trained-skill | 1 | 0.55
+14. increase-proficiency-or-defence | manual | 1 | 0.73
+15. numeric-variant | innate | 1 | 0.85
+16. increase-proficiency-or-defence | innate | 1 | 0.86
+17. shrug-off-an-effect-you-failed-to-avoid + increase-proficiency-or-defence | innate | 1 | 0.48
+18. numeric-variant | innate | 1 | 0.68
+19. increase-proficiency-or-defence | trained-skill | 1 | 0.83
+20. grants-another-option | magical | 1 | 0.42
+21. increase-proficiency-or-defence | innate | 1 | 0.84
+22. draw-on-an-inner-source | innate | 1 | 0.53
+23. increase-proficiency-or-defence | innate | 1 | 0.79
+24. grants-another-option | innate | 1 | 0.78
+25. increase-proficiency-or-defence | magical | 1 | 0.86

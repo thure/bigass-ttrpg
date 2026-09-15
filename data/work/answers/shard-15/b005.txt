@@ -1,0 +1,25 @@
+1. increase-proficiency-or-defence | manual | 1 | 0.8
+2. increase-proficiency-or-defence | manual | 1 | 0.8
+3. increase-proficiency-or-defence + grants-another-option | manual | 1 | 0.55
+4. increase-proficiency-or-defence | manual | 1 | 0.8
+5. numeric-variant | manual | 1 | 0.75
+6. numeric-variant | manual | 1 | 0.75
+7. cross-resisting-ground | innate | 1 | 0.8
+8. condition-state | manual | 1 | 0.7
+9. condition-state | social | 1 | 0.7
+10. condition-state | manual | 1 | 0.75
+11. condition-state | manual | 1 | 0.75
+12. bind-a-creature-in-place | innate | 1 | 0.7
+13. fight-as-a-unit | innate | 3 | 0.5
+14. impose-misfortune | magical | 1 | 0.5
+15. curse-a-creature | magical | 1 | 0.65
+16. confuse-or-scramble-a-mind | divine | 1 | 0.55
+17. specialise-in-a-tradition | divine | 1 | 0.45
+18. specialise-in-a-tradition | divine | 1 | 0.42
+19. share-power-with-a-bonded-creature | magical | 1 | 0.55
+20. craft-an-object | alchemical | 1 | 0.4
+21. transmute-raw-material | alchemical | 1 | 0.65
+22. increase-proficiency-or-defence | item | 1 | 0.4
+23. fly + increase-proficiency-or-defence | item | 1 | 0.5
+24. craft-an-object | tool | 1 | 0.55
+25. cheat-death + become-insubstantial | item | 1 | 0.6

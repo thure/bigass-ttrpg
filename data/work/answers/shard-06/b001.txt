@@ -1,0 +1,25 @@
+1. keep-a-bonded-creature | innate | 1 | 0.82
+2. keep-a-bonded-creature | divine | 1 | 0.72
+3. specialise-in-a-tradition | magical | 1 | 0.68
+4. entry-into-an-archetype | trained-skill | 1 | 0.6
+5. entry-into-an-archetype | trained-skill | 1 | 0.58
+6. entry-into-an-archetype | alchemical | 1 | 0.55
+7. bind-yourself-to-a-power | magical | 1 | 0.65
+8. entry-into-an-archetype | magical | 1 | 0.55
+9. specialise-in-a-tradition | divine | 1 | 0.65
+10. entry-into-an-archetype | magical | 1 | 0.55
+11. entry-into-an-archetype | trained-skill | 1 | 0.65
+12. entry-into-an-archetype | trained-skill | 1 | 0.5
+13. entry-into-an-archetype | innate | 1 | 0.55
+14. entry-into-an-archetype | magical | 1 | 0.58
+15. be-harder-to-hit | item | 1 | 0.62
+16. be-harder-to-hit | item | 1 | 0.6
+17. claim-a-past-vocation | trained-skill | 1 | 0.5
+18. gain-access-to-closed-circles | social | 1 | 0.55
+19. claim-a-past-vocation | trained-skill | 1 | 0.6
+20. claim-a-past-vocation | social | 1 | 0.68
+21. claim-a-past-vocation | trained-skill | 1 | 0.85
+22. claim-a-past-vocation | trained-skill | 1 | 0.72
+23. claim-a-past-vocation + gain-a-buffer-of-vitality | trained-skill | 1 | 0.5
+24. claim-a-past-vocation | social | 1 | 0.62
+25. claim-a-past-vocation | trained-skill | 1 | 0.66

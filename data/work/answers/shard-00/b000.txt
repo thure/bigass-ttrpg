@@ -1,0 +1,25 @@
+1. exploit-a-known-weakness | innate | 1 | 0.4
+2. walk-on-unstable-footing | trained-skill | 1 | 0.8
+3. harm-many-at-once | magical | 2 | 0.7
+4. close-on-a-foe + strike-a-foe-in-reach | innate | 1 | 0.55
+5. conceal-an-object | trained-skill | 1 | 0.9
+6. bind-a-creature-in-place + strike-a-foe-in-reach | innate | 1 | 0.7
+7. detect-magic | magical | 1 | 0.8
+8. move-a-group | manual | 2 | 0.4
+9. notice-what-is-hidden + recall-what-you-have-learned | trained-skill | 1 | 0.5
+10. mark-a-foe-as-vulnerable | trained-skill | 1 | 0.6
+11. gather-information-from-people | social | 1 | 0.8
+12. frighten | innate | 1 | 0.75
+13. interpose-yourself-for-another | manual | 1 | 0.85
+14. break-free-of-restraint | divine | 1 | 0.65
+15. improve-your-luck | social | 1 | 0.6
+16. confuse-or-scramble-a-mind | innate | 1 | 0.5
+17. be-harder-to-hit | manual | 1 | 0.85
+18. build-your-reputation | social | 4 | 0.55
+19. gather-information-from-people | trained-skill | 1 | 0.45
+20. strike-with-overwhelming-force | manual | 1 | 0.75
+21. secure-shelter-and-supply | manual | 4 | 0.55
+22. inspire-allies | social | 3 | 0.75
+23. frighten + blind-or-deafen | innate | 1 | 0.75
+24. keep-a-bonded-creature | innate | 1 | 0.85
+25. keep-a-bonded-creature | innate | 1 | 0.85

@@ -1,0 +1,25 @@
+1. increase-proficiency-or-defence | trained-skill | 1 | 0.78
+2. increase-proficiency-or-defence | magical | 1 | 0.79
+3. attack-more-often + enhance-a-weapon-s-bite | manual | 1 | 0.5
+4. increase-proficiency-or-defence | magical | 1 | 0.82
+5. increase-proficiency-or-defence | manual | 1 | 0.74
+6. grants-another-option | magical | 1 | 0.75
+7. specialise-in-a-tradition | innate | 1 | 0.45
+8. travel-overland + track-a-creature | trained-skill | 2 | 0.55
+9. punish-an-opening | manual | 1 | 0.65
+10. draw-on-an-inner-source | innate | 1 | 0.8
+11. increase-proficiency-or-defence | trained-skill | 1 | 0.77
+12. compound-a-substance | alchemical | 1 | 0.55
+13. grants-another-option | magical | 1 | 0.4
+14. specialise-in-a-tradition | innate | 1 | 0.44
+15. increase-proficiency-or-defence | manual | 1 | 0.73
+16. increase-proficiency-or-defence | trained-skill | 1 | 0.72
+17. specialise-in-a-tradition | innate | 1 | 0.43
+18. grants-another-option | item | 1 | 0.46
+19. absorb-or-blunt-damage | item | 1 | 0.7
+20. guard-your-mind | innate | 1 | 0.5
+21. expand-a-resource-pool | magical | 1 | 0.53
+22. grants-another-option | divine | 1 | 0.48
+23. increase-proficiency-or-defence + grants-another-option | trained-skill | 1 | 0.68
+24. ambush-an-unready-foe | manual | 1 | 0.6
+25. increase-proficiency-or-defence | magical | 1 | 0.69

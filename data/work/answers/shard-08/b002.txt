@@ -1,0 +1,25 @@
+1. claim-a-past-vocation | innate | 1 | 0.38
+2. improve-your-luck | magical | 1 | 0.52
+3. claim-a-past-vocation | trained-skill | 1 | 0.42
+4. claim-a-past-vocation | social | 1 | 0.28
+5. claim-a-past-vocation | manual | 1 | 0.4
+6. claim-a-past-vocation | manual | 1 | 0.41
+7. belong-to-an-order | social | 1 | 0.48
+8. claim-a-past-vocation | trained-skill | 1 | 0.44
+9. claim-a-lineage | social | 1 | 0.4
+10. claim-a-past-vocation | trained-skill | 1 | 0.43
+11. gain-an-extra-action | magical | 1 | 0.53
+12. claim-a-past-vocation | social | 1 | 0.3
+13. draw-on-an-inner-source | magical | 1 | 0.39
+14. specialise-in-a-tradition + gain-a-buffer-of-vitality | magical | 1 | 0.46
+15. increase-proficiency-or-defence | trained-skill | 1 | 0.78
+16. grants-another-option | innate | 1 | 0.8
+17. grants-another-option | innate | 1 | 0.8
+18. specialise-in-a-tradition | magical | 1 | 0.45
+19. increase-proficiency-or-defence | trained-skill | 1 | 0.76
+20. increase-attributes-or-health | innate | 1 | 0.82
+21. guard-your-mind + protect-a-group | divine | 2 | 0.55
+22. increase-proficiency-or-defence + act-sooner-than-others | trained-skill | 1 | 0.5
+23. strike-with-overwhelming-force | manual | 1 | 0.56
+24. turn-or-rebuke-a-creature-type | divine | 2 | 0.74
+25. grants-another-option | social | 1 | 0.72

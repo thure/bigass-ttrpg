@@ -1,0 +1,25 @@
+1. poison-a-foe + dull-a-foe-s-capability | alchemical | 1 | 0.55
+2. harm-many-at-once + blind-or-deafen | item | 2 | 0.6
+3. bind-a-creature-in-place | manual | 1 | 0.68
+4. conceal-an-object | magical | 1 | 0.4
+5. grants-another-option | item | 1 | 0.38
+6. climb-a-vertical-surface + bind-a-creature-in-place | item | 1 | 0.58
+7. conceal-an-object | technological | 1 | 0.6
+8. craft-an-object | item | 1 | 0.22
+9. notice-what-is-hidden + recall-what-you-have-learned | item | 1 | 0.42
+10. walk-on-unstable-footing | alchemical | 1 | 0.32
+11. enhance-a-weapon-s-bite | item | 1 | 0.65
+12. shrug-off-an-effect-you-failed-to-avoid | item | 1 | 0.4
+13. lie-convincingly | alchemical | 1 | 0.33
+14. notice-what-is-hidden | item | 1 | 0.7
+15. read-or-enter-a-mind + sense-a-distant-place | item | 1 | 0.55
+16. grants-another-option | item | 1 | 0.4
+17. be-harder-to-hit | item | 1 | 0.38
+18. poison-a-foe | alchemical | 1 | 0.85
+19. destroy-an-object + inflict-a-lingering-wound | item | 1 | 0.58
+20. impose-misfortune + improve-your-luck | item | 1 | 0.52
+21. persuade-by-reason-or-charm | alchemical | 1 | 0.4
+22. resist-a-kind-of-harm | item | 1 | 0.55
+23. resist-a-kind-of-harm | item | 1 | 0.5
+24. strike-a-distant-foe + see-in-darkness | item | 1 | 0.38
+25. mark-a-foe-as-vulnerable | item | 1 | 0.45

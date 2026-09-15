@@ -1,0 +1,25 @@
+1. claim-a-past-vocation | social | 1 | 0.55
+2. carry-a-burden | social | 1 | 0.42
+3. claim-a-past-vocation | social | 1 | 0.62
+4. claim-a-past-vocation | trained-skill | 1 | 0.5
+5. carry-a-burden | social | 1 | 0.35
+6. carry-a-burden | social | 1 | 0.4
+7. claim-a-lineage | social | 1 | 0.66
+8. claim-a-past-vocation | technological | 1 | 0.48
+9. build-your-reputation | social | 1 | 0.58
+10. specialise-in-a-tradition | trained-skill | 1 | 0.5
+11. carry-a-burden | divine | 1 | 0.6
+12. claim-a-past-vocation | social | 1 | 0.38
+13. claim-a-past-vocation | trained-skill | 1 | 0.52
+14. climb-a-vertical-surface + walk-on-unstable-footing | innate | 1 | 0.68
+15. compound-a-substance | alchemical | 1 | 0.72
+16. grants-another-option | manual | 1 | 0.56
+17. grants-another-option | manual | 1 | 0.57
+18. expand-a-resource-pool | magical | 1 | 0.44
+19. increase-proficiency-or-defence | manual | 1 | 0.82
+20. increase-attributes-or-health | manual | 1 | 0.86
+21. grants-another-option | manual | 1 | 0.63
+22. heal-a-body | divine | 1 | 0.54
+23. increase-proficiency-or-defence | manual | 1 | 0.8
+24. grants-another-option | magical | 1 | 0.47
+25. craft-an-object | tool | 1 | 0.33

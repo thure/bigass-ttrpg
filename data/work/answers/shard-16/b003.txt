@@ -1,0 +1,25 @@
+1. increase-proficiency-or-defence | trained-skill | 1 | 0.62
+2. bind-yourself-to-a-power | divine | 1 | 0.8
+3. increase-proficiency-or-defence | divine | 1 | 0.7
+4. specialise-in-a-tradition | divine | 1 | 0.55
+5. claim-a-lineage | innate | 1 | 0.68
+6. specialise-in-a-tradition | magical | 1 | 0.6
+7. grants-another-option | ritual | 1 | 0.5
+8. question-the-dead | magical | 1 | 0.82
+9. grants-another-option | innate | 1 | 0.65
+10. protect-a-group | divine | 2 | 0.5
+11. increase-proficiency-or-defence | magical | 1 | 0.72
+12. attack-more-often | manual | 1 | 0.85
+13. act-sooner-than-others | innate | 1 | 0.8
+14. be-harder-to-hit | trained-skill | 1 | 0.65
+15. expand-a-resource-pool | magical | 1 | 0.7
+16. increase-proficiency-or-defence | innate | 1 | 0.72
+17. increase-proficiency-or-defence + shrug-off-an-effect-you-failed-to-avoid | innate | 1 | 0.6
+18. numeric-variant | manual | 1 | 0.55
+19. cheat-death | divine | 1 | 0.58
+20. grants-another-option | magical | 1 | 0.55
+21. increase-proficiency-or-defence | innate | 1 | 0.7
+22. exploit-a-known-weakness | magical | 1 | 0.65
+23. increase-proficiency-or-defence | innate | 1 | 0.68
+24. cross-resisting-ground | innate | 1 | 0.78
+25. increase-proficiency-or-defence | divine | 1 | 0.7

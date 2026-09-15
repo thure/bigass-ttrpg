@@ -1,0 +1,25 @@
+1. strike-a-distant-foe | technological | 1 | 0.42
+2. disengage-from-danger | innate | 1 | 0.72
+3. trade-and-bargain | social | 3 | 0.52
+4. earn-income | social | 3 | 0.6
+5. change-another-s-shape | magical | 1 | 0.55
+6. run-a-long-project | manual | 3 | 0.48
+7. grants-another-option | magical | 1 | 0.4
+8. raise-a-structure | manual | 3 | 0.55
+9. harm-many-at-once | innate | 2 | 0.78
+10. gain-access-to-closed-circles | social | 1 | 0.53
+11. drain-life-to-sustain-yourself | innate | 1 | 0.87
+12. negate-an-effect-outright | innate | 1 | 0.65
+13. grants-another-option | social | 1 | 0.5
+14. confuse-or-scramble-a-mind | trained-skill | 1 | 0.38
+15. gain-followers | social | 3 | 0.66
+16. compound-a-substance | alchemical | 1 | 0.87
+17. rest-and-recover | manual | 1 | 0.5
+18. strike-a-foe-in-reach + reposition-another-creature | innate | 1 | 0.56
+19. coerce-through-threat | social | 3 | 0.54
+20. strike-a-foe-in-reach | innate | 1 | 0.6
+21. frighten | social | 3 | 0.53
+22. cross-resisting-ground | trained-skill | 1 | 0.61
+23. keep-a-bonded-creature | innate | 1 | 0.8
+24. keep-a-bonded-creature | innate | 1 | 0.81
+25. keep-a-bonded-creature | innate | 1 | 0.79

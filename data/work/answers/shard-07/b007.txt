@@ -1,0 +1,25 @@
+1. teleport-a-short-distance + obscure-an-area | item | 1 | 0.6
+2. blind-or-deafen | item | 2 | 0.45
+3. store-an-effect-for-later | item | 1 | 0.4
+4. resist-a-kind-of-harm | item | 1 | 0.7
+5. poison-a-foe | alchemical | 1 | 0.6
+6. climb-a-vertical-surface | tool | 1 | 0.5
+7. change-your-own-shape + fly | item | 1 | 0.55
+8. resist-a-kind-of-harm | item | 1 | 0.4
+9. hide-a-message | item | 1 | 0.75
+10. keep-a-bonded-creature | item | 1 | 0.5
+11. read-any-writing | alchemical | 1 | 0.75
+12. secure-shelter-and-supply | manual | 1 | 0.3
+13. trade-and-bargain | manual | 1 | 0.3
+14. ward-an-area | alchemical | 1 | 0.45
+15. sense-a-distant-place | item | 1 | 0.75
+16. restore-a-diminished-capacity | alchemical | 1 | 0.55
+17. enhance-a-weapon-s-bite | item | 1 | 0.45
+18. resist-a-kind-of-harm + enhance-a-weapon-s-bite | item | 1 | 0.5
+19. kill-outright + frighten | magical | 1 | 0.4
+20. strike-a-distant-foe + harm-many-at-once | item | 1 | 0.6
+21. teleport-a-short-distance | magical | 1 | 0.45
+22. perceive-without-sight | item | 1 | 0.6
+23. poison-a-foe | alchemical | 1 | 0.7
+24. harm-many-at-once | item | 1 | 0.4
+25. fly | item | 1 | 0.75

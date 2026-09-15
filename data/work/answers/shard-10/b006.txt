@@ -1,0 +1,25 @@
+1. increase-attributes-or-health | item | 1 | 0.8
+2. secure-shelter-and-supply | item | 1 | 0.35
+3. poison-a-foe | alchemical | 1 | 0.75
+4. grants-another-option | magical | 1 | 0.4
+5. resist-a-kind-of-harm | item | 1 | 0.8
+6. lift-a-curse | item | 2 | 0.45
+7. identify-a-creature + exploit-a-known-weakness | item | 1 | 0.5
+8. harm-many-at-once | item | 1 | 0.4
+9. exploit-a-known-weakness + inflict-a-lingering-wound | alchemical | 1 | 0.6
+10. be-harder-to-hit | item | 1 | 0.4
+11. mark-a-foe-as-vulnerable | magical | 1 | 0.5
+12. increase-attributes-or-health + gain-a-creature-s-trait | item | 1 | 0.45
+13. confuse-or-scramble-a-mind | magical | 1 | 0.7
+14. turn-an-attack-back | alchemical | 1 | 0.7
+15. reposition-another-creature | magical | 1 | 0.4
+16. blind-or-deafen | alchemical | 1 | 0.75
+17. perceive-without-sight + track-a-creature | alchemical | 1 | 0.55
+18. mark-a-foe-as-vulnerable | alchemical | 1 | 0.55
+19. alter-gravity-or-orientation | magical | 1 | 0.65
+20. improve-your-luck | magical | 1 | 0.75
+21. be-harder-to-hit | item | 1 | 0.7
+22. poison-a-foe + drain-vitality-lastingly | alchemical | 1 | 0.6
+23. recall-what-you-have-learned | item | 1 | 0.65
+24. harm-many-at-once | magical | 2 | 0.65
+25. gather-information-from-people | social | 1 | 0.5

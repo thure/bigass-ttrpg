@@ -1,0 +1,25 @@
+1. resist-a-kind-of-harm | manual | 1 | 0.6
+2. strike-a-foe-in-reach | innate | 1 | 0.6
+3. command-obedience | magical | 1 | 0.45
+4. dull-a-foe-s-capability | innate | 1 | 0.55
+5. forge-a-document | trained-skill | 1 | 0.85
+6. frighten | trained-skill | 1 | 0.8
+7. control-fire | innate | 1 | 0.75
+8. run-a-long-project | trained-skill | 3 | 0.6
+9. absorb-or-blunt-damage + mark-a-foe-as-vulnerable | divine | 1 | 0.55
+10. move-faster | innate | 1 | 0.8
+11. harm-many-at-once | innate | 1 | 0.75
+12. heal-a-body + shake-off-an-affliction | innate | 1 | 0.6
+13. ambush-an-unready-foe | magical | 1 | 0.5
+14. draw-on-an-inner-source | innate | 1 | 0.65
+15. notice-what-is-hidden | social | 1 | 0.4
+16. draw-on-an-inner-source | innate | 1 | 0.65
+17. unclassified | manual | 1 | 0.3
+18. harm-many-at-once | tool | 2 | 0.6
+19. strike-a-foe-in-reach | innate | 1 | 0.75
+20. run-a-long-project | trained-skill | 1 | 0.6
+21. provoke-a-foe-to-target-you | social | 1 | 0.75
+22. unclassified | trained-skill | 1 | 0.35
+23. keep-a-bonded-creature | innate | 1 | 0.8
+24. keep-a-bonded-creature | innate | 1 | 0.8
+25. keep-a-bonded-creature | innate | 1 | 0.8

@@ -1,0 +1,25 @@
+1. sense-through-another-creature | magical | 1 | 0.45
+2. command-obedience | magical | 2 | 0.4
+3. cure-poison-or-disease | alchemical | 1 | 0.65
+4. cross-resisting-ground | item | 1 | 0.7
+5. be-harder-to-hit | item | 1 | 0.75
+6. cure-poison-or-disease | alchemical | 1 | 0.68
+7. disguise-what-a-thing-is | alchemical | 1 | 0.62
+8. unclassified | item | 1 | 0.3
+9. alter-gravity-or-orientation | magical | 1 | 0.55
+10. be-harder-to-hit | item | 1 | 0.5
+11. perceive-without-sight | magical | 2 | 0.72
+12. inspire-allies | magical | 2 | 0.68
+13. unclassified | item | 1 | 0.3
+14. move-a-group | magical | 2 | 0.55
+15. increase-proficiency-or-defence | magical | 1 | 0.6
+16. harm-many-at-once + resist-a-kind-of-harm | alchemical | 2 | 0.65
+17. inflict-a-lingering-wound | magical | 1 | 0.68
+18. heal-a-body | divine | 1 | 0.6
+19. command-obedience | magical | 1 | 0.55
+20. quiet-a-troubled-mind | alchemical | 1 | 0.72
+21. be-harder-to-hit | item | 1 | 0.78
+22. calm-hostility | magical | 2 | 0.6
+23. resist-a-kind-of-harm + detect-a-kind-of-creature | item | 1 | 0.55
+24. call-an-outsider | divine | 2 | 0.6
+25. gather-information-from-people | social | 2 | 0.65

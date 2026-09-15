@@ -1,0 +1,25 @@
+1. absorb-or-blunt-damage | trained-skill | 1 | 0.75
+2. increase-proficiency-or-defence | trained-skill | 1 | 0.8
+3. increase-proficiency-or-defence | trained-skill | 1 | 0.79
+4. increase-proficiency-or-defence | trained-skill | 1 | 0.81
+5. numeric-variant | trained-skill | 1 | 0.6
+6. numeric-variant | trained-skill | 1 | 0.58
+7. increase-proficiency-or-defence | innate | 1 | 0.83
+8. condition-state | innate | 1 | 0.62
+9. condition-state | innate | 1 | 0.64
+10. condition-state | magical | 1 | 0.66
+11. condition-state | innate | 1 | 0.56
+12. detect-a-kind-of-creature | innate | 1 | 0.61
+13. curse-a-creature | divine | 1 | 0.4
+14. swap-places-or-bodies | magical | 1 | 0.7
+15. curse-a-creature + mark-a-foe-as-vulnerable | divine | 1 | 0.63
+16. specialise-in-a-tradition | divine | 1 | 0.42
+17. inflict-disease | divine | 1 | 0.55
+18. keep-a-bonded-creature | magical | 1 | 0.67
+19. grants-another-option | item | 1 | 0.45
+20. make-an-extradimensional-space + increase-proficiency-or-defence | item | 1 | 0.5
+21. poison-a-foe | alchemical | 1 | 0.77
+22. go-without-necessities | item | 1 | 0.41
+23. communicate-at-a-distance | item | 1 | 0.43
+24. poison-a-foe | alchemical | 1 | 0.52
+25. enhance-a-weapon-s-bite | item | 1 | 0.57

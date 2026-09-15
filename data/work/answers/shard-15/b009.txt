@@ -1,0 +1,25 @@
+1. set-a-trap + dull-a-foe-s-capability | technological | 1 | 0.55
+2. open-a-path-through-matter | magical | 1 | 0.6
+3. expand-a-resource-pool | magical | 1 | 0.65
+4. enhance-a-weapon-s-bite + resist-a-kind-of-harm | magical | 1 | 0.4
+5. teleport-a-short-distance + harm-many-at-once | technological | 1 | 0.55
+6. extend-your-senses | magical | 1 | 0.55
+7. detect-a-kind-of-creature + turn-an-attack-back | divine | 1 | 0.55
+8. be-harder-to-hit + grants-another-option | magical | 1 | 0.45
+9. sense-a-distant-place | magical | 1 | 0.5
+10. make-an-extradimensional-space | magical | 1 | 0.75
+11. keep-the-dying-alive | tool | 1 | 0.75
+12. resist-a-kind-of-harm + harm-many-at-once | magical | 1 | 0.45
+13. conceal-an-object | item | 1 | 0.75
+14. resist-a-kind-of-harm + fly | divine | 1 | 0.4
+15. harm-many-at-once | alchemical | 2 | 0.65
+16. exploit-a-known-weakness + improve-your-luck | divine | 1 | 0.5
+17. duplicate-a-thing-or-person | magical | 1 | 0.35
+18. grants-another-option | magical | 1 | 0.3
+19. raise-a-structure | magical | 2 | 0.75
+20. act-sooner-than-others | magical | 1 | 0.6
+21. enhance-a-weapon-s-bite | alchemical | 1 | 0.65
+22. extend-your-senses + resist-a-kind-of-harm | magical | 1 | 0.45
+23. strike-a-distant-foe + inflict-a-lingering-wound | alchemical | 1 | 0.6
+24. interpose-yourself-for-another | magical | 1 | 0.7
+25. call-a-creature-to-fight-for-you + obscure-an-area | alchemical | 2 | 0.5

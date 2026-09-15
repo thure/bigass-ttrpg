@@ -1,0 +1,25 @@
+1. charm-into-friendship | magical | 1 | 0.45
+2. notice-what-is-hidden | alchemical | 1 | 0.6
+3. call-an-outsider | magical | 1 | 0.75
+4. frighten | magical | 1 | 0.5
+5. blind-or-deafen | magical | 1 | 0.6
+6. climb-a-vertical-surface | tool | 1 | 0.75
+7. change-your-own-shape | magical | 1 | 0.6
+8. craft-an-object | item | 1 | 0.3
+9. hide-a-message | social | 1 | 0.7
+10. walk-on-unstable-footing | alchemical | 1 | 0.4
+11. hide-a-message | item | 1 | 0.55
+12. fight-as-a-unit | alchemical | 1 | 0.5
+13. negate-an-effect-outright | magical | 1 | 0.75
+14. breach-a-locked-boundary | tool | 1 | 0.35
+15. sense-a-distant-place + communicate-at-a-distance | magical | 1 | 0.7
+16. curse-a-creature | item | 1 | 0.7
+17. craft-an-object | item | 1 | 0.4
+18. cheat-death | magical | 1 | 0.6
+19. harm-many-at-once + destroy-an-object | alchemical | 1 | 0.5
+20. command-obedience | magical | 1 | 0.65
+21. keep-a-bonded-creature | item | 1 | 0.4
+22. detect-magic + craft-an-object | item | 1 | 0.45
+23. harm-many-at-once + strike-a-foe-in-reach | magical | 2 | 0.5
+24. harm-many-at-once | magical | 1 | 0.45
+25. enhance-a-weapon-s-bite | magical | 1 | 0.6

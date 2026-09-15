@@ -1,0 +1,25 @@
+1. increase-proficiency-or-defence | innate | 1 | 0.87
+2. increase-proficiency-or-defence | innate | 1 | 0.85
+3. increase-proficiency-or-defence | magical | 1 | 0.84
+4. increase-proficiency-or-defence | innate | 1 | 0.86
+5. increase-proficiency-or-defence | innate | 1 | 0.83
+6. grants-another-option | magical | 1 | 0.45
+7. grants-another-option | innate | 1 | 0.6
+8. mark-a-foe-as-vulnerable | trained-skill | 1 | 0.75
+9. grants-another-option | divine | 1 | 0.44
+10. increase-proficiency-or-defence | innate | 1 | 0.78
+11. increase-proficiency-or-defence | innate | 1 | 0.85
+12. increase-proficiency-or-defence | psychic | 1 | 0.8
+13. specialise-in-a-tradition | psychic | 1 | 0.43
+14. increase-proficiency-or-defence | trained-skill | 1 | 0.82
+15. increase-proficiency-or-defence | innate | 1 | 0.85
+16. increase-proficiency-or-defence | innate | 1 | 0.79
+17. inscribe-a-lasting-mark | magical | 1 | 0.7
+18. heal-a-body | innate | 1 | 0.63
+19. grants-another-option | magical | 1 | 0.46
+20. ambush-an-unready-foe | trained-skill | 1 | 0.85
+21. specialise-in-a-tradition | psychic | 1 | 0.47
+22. specialise-in-a-tradition | magical | 1 | 0.55
+23. grants-another-option | innate | 1 | 0.76
+24. increase-proficiency-or-defence | trained-skill | 1 | 0.81
+25. grants-another-option + expand-a-resource-pool | magical | 1 | 0.42

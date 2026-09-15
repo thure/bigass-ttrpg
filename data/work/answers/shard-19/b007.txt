@@ -1,0 +1,25 @@
+1. fly | item | 1 | 0.7
+2. resist-a-kind-of-harm | alchemical | 1 | 0.4
+3. break-free-of-restraint | item | 1 | 0.65
+4. unclassified | item | 1 | 0.3
+5. recall-what-you-have-learned | alchemical | 1 | 0.51
+6. hide-from-notice | item | 1 | 0.56
+7. survive-a-hostile-environment | technological | 1 | 0.61
+8. survive-a-hostile-environment | item | 1 | 0.49
+9. transmute-raw-material | alchemical | 1 | 0.54
+10. inspire-allies | item | 1 | 0.48
+11. be-harder-to-hit | item | 1 | 0.53
+12. track-a-creature | item | 1 | 0.6
+13. unclassified | innate | 1 | 0.35
+14. guard-your-mind + command-obedience | item | 1 | 0.47
+15. harm-many-at-once | alchemical | 1 | 0.62
+16. poison-a-foe | item | 1 | 0.66
+17. breach-a-locked-boundary | magical | 2 | 0.45
+18. open-a-portal | magical | 3 | 0.58
+19. frighten | item | 1 | 0.63
+20. improve-your-luck | item | 1 | 0.57
+21. disguise-your-appearance | tool | 1 | 0.76
+22. unclassified | innate | 1 | 0.32
+23. exploit-a-known-weakness | item | 1 | 0.52
+24. harm-many-at-once | item | 1 | 0.46
+25. obscure-an-area | item | 1 | 0.64

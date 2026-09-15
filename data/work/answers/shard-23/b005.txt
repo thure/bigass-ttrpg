@@ -1,0 +1,25 @@
+1. cross-resisting-ground | innate | 1 | 0.8
+2. increase-proficiency-or-defence | innate | 1 | 0.55
+3. increase-proficiency-or-defence | trained-skill | 1 | 0.85
+4. increase-proficiency-or-defence | trained-skill | 1 | 0.85
+5. numeric-variant | manual | 1 | 0.75
+6. numeric-variant | manual | 1 | 0.75
+7. grants-another-option | magical | 1 | 0.75
+8. condition-state | manual | 3 | 0.6
+9. condition-state | manual | 1 | 0.75
+10. condition-state | manual | 1 | 0.75
+11. ambush-an-unready-foe | innate | 1 | 0.6
+12. reposition-another-creature | innate | 1 | 0.75
+13. curse-a-creature | magical | 1 | 0.5
+14. curse-a-creature | divine | 1 | 0.7
+15. curse-a-creature | magical | 1 | 0.6
+16. control-fire | divine | 1 | 0.55
+17. specialise-in-a-tradition | divine | 1 | 0.5
+18. share-power-with-a-bonded-creature | magical | 1 | 0.55
+19. store-an-effect-for-later | magical | 1 | 0.55
+20. poison-a-foe + kill-outright | alchemical | 1 | 0.55
+21. move-faster | magical | 1 | 0.55
+22. detect-magic | item | 1 | 0.6
+23. strike-a-distant-foe | technological | 1 | 0.3
+24. enhance-a-weapon-s-bite + close-on-a-foe | magical | 1 | 0.55
+25. numeric-variant | item | 1 | 0.85

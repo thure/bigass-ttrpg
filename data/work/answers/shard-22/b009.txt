@@ -1,0 +1,25 @@
+1. mark-a-foe-as-vulnerable | magical | 1 | 0.65
+2. strike-a-foe-in-reach + lie-convincingly | item | 1 | 0.46
+3. call-a-creature-to-fight-for-you | magical | 1 | 0.34
+4. inspire-allies | item | 2 | 0.62
+5. destroy-an-object + inflict-a-lingering-wound | alchemical | 1 | 0.67
+6. be-harder-to-hit + block-magical-passage | item | 1 | 0.4
+7. craft-an-object + resist-a-kind-of-harm | item | 1 | 0.43
+8. recruit-help + locate-a-person-or-thing | social | 1 | 0.75
+9. harm-many-at-once + strike-a-distant-foe | item | 2 | 0.69
+10. sense-or-shape-fate | item | 1 | 0.58
+11. be-harder-to-hit + resist-a-kind-of-harm | divine | 1 | 0.37
+12. read-or-enter-a-mind | item | 1 | 0.79
+13. build-a-barrier | item | 1 | 0.83
+14. know-where-you-are | item | 1 | 0.6
+15. ride-a-mount + strike-a-distant-foe | item | 1 | 0.49
+16. set-a-trap + stop-a-foe-moving | item | 1 | 0.85
+17. bind-a-creature-in-place | magical | 1 | 0.52
+18. recover-on-your-own + bind-yourself-to-a-power | magical | 1 | 0.55
+19. unclassified | item | 1 | 0.28
+20. be-harder-to-hit | item | 1 | 0.87
+21. secure-shelter-and-supply | social | 1 | 0.73
+22. make-light | item | 1 | 0.77
+23. keep-a-bonded-creature | innate | 1 | 0.31
+24. reposition-another-creature | item | 1 | 0.71
+25. turn-or-rebuke-a-creature-type | item | 2 | 0.81

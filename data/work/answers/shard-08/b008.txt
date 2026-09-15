@@ -1,0 +1,25 @@
+1. control-water + slow-a-foe | magical | 1 | 0.5
+2. numeric-variant | item | 1 | 0.55
+3. notice-what-is-hidden | alchemical | 1 | 0.68
+4. gain-a-creature-s-trait + grow-or-wither-plants | magical | 1 | 0.4
+5. sense-a-distant-place + communicate-at-a-distance | magical | 1 | 0.5
+6. act-sooner-than-others + shrug-off-an-effect-you-failed-to-avoid | alchemical | 1 | 0.5
+7. grants-another-option | magical | 1 | 0.3
+8. enhance-a-weapon-s-bite | magical | 1 | 0.45
+9. harm-many-at-once | item | 1 | 0.65
+10. charm-into-friendship | magical | 1 | 0.65
+11. conceal-an-object + hide-a-message | item | 1 | 0.55
+12. poison-a-foe + frighten | alchemical | 1 | 0.6
+13. bind-a-creature-in-place | item | 1 | 0.65
+14. set-a-trap + blind-or-deafen | technological | 1 | 0.55
+15. return-the-dead-to-life | divine | 1 | 0.55
+16. ward-an-area | magical | 1 | 0.35
+17. forge-a-document | tool | 1 | 0.7
+18. detect-a-lie + poison-a-foe | alchemical | 1 | 0.45
+19. harm-many-at-once | alchemical | 1 | 0.6
+20. resist-a-kind-of-harm + punish-an-opening | alchemical | 1 | 0.5
+21. see-through-deception + perceive-the-incorporeal | item | 1 | 0.45
+22. conceal-an-object | magical | 1 | 0.35
+23. craft-an-object | tool | 1 | 0.65
+24. poison-a-foe | alchemical | 1 | 0.65
+25. command-obedience | magical | 1 | 0.55

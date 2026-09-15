@@ -1,0 +1,25 @@
+1. avoid-a-danger-you-foresaw | innate | 1 | 0.63
+2. absorb-or-blunt-damage + turn-an-attack-back | trained-skill | 1 | 0.58
+3. heal-a-body | divine | 1 | 0.8
+4. draw-on-an-inner-source | divine | 1 | 0.52
+5. increase-attributes-or-health + gain-a-creature-s-trait | innate | 1 | 0.55
+6. specialise-in-a-tradition | magical | 1 | 0.76
+7. improve-what-a-companion-can-do | innate | 1 | 0.6
+8. reposition-another-creature | magical | 1 | 0.77
+9. grants-another-option | manual | 1 | 0.85
+10. increase-proficiency-or-defence | manual | 1 | 0.82
+11. increase-proficiency-or-defence | divine | 1 | 0.84
+12. increase-proficiency-or-defence | alchemical | 1 | 0.79
+13. move-faster | innate | 1 | 0.87
+14. grants-another-option | manual | 1 | 0.74
+15. attack-more-often | trained-skill | 1 | 0.86
+16. grants-another-option | magical | 1 | 0.54
+17. increase-proficiency-or-defence + shrug-off-an-effect-you-failed-to-avoid | manual | 1 | 0.61
+18. numeric-variant | manual | 1 | 0.59
+19. increase-proficiency-or-defence | technological | 1 | 0.69
+20. punish-an-opening | trained-skill | 1 | 0.71
+21. grants-another-option | manual | 1 | 0.73
+22. craft-an-object | technological | 1 | 0.5
+23. increase-proficiency-or-defence | manual | 1 | 0.83
+24. specialise-in-a-tradition | magical | 1 | 0.51
+25. increase-proficiency-or-defence | magical | 1 | 0.81

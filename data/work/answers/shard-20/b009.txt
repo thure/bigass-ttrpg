@@ -1,0 +1,25 @@
+1. turn-an-attack-back | item | 1 | 0.4
+2. resist-a-kind-of-harm | item | 1 | 0.7
+3. enhance-a-weapon-s-bite | item | 1 | 0.5
+4. inflict-a-lingering-wound | item | 1 | 0.55
+5. reposition-another-creature | item | 1 | 0.65
+6. teleport-a-short-distance | item | 1 | 0.55
+7. impose-misfortune | item | 1 | 0.65
+8. recruit-help | social | 1 | 0.5
+9. unclassified | tool | 1 | 0.3
+10. inflict-a-lingering-wound | item | 1 | 0.6
+11. restore-a-diminished-capacity | item | 1 | 0.55
+12. speak-with-the-otherwise-mute | item | 1 | 0.55
+13. destroy-an-object | technological | 1 | 0.55
+14. exploit-a-known-weakness | alchemical | 1 | 0.5
+15. curse-a-creature + confuse-or-scramble-a-mind | magical | 2 | 0.5
+16. specialise-in-a-tradition | magical | 1 | 0.4
+17. curse-a-creature | magical | 1 | 0.5
+18. absorb-or-blunt-damage | item | 1 | 0.6
+19. unclassified | item | 1 | 0.3
+20. increase-attributes-or-health | item | 1 | 0.75
+21. blind-or-deafen | alchemical | 1 | 0.65
+22. speak-with-the-otherwise-mute | item | 1 | 0.45
+23. enhance-a-weapon-s-bite | item | 1 | 0.5
+24. reposition-another-creature | item | 1 | 0.45
+25. banish-a-creature | item | 1 | 0.55

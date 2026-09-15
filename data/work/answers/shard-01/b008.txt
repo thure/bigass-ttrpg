@@ -1,0 +1,25 @@
+1. put-to-sleep | alchemical | 1 | 0.6
+2. numeric-variant | item | 1 | 0.3
+3. enhance-a-weapon-s-bite | item | 1 | 0.55
+4. make-an-extradimensional-space | magical | 1 | 0.65
+5. return-the-dead-to-life + heal-a-body | alchemical | 2 | 0.55
+6. make-an-extradimensional-space | magical | 1 | 0.5
+7. poison-a-foe | alchemical | 1 | 0.65
+8. harm-many-at-once | alchemical | 2 | 0.4
+9. harm-many-at-once | magical | 1 | 0.55
+10. identify-a-creature | magical | 1 | 0.6
+11. break-free-of-restraint | item | 1 | 0.55
+12. call-a-creature-to-fight-for-you | magical | 1 | 0.6
+13. grants-another-option | magical | 1 | 0.4
+14. enhance-a-weapon-s-bite | divine | 1 | 0.5
+15. recruit-help | social | 1 | 0.6
+16. be-harder-to-hit | magical | 1 | 0.45
+17. harm-many-at-once | alchemical | 2 | 0.55
+18. call-a-creature-to-fight-for-you | magical | 1 | 0.55
+19. strike-a-distant-foe + slow-a-foe | alchemical | 1 | 0.55
+20. become-insubstantial + harm-many-at-once | magical | 1 | 0.5
+21. enhance-a-weapon-s-bite | technological | 1 | 0.35
+22. perceive-the-incorporeal | magical | 1 | 0.5
+23. raise-a-structure | magical | 2 | 0.6
+24. climb-a-vertical-surface + move-through-water | item | 1 | 0.55
+25. call-a-creature-to-fight-for-you | magical | 1 | 0.6

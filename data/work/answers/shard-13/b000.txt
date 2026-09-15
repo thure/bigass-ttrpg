@@ -1,0 +1,25 @@
+1. poison-a-foe | innate | 1 | 0.85
+2. close-on-a-foe + strike-a-foe-in-reach | manual | 1 | 0.6
+3. increase-proficiency-or-defence | innate | 1 | 0.6
+4. reposition-another-creature | trained-skill | 1 | 0.62
+5. craft-an-object | trained-skill | 1 | 0.92
+6. avoid-a-danger-you-foresaw | manual | 1 | 0.5
+7. negate-an-effect-outright + strike-a-distant-foe | magical | 1 | 0.58
+8. enhance-a-weapon-s-bite | manual | 2 | 0.55
+9. wage-mass-combat + mark-a-foe-as-vulnerable | manual | 3 | 0.52
+10. secure-shelter-and-supply | manual | 3 | 0.48
+11. bind-a-creature-in-place | innate | 1 | 0.78
+12. punish-an-opening | magical | 1 | 0.68
+13. curse-a-creature | magical | 1 | 0.83
+14. fly | trained-skill | 1 | 0.4
+15. wage-mass-combat + destroy-an-object | tool | 3 | 0.56
+16. trade-and-bargain | social | 4 | 0.66
+17. notice-what-is-hidden | trained-skill | 3 | 0.47
+18. interpose-yourself-for-another + strike-a-foe-in-reach | divine | 1 | 0.72
+19. mark-a-foe-as-vulnerable | manual | 1 | 0.7
+20. conceal-an-object | trained-skill | 1 | 0.38
+21. be-harder-to-hit | manual | 1 | 0.75
+22. trade-and-bargain | social | 4 | 0.63
+23. attack-more-often | manual | 1 | 0.5
+24. keep-a-bonded-creature | innate | 1 | 0.65
+25. keep-a-bonded-creature | innate | 1 | 0.67

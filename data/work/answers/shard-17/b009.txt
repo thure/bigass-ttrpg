@@ -1,0 +1,25 @@
+1. strike-a-distant-foe | alchemical | 1 | 0.6
+2. destroy-an-object + break-free-of-restraint | item | 1 | 0.55
+3. enhance-a-weapon-s-bite | magical | 1 | 0.35
+4. enhance-a-weapon-s-bite + reposition-another-creature | item | 1 | 0.55
+5. absorb-or-blunt-damage + punish-an-opening | item | 1 | 0.5
+6. harm-many-at-once | magical | 2 | 0.6
+7. frighten | social | 1 | 0.65
+8. recruit-help | social | 2 | 0.55
+9. set-a-trap + harm-many-at-once | technological | 2 | 0.6
+10. negate-an-effect-outright + inspire-allies | magical | 1 | 0.4
+11. heal-a-body | tool | 1 | 0.5
+12. harm-many-at-once | magical | 2 | 0.35
+13. dull-a-foe-s-capability | psychic | 1 | 0.5
+14. guard-your-mind | divine | 1 | 0.6
+15. resist-a-kind-of-harm + shake-off-an-affliction | item | 1 | 0.55
+16. ambush-an-unready-foe | item | 1 | 0.65
+17. unclassified | magical | 1 | 0.2
+18. resist-a-kind-of-harm + harm-many-at-once | item | 2 | 0.55
+19. gain-a-buffer-of-vitality | innate | 1 | 0.35
+20. negate-an-effect-outright | magical | 1 | 0.75
+21. slow-a-foe | magical | 2 | 0.55
+22. harm-many-at-once + strike-a-distant-foe | item | 1 | 0.55
+23. reposition-another-creature | magical | 1 | 0.6
+24. inflict-a-lingering-wound + harm-many-at-once | magical | 2 | 0.4
+25. bind-a-creature-in-place + dull-a-foe-s-capability | technological | 3 | 0.4

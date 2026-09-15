@@ -1,0 +1,25 @@
+1. carry-a-burden | innate | 1 | 0.48
+2. claim-a-past-vocation | trained-skill | 1 | 0.55
+3. trade-and-bargain | social | 1 | 0.6
+4. sway-an-audience | trained-skill | 1 | 0.5
+5. repair-an-object | trained-skill | 1 | 0.5
+6. claim-a-past-vocation | social | 1 | 0.55
+7. belong-to-an-order | social | 1 | 0.45
+8. follow-a-code | social | 1 | 0.45
+9. claim-a-past-vocation | social | 1 | 0.55
+10. improve-your-luck | magical | 1 | 0.62
+11. climb-a-vertical-surface | trained-skill | 1 | 0.45
+12. move-through-water | trained-skill | 1 | 0.6
+13. heal-a-body | trained-skill | 1 | 0.42
+14. specialise-in-a-tradition | magical | 1 | 0.5
+15. increase-proficiency-or-defence + expand-a-resource-pool | trained-skill | 1 | 0.55
+16. grants-another-option | manual | 1 | 0.72
+17. grants-another-option | manual | 1 | 0.7
+18. grants-another-option | manual | 1 | 0.73
+19. expand-a-resource-pool | magical | 1 | 0.55
+20. increase-attributes-or-health | manual | 1 | 0.82
+21. protect-a-group | divine | 3 | 0.55
+22. inspire-allies | social | 1 | 0.65
+23. guard-your-mind | trained-skill | 1 | 0.5
+24. expand-a-resource-pool | divine | 1 | 0.78
+25. grants-another-option | divine | 1 | 0.68

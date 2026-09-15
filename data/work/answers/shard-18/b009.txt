@@ -1,0 +1,25 @@
+1. ward-an-area | technological | 1 | 0.55
+2. inflict-a-lingering-wound | magical | 1 | 0.5
+3. resist-a-kind-of-harm | item | 1 | 0.7
+4. mark-a-foe-as-vulnerable | alchemical | 1 | 0.6
+5. enhance-a-weapon-s-bite | item | 1 | 0.65
+6. harm-many-at-once + frighten | item | 1 | 0.55
+7. grants-another-option | magical | 1 | 0.6
+8. recruit-help | social | 2 | 0.55
+9. hide-from-notice | item | 1 | 0.45
+10. unclassified | manual | 1 | 0.3
+11. heal-a-body | alchemical | 1 | 0.85
+12. harm-many-at-once | item | 1 | 0.4
+13. destroy-an-object | technological | 1 | 0.55
+14. strike-a-distant-foe | item | 1 | 0.6
+15. call-a-creature-to-fight-for-you | magical | 2 | 0.5
+16. enhance-a-weapon-s-bite | divine | 1 | 0.6
+17. repair-an-object | item | 1 | 0.4
+18. heal-many-at-once | item | 1 | 0.55
+19. grants-another-option | magical | 1 | 0.35
+20. increase-attributes-or-health | item | 1 | 0.8
+21. set-a-trap | technological | 1 | 0.75
+22. strike-a-distant-foe + harm-many-at-once | item | 1 | 0.6
+23. heal-a-body | divine | 1 | 0.6
+24. heal-a-body + locate-a-person-or-thing | item | 1 | 0.5
+25. harm-many-at-once | item | 1 | 0.6

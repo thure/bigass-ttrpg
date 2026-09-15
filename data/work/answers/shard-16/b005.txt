@@ -1,0 +1,25 @@
+1. increase-proficiency-or-defence | trained-skill | 1 | 0.72
+2. increase-proficiency-or-defence | innate | 1 | 0.7
+3. increase-proficiency-or-defence | trained-skill | 1 | 0.74
+4. increase-proficiency-or-defence | trained-skill | 1 | 0.74
+5. numeric-variant | manual | 1 | 0.55
+6. numeric-variant | manual | 1 | 0.55
+7. increase-proficiency-or-defence | innate | 1 | 0.65
+8. condition-state | manual | 3 | 0.5
+9. condition-state | innate | 1 | 0.6
+10. condition-state | innate | 1 | 0.65
+11. condition-state | innate | 1 | 0.68
+12. put-to-sleep | innate | 1 | 0.55
+13. fight-as-a-unit | innate | 2 | 0.6
+14. curse-a-creature | magical | 1 | 0.6
+15. curse-a-creature | magical | 1 | 0.55
+16. specialise-in-a-tradition | divine | 1 | 0.65
+17. specialise-in-a-tradition | divine | 1 | 0.65
+18. keep-a-bonded-creature + turn-an-attack-back | magical | 1 | 0.5
+19. keep-a-bonded-creature + drain-life-to-sustain-yourself | magical | 1 | 0.55
+20. poison-a-foe | alchemical | 1 | 0.6
+21. destroy-an-object | item | 1 | 0.5
+22. increase-proficiency-or-defence | item | 1 | 0.42
+23. restore-a-diminished-capacity | item | 1 | 0.45
+24. craft-an-object | tool | 1 | 0.62
+25. make-terrain-look-otherwise | magical | 1 | 0.4

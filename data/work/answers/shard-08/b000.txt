@@ -1,0 +1,25 @@
+1. inscribe-a-lasting-mark | magical | 1 | 0.55
+2. bind-a-creature-in-place | manual | 1 | 0.62
+3. be-harder-to-hit | psychic | 1 | 0.5
+4. attack-more-often | innate | 1 | 0.58
+5. wage-mass-combat + punish-an-opening | manual | 3 | 0.48
+6. dull-a-foe-s-capability + slow-a-foe | trained-skill | 1 | 0.54
+7. secure-shelter-and-supply | trained-skill | 2 | 0.5
+8. reposition-another-creature | psychic | 1 | 0.66
+9. hide-from-notice | psychic | 1 | 0.42
+10. increase-proficiency-or-defence | social | 1 | 0.38
+11. secure-shelter-and-supply | trained-skill | 3 | 0.57
+12. move-faster | innate | 1 | 0.72
+13. store-an-effect-for-later | magical | 1 | 0.4
+14. strike-a-foe-in-reach + reposition-another-creature | manual | 1 | 0.45
+15. secure-shelter-and-supply | trained-skill | 2 | 0.53
+16. secure-shelter-and-supply | trained-skill | 1 | 0.37
+17. disguise-your-appearance | innate | 1 | 0.61
+18. heal-a-body | magical | 1 | 0.78
+19. absorb-or-blunt-damage | divine | 1 | 0.6
+20. build-your-reputation | social | 3 | 0.64
+21. strike-a-foe-in-reach + close-on-a-foe | manual | 1 | 0.49
+22. reposition-another-creature + bind-a-creature-in-place | manual | 1 | 0.63
+23. reposition-another-creature + strike-a-foe-in-reach | manual | 1 | 0.56
+24. keep-a-bonded-creature | innate | 1 | 0.75
+25. keep-a-bonded-creature | innate | 1 | 0.73

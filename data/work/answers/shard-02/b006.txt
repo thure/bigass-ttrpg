@@ -1,0 +1,25 @@
+1. numeric-variant | item | 1 | 0.75
+2. survive-a-hostile-environment + move-through-water | item | 1 | 0.5
+3. ward-an-area | magical | 1 | 0.35
+4. climb-a-vertical-surface | item | 1 | 0.75
+5. numeric-variant | item | 1 | 0.8
+6. interpose-yourself-for-another | item | 1 | 0.7
+7. grants-another-option | magical | 1 | 0.4
+8. poison-a-foe | alchemical | 1 | 0.75
+9. mark-a-foe-as-vulnerable | divine | 1 | 0.65
+10. fly | item | 1 | 0.75
+11. secure-shelter-and-supply | manual | 1 | 0.35
+12. communicate-at-a-distance | item | 1 | 0.5
+13. change-your-own-shape + grow-a-natural-weapon | alchemical | 1 | 0.65
+14. make-light | innate | 1 | 0.7
+15. poison-a-foe | alchemical | 1 | 0.75
+16. silence-magic + make-light | magical | 1 | 0.55
+17. drain-life-to-sustain-yourself | magical | 1 | 0.7
+18. enhance-a-weapon-s-bite | item | 1 | 0.5
+19. duplicate-a-thing-or-person | alchemical | 1 | 0.55
+20. travel-overland | alchemical | 1 | 0.5
+21. make-an-extradimensional-space | magical | 1 | 0.65
+22. grants-another-option | magical | 1 | 0.4
+23. resist-a-kind-of-harm | item | 1 | 0.7
+24. be-harder-to-hit | item | 1 | 0.6
+25. hide-from-notice | innate | 1 | 0.7

@@ -1,0 +1,25 @@
+1. move-faster | innate | 1 | 0.85
+2. increase-proficiency-or-defence | innate | 1 | 0.85
+3. increase-proficiency-or-defence | innate | 1 | 0.84
+4. increase-proficiency-or-defence | innate | 1 | 0.83
+5. numeric-variant | innate | 1 | 0.7
+6. numeric-variant | innate | 1 | 0.68
+7. change-your-own-shape | magical | 1 | 0.85
+8. condition-state | magical | 1 | 0.88
+9. condition-state | magical | 1 | 0.86
+10. condition-state | magical | 1 | 0.9
+11. condition-state | magical | 1 | 0.87
+12. fight-as-a-unit | manual | 2 | 0.5
+13. harm-many-at-once | manual | 2 | 0.58
+14. curse-a-creature | magical | 1 | 0.82
+15. curse-a-creature + confuse-or-scramble-a-mind | magical | 1 | 0.55
+16. specialise-in-a-tradition | divine | 1 | 0.5
+17. specialise-in-a-tradition | divine | 1 | 0.48
+18. specialise-in-a-tradition | divine | 1 | 0.46
+19. share-power-with-a-bonded-creature | magical | 1 | 0.65
+20. compound-a-substance | alchemical | 1 | 0.4
+21. craft-an-object | item | 1 | 0.35
+22. grants-another-option | item | 1 | 0.45
+23. go-without-necessities | item | 1 | 0.55
+24. make-an-extradimensional-space | item | 1 | 0.72
+25. command-obedience | item | 1 | 0.64

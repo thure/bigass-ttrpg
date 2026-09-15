@@ -1,0 +1,25 @@
+1. fly | magical | 1 | 0.55
+2. keep-a-bonded-creature | manual | 1 | 0.25
+3. grants-another-option | item | 1 | 0.25
+4. change-another-s-shape | magical | 1 | 0.55
+5. set-a-trap | technological | 1 | 0.7
+6. climb-a-vertical-surface | magical | 1 | 0.5
+7. change-your-own-shape + fly | magical | 1 | 0.5
+8. duplicate-a-thing-or-person + exist-in-two-places | alchemical | 1 | 0.6
+9. hide-a-message | social | 1 | 0.65
+10. grants-another-option | alchemical | 1 | 0.35
+11. conceal-an-object | item | 1 | 0.65
+12. survive-a-hostile-environment | alchemical | 1 | 0.7
+13. disguise-what-a-thing-is | social | 1 | 0.55
+14. sway-an-audience + disguise-your-appearance | magical | 1 | 0.5
+15. sense-a-distant-place + read-or-enter-a-mind | magical | 1 | 0.55
+16. negate-an-effect-outright | magical | 1 | 0.6
+17. numeric-variant | item | 1 | 0.5
+18. poison-a-foe | alchemical | 1 | 0.72
+19. absorb-or-blunt-damage | magical | 1 | 0.6
+20. harm-many-at-once | item | 2 | 0.55
+21. bind-a-creature-in-place + block-magical-passage | magical | 1 | 0.6
+22. survive-a-hostile-environment + move-through-water | item | 1 | 0.5
+23. grants-another-option | magical | 1 | 0.35
+24. harm-many-at-once | magical | 2 | 0.45
+25. resist-a-kind-of-harm | item | 1 | 0.6

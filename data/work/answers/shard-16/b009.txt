@@ -1,0 +1,25 @@
+1. break-free-of-restraint | item | 1 | 0.6
+2. strike-a-distant-foe + resist-a-kind-of-harm | item | 1 | 0.45
+3. turn-an-attack-back | item | 1 | 0.42
+4. cross-resisting-ground + reshape-the-ground | item | 1 | 0.5
+5. grants-another-option | item | 1 | 0.5
+6. gain-a-buffer-of-vitality + protect-a-group | item | 2 | 0.5
+7. strike-a-foe-in-reach + resist-a-kind-of-harm | item | 1 | 0.42
+8. recruit-help | social | 1 | 0.5
+9. exploit-a-known-weakness | alchemical | 1 | 0.5
+10. strike-a-distant-foe + guard-your-mind | item | 1 | 0.42
+11. heal-a-body | tool | 1 | 0.5
+12. disguise-your-appearance + detect-a-kind-of-creature | item | 1 | 0.5
+13. notice-what-is-hidden | item | 1 | 0.65
+14. heal-a-body | divine | 1 | 0.6
+15. strike-a-distant-foe + reposition-another-creature | item | 1 | 0.45
+16. notice-what-is-hidden | item | 1 | 0.5
+17. make-terrain-look-otherwise | item | 1 | 0.65
+18. dull-a-foe-s-capability | magical | 1 | 0.42
+19. gather-information-from-people | technological | 1 | 0.45
+20. increase-attributes-or-health | item | 1 | 0.7
+21. resist-a-kind-of-harm | alchemical | 1 | 0.6
+22. reshape-the-ground | item | 1 | 0.5
+23. gain-a-buffer-of-vitality + dull-a-foe-s-capability | item | 1 | 0.45
+24. cross-resisting-ground | item | 1 | 0.5
+25. wage-mass-combat + bind-a-creature-in-place | item | 3 | 0.45

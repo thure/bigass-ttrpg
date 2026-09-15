@@ -1,0 +1,25 @@
+1. fly | item | 1 | 0.7
+2. destroy-an-object | alchemical | 1 | 0.6
+3. command-obedience | item | 1 | 0.55
+4. mark-a-foe-as-vulnerable + hide-from-notice | item | 1 | 0.4
+5. resist-a-kind-of-harm | item | 1 | 0.65
+6. be-harder-to-hit | item | 1 | 0.65
+7. go-without-necessities | item | 1 | 0.45
+8. unclassified | manual | 1 | 0.2
+9. harm-many-at-once + stop-a-foe-moving | alchemical | 2 | 0.5
+10. set-off-or-quell-a-hazard | alchemical | 1 | 0.4
+11. store-an-effect-for-later + harm-many-at-once | item | 2 | 0.45
+12. rally-the-faltering | item | 2 | 0.4
+13. open-a-path-through-matter + breach-a-locked-boundary | item | 1 | 0.55
+14. heal-a-body | magical | 1 | 0.6
+15. sense-a-distant-place + see-through-deception | item | 3 | 0.55
+16. poison-a-foe | alchemical | 1 | 0.65
+17. go-without-necessities + resist-poison-and-disease | item | 1 | 0.55
+18. create-food-and-water + reposition-another-creature | item | 1 | 0.5
+19. enhance-a-weapon-s-bite + carry-a-burden | item | 1 | 0.5
+20. detect-a-kind-of-creature | item | 1 | 0.7
+21. punish-an-opening | alchemical | 1 | 0.55
+22. absorb-or-blunt-damage | item | 1 | 0.55
+23. resist-a-kind-of-harm + locate-a-person-or-thing | item | 1 | 0.55
+24. fly + absorb-or-blunt-damage | item | 1 | 0.5
+25. frighten | alchemical | 1 | 0.55

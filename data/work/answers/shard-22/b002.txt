@@ -1,0 +1,25 @@
+1. claim-a-past-vocation | social | 1 | 0.6
+2. carry-a-burden | innate | 1 | 0.42
+3. claim-a-past-vocation | social | 1 | 0.63
+4. claim-a-past-vocation | social | 1 | 0.4
+5. claim-a-past-vocation | social | 1 | 0.52
+6. claim-a-past-vocation | social | 1 | 0.55
+7. claim-a-past-vocation | social | 1 | 0.58
+8. claim-a-past-vocation | social | 1 | 0.33
+9. gain-access-to-closed-circles | social | 1 | 0.6
+10. claim-a-past-vocation | social | 1 | 0.65
+11. claim-a-past-vocation | social | 1 | 0.48
+12. heal-a-body + bind-yourself-to-a-power | magical | 1 | 0.5
+13. specialise-in-a-tradition | magical | 1 | 0.68
+14. grants-another-option | manual | 1 | 0.55
+15. increase-proficiency-or-defence | innate | 1 | 0.88
+16. grants-another-option | manual | 1 | 0.72
+17. grants-another-option | manual | 1 | 0.72
+18. grants-another-option | magical | 1 | 0.5
+19. increase-attributes-or-health | manual | 1 | 0.9
+20. increase-attributes-or-health | manual | 1 | 0.9
+21. increase-proficiency-or-defence | trained-skill | 1 | 0.75
+22. grants-another-option | magical | 1 | 0.62
+23. grants-another-option | divine | 1 | 0.45
+24. specialise-in-a-tradition | magical | 1 | 0.38
+25. divine-an-answer | magical | 1 | 0.57

@@ -1,0 +1,25 @@
+1. grants-another-option | item | 1 | 0.35
+2. disguise-your-appearance + duplicate-a-thing-or-person | magical | 1 | 0.5
+3. negate-an-effect-outright | magical | 1 | 0.55
+4. heal-a-body + shake-off-an-affliction | magical | 1 | 0.6
+5. be-harder-to-hit | item | 1 | 0.5
+6. craft-an-object | tool | 1 | 0.5
+7. resist-a-kind-of-harm | alchemical | 1 | 0.4
+8. keep-a-bonded-creature | manual | 1 | 0.3
+9. be-harder-to-hit + reposition-another-creature | magical | 1 | 0.5
+10. tend-your-companion | item | 1 | 0.45
+11. set-a-trap | technological | 1 | 0.7
+12. increase-attributes-or-health | magical | 1 | 0.6
+13. secure-shelter-and-supply | item | 1 | 0.3
+14. set-a-trap | technological | 1 | 0.7
+15. enhance-a-weapon-s-bite + harm-many-at-once | magical | 1 | 0.45
+16. poison-a-foe | alchemical | 1 | 0.7
+17. change-your-own-shape | magical | 1 | 0.6
+18. strike-a-distant-foe | technological | 1 | 0.55
+19. move-unseen | item | 1 | 0.6
+20. harm-many-at-once + blind-or-deafen | magical | 2 | 0.5
+21. resist-a-kind-of-harm | divine | 1 | 0.35
+22. harm-many-at-once | technological | 2 | 0.6
+23. call-a-creature-to-fight-for-you | magical | 2 | 0.65
+24. harm-many-at-once | magical | 2 | 0.55
+25. gather-information-from-people | social | 2 | 0.45

@@ -1,0 +1,25 @@
+1. enhance-a-weapon-s-bite | item | 1 | 0.55
+2. gain-a-buffer-of-vitality | item | 1 | 0.58
+3. resist-poison-and-disease | alchemical | 1 | 0.7
+4. perceive-without-sight | alchemical | 1 | 0.55
+5. be-harder-to-hit | item | 1 | 0.72
+6. poison-a-foe | alchemical | 1 | 0.75
+7. detect-magic | alchemical | 1 | 0.62
+8. resist-a-kind-of-harm | item | 1 | 0.55
+9. set-a-trap | tool | 1 | 0.48
+10. be-harder-to-hit | tool | 1 | 0.52
+11. harm-many-at-once + obscure-an-area | item | 3 | 0.6
+12. curse-a-creature | item | 1 | 0.6
+13. secure-shelter-and-supply | tool | 1 | 0.28
+14. keep-a-bonded-creature | manual | 1 | 0.3
+15. enhance-a-weapon-s-bite | item | 1 | 0.5
+16. strike-a-distant-foe + inflict-a-lingering-wound | alchemical | 1 | 0.6
+17. resist-a-kind-of-harm | alchemical | 1 | 0.38
+18. stop-a-foe-moving | item | 1 | 0.45
+19. move-faster | item | 1 | 0.6
+20. survive-a-hostile-environment | item | 1 | 0.8
+21. increase-proficiency-or-defence | item | 1 | 0.68
+22. call-an-outsider | item | 1 | 0.7
+23. reposition-another-creature | item | 1 | 0.63
+24. open-a-path-through-matter | item | 1 | 0.57
+25. gather-information-from-people | social | 1 | 0.65

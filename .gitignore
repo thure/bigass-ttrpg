@@ -1,4 +1,8 @@
-data/
+data/*
+!data/work/
+data/work/*
+!data/work/answers/
+!data/work/classify/
 .venv/
 __pycache__/
 *.pyc
