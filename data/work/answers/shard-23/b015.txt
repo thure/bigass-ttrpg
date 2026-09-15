@@ -1,0 +1,25 @@
+1. entry-into-an-archetype | social | 1 | 0.55
+2. ambush-an-unready-foe | trained-skill | 1 | 0.55
+3. grants-another-option | innate | 1 | 0.6
+4. be-harder-to-hit | innate | 1 | 0.55
+5. blind-or-deafen | innate | 1 | 0.4
+6. become-invisible + be-harder-to-hit | magical | 1 | 0.5
+7. expand-a-resource-pool | magical | 1 | 0.6
+8. grants-another-option | ritual | 1 | 0.4
+9. identify-magic | trained-skill | 1 | 0.6
+10. frighten | divine | 2 | 0.5
+11. protect-a-group + expand-a-resource-pool | divine | 2 | 0.35
+12. claim-a-lineage | innate | 1 | 0.55
+13. build-a-barrier | magical | 1 | 0.6
+14. entry-into-an-archetype | innate | 1 | 0.55
+15. entry-into-an-archetype | innate | 1 | 0.55
+16. avoid-a-danger-you-foresaw | trained-skill | 1 | 0.35
+17. move-unseen | innate | 1 | 0.55
+18. ambush-an-unready-foe | innate | 1 | 0.5
+19. protect-a-group | trained-skill | 1 | 0.55
+20. enhance-a-weapon-s-bite | divine | 1 | 0.5
+21. change-your-nature | magical | 1 | 0.55
+22. command-obedience | magical | 1 | 0.45
+23. teleport-a-short-distance + increase-attributes-or-health | magical | 1 | 0.55
+24. attack-more-often | trained-skill | 1 | 0.4
+25. move-through-water | innate | 1 | 0.6
