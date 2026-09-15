@@ -84,6 +84,14 @@ Routing for the categories that cause most hesitation:
 | `hazard` | `set-a-trap` for built traps, else the harm or barrier it performs |
 | `archetype` | `entry-into-an-archetype` for dedications, else the capability |
 
+## If you run low on budget
+
+Stop and report which batch you reached. Do not pad the remaining batches with a
+repeated default line to make the shard look finished -- that is detected and deleted,
+and it wastes the work you did properly. A fresh agent resumes exactly where you
+stopped, because progress is tracked by which answer files exist. Stopping early
+costs nothing; fabricating costs the whole shard.
+
 ## Grade yourself
 
 Every ~8 batches:

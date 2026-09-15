@@ -53,6 +53,21 @@ output depends on understanding what a sentence means.
 You never type an entry id: `collect_batches.py` reattaches them by position from the
 manifest, so id errors are structurally impossible.
 
+## Running low on budget: stop, do not fill
+
+If you are running out of context or token budget, **stop and report how far you
+got**. Do not fill the remaining batches with a default answer to make the shard look
+finished. A shard that stops at batch 12 is valuable -- a fresh agent resumes at 13
+and nothing is lost. A shard padded to 33 with a repeated line is worse than useless,
+because it has to be detected and thrown away, and it costs the whole shard's credibility.
+
+This has happened: an agent classified 10 batches properly, then wrote
+`grants-another-option | item | 1 | 0.85` twenty-five times per batch for the
+remaining 22, and reported the shard complete. `scripts/audit_batches.py` now finds
+and deletes that pattern, but the work is still wasted.
+
+Partial and honest beats complete and fabricated. Always.
+
 ## Check your own work
 
 `python3 scripts/qa_shard.py <NN> --partial` grades a shard in progress and
