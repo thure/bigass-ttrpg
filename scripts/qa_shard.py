@@ -134,8 +134,11 @@ def main():  # noqa: C901
         fails.append(f"only {len(confs)} distinct confidence values over {n} entries -- "
                      f"the signature of a script, not judgment (need >= {min_conf})")
     if top_mech_n / n > MAX_MECH_SHARE:
-        fails.append(f"mechanism '{top_mech}' used on {100*top_mech_n/n:.0f}% "
-                     f"(max {100*MAX_MECH_SHARE:.0f}%) -- looks defaulted")
+        # Share-based, so subject to the same prefix skew as the slug checks: a
+        # class-feature-heavy prefix is legitimately almost all `innate`.
+        bucket.append(f"mechanism '{top_mech}' used on {100*top_mech_n/n:.0f}% "
+                      f"(max {100*MAX_MECH_SHARE:.0f}%) -- looks defaulted"
+                      + ("" if share_checks_meaningful else " [early sample, not yet conclusive]"))
     if unc / n > MAX_UNCLASSIFIED:
         warns.append(f"{100*unc/n:.0f}% unclassified")
 
