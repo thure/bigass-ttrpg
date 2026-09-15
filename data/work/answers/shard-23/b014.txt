@@ -1,0 +1,25 @@
+1. secure-shelter-and-supply | manual | 1 | 0.25
+2. harm-many-at-once | magical | 2 | 0.6
+3. change-another-s-shape | magical | 1 | 0.55
+4. gain-a-buffer-of-vitality + frighten | magical | 1 | 0.45
+5. increase-proficiency-or-defence | magical | 1 | 0.55
+6. wage-mass-combat + gain-an-extra-action | magical | 2 | 0.4
+7. absorb-or-blunt-damage + survive-a-hostile-environment | magical | 1 | 0.5
+8. poison-a-foe + blind-or-deafen | alchemical | 1 | 0.55
+9. curse-a-creature | magical | 2 | 0.35
+10. secure-shelter-and-supply | manual | 1 | 0.25
+11. call-a-creature-to-fight-for-you | magical | 1 | 0.55
+12. inflict-a-lingering-wound | magical | 1 | 0.65
+13. absorb-or-blunt-damage | magical | 1 | 0.55
+14. resist-a-kind-of-harm | magical | 1 | 0.4
+15. compound-a-substance | alchemical | 1 | 0.5
+16. expand-a-resource-pool | magical | 1 | 0.5
+17. direct-a-companion-in-battle | magical | 1 | 0.35
+18. direct-a-companion-in-battle | magical | 1 | 0.35
+19. secure-shelter-and-supply | social | 1 | 0.55
+20. curse-a-creature | magical | 1 | 0.55
+21. increase-proficiency-or-defence | trained-skill | 1 | 0.6
+22. grants-another-option | divine | 1 | 0.6
+23. improve-what-a-companion-can-do | magical | 1 | 0.55
+24. resist-a-kind-of-harm | innate | 1 | 0.6
+25. alter-gravity-or-orientation | magical | 1 | 0.6
