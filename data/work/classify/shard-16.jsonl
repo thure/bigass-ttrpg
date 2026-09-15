@@ -323,3 +323,53 @@
 {"id": "pf2e:equipment-2826", "functions": [{"slug": "negate-an-effect-outright", "role": "primary", "mechanism": "item", "scope_tier": 1, "confidence": 0.57}, {"slug": "increase-proficiency-or-defence", "role": "secondary", "mechanism": "item", "scope_tier": 1, "confidence": 0.57}]}
 {"id": "pf2e:equipment-2827", "functions": [{"slug": "absorb-or-blunt-damage", "role": "primary", "mechanism": "item", "scope_tier": 1, "confidence": 0.48}, {"slug": "strike-a-distant-foe", "role": "secondary", "mechanism": "item", "scope_tier": 1, "confidence": 0.48}]}
 {"id": "pf2e:equipment-2646", "functions": [{"slug": "harm-many-at-once", "role": "primary", "mechanism": "item", "scope_tier": 2, "confidence": 0.6}, {"slug": "inflict-a-lingering-wound", "role": "secondary", "mechanism": "item", "scope_tier": 2, "confidence": 0.6}]}
+{"id": "dnd5e-2024:equipment:spyglass", "functions": [{"slug": "extend-your-senses", "role": "primary", "mechanism": "tool", "scope_tier": 1, "confidence": 0.72}]}
+{"id": "dnd5e-2014:magic-items:staff-of-frost", "functions": [{"slug": "harm-many-at-once", "role": "primary", "mechanism": "item", "scope_tier": 2, "confidence": 0.54}, {"slug": "grants-another-option", "role": "secondary", "mechanism": "item", "scope_tier": 2, "confidence": 0.54}]}
+{"id": "pf2e:equipment-2262", "functions": [{"slug": "grants-another-option", "role": "primary", "mechanism": "item", "scope_tier": 1, "confidence": 0.57}]}
+{"id": "pf2e:equipment-3914", "functions": [{"slug": "protect-a-group", "role": "primary", "mechanism": "item", "scope_tier": 2, "confidence": 0.66}]}
+{"id": "pf2e:equipment-2782", "functions": [{"slug": "sense-a-distant-place", "role": "primary", "mechanism": "magical", "scope_tier": 2, "confidence": 0.48}]}
+{"id": "pf2e:equipment-648", "functions": [{"slug": "reshape-the-ground", "role": "primary", "mechanism": "item", "scope_tier": 2, "confidence": 0.56}, {"slug": "harm-many-at-once", "role": "secondary", "mechanism": "item", "scope_tier": 2, "confidence": 0.56}]}
+{"id": "pf2e:equipment-850", "functions": [{"slug": "increase-attributes-or-health", "role": "primary", "mechanism": "manual", "scope_tier": 1, "confidence": 0.38}]}
+{"id": "pf2e:equipment-1351", "functions": [{"slug": "unclassified", "role": "primary", "mechanism": "manual", "scope_tier": 1, "confidence": 0.3}]}
+{"id": "dnd5e-2014:magic-items:sword-of-life-stealing", "functions": [{"slug": "drain-life-to-sustain-yourself", "role": "primary", "mechanism": "item", "scope_tier": 1, "confidence": 0.68}]}
+{"id": "pf2e:equipment-4072", "functions": [{"slug": "enhance-a-weapon-s-bite", "role": "primary", "mechanism": "item", "scope_tier": 1, "confidence": 0.61}]}
+{"id": "pf2e:equipment-3348", "functions": [{"slug": "poison-a-foe", "role": "primary", "mechanism": "alchemical", "scope_tier": 1, "confidence": 0.78}]}
+{"id": "pf2e:equipment-2476", "functions": [{"slug": "resist-a-kind-of-harm", "role": "primary", "mechanism": "magical", "scope_tier": 1, "confidence": 0.62}]}
+{"id": "pf2e:equipment-2499", "functions": [{"slug": "sense-a-distant-place", "role": "primary", "mechanism": "magical", "scope_tier": 4, "confidence": 0.5}, {"slug": "locate-a-person-or-thing", "role": "secondary", "mechanism": "magical", "scope_tier": 4, "confidence": 0.5}]}
+{"id": "pf2e:equipment-2491", "functions": [{"slug": "act-sooner-than-others", "role": "primary", "mechanism": "magical", "scope_tier": 2, "confidence": 0.52}, {"slug": "harm-many-at-once", "role": "secondary", "mechanism": "magical", "scope_tier": 2, "confidence": 0.52}]}
+{"id": "pf2e:equipment-5146", "functions": [{"slug": "make-an-extradimensional-space", "role": "primary", "mechanism": "item", "scope_tier": 1, "confidence": 0.6}]}
+{"id": "pf2e:equipment-5067", "functions": [{"slug": "turn-an-attack-back", "role": "primary", "mechanism": "magical", "scope_tier": 1, "confidence": 0.65}]}
+{"id": "dnd5e-2024:equipment:tinderbox", "functions": [{"slug": "make-light", "role": "primary", "mechanism": "tool", "scope_tier": 1, "confidence": 0.42}]}
+{"id": "pf2e:equipment-1662", "functions": [{"slug": "compound-a-substance", "role": "primary", "mechanism": "alchemical", "scope_tier": 1, "confidence": 0.55}]}
+{"id": "pf2e:equipment-4129", "functions": [{"slug": "poison-a-foe", "role": "primary", "mechanism": "manual", "scope_tier": 1, "confidence": 0.58}, {"slug": "conceal-an-object", "role": "secondary", "mechanism": "manual", "scope_tier": 1, "confidence": 0.58}]}
+{"id": "pf2e:equipment-5160", "functions": [{"slug": "grants-another-option", "role": "primary", "mechanism": "item", "scope_tier": 1, "confidence": 0.47}, {"slug": "increase-proficiency-or-defence", "role": "secondary", "mechanism": "item", "scope_tier": 1, "confidence": 0.47}]}
+{"id": "pf2e:equipment-1696", "functions": [{"slug": "keep-a-bonded-creature", "role": "primary", "mechanism": "manual", "scope_tier": 1, "confidence": 0.59}]}
+{"id": "pf2e:equipment-5068", "functions": [{"slug": "bind-a-creature-in-place", "role": "primary", "mechanism": "magical", "scope_tier": 1, "confidence": 0.45}]}
+{"id": "pf2e:equipment-1795", "functions": [{"slug": "drain-life-to-sustain-yourself", "role": "primary", "mechanism": "magical", "scope_tier": 1, "confidence": 0.64}]}
+{"id": "pf2e:equipment-3194", "functions": [{"slug": "strike-a-distant-foe", "role": "primary", "mechanism": "magical", "scope_tier": 1, "confidence": 0.63}, {"slug": "poison-a-foe", "role": "secondary", "mechanism": "magical", "scope_tier": 1, "confidence": 0.63}]}
+{"id": "pf2e:equipment-3950", "functions": [{"slug": "travel-overland", "role": "primary", "mechanism": "item", "scope_tier": 2, "confidence": 0.53}, {"slug": "act-sooner-than-others", "role": "secondary", "mechanism": "item", "scope_tier": 2, "confidence": 0.53}]}
+{"id": "dnd5e-2014:magic-items:vorpal-sword", "functions": [{"slug": "kill-outright", "role": "primary", "mechanism": "item", "scope_tier": 1, "confidence": 0.8}]}
+{"id": "pf2e:equipment-2278", "functions": [{"slug": "frighten", "role": "primary", "mechanism": "item", "scope_tier": 1, "confidence": 0.55}, {"slug": "dull-a-foe-s-capability", "role": "secondary", "mechanism": "item", "scope_tier": 1, "confidence": 0.55}]}
+{"id": "pf2e:equipment-794-794", "functions": [{"slug": "strike-a-distant-foe", "role": "primary", "mechanism": "item", "scope_tier": 1, "confidence": 0.5}, {"slug": "condition-state", "role": "secondary", "mechanism": "item", "scope_tier": 1, "confidence": 0.5}]}
+{"id": "pf2e:equipment-3727", "functions": [{"slug": "harm-many-at-once", "role": "primary", "mechanism": "item", "scope_tier": 1, "confidence": 0.52}, {"slug": "dull-a-foe-s-capability", "role": "secondary", "mechanism": "item", "scope_tier": 1, "confidence": 0.52}]}
+{"id": "dnd5e-2024:magic-items:wand-of-the-war-mage", "functions": [{"slug": "increase-proficiency-or-defence", "role": "primary", "mechanism": "item", "scope_tier": 1, "confidence": 0.76}]}
+{"id": "pf2e:equipment-1863", "functions": [{"slug": "seal-a-boundary", "role": "primary", "mechanism": "magical", "scope_tier": 2, "confidence": 0.48}, {"slug": "raise-a-structure", "role": "secondary", "mechanism": "magical", "scope_tier": 2, "confidence": 0.48}]}
+{"id": "dnd5e-2014:magic-items:elemental-gem-water", "functions": [{"slug": "call-a-creature-to-fight-for-you", "role": "primary", "mechanism": "item", "scope_tier": 1, "confidence": 0.74}]}
+{"id": "dnd5e-2024:magic-items:weapon-of-warning", "functions": [{"slug": "act-sooner-than-others", "role": "primary", "mechanism": "item", "scope_tier": 2, "confidence": 0.66}]}
+{"id": "pf2e:equipment-3195", "functions": [{"slug": "gain-a-creature-s-trait", "role": "primary", "mechanism": "magical", "scope_tier": 1, "confidence": 0.47}]}
+{"id": "pf2e:equipment-1101", "functions": [{"slug": "enhance-a-weapon-s-bite", "role": "primary", "mechanism": "technological", "scope_tier": 1, "confidence": 0.44}]}
+{"id": "pf2e:equipment-1265", "functions": [{"slug": "raise-a-structure", "role": "primary", "mechanism": "magical", "scope_tier": 2, "confidence": 0.72}]}
+{"id": "pf2e:equipment-1500", "functions": [{"slug": "research-in-archives", "role": "primary", "mechanism": "magical", "scope_tier": 1, "confidence": 0.4}]}
+{"id": "pf2e:equipment-1663", "functions": [{"slug": "keep-the-dying-alive", "role": "primary", "mechanism": "alchemical", "scope_tier": 1, "confidence": 0.61}]}
+{"id": "pf2e:familiar-ability-140", "functions": [{"slug": "burrow-through-earth", "role": "primary", "mechanism": "innate", "scope_tier": 1, "confidence": 0.78}]}
+{"id": "pf2e:familiar-ability-102", "functions": [{"slug": "increase-proficiency-or-defence", "role": "primary", "mechanism": "innate", "scope_tier": 1, "confidence": 0.46}]}
+{"id": "pf2e:familiar-ability-84", "functions": [{"slug": "improve-what-a-companion-can-do", "role": "primary", "mechanism": "innate", "scope_tier": 1, "confidence": 0.39}]}
+{"id": "pf2e:familiar-ability-165", "functions": [{"slug": "tend-your-companion", "role": "primary", "mechanism": "innate", "scope_tier": 1, "confidence": 0.43}]}
+{"id": "pf2e:familiar-ability-166", "functions": [{"slug": "tend-your-companion", "role": "primary", "mechanism": "innate", "scope_tier": 1, "confidence": 0.56}]}
+{"id": "pf2e:familiar-ability-89", "functions": [{"slug": "improve-your-luck", "role": "primary", "mechanism": "innate", "scope_tier": 1, "confidence": 0.51}, {"slug": "impose-misfortune", "role": "secondary", "mechanism": "innate", "scope_tier": 1, "confidence": 0.51}]}
+{"id": "pf2e:feat-7991", "functions": [{"slug": "cross-resisting-ground", "role": "primary", "mechanism": "divine", "scope_tier": 1, "confidence": 0.7}]}
+{"id": "pf2e:feat-7797", "functions": [{"slug": "grants-another-option", "role": "primary", "mechanism": "trained-skill", "scope_tier": 1, "confidence": 0.57}]}
+{"id": "pf2e:feat-9298", "functions": [{"slug": "entry-into-an-archetype", "role": "primary", "mechanism": "trained-skill", "scope_tier": 1, "confidence": 0.75}]}
+{"id": "pf2e:feat-9289", "functions": [{"slug": "entry-into-an-archetype", "role": "primary", "mechanism": "trained-skill", "scope_tier": 1, "confidence": 0.71}]}
+{"id": "pf2e:feat-9221", "functions": [{"slug": "improve-what-a-companion-can-do", "role": "primary", "mechanism": "magical", "scope_tier": 1, "confidence": 0.62}]}
+{"id": "pf2e:feat-5557", "functions": [{"slug": "inflict-a-lingering-wound", "role": "primary", "mechanism": "innate", "scope_tier": 1, "confidence": 0.65}]}

@@ -323,3 +323,53 @@
 {"id": "pf2e:equipment-5133", "functions": [{"slug": "store-an-effect-for-later", "role": "primary", "mechanism": "magical", "scope_tier": 1, "confidence": 0.48}]}
 {"id": "pf2e:equipment-3346", "functions": [{"slug": "poison-a-foe", "role": "primary", "mechanism": "alchemical", "scope_tier": 1, "confidence": 0.82}]}
 {"id": "pf2e:equipment-2126", "functions": [{"slug": "call-a-creature-to-fight-for-you", "role": "primary", "mechanism": "magical", "scope_tier": 2, "confidence": 0.64}]}
+{"id": "pf2e:equipment-2585-2336", "functions": [{"slug": "protect-a-group", "role": "primary", "mechanism": "magical", "scope_tier": 1, "confidence": 0.57}]}
+{"id": "pf2e:equipment-3039", "functions": [{"slug": "command-obedience", "role": "primary", "mechanism": "magical", "scope_tier": 1, "confidence": 0.5}]}
+{"id": "dnd5e-2024:magic-items:staff-of-striking", "functions": [{"slug": "strike-a-foe-in-reach", "role": "primary", "mechanism": "magical", "scope_tier": 1, "confidence": 0.72}]}
+{"id": "pf2e:equipment-5008", "functions": [{"slug": "disguise-what-a-thing-is", "role": "primary", "mechanism": "magical", "scope_tier": 1, "confidence": 0.32}]}
+{"id": "pf2e:equipment-2217", "functions": [{"slug": "cheat-death", "role": "primary", "mechanism": "magical", "scope_tier": 1, "confidence": 0.85}]}
+{"id": "dnd5e-2014:magic-items:stone-of-controlling-earth-elementals", "functions": [{"slug": "call-a-creature-to-fight-for-you", "role": "primary", "mechanism": "magical", "scope_tier": 1, "confidence": 0.62}]}
+{"id": "pf2e:equipment-3387", "functions": [{"slug": "set-a-trap", "role": "primary", "mechanism": "trained-skill", "scope_tier": 1, "confidence": 0.66}]}
+{"id": "pf2e:equipment-2218", "functions": [{"slug": "see-through-deception", "role": "primary", "mechanism": "magical", "scope_tier": 1, "confidence": 0.4}, {"slug": "strike-a-distant-foe", "role": "secondary", "mechanism": "magical", "scope_tier": 1, "confidence": 0.4}]}
+{"id": "pf2e:equipment-4946", "functions": [{"slug": "sense-a-distant-place", "role": "primary", "mechanism": "magical", "scope_tier": 2, "confidence": 0.35}]}
+{"id": "dnd5e-2014:magic-items:talisman-of-pure-good", "functions": [{"slug": "kill-outright", "role": "primary", "mechanism": "divine", "scope_tier": 1, "confidence": 0.55}]}
+{"id": "pf2e:equipment-2390-2212", "functions": [{"slug": "sense-a-distant-place", "role": "primary", "mechanism": "magical", "scope_tier": 2, "confidence": 0.45}]}
+{"id": "pf2e:equipment-3832", "functions": [{"slug": "build-a-barrier", "role": "primary", "mechanism": "magical", "scope_tier": 2, "confidence": 0.58}, {"slug": "protect-a-group", "role": "secondary", "mechanism": "magical", "scope_tier": 2, "confidence": 0.58}]}
+{"id": "pf2e:equipment-2507", "functions": [{"slug": "see-through-deception", "role": "primary", "mechanism": "magical", "scope_tier": 1, "confidence": 0.38}, {"slug": "research-in-archives", "role": "secondary", "mechanism": "magical", "scope_tier": 1, "confidence": 0.38}]}
+{"id": "pf2e:equipment-2489", "functions": [{"slug": "poison-a-foe", "role": "primary", "mechanism": "magical", "scope_tier": 1, "confidence": 0.52}, {"slug": "ambush-an-unready-foe", "role": "secondary", "mechanism": "magical", "scope_tier": 1, "confidence": 0.52}]}
+{"id": "dnd5e-2014:equipment:thieves-tools", "functions": [{"slug": "breach-a-locked-boundary", "role": "primary", "mechanism": "tool", "scope_tier": 1, "confidence": 0.68}, {"slug": "disable-a-device", "role": "secondary", "mechanism": "tool", "scope_tier": 1, "confidence": 0.68}]}
+{"id": "pf2e:equipment-5212-4727", "functions": [{"slug": "turn-an-attack-back", "role": "primary", "mechanism": "psychic", "scope_tier": 1, "confidence": 0.63}]}
+{"id": "pf2e:equipment-1159-1103", "functions": [{"slug": "unclassified", "role": "primary", "mechanism": "manual", "scope_tier": 1, "confidence": 0.28}]}
+{"id": "dnd5e-2014:magic-items:tome-of-understanding", "functions": [{"slug": "increase-proficiency-or-defence", "role": "primary", "mechanism": "magical", "scope_tier": 1, "confidence": 0.8}]}
+{"id": "pf2e:equipment-3113", "functions": [{"slug": "track-a-creature", "role": "primary", "mechanism": "magical", "scope_tier": 1, "confidence": 0.65}]}
+{"id": "pf2e:equipment-2221", "functions": [{"slug": "turn-an-attack-back", "role": "primary", "mechanism": "magical", "scope_tier": 1, "confidence": 0.6}]}
+{"id": "pf2e:equipment-1199", "functions": [{"slug": "strike-a-distant-foe", "role": "primary", "mechanism": "magical", "scope_tier": 1, "confidence": 0.42}]}
+{"id": "pf2e:equipment-4178", "functions": [{"slug": "hide-from-notice", "role": "primary", "mechanism": "alchemical", "scope_tier": 1, "confidence": 0.7}]}
+{"id": "pf2e:equipment-2223-1926", "functions": [{"slug": "speak-with-the-otherwise-mute", "role": "primary", "mechanism": "magical", "scope_tier": 1, "confidence": 0.48}]}
+{"id": "pf2e:equipment-4102", "functions": [{"slug": "cheat-death", "role": "primary", "mechanism": "magical", "scope_tier": 1, "confidence": 0.75}, {"slug": "be-harder-to-hit", "role": "secondary", "mechanism": "magical", "scope_tier": 1, "confidence": 0.75}]}
+{"id": "pf2e:equipment-4154", "functions": [{"slug": "cheat-death", "role": "primary", "mechanism": "magical", "scope_tier": 1, "confidence": 0.78}, {"slug": "bind-yourself-to-a-power", "role": "secondary", "mechanism": "magical", "scope_tier": 1, "confidence": 0.78}]}
+{"id": "pf2e:equipment-2373", "functions": [{"slug": "bind-yourself-to-a-power", "role": "primary", "mechanism": "magical", "scope_tier": 1, "confidence": 0.42}]}
+{"id": "pf2e:equipment-2273", "functions": [{"slug": "harm-many-at-once", "role": "primary", "mechanism": "magical", "scope_tier": 2, "confidence": 0.62}]}
+{"id": "dnd5e-2024:magic-items:wand-of-magic-missiles", "functions": [{"slug": "strike-a-distant-foe", "role": "primary", "mechanism": "magical", "scope_tier": 1, "confidence": 0.8}]}
+{"id": "pf2e:equipment-3427", "functions": [{"slug": "kill-outright", "role": "primary", "mechanism": "magical", "scope_tier": 2, "confidence": 0.6}, {"slug": "harm-many-at-once", "role": "secondary", "mechanism": "magical", "scope_tier": 2, "confidence": 0.6}]}
+{"id": "pf2e:equipment-3053", "functions": [{"slug": "harm-many-at-once", "role": "primary", "mechanism": "magical", "scope_tier": 1, "confidence": 0.35}]}
+{"id": "pf2e:equipment-1093-1034", "functions": [{"slug": "frighten", "role": "primary", "mechanism": "magical", "scope_tier": 1, "confidence": 0.55}]}
+{"id": "pf2e:equipment-2020", "functions": [{"slug": "slow-a-foe", "role": "primary", "mechanism": "alchemical", "scope_tier": 1, "confidence": 0.5}]}
+{"id": "pf2e:equipment-2830", "functions": [{"slug": "increase-proficiency-or-defence", "role": "primary", "mechanism": "magical", "scope_tier": 1, "confidence": 0.85}]}
+{"id": "pf2e:equipment-1404", "functions": [{"slug": "unclassified", "role": "primary", "mechanism": "manual", "scope_tier": 1, "confidence": 0.28}]}
+{"id": "pf2e:equipment-2224", "functions": [{"slug": "hide-from-notice", "role": "primary", "mechanism": "magical", "scope_tier": 1, "confidence": 0.68}]}
+{"id": "pf2e:equipment-3755", "functions": [{"slug": "strike-a-distant-foe", "role": "primary", "mechanism": "magical", "scope_tier": 1, "confidence": 0.58}, {"slug": "blind-or-deafen", "role": "secondary", "mechanism": "magical", "scope_tier": 1, "confidence": 0.58}]}
+{"id": "pf2e:equipment-3730", "functions": [{"slug": "harm-many-at-once", "role": "primary", "mechanism": "alchemical", "scope_tier": 1, "confidence": 0.48}]}
+{"id": "pf2e:equipment-2762-2523", "functions": [{"slug": "craft-an-object", "role": "primary", "mechanism": "manual", "scope_tier": 1, "confidence": 0.33}]}
+{"id": "pf2e:familiar-ability-81", "functions": [{"slug": "pass-through-solid-matter", "role": "primary", "mechanism": "magical", "scope_tier": 1, "confidence": 0.7}]}
+{"id": "pf2e:familiar-ability-77", "functions": [{"slug": "speak-with-the-otherwise-mute", "role": "primary", "mechanism": "innate", "scope_tier": 1, "confidence": 0.52}]}
+{"id": "pf2e:familiar-ability-193", "functions": [{"slug": "gain-a-buffer-of-vitality", "role": "primary", "mechanism": "innate", "scope_tier": 1, "confidence": 0.75}]}
+{"id": "pf2e:familiar-ability-101", "functions": [{"slug": "improve-your-luck", "role": "primary", "mechanism": "magical", "scope_tier": 1, "confidence": 0.82}]}
+{"id": "pf2e:familiar-ability-177", "functions": [{"slug": "grants-another-option", "role": "primary", "mechanism": "magical", "scope_tier": 1, "confidence": 0.45}]}
+{"id": "pf2e:familiar-ability-87", "functions": [{"slug": "turn-an-attack-back", "role": "primary", "mechanism": "magical", "scope_tier": 1, "confidence": 0.72}]}
+{"id": "pf2e:feat-2677", "functions": [{"slug": "adapt-your-body-to-a-place", "role": "primary", "mechanism": "innate", "scope_tier": 1, "confidence": 0.64}, {"slug": "survive-a-hostile-environment", "role": "secondary", "mechanism": "innate", "scope_tier": 1, "confidence": 0.64}]}
+{"id": "pf2e:feat-5806", "functions": [{"slug": "see-in-darkness", "role": "primary", "mechanism": "innate", "scope_tier": 1, "confidence": 0.78}]}
+{"id": "pf2e:feat-5110", "functions": [{"slug": "grants-another-option", "role": "primary", "mechanism": "manual", "scope_tier": 1, "confidence": 0.4}]}
+{"id": "pf2e:feat-4489", "functions": [{"slug": "grants-another-option", "role": "primary", "mechanism": "manual", "scope_tier": 1, "confidence": 0.38}]}
+{"id": "pf2e:feat-9311", "functions": [{"slug": "grants-another-option", "role": "primary", "mechanism": "manual", "scope_tier": 1, "confidence": 0.41}]}
+{"id": "pf2e:feat-5600", "functions": [{"slug": "resist-poison-and-disease", "role": "primary", "mechanism": "innate", "scope_tier": 1, "confidence": 0.79}]}

@@ -1,0 +1,25 @@
+1. grow-a-natural-weapon + poison-a-foe | alchemical | 1 | 0.65
+2. animate-the-inanimate | magical | 1 | 0.55
+3. change-your-own-shape | magical | 1 | 0.7
+4. harm-many-at-once | magical | 1 | 0.5
+5. harm-many-at-once + inflict-a-lingering-wound | magical | 2 | 0.55
+6. expand-a-resource-pool | magical | 1 | 0.65
+7. numeric-variant | item | 1 | 0.35
+8. conceal-an-object | item | 1 | 0.45
+9. bind-a-creature-in-place | magical | 1 | 0.45
+10. act-sooner-than-others | magical | 1 | 0.55
+11. fly | magical | 1 | 0.85
+12. call-a-creature-to-fight-for-you | magical | 1 | 0.7
+13. conceal-an-object + pass-through-solid-matter | magical | 1 | 0.4
+14. tend-your-companion | innate | 1 | 0.5
+15. improve-what-a-companion-can-do | innate | 1 | 0.6
+16. improve-what-a-companion-can-do | innate | 1 | 0.65
+17. improve-what-a-companion-can-do | innate | 1 | 0.6
+18. tend-your-companion | innate | 1 | 0.65
+19. direct-a-companion-in-battle | innate | 1 | 0.55
+20. quiet-a-troubled-mind | trained-skill | 1 | 0.55
+21. sense-or-shape-fate | divine | 1 | 0.35
+22. expand-a-resource-pool | magical | 1 | 0.5
+23. grants-another-option | magical | 1 | 0.6
+24. grants-another-option | magical | 1 | 0.6
+25. harm-many-at-once | innate | 1 | 0.65
