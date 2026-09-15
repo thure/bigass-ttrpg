@@ -1,0 +1,25 @@
+1. know-where-you-are | magical | 1 | 0.55
+2. poison-a-foe | alchemical | 1 | 0.62
+3. notice-what-is-hidden | magical | 1 | 0.5
+4. move-unseen | magical | 1 | 0.65
+5. reposition-another-creature | magical | 1 | 0.55
+6. gain-a-buffer-of-vitality + cure-poison-or-disease | magical | 1 | 0.48
+7. detect-a-kind-of-creature | magical | 1 | 0.45
+8. poison-a-foe | alchemical | 1 | 0.5
+9. enhance-a-weapon-s-bite | magical | 1 | 0.55
+10. enhance-a-weapon-s-bite + inflict-a-lingering-wound | magical | 1 | 0.5
+11. poison-a-foe | alchemical | 1 | 0.65
+12. destroy-a-barrier | tool | 1 | 0.6
+13. disguise-your-appearance | magical | 1 | 0.6
+14. become-invisible | magical | 1 | 0.75
+15. increase-attributes-or-health | magical | 1 | 0.7
+16. create-food-and-water + gain-a-buffer-of-vitality | magical | 1 | 0.42
+17. sway-an-audience | social | 3 | 0.5
+18. cure-poison-or-disease | magical | 1 | 0.45
+19. shake-off-an-affliction | magical | 1 | 0.6
+20. set-a-trap | technological | 1 | 0.55
+21. poison-a-foe | magical | 1 | 0.55
+22. redirect-harm | magical | 1 | 0.6
+23. research-in-archives | social | 1 | 0.55
+24. make-an-extradimensional-space | magical | 1 | 0.65
+25. resist-a-kind-of-harm | magical | 1 | 0.75

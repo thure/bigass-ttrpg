@@ -1,0 +1,25 @@
+1. kill-outright | magical | 1 | 0.68
+2. exploit-a-known-weakness | magical | 1 | 0.42
+3. track-a-creature | magical | 1 | 0.35
+4. alter-belief-or-memory | psychic | 1 | 0.62
+5. move-through-water + evade-magical-detection | magical | 1 | 0.5
+6. increase-proficiency-or-defence | tool | 1 | 0.3
+7. enhance-a-weapon-s-bite | tool | 1 | 0.32
+8. poison-a-foe + inflict-a-lingering-wound | alchemical | 1 | 0.55
+9. duplicate-a-thing-or-person | magical | 1 | 0.65
+10. set-a-trap | magical | 1 | 0.58
+11. poison-a-foe + resist-poison-and-disease | alchemical | 1 | 0.46
+12. make-an-extradimensional-space | magical | 1 | 0.78
+13. resist-a-kind-of-harm | magical | 1 | 0.75
+14. become-insubstantial | magical | 1 | 0.6
+15. gain-an-extra-action | magical | 1 | 0.52
+16. improve-your-luck | magical | 1 | 0.53
+17. strike-a-foe-in-reach | manual | 1 | 0.28
+18. set-a-trap | tool | 1 | 0.66
+19. poison-a-foe | alchemical | 1 | 0.4
+20. inspire-allies | magical | 2 | 0.63
+21. gain-an-extra-action | magical | 1 | 0.33
+22. move-through-water + harm-many-at-once | magical | 1 | 0.44
+23. cure-poison-or-disease | tool | 1 | 0.38
+24. turn-an-attack-back | magical | 1 | 0.72
+25. charm-into-friendship + speak-with-the-otherwise-mute | magical | 1 | 0.37

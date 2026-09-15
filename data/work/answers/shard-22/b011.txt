@@ -1,0 +1,25 @@
+1. set-a-trap | technological | 1 | 0.6
+2. evade-magical-detection | magical | 1 | 0.78
+3. reposition-another-creature | magical | 1 | 0.62
+4. call-a-creature-to-fight-for-you | magical | 1 | 0.66
+5. change-your-own-shape + heal-a-body | magical | 1 | 0.52
+6. cure-poison-or-disease + heal-a-body | magical | 1 | 0.58
+7. numeric-variant | item | 1 | 0.47
+8. increase-proficiency-or-defence + improve-your-luck | magical | 1 | 0.54
+9. avoid-a-danger-you-foresaw + divine-an-answer | divine | 1 | 0.56
+10. sense-a-distant-place + swap-places-or-bodies | magical | 1 | 0.49
+11. poison-a-foe | alchemical | 1 | 0.82
+12. make-light + protect-a-group | magical | 2 | 0.53
+13. grow-or-shrink | magical | 1 | 0.79
+14. become-invisible | magical | 1 | 0.87
+15. shake-off-an-affliction + resist-a-kind-of-harm | magical | 1 | 0.51
+16. increase-proficiency-or-defence + command-obedience | magical | 1 | 0.44
+17. run-a-long-project | social | 3 | 0.57
+18. grants-another-option + persuade-by-reason-or-charm | magical | 1 | 0.43
+19. dull-a-foe-s-capability + make-light | magical | 2 | 0.5
+20. resist-a-kind-of-harm + exploit-a-known-weakness | alchemical | 1 | 0.46
+21. strike-with-overwhelming-force | magical | 1 | 0.41
+22. improve-your-luck + turn-an-attack-back | magical | 1 | 0.59
+23. bind-a-creature-in-place | divine | 2 | 0.39
+24. exploit-a-known-weakness | magical | 1 | 0.48
+25. climb-a-vertical-surface | magical | 1 | 0.85

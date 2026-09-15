@@ -1,0 +1,25 @@
+1. increase-proficiency-or-defence | trained-skill | 1 | 0.65
+2. sway-an-audience | innate | 2 | 0.52
+3. exploit-a-known-weakness | trained-skill | 1 | 0.72
+4. claim-a-lineage | innate | 1 | 0.58
+5. grants-another-option | trained-skill | 1 | 0.75
+6. create-food-and-water + reposition-another-creature | innate | 1 | 0.38
+7. detect-magic | innate | 1 | 0.68
+8. move-a-group | trained-skill | 2 | 0.43
+9. protect-a-group + improve-your-luck | divine | 2 | 0.37
+10. climb-a-vertical-surface + move-through-water | innate | 1 | 0.47
+11. gain-an-extra-action | psychic | 1 | 0.66
+12. grants-another-option | innate | 1 | 0.55
+13. banish-a-creature + block-magical-passage | divine | 1 | 0.57
+14. grants-another-option | trained-skill | 1 | 0.48
+15. grants-another-option | trained-skill | 1 | 0.5
+16. strike-a-foe-in-reach | innate | 1 | 0.46
+17. speak-with-the-otherwise-mute | innate | 1 | 0.62
+18. disguise-your-appearance | trained-skill | 1 | 0.44
+19. enhance-a-weapon-s-bite | magical | 1 | 0.4
+20. dull-a-foe-s-capability | innate | 1 | 0.45
+21. drain-life-to-sustain-yourself + heal-a-body | divine | 1 | 0.28
+22. act-sooner-than-others + dull-a-foe-s-capability | trained-skill | 1 | 0.33
+23. strike-a-distant-foe | magical | 1 | 0.5
+24. increase-proficiency-or-defence | psychic | 1 | 0.35
+25. harm-many-at-once + blind-or-deafen | innate | 2 | 0.6
