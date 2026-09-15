@@ -1,0 +1,25 @@
+1. craft-an-object | tool | 1 | 0.35
+2. strike-a-distant-foe + harm-many-at-once | magical | 2 | 0.72
+3. change-another-s-shape | magical | 1 | 0.78
+4. gain-a-buffer-of-vitality + frighten | magical | 1 | 0.5
+5. increase-proficiency-or-defence | magical | 1 | 0.62
+6. rally-the-faltering + increase-proficiency-or-defence | magical | 2 | 0.55
+7. secure-shelter-and-supply | item | 1 | 0.4
+8. craft-an-object | tool | 1 | 0.58
+9. imprison-a-creature + drain-vitality-lastingly | divine | 1 | 0.44
+10. gain-an-extra-action | magical | 1 | 0.38
+11. call-a-creature-to-fight-for-you | magical | 1 | 0.75
+12. conjure-a-temporary-tool | magical | 1 | 0.42
+13. poison-a-foe | alchemical | 1 | 0.6
+14. resist-a-kind-of-harm | innate | 1 | 0.46
+15. expand-a-resource-pool | magical | 1 | 0.65
+16. numeric-variant | innate | 1 | 0.3
+17. sense-through-another-creature | magical | 1 | 0.68
+18. expand-a-resource-pool | magical | 1 | 0.63
+19. perceive-without-sight | innate | 1 | 0.7
+20. inflict-a-lingering-wound | innate | 1 | 0.52
+21. grants-another-option | innate | 1 | 0.57
+22. grants-another-option | trained-skill | 1 | 0.48
+23. grants-another-option | innate | 1 | 0.54
+24. absorb-or-blunt-damage | magical | 1 | 0.33
+25. frighten + inflict-a-lingering-wound | social | 1 | 0.56

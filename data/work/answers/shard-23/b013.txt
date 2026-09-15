@@ -1,0 +1,25 @@
+1. secure-shelter-and-supply | social | 1 | 0.4
+2. store-an-effect-for-later | magical | 1 | 0.45
+3. negate-an-effect-outright + store-an-effect-for-later | magical | 2 | 0.4
+4. gain-an-extra-action | magical | 1 | 0.4
+5. poison-a-foe + track-a-creature | alchemical | 1 | 0.55
+6. strike-a-distant-foe + redirect-harm | magical | 1 | 0.5
+7. disguise-your-appearance + frighten | magical | 1 | 0.55
+8. know-where-you-are | tool | 1 | 0.45
+9. divine-an-answer + command-obedience | magical | 1 | 0.4
+10. secure-shelter-and-supply | manual | 1 | 0.3
+11. secure-shelter-and-supply | manual | 1 | 0.35
+12. poison-a-foe + confuse-or-scramble-a-mind | alchemical | 1 | 0.5
+13. sense-or-shape-fate | trained-skill | 1 | 0.35
+14. harm-many-at-once + shake-off-an-affliction | magical | 2 | 0.42
+15. curse-a-creature + inflict-a-lingering-wound | magical | 1 | 0.45
+16. strike-a-distant-foe + teleport-a-short-distance | magical | 1 | 0.5
+17. alter-belief-or-memory + command-obedience | alchemical | 1 | 0.55
+18. fly + harm-many-at-once | magical | 2 | 0.45
+19. teleport-a-short-distance | magical | 1 | 0.55
+20. heal-a-body + persuade-by-reason-or-charm | magical | 1 | 0.5
+21. destroy-a-barrier + enhance-a-weapon-s-bite | magical | 1 | 0.4
+22. raise-a-structure | magical | 1 | 0.55
+23. protect-a-group + enhance-a-weapon-s-bite | divine | 2 | 0.35
+24. resist-a-kind-of-harm | magical | 1 | 0.35
+25. poison-a-foe + call-a-creature-to-fight-for-you | magical | 1 | 0.55

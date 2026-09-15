@@ -1,0 +1,25 @@
+1. harm-many-at-once + dull-a-foe-s-capability | magical | 2 | 0.5
+2. frighten | magical | 1 | 0.6
+3. stop-a-foe-moving + inflict-a-lingering-wound | magical | 1 | 0.55
+4. gain-a-buffer-of-vitality + frighten | magical | 1 | 0.45
+5. increase-proficiency-or-defence | magical | 1 | 0.58
+6. absorb-or-blunt-damage + be-harder-to-hit | magical | 1 | 0.42
+7. reshape-the-ground | magical | 1 | 0.35
+8. increase-proficiency-or-defence | magical | 1 | 0.78
+9. communicate-at-a-distance | magical | 2 | 0.65
+10. call-a-creature-to-fight-for-you + repair-an-object | magical | 1 | 0.4
+11. poison-a-foe + lift-a-curse | alchemical | 1 | 0.53
+12. negate-an-effect-outright | magical | 1 | 0.56
+13. enhance-a-weapon-s-bite + draw-on-a-higher-power | divine | 1 | 0.44
+14. tend-your-companion | technological | 1 | 0.46
+15. direct-a-companion-in-battle | innate | 1 | 0.39
+16. see-through-deception + blind-or-deafen | innate | 1 | 0.43
+17. hide-from-notice | innate | 1 | 0.48
+18. share-power-with-a-bonded-creature + guard-your-mind | innate | 1 | 0.47
+19. improve-what-a-companion-can-do | innate | 1 | 0.52
+20. attack-more-often | manual | 1 | 0.38
+21. keep-a-bonded-creature | innate | 1 | 0.7
+22. grants-another-option | divine | 1 | 0.51
+23. belong-to-an-order | social | 1 | 0.49
+24. repair-an-object + run-a-long-project | trained-skill | 2 | 0.37
+25. increase-proficiency-or-defence | manual | 1 | 0.33
