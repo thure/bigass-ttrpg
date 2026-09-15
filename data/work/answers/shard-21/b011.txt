@@ -1,0 +1,25 @@
+1. grants-another-option | magical | 1 | 0.45
+2. make-light + detect-a-lie | magical | 1 | 0.55
+3. increase-proficiency-or-defence | alchemical | 1 | 0.75
+4. close-on-a-foe | magical | 1 | 0.5
+5. sense-a-distant-place | magical | 2 | 0.65
+6. lift-a-curse + restore-a-diminished-capacity | magical | 1 | 0.65
+7. resist-a-kind-of-harm | item | 1 | 0.45
+8. attack-more-often | magical | 1 | 0.68
+9. return-the-dead-to-life | magical | 1 | 0.75
+10. climb-a-vertical-surface | tool | 1 | 0.7
+11. poison-a-foe + conceal-an-object | item | 1 | 0.6
+12. make-an-extradimensional-space | magical | 1 | 0.85
+13. grow-or-shrink | magical | 1 | 0.8
+14. increase-attributes-or-health | magical | 1 | 0.82
+15. gain-an-extra-action + move-faster | magical | 1 | 0.6
+16. cheat-death | magical | 1 | 0.68
+17. sense-or-shape-fate | divine | 1 | 0.55
+18. poison-a-foe + change-your-nature | alchemical | 1 | 0.58
+19. teleport-a-short-distance + harm-many-at-once | technological | 1 | 0.7
+20. disguise-what-a-thing-is | magical | 1 | 0.78
+21. enhance-a-weapon-s-bite | magical | 1 | 0.68
+22. condition-state | alchemical | 1 | 0.5
+23. cure-poison-or-disease | tool | 1 | 0.55
+24. turn-an-attack-back + kill-outright | divine | 1 | 0.6
+25. charm-into-friendship + sense-through-another-creature | magical | 1 | 0.6

@@ -1,0 +1,25 @@
+1. hide-from-notice | alchemical | 1 | 0.5
+2. harm-many-at-once + dull-a-foe-s-capability | alchemical | 1 | 0.48
+3. negate-an-effect-outright | magical | 2 | 0.62
+4. speak-with-the-otherwise-mute | magical | 1 | 0.5
+5. seal-a-boundary | tool | 1 | 0.42
+6. heal-a-body | magical | 1 | 0.72
+7. kill-outright | magical | 1 | 0.68
+8. increase-proficiency-or-defence | magical | 1 | 0.55
+9. divine-an-answer | alchemical | 1 | 0.58
+10. cross-resisting-ground + survive-a-hostile-environment | alchemical | 1 | 0.5
+11. harm-many-at-once | alchemical | 1 | 0.55
+12. frighten + harm-many-at-once | magical | 1 | 0.48
+13. cure-poison-or-disease + grow-a-natural-weapon | alchemical | 1 | 0.55
+14. animate-the-inanimate | ritual | 2 | 0.42
+15. redirect-harm | divine | 1 | 0.62
+16. craft-an-object | tool | 1 | 0.6
+17. persuade-by-reason-or-charm + absorb-or-blunt-damage | magical | 1 | 0.45
+18. secure-shelter-and-supply | tool | 1 | 0.38
+19. divine-an-answer | alchemical | 1 | 0.55
+20. move-unseen | item | 1 | 0.4
+21. resist-a-kind-of-harm + mark-a-foe-as-vulnerable | technological | 1 | 0.45
+22. lift-a-curse | magical | 1 | 0.58
+23. keep-a-bonded-creature | manual | 1 | 0.3
+24. poison-a-foe + drain-vitality-lastingly | alchemical | 1 | 0.5
+25. increase-proficiency-or-defence | magical | 1 | 0.45
