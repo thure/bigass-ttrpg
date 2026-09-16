@@ -1,195 +1,103 @@
-# Every function id in functions.yaml, assigned to one category in categories.yaml.
-# 227 ids, each appearing exactly once. Validate with scripts/check_category_map.py.
+# Every function id in functions.yaml, assigned to one subcategory in
+# categories.yaml. 227 ids, each appearing exactly once. The subcategory implies
+# the category, so this file is the single source of truth for both.
+# Validate with scripts/check_category_map.py.
 #
 # Categories cut across domains on purpose. A domain says what an ability is about;
 # a category says what wanting it says about you. So `make-darkness` leaves the
-# creation domain for Cunning, and `repair-an-object` leaves restoration for
-# Invention. Every such crossing carries a `#` note giving the reason.
+# creation domain for guile/unseen, and `repair-an-object` leaves restoration for
+# invention/fabrication. Every such crossing carries a `#` note giving the reason.
+#
+# The violence and affliction domains are deliberately NOT kept together -- see the
+# header of categories.yaml. They are split by method: the honest blow
+# (valor/force-of-arms), the contest of position (valor/grip), the unfair one
+# (guile/undermining), the unleashed element (invention/unleashing), the assault on
+# a mind (fellowship/pressure).
 
-freedom:
-  - move-faster
+# ============================================================ 1 VALOR
+bulwark:            # 1.1, faces compassion
+  - be-harder-to-hit
+  - absorb-or-blunt-damage
+  - resist-a-kind-of-harm
+  - shrug-off-an-effect-you-failed-to-avoid
+  - become-hard-to-kill
+  - negate-an-effect-outright
+  - gain-a-buffer-of-vitality
+  - guard-your-mind
+  - resist-poison-and-disease
+  - shake-off-an-affliction
+  - avoid-a-danger-you-foresaw
+
+force-of-arms:      # 1.2, core
+  - strike-a-foe-in-reach
+  - strike-a-distant-foe
+  - strike-with-overwhelming-force
+  - attack-more-often
+  - punish-an-opening
+  - turn-an-attack-back
+  - enhance-a-weapon-s-bite
+  - kill-outright
+  - destroy-an-object
+  - wage-mass-combat
+
+grip:               # 1.3, faces freedom
+  - close-on-a-foe               # movement -> movement that exists to arrive swinging
+  - reposition-another-creature  # movement -> shove and drag; force, openly applied
+  - stop-a-foe-moving            # affliction -> grapple, pin, hold the line
+  - bind-a-creature-in-place     # barriers -> the barrier is a pair of arms
+  - slow-a-foe                   # affliction -> the openly applied hobble, not a hex
+  - dull-a-foe-s-capability      # affliction -> battering someone into fighting worse
+  - mark-a-foe-as-vulnerable     # affliction -> calling the shot for your side to take
+  - destroy-a-barrier            # barriers -> the wall is a target, not a door
+
+# ============================================================ 2 FREEDOM
+escape:             # 2.1, faces valor
+  - break-free-of-restraint
+  - disengage-from-danger
   - cross-resisting-ground
+
+passage:            # 2.2, core
+  - move-faster
   - climb-a-vertical-surface
   - move-through-water
   - fly
   - burrow-through-earth
   - walk-on-unstable-footing
   - pass-through-solid-matter
+  - become-insubstantial   # transformation -> the point of it is going through things
   - teleport-a-short-distance
   - teleport-a-great-distance
   - travel-between-planes
-  - break-free-of-restraint
-  - disengage-from-danger
+  - open-a-portal          # metaphysics -> a way through, made permanent
+
+wayfaring:          # 2.3, faces invention
   - travel-overland
   - move-a-group
-  - become-insubstantial        # transformation -> the point of it is going through things
-  - adapt-your-body-to-a-place  # transformation -> gills and hide are how a wanderer enters a medium
-  - know-where-you-are          # knowledge -> wayfinding is a traveller's trait, not a scholar's
-  - open-a-portal               # metaphysics -> a door is a way through, made permanent
+  - know-where-you-are             # knowledge -> wayfinding is a traveller's trait, not a scholar's
+  - survive-a-hostile-environment  # protection -> what lets you go where the climate kills
+  - go-without-necessities         # protection -> the same; the explorer's endurance
+  - adapt-your-body-to-a-place     # transformation -> gills and hide are how a wanderer enters a medium
 
-cunning:
-  - hide-from-notice
-  - move-unseen
-  - become-invisible
-  - disguise-your-appearance
-  - impersonate-a-specific-person
-  - conceal-an-object
-  - erase-your-trail
-  - conceal-a-place
-  - obscure-an-area
-  - lie-convincingly
-  - hide-a-message
-  - evade-magical-detection
-  - breach-a-locked-boundary       # barriers -> lockpicking is the burglar's disposition
-  - disable-a-device               # barriers -> same hands, same patience
-  - set-a-trap                     # violence -> harm you arranged and then walked away from
-  - strike-from-hiding-and-vanish  # violence -> the vanish is the distinguishing half
-  - earn-trust-under-false-pretences  # influence -> sustained deception, not persuasion
-  - gain-access-to-closed-circles     # society -> being somewhere you do not belong
-  - forge-a-document               # creation -> the product is a lie in ink
-  - make-darkness                  # creation -> functionally obscure-an-area; you make it to hide in
-  - disguise-what-a-thing-is       # transformation -> nothing changes but the belief about it
-  - make-terrain-look-otherwise    # environment -> illusion, at landscape scale
+# ============================================================ 3 INVENTION
+unleashing:         # 3.1, faces freedom
+  - reshape-the-ground
+  - command-the-weather
+  - control-water
+  - control-fire
+  - grow-or-wither-plants
+  - alter-gravity-or-orientation
+  - set-off-or-quell-a-hazard
+  - create-a-persistent-zone
+  - bless-or-blight-a-place
+  - harm-many-at-once           # violence -> the fireball is control-fire aimed at people
+  - inflict-a-lingering-wound   # violence -> burn and rot: the element keeps working after you stop
+  - open-a-path-through-matter  # barriers -> a door that did not exist now does
+  - build-a-barrier             # barriers -> a wall is a thing you made
+  - banish-a-creature           # barriers -> rewriting which world someone is standing in
 
-curiosity:
-  - notice-what-is-hidden
-  - see-in-darkness
-  - see-through-deception
-  - sense-a-distant-place
-  - sense-through-another-creature
-  - detect-a-kind-of-creature
-  - detect-magic
-  - perceive-without-sight
-  - track-a-creature
-  - read-another-intent
-  - see-through-obscurement
-  - detect-a-lie
-  - perceive-the-incorporeal
-  - extend-your-senses
-  - recall-what-you-have-learned
-  - identify-a-creature
-  - identify-magic
-  - divine-an-answer
-  - glimpse-the-future
-  - learn-a-true-name-or-secret
-  - read-any-writing
-  - research-in-archives
-  - learn-a-place-or-object-s-past
-  - locate-a-person-or-thing
-  - appraise-worth
-  - question-the-dead
-  - gather-information-from-people  # influence -> talking is the method, knowing is the product
-  - read-or-enter-a-mind            # influence -> access to thought, not to behaviour
-  - act-sooner-than-others          # metaphysics -> going first is noticing first
-
-fellowship:
-  - persuade-by-reason-or-charm
-  - coerce-through-threat
-  - command-obedience
-  - charm-into-friendship
-  - inspire-allies
-  - rally-the-faltering
-  - calm-hostility
-  - alter-belief-or-memory
-  - provoke-a-foe-to-target-you
-  - speak-with-the-otherwise-mute
-  - strike-a-binding-bargain
-  - sway-an-audience
-  - turn-or-rebuke-a-creature-type
-  - communicate-at-a-distance   # knowledge -> the product is contact, not information
-  - keep-a-bonded-creature
-  - direct-a-companion-in-battle
-  - call-a-creature-to-fight-for-you
-  - raise-or-command-the-dead
-  - share-power-with-a-bonded-creature
-  - gain-followers
-  - ride-a-mount
-  - call-an-outsider
-  - tend-your-companion
-  - improve-what-a-companion-can-do
-  - earn-income
-  - build-your-reputation
-  - damage-another-s-standing
-  - lead-an-organisation
-  - recruit-help
-  - secure-shelter-and-supply
-  - trade-and-bargain
-  - run-a-long-project
-  - travel-as-a-known-figure
-  - fight-as-a-unit             # violence -> useless alone; the ability *is* the other people
-
-fortitude:
-  - be-harder-to-hit
-  - absorb-or-blunt-damage
-  - resist-a-kind-of-harm
-  - shrug-off-an-effect-you-failed-to-avoid
-  - interpose-yourself-for-another
-  - protect-a-group
-  - become-hard-to-kill
-  - negate-an-effect-outright
-  - redirect-harm
-  - gain-a-buffer-of-vitality
-  - guard-your-mind
-  - resist-poison-and-disease
-  - survive-a-hostile-environment
-  - go-without-necessities
-  - shake-off-an-affliction
-  - avoid-a-danger-you-foresaw
-  - heal-a-body
-  - heal-many-at-once
-  - return-the-dead-to-life
-  - keep-the-dying-alive
-  - cure-poison-or-disease
-  - lift-a-curse
-  - restore-a-diminished-capacity
-  - quiet-a-troubled-mind
-  - recover-on-your-own
-  - rest-and-recover
-  - seal-a-boundary        # barriers -> holding the door is the warden's act
-  - ward-an-area           # barriers -> same, at the scale of a place
-  - block-magical-passage  # barriers -> a ward against the one route a ward usually misses
-
-wrath:
-  - strike-a-foe-in-reach
-  - strike-a-distant-foe
-  - harm-many-at-once
-  - ambush-an-unready-foe
-  - strike-with-overwhelming-force
-  - attack-more-often
-  - punish-an-opening
-  - inflict-a-lingering-wound
-  - kill-outright
-  - drain-life-to-sustain-yourself
-  - destroy-an-object
-  - wage-mass-combat
-  - turn-an-attack-back
-  - enhance-a-weapon-s-bite
-  - exploit-a-known-weakness
-  - dull-a-foe-s-capability
-  - slow-a-foe
-  - stop-a-foe-moving
-  - blind-or-deafen
-  - poison-a-foe
-  - inflict-disease
-  - frighten
-  - confuse-or-scramble-a-mind
-  - put-to-sleep
-  - petrify-or-solidify
-  - curse-a-creature
-  - drain-vitality-lastingly
-  - silence-magic
-  - mark-a-foe-as-vulnerable
-  - reposition-another-creature  # movement -> someone else's movement, imposed on them
-  - close-on-a-foe               # movement -> movement that exists to arrive swinging
-  - bind-a-creature-in-place     # barriers -> the barrier is around a person, and hostile
-  - imprison-a-creature          # barriers -> the same, at the scale of a sentence
-  - banish-a-creature            # barriers -> removal of a creature by force
-  - destroy-a-barrier            # barriers -> the wall is a target, not a door
-
-invention:
+fabrication:        # 3.2, core
   - craft-an-object
   - conjure-a-temporary-tool
-  - create-food-and-water
   - raise-a-structure
   - make-an-extradimensional-space
   - compound-a-substance
@@ -197,41 +105,165 @@ invention:
   - make-light
   - duplicate-a-thing-or-person
   - transmute-raw-material
+  - animate-the-inanimate
+  - repair-an-object            # restoration -> the patient is a thing; this is craft
+
+metamorphosis:      # 3.3, faces curiosity
   - change-your-own-shape
   - change-another-s-shape
   - grow-or-shrink
   - take-on-an-elemental-substance
   - grow-a-natural-weapon
-  - animate-the-inanimate
   - change-your-nature
   - gain-a-creature-s-trait
   - swap-places-or-bodies
-  - reshape-the-ground
-  - command-the-weather
-  - control-water
-  - control-fire
-  - create-a-persistent-zone
-  - bless-or-blight-a-place
-  - grow-or-wither-plants
-  - alter-gravity-or-orientation
-  - set-off-or-quell-a-hazard
-  - repair-an-object           # restoration -> the patient is a thing; this is craft
-  - open-a-path-through-matter # barriers -> a door that did not exist now does
-  - build-a-barrier            # barriers -> a wall is a thing you made
+  - petrify-or-solidify         # affliction -> transmutation with a victim in it
 
-wellspring:
-  - gain-an-extra-action
-  - slow-or-hasten-time-for-others
-  - undo-what-has-happened
-  - improve-your-luck
-  - impose-misfortune
-  - store-an-effect-for-later
-  - sever-a-supernatural-connection
-  - cheat-death
-  - exist-in-two-places
-  - step-outside-time
-  - draw-on-a-higher-power
-  - sense-or-shape-fate
+# ============================================================ 4 CURIOSITY
+lore:               # 4.1, faces invention
+  - recall-what-you-have-learned
+  - identify-a-creature
+  - identify-magic
+  - appraise-worth
+  - read-any-writing
+  - research-in-archives
+  - learn-a-place-or-object-s-past
+
+sense:              # 4.2, core
+  - see-in-darkness
+  - perceive-without-sight
+  - see-through-obscurement
+  - extend-your-senses
+  - perceive-the-incorporeal
+  - detect-magic
+  - detect-a-kind-of-creature
+  - sense-a-distant-place
+  - sense-through-another-creature
+  - locate-a-person-or-thing
+  - divine-an-answer
+  - glimpse-the-future
+  - question-the-dead
+  - act-sooner-than-others   # metaphysics -> going first is noticing first
+
+scrutiny:           # 4.3, faces guile
+  - notice-what-is-hidden
+  - see-through-deception
+  - detect-a-lie
+  - read-another-intent
+  - track-a-creature
+  - learn-a-true-name-or-secret
+  - gather-information-from-people  # influence -> talking is the method, knowing is the product
+  - read-or-enter-a-mind            # influence -> access to thought, not to behaviour
+
+# ============================================================ 5 GUILE
+unseen:             # 5.1, faces curiosity
+  - hide-from-notice
+  - move-unseen
+  - become-invisible
+  - conceal-an-object
+  - conceal-a-place
+  - erase-your-trail
+  - obscure-an-area
+  - evade-magical-detection
+  - make-darkness    # creation -> functionally obscure-an-area; you make it to hide in
+
+undermining:        # 5.2, core
+  - breach-a-locked-boundary       # barriers -> lockpicking is the burglar's disposition
+  - disable-a-device               # barriers -> same hands, same patience
+  - imprison-a-creature            # barriers -> removing a piece from the board quietly
+  - set-a-trap                     # violence -> harm you arranged and then walked away from
+  - ambush-an-unready-foe          # violence -> harm bought with surprise, not strength
+  - strike-from-hiding-and-vanish  # violence -> the vanish is the distinguishing half
+  - exploit-a-known-weakness       # violence -> you studied them first; that is the whole trick
+  - drain-life-to-sustain-yourself # violence -> taking what is theirs; never an open exchange
+  - poison-a-foe                   # affliction -> the assassin's tool, applied unseen
+  - inflict-disease                # affliction -> harm that arrives long after you left
+  - blind-or-deafen                # affliction -> taking away what they were relying on
+  - silence-magic                  # affliction -> the same, aimed at their best option
+  - curse-a-creature               # affliction -> hexcraft; misfortune with your name on it
+  - drain-vitality-lastingly       # affliction -> hollowing out rather than striking down
+
+deceit:             # 5.3, faces fellowship
+  - lie-convincingly
+  - disguise-your-appearance
+  - impersonate-a-specific-person
+  - hide-a-message
+  - forge-a-document                  # creation -> the product is a lie in ink
+  - disguise-what-a-thing-is          # transformation -> nothing changes but the belief about it
+  - make-terrain-look-otherwise       # environment -> illusion, at landscape scale
+  - earn-trust-under-false-pretences  # influence -> sustained deception, not persuasion
+  - gain-access-to-closed-circles     # society -> being somewhere you do not belong
+  - damage-another-s-standing         # society -> the knife that leaves no mark
+
+# ============================================================ 6 FELLOWSHIP
+pressure:           # 6.1, faces guile
+  - coerce-through-threat
+  - command-obedience
+  - alter-belief-or-memory
+  - provoke-a-foe-to-target-you
+  - turn-or-rebuke-a-creature-type
+  - frighten                     # affliction -> fear is influence that does not ask
+  - confuse-or-scramble-a-mind   # affliction -> you are still driving them, just badly
+  - put-to-sleep                 # affliction -> a command the body cannot refuse
+
+the-word:           # 6.2, core
+  - persuade-by-reason-or-charm
+  - charm-into-friendship
+  - sway-an-audience
+  - inspire-allies
+  - strike-a-binding-bargain
+  - speak-with-the-otherwise-mute
+  - communicate-at-a-distance    # knowledge -> the product is contact, not information
+  - build-your-reputation
+  - travel-as-a-known-figure
+  - trade-and-bargain
+  - earn-income
+  - lead-an-organisation
+  - recruit-help
+  - run-a-long-project
+
+retinue:            # 6.3, faces compassion
+  - keep-a-bonded-creature
+  - direct-a-companion-in-battle
+  - improve-what-a-companion-can-do
+  - share-power-with-a-bonded-creature
+  - call-a-creature-to-fight-for-you
+  - call-an-outsider
+  - raise-or-command-the-dead
+  - ride-a-mount
+  - gain-followers
+  - fight-as-a-unit              # violence -> useless alone; the ability *is* the other people
+
+# ============================================================ 7 COMPASSION
+succour:            # 7.1, faces fellowship
+  - quiet-a-troubled-mind
+  - rest-and-recover
+  - calm-hostility          # influence -> taking the fight out of a room, not winning it
+  - rally-the-faltering     # influence -> aimed at their despair, not their obedience
+  - tend-your-companion     # companions -> care for the creature, not use of it
+  - create-food-and-water   # creation -> the product is somebody not being hungry
+  - secure-shelter-and-supply  # society -> the logistics of other people surviving
+
+healing:            # 7.2, core
+  - heal-a-body
+  - heal-many-at-once
+  - keep-the-dying-alive
+  - return-the-dead-to-life
+  - cure-poison-or-disease
+  - lift-a-curse
+  - restore-a-diminished-capacity
+  - recover-on-your-own
+
+sanctuary:          # 7.3, faces valor
+  - interpose-yourself-for-another  # protection -> the defining act: their wound, your body
+  - protect-a-group                 # protection -> the cover is for everyone but you
+  - redirect-harm                   # protection -> it was going to land on someone else
+  - seal-a-boundary                 # barriers -> holding the door is a shepherd's act
+  - ward-an-area                    # barriers -> the same, at the scale of a place
+  - block-magical-passage           # barriers -> a ward against the one route wards usually miss
+
+# ============================================================ 0 WELLSPRING (hub, no ring position)
+the-self:
   - claim-a-lineage
   - claim-a-past-vocation
   - bind-yourself-to-a-power
@@ -240,6 +272,22 @@ wellspring:
   - belong-to-an-order
   - draw-on-an-inner-source
   - specialise-in-a-tradition
+
+the-terms:
+  - improve-your-luck
+  - impose-misfortune
+  - sense-or-shape-fate
+  - cheat-death
+  - draw-on-a-higher-power
+  - undo-what-has-happened
+  - slow-or-hasten-time-for-others
+  - step-outside-time
+  - exist-in-two-places
+  - gain-an-extra-action
+  - store-an-effect-for-later
+  - sever-a-supernatural-connection
+
+plumbing:
   - condition-state
   - increase-proficiency-or-defence
   - increase-attributes-or-health

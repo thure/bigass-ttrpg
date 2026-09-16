@@ -1,66 +1,199 @@
-# Categories: the top layer above `domain`. Seven arranged in a ring plus one hub.
+# Categories: the top layer above `domain`. Seven arranged in a ring plus one hub,
+# each ring category cut into three subcategories that continue the ring.
 #
 # WHY A RING. The 21 domains are organised by subject matter ("this one is about
 # water"), which is useful for finding a function and useless for characterisation.
 # A category here answers a different question: *what does wanting this say about
-# the character who wants it?* Each is a standing disposition -- a drive -- and the
-# abilities inside it are the things that drive reaches for.
+# the character who wants it?* Each is a standing drive, and the abilities inside it
+# are the things that drive reaches for.
 #
-# The ring is borrowed in structure from motivational circumplex models (the
-# Enneagram's wings, the interpersonal circumplex's octants): neighbours on the
-# circle blend into one another and describe similar people, the far side of the
-# circle describes their opposite. Seven is deliberate and odd -- no category has a
-# single mirror image, only a pair of near-opposites across the gap, so no character
-# reduces to one axis.
+# The structure is borrowed from motivational circumplex models (the Enneagram's
+# wings, the interpersonal circumplex's octants): neighbours on the circle blend
+# into one another and describe similar people, the far side describes their
+# opposite. Seven is deliberate and odd -- no category has a single mirror image,
+# only a pair of near-opposites across the gap, so no character reduces to one axis.
 #
-# ORDER IS MEANINGFUL. `ring` is the position; each category borders the one before
-# and the one after, and 7 wraps to 1.
+# EVERY CATEGORY IS A FACULTY, NEVER A VICE. This is the load-bearing rule. A player
+# must be able to say "my character is driven by this" with pleasure. A drafted
+# version of this file had a `wrath` category holding all 35 violence-and-affliction
+# functions, and it failed that test instantly: it was the only one named for a
+# feeling rather than a capacity, so it read as the evil box while its neighbours
+# read as neutral. Violence is now sorted by *method* -- the honest blow (valor),
+# the unfair one (guile), the unleashed element (invention), the assault on a mind
+# (fellowship) -- because how a character hurts someone characterises them and the
+# bare fact that they do not.
 #
-#                            1 freedom
-#                     7 invention   2 cunning
-#                   6 wrath           3 curiosity
-#                       5 fortitude 4 fellowship
+# THE THREE SUBCATEGORIES. Each category has a `core` -- its purest expression, the
+# thing it would still be if it had no neighbours -- and two `edge` subcategories,
+# each leaning into one neighbour. An edge names its neighbour in `faces`, and the
+# two edges that meet at a boundary are written to be a matched pair: valor's `grip`
+# takes away movement, freedom's `escape` refuses to have it taken; curiosity's
+# `scrutiny` looks for what guile's `unseen` hides. The seams are where the
+# interesting characters live, so they are the part built deliberately.
+#
+# ORDER IS MEANINGFUL. `ring` is the position. Categories run 1-7 clockwise and wrap;
+# subcategory `1.1` faces the previous category, `1.2` is the core, `1.3` faces the
+# next. Read end to end, the 21 subcategories are themselves a continuous ring.
+#
+#                             1 valor
+#                     7 compassion    2 freedom
+#                   6 fellowship        3 invention
+#                         5 guile   4 curiosity
 #
 # A character is normally read as a primary category plus a neighbouring "wing"
-# (freedom/cunning = the scout; wrath/invention = the destroyer-creator), and the
-# interesting characters are the ones holding two *non*-adjacent drives at once.
+# (freedom/invention = the pathfinder; guile/fellowship = the confidence artist),
+# and the interesting characters hold two *non*-adjacent drives at once. At
+# subcategory resolution a character is usually one core plus an edge.
+
+- id: valor
+  ring: 1
+  name: Valor
+  archetype: The Champion
+  disposition: Direct, durable, unsubtle by choice. Believes most problems resolve
+    if someone is willing to stand in front of them and not move.
+  wants: To meet the danger itself -- to take the blow, to land one, to still be
+    standing when it is over.
+  test: Is this the open contest -- absorbing harm, resisting it, or dealing it
+    face to face where everyone can see it coming?
+  borders:
+    - id: freedom
+      why: Stand or run. The two nerves of a body in danger, and both take the
+        same kind of courage; the skirmisher is made of both.
+    - id: compassion
+      why: You guard what you love. The shield and the field medic are one instinct
+        at two distances from the wound.
+  note: >
+    Holds defence and honest offence together on purpose. The fighter who blocks
+    and the fighter who strikes are not two people, and splitting them would leave
+    "being good in a fight" with no home a player would claim.
+  subcategories:
+    - id: bulwark
+      ring: 1.1
+      faces: compassion
+      name: Bulwark
+      gloss: Harm arrives and does not get through.
+      test: Does this stop, reduce or survive something already aimed at the
+        character themselves?
+      seam: >
+        Compassion's `sanctuary` keeps harm off other people; bulwark keeps it off
+        you. Same refusal, different body. A character who slides from one to the
+        other has stopped being a survivor and started being a guardian.
+    - id: force-of-arms
+      ring: 1.2
+      name: Force of Arms
+      gloss: The blow, landed, where everyone saw it coming.
+      test: Does this deal harm openly, by contest of skill and strength, with the
+        target aware there is a fight on?
+    - id: grip
+      ring: 1.3
+      faces: freedom
+      name: Grip
+      gloss: The fight as a contest of position, footing and competence.
+      test: Does this decide who gets to move, stand or function -- rather than who
+        gets hurt?
+      seam: >
+        The mirror of freedom's `escape`, and the sharpest seam on the ring: grip
+        is the hand closing, escape is the wrist turning out of it. Most published
+        grapple rules are one function written twice, once from each side.
 
 - id: freedom
-  ring: 1
+  ring: 2
   name: Freedom
   archetype: The Wanderer
-  disposition: Restless, self-possessed, allergic to being held. Measures a place by
-    the ways out of it.
-  wants: To not be stopped -- by ground, wall, water, sky, distance, plane or grip.
-  test: Does this exist so that the character can go where they are not, or leave
-    where they are?
+  disposition: Restless, self-possessed, allergic to being held. Measures a place
+    by the ways out of it.
+  wants: To not be stopped -- by ground, wall, water, sky, distance, plane, grip,
+    or a climate that kills the unprepared.
+  test: Does this exist so the character can go where they are not, leave where
+    they are, or last long enough in between?
   borders:
-    - id: cunning
-      why: Both refuse a constraint rather than confront it. One slips the leash,
-        the other slips the eye; the scout is made of both.
+    - id: valor
+      why: See above.
     - id: invention
       why: The road and the traveller. Reshaping the world you cross and crossing
         the world you reshaped are one gesture seen from two ends.
+  subcategories:
+    - id: escape
+      ring: 2.1
+      faces: valor
+      name: Escape
+      gloss: Something has hold of you, or means to. It does not get to keep you.
+      test: Is the obstacle an active attempt to stop this character specifically?
+      seam: >
+        Matched to valor's `grip`. Deliberately the smallest subcategory on the
+        ring: the corpus prints far more ways to hold someone than to get loose,
+        which is itself a finding worth leaving visible rather than padding out.
+    - id: passage
+      ring: 2.2
+      name: Passage
+      gloss: A medium that stops other people -- stone, water, air, distance, the
+        boundary of a plane -- does not stop this one.
+      test: Does this let the character move through or across something by a means
+        their body does not natively have?
+    - id: wayfaring
+      ring: 2.3
+      faces: invention
+      name: Wayfaring
+      gloss: The journey rather than the step. Weeks of it, and arriving alive.
+      test: Is the scale a route rather than a room -- distance, direction, supply,
+        climate, or a body reshaped to suit where it is going?
+      seam: >
+        Meets invention's `unleashing`: the expedition and the terrain it crosses.
+        Wayfaring adapts the traveller to the country; unleashing adapts the
+        country to the traveller. `adapt-your-body-to-a-place` sits here rather
+        than in invention precisely because it is the traveller who yields.
 
-- id: cunning
-  ring: 2
-  name: Cunning
-  archetype: The Trickster
-  disposition: Patient, oblique, allergic to a fair fight. Assumes every situation
-    has a seam in it.
-  wants: Advantage taken before anyone knows a contest has started -- by not being
-    seen, not being known, or not being what you appear to be.
-  test: Does this work by controlling what someone else believes or perceives,
-    rather than by force?
+- id: invention
+  ring: 3
+  name: Invention
+  archetype: The Maker
+  disposition: Impatient with the given world. Sees materials where other people
+    see furniture, and sees no reason a body should keep the shape it arrived in.
+  wants: To have the world be a different shape -- things made, bodies changed,
+    ground rewritten, elements let off the leash.
+  test: Does something come into being, change what it is, or change what it is
+    made of -- including when what it is made of is now on fire?
   borders:
     - id: freedom
-      why: See above -- both evade rather than engage.
+      why: See above.
     - id: curiosity
-      why: Hiding and finding are the same skill pointed in opposite directions.
-        Nobody defeats a searcher like someone who searches.
+      why: You cannot make a thing you do not understand. Every maker is a student
+        first, and study with no making is a hobby.
+  subcategories:
+    - id: unleashing
+      ring: 3.1
+      faces: freedom
+      name: Unleashing
+      gloss: The world's own forces, borrowed and pointed. Weather, flood, fire,
+        the ground itself.
+      test: Is the subject the environment -- terrain, element, sky, the shape of
+        the space -- rather than an object or a body?
+      seam: >
+        Matched to freedom's `wayfaring`. Also where the corpus's area damage lives:
+        a fireball is `control-fire` with people standing in it, and filing it here
+        rather than with sword blows is the single change that most improves how
+        the elementalist reads.
+    - id: fabrication
+      ring: 3.2
+      name: Fabrication
+      gloss: Something exists at the end that did not exist at the start.
+      test: Is the product a discrete thing -- object, substance, structure, mark,
+        copy -- or the restoration of one?
+    - id: metamorphosis
+      ring: 3.3
+      faces: curiosity
+      name: Metamorphosis
+      gloss: The thing persists; what it *is* does not.
+      test: Does a creature or body change kind, shape, size or substance while
+        remaining the same entity?
+      seam: >
+        Meets curiosity's `lore`, on the oldest rule in the genre: you cannot take
+        the shape of a beast you have not studied. Transformation is applied
+        knowledge, and the two traditions that gate wild shape on Nature checks
+        are both encoding this seam.
 
 - id: curiosity
-  ring: 3
+  ring: 4
   name: Curiosity
   archetype: The Seeker
   disposition: Watchful, acquisitive about facts, incapable of leaving a closed
@@ -68,77 +201,188 @@
   wants: To know -- what is there, what it is, what it did, what it will do.
   test: Is the product of this ability information the character did not have?
   borders:
-    - id: cunning
-      why: See above -- the same eye, used to conceal or to reveal.
-    - id: fellowship
-      why: Reading a person is the first half of moving them. Every persuader is a
-        reader first, and every seeker eventually has to ask somebody.
+    - id: invention
+      why: See above.
+    - id: guile
+      why: Hiding and finding are the same skill pointed in opposite directions.
+        Nobody defeats a searcher like someone who searches.
+  subcategories:
+    - id: lore
+      ring: 4.1
+      faces: invention
+      name: Lore
+      gloss: What was already known by somebody, and is now known by you.
+      test: Does this draw on study, records, training or expertise -- knowledge
+        that exists independently of the moment?
+      seam: >
+        Matched to invention's `metamorphosis`, and more broadly the reason the
+        maker and the scholar are neighbours at all.
+    - id: sense
+      ring: 4.2
+      name: Sense
+      gloss: Perception past the range, medium or dimension it was issued with.
+      test: Does the character directly perceive something -- through darkness,
+        distance, matter, another creature's eyes, or the veil over the future?
+      note: >
+        Divination sits here rather than in `lore` because asking the world a
+        question is an extended sense, not a consulted memory. The classifier
+        question is whether an answer arrives unbidden (sense) or is looked up (lore).
+    - id: scrutiny
+      ring: 4.3
+      faces: guile
+      name: Scrutiny
+      gloss: Somebody is working to keep this from you. You find it anyway.
+      test: Is there a concealing intelligence on the other side -- a liar, a
+        hider, a trail being covered?
+      seam: >
+        The exact counterpart of guile's `unseen`, and the cleanest opposed pair in
+        the taxonomy: every function in one exists to defeat a function in the other.
 
-- id: fellowship
-  ring: 4
-  name: Fellowship
-  archetype: The Voice
-  disposition: Gregarious or commanding, sometimes both. Thinks in terms of who
-    can be brought along.
-  wants: To act through other people -- persuading, leading, bonding, being owed,
-    being followed, being known.
-  test: Does this ability require, create or operate on a relationship with another
-    creature or a body of people?
+- id: guile
+  ring: 5
+  name: Guile
+  archetype: The Trickster
+  disposition: Patient, oblique, and entirely unembarrassed about it. Assumes every
+    situation has a seam, and considers a fair fight a planning failure.
+  wants: The contest decided before the other side knows it started -- by not being
+    seen, not being known, not being what you appear to be, or by quietly removing
+    what the other side was counting on.
+  test: Does this work by controlling what an opponent perceives, believes, or can
+    still do, rather than by meeting them openly?
   borders:
     - id: curiosity
       why: See above.
-    - id: fortitude
-      why: Caring what happens to your people is where influence turns into
-        protection. The captain and the medic are the same instinct, one step apart.
+    - id: fellowship
+      why: Deception and persuasion are the same muscle, honest or crooked. The
+        con artist and the diplomat differ only in what they intend afterwards.
+  note: >
+    Holds the poisoner, the hexer and the saboteur alongside the burglar. This is
+    the ring's most morally elastic category, which is correct -- it is elastic
+    about *method*, not about cruelty, and "I don't do fair fights" is a thing
+    players say with relish. It is the one category to re-audit if the corpus ever
+    makes it feel like a dumping ground for nastiness.
+  subcategories:
+    - id: unseen
+      ring: 5.1
+      faces: curiosity
+      name: The Unseen
+      gloss: Being where nobody is looking, including when somebody is looking hard.
+      test: Does this prevent perception -- of a person, an object, a place, a
+        trail, or by denying light and sight altogether?
+      seam: >
+        Matched to curiosity's `scrutiny`.
+    - id: undermining
+      ring: 5.2
+      name: Undermining
+      gloss: The other side loses something before it knows there is a fight on.
+      test: Does this take away an opponent's capability, safety or readiness by a
+        means they did not see applied?
+      note: >
+        The widest core on the ring, holding locks and traps next to poison and
+        hexcraft. They belong together: all of them are the moment a prepared
+        disadvantage cashes out.
+    - id: deceit
+      ring: 5.3
+      faces: fellowship
+      name: Deceit
+      gloss: A false thing, presented to someone with a mind, and believed.
+      test: Is there an audience -- does this only work because a person accepts
+        it as true?
+      seam: >
+        Meets fellowship's `pressure`. Both move a person somewhere they would not
+        have gone; deceit changes what they think is true, pressure changes what
+        they think is possible. The con and the threat are the same trade.
 
-- id: fortitude
-  ring: 5
-  name: Fortitude
-  archetype: The Warden
-  disposition: Steadfast, absorbent, unglamorous. Would rather nothing happened,
-    and is equipped for it happening anyway.
-  wants: To keep bodies, minds and lines intact -- by not being hurt, by hurting
-    less, by being mended, by holding the door.
-  test: Does this prevent harm, reduce harm, or undo harm that has already landed?
+- id: fellowship
+  ring: 6
+  name: Fellowship
+  archetype: The Voice
+  disposition: Gregarious or commanding, sometimes both. Thinks in terms of who can
+    be brought along, and knows that a mind can be moved toward fear as easily as
+    toward agreement.
+  wants: To act through other people -- persuading, leading, bonding, being owed,
+    being followed, being feared, being known.
+  test: Does this ability require, create, or operate on a relationship with another
+    creature or a body of people -- including a hostile one?
+  borders:
+    - id: guile
+      why: See above.
+    - id: compassion
+      why: Acting *through* people and acting *for* them. The captain and the
+        shepherd want the same group intact for different reasons.
+  subcategories:
+    - id: pressure
+      ring: 6.1
+      faces: guile
+      name: Pressure
+      gloss: They do it, and they were never asked.
+      test: Does this override a creature's will, judgement or nerve rather than
+        recruit it?
+      seam: >
+        Matched to guile's `deceit`. Fear, compulsion and confusion sit here rather
+        than with wounds because they are influence that skipped the conversation --
+        the frightened guard has been moved, not injured.
+    - id: the-word
+      ring: 6.2
+      name: The Word
+      gloss: Speech, standing, and what both are worth in a room.
+      test: Does this work through a willing party -- persuasion, reputation,
+        bargain, command accepted, coin exchanged?
+    - id: retinue
+      ring: 6.3
+      faces: compassion
+      name: Retinue
+      gloss: The ones who are yours. Beast, spirit, servant, crew.
+      test: Does the character act through a specific creature or body of people
+        bound to them?
+      seam: >
+        Meets compassion's `succour`, on the unglamorous fact that a retinue is a
+        set of dependents. `tend-your-companion` sits across the line in compassion
+        and `improve-what-a-companion-can-do` sits here, which is exactly the
+        difference between keeping something alive and making it useful.
+
+- id: compassion
+  ring: 7
+  name: Compassion
+  archetype: The Shepherd
+  disposition: Attentive to damage, temperamentally unable to walk past it. Keeps
+    a count of who is hurt that nobody asked them to keep.
+  wants: To have the harm undone and the vulnerable covered -- wounds closed, fear
+    quieted, the weak fed, the door held for someone else.
+  test: Does this repair a creature, shield someone who is not the character, or
+    meet somebody's need?
   borders:
     - id: fellowship
       why: See above.
-    - id: wrath
-      why: The shield and the blade, and the honest truth that the surest way to
-        stop being hit is to stop the thing hitting you.
-
-- id: wrath
-  ring: 6
-  name: Wrath
-  archetype: The Blade
-  disposition: Direct, decisive, unembarrassed about it. Treats a problem as
-    something with a throat.
-  wants: To end, break, bind or degrade what stands in the way, and to be the
-    reason it stopped.
-  test: Does this make a creature or object worse off by force -- injured,
-    diminished, immobilised, removed or destroyed?
-  borders:
-    - id: fortitude
+    - id: valor
       why: See above.
-    - id: invention
-      why: Destruction and creation are the same claim on matter -- that it should
-        be other than it is, because you said so.
-
-- id: invention
-  ring: 7
-  name: Invention
-  archetype: The Maker
-  disposition: Impatient with the given world. Sees materials where other people
-    see furniture.
-  wants: To have the world be a different shape -- things made, bodies changed,
-    ground rewritten, substances turned into other substances.
-  test: Does something come into being, change what it is, or change what it is
-    made of?
-  borders:
-    - id: wrath
-      why: See above.
-    - id: freedom
-      why: See above.
+  subcategories:
+    - id: succour
+      ring: 7.1
+      faces: fellowship
+      name: Succour
+      gloss: Not a wound. A need -- food, roof, rest, a mind talked down.
+      test: Does this meet an ordinary requirement of being alive, or settle a
+        state of mind, rather than closing an injury?
+      seam: >
+        Matched to fellowship's `retinue`.
+    - id: healing
+      ring: 7.2
+      name: Healing
+      gloss: The damage is undone and the body does not remember it.
+      test: Is a creature returned to a condition it was in before something
+        happened to it?
+    - id: sanctuary
+      ring: 7.3
+      faces: valor
+      name: Sanctuary
+      gloss: It was going to land on them. It does not.
+      test: Is the beneficiary someone other than the character -- covered,
+        interposed for, or inside a boundary the character is holding?
+      seam: >
+        Matched to valor's `bulwark`, and the reason those two categories touch at
+        all. Wards and sealed doors sit here rather than with barriers-as-obstacles
+        because the question a ward answers is always "who is inside?".
 
 # ---------------------------------------------------------------- the hub
 - id: wellspring
@@ -148,15 +392,36 @@
   disposition: Not a drive. The place the drives come from and the terms they run on.
   wants: n/a -- this is what the character *is*, not what they reach for.
   test: >
-    Is this about the character's origin, allegiance, code, luck, fate, or the
-    rules of time and consequence themselves -- or is it plumbing with no fiction
-    in it at all? If an ability is too general to be evidence of any one
-    disposition (wish-granting, an attribute boost, "you may now take another
-    feat"), it belongs here rather than being forced onto the ring.
+    Is this about the character's origin, allegiance, code, luck, fate, or the rules
+    of time and consequence themselves -- or is it plumbing with no fiction in it at
+    all? If an ability is too general to be evidence of any one disposition
+    (wish-granting, an attribute boost, "you may now take another feat"), it belongs
+    here rather than being forced onto the ring.
   borders: all
   note: >
     The hub deliberately mixes two unlike things: the genuinely central (lineage,
     pact, vow, destiny, luck, time) and the genuinely empty (bookkeeping, numeric
-    variants, gateways). Both are excluded from the ring for the same reason --
-    they characterise nobody. Keeping them in one visibly mixed bucket is honest;
+    variants, gateways). Both are excluded from the ring for the same reason -- they
+    characterise nobody. Keeping them in one visibly mixed bucket is honest;
     scattering them across the ring would quietly corrupt it.
+  subcategories:
+    # Three facets, not three ring positions: the hub has no neighbours, so none of
+    # these `faces` anything and their order carries no meaning. They exist so the
+    # honest half and the empty half stop being confused with each other.
+    - id: the-self
+      ring: null
+      name: The Self
+      gloss: Where the character's capability comes from before they spend any of it.
+      test: Is the source an origin, an allegiance, a vow, an inheritance or an
+        inner reservoir?
+    - id: the-terms
+      ring: null
+      name: The Terms
+      gloss: The rules the world runs on, bent.
+      test: Does this operate on time, luck, fate, death or causality itself?
+    - id: plumbing
+      ring: null
+      name: Plumbing
+      gloss: No fiction in it at all.
+      test: Is this a rank, a pool, a numeric delta, a gateway to another option,
+        or a vocabulary entry rather than a capability?
