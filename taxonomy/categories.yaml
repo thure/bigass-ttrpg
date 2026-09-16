@@ -1,0 +1,162 @@
+# Categories: the top layer above `domain`. Seven arranged in a ring plus one hub.
+#
+# WHY A RING. The 21 domains are organised by subject matter ("this one is about
+# water"), which is useful for finding a function and useless for characterisation.
+# A category here answers a different question: *what does wanting this say about
+# the character who wants it?* Each is a standing disposition -- a drive -- and the
+# abilities inside it are the things that drive reaches for.
+#
+# The ring is borrowed in structure from motivational circumplex models (the
+# Enneagram's wings, the interpersonal circumplex's octants): neighbours on the
+# circle blend into one another and describe similar people, the far side of the
+# circle describes their opposite. Seven is deliberate and odd -- no category has a
+# single mirror image, only a pair of near-opposites across the gap, so no character
+# reduces to one axis.
+#
+# ORDER IS MEANINGFUL. `ring` is the position; each category borders the one before
+# and the one after, and 7 wraps to 1.
+#
+#                            1 freedom
+#                     7 invention   2 cunning
+#                   6 wrath           3 curiosity
+#                       5 fortitude 4 fellowship
+#
+# A character is normally read as a primary category plus a neighbouring "wing"
+# (freedom/cunning = the scout; wrath/invention = the destroyer-creator), and the
+# interesting characters are the ones holding two *non*-adjacent drives at once.
+
+- id: freedom
+  ring: 1
+  name: Freedom
+  archetype: The Wanderer
+  disposition: Restless, self-possessed, allergic to being held. Measures a place by
+    the ways out of it.
+  wants: To not be stopped -- by ground, wall, water, sky, distance, plane or grip.
+  test: Does this exist so that the character can go where they are not, or leave
+    where they are?
+  borders:
+    - id: cunning
+      why: Both refuse a constraint rather than confront it. One slips the leash,
+        the other slips the eye; the scout is made of both.
+    - id: invention
+      why: The road and the traveller. Reshaping the world you cross and crossing
+        the world you reshaped are one gesture seen from two ends.
+
+- id: cunning
+  ring: 2
+  name: Cunning
+  archetype: The Trickster
+  disposition: Patient, oblique, allergic to a fair fight. Assumes every situation
+    has a seam in it.
+  wants: Advantage taken before anyone knows a contest has started -- by not being
+    seen, not being known, or not being what you appear to be.
+  test: Does this work by controlling what someone else believes or perceives,
+    rather than by force?
+  borders:
+    - id: freedom
+      why: See above -- both evade rather than engage.
+    - id: curiosity
+      why: Hiding and finding are the same skill pointed in opposite directions.
+        Nobody defeats a searcher like someone who searches.
+
+- id: curiosity
+  ring: 3
+  name: Curiosity
+  archetype: The Seeker
+  disposition: Watchful, acquisitive about facts, incapable of leaving a closed
+    door closed in their own head.
+  wants: To know -- what is there, what it is, what it did, what it will do.
+  test: Is the product of this ability information the character did not have?
+  borders:
+    - id: cunning
+      why: See above -- the same eye, used to conceal or to reveal.
+    - id: fellowship
+      why: Reading a person is the first half of moving them. Every persuader is a
+        reader first, and every seeker eventually has to ask somebody.
+
+- id: fellowship
+  ring: 4
+  name: Fellowship
+  archetype: The Voice
+  disposition: Gregarious or commanding, sometimes both. Thinks in terms of who
+    can be brought along.
+  wants: To act through other people -- persuading, leading, bonding, being owed,
+    being followed, being known.
+  test: Does this ability require, create or operate on a relationship with another
+    creature or a body of people?
+  borders:
+    - id: curiosity
+      why: See above.
+    - id: fortitude
+      why: Caring what happens to your people is where influence turns into
+        protection. The captain and the medic are the same instinct, one step apart.
+
+- id: fortitude
+  ring: 5
+  name: Fortitude
+  archetype: The Warden
+  disposition: Steadfast, absorbent, unglamorous. Would rather nothing happened,
+    and is equipped for it happening anyway.
+  wants: To keep bodies, minds and lines intact -- by not being hurt, by hurting
+    less, by being mended, by holding the door.
+  test: Does this prevent harm, reduce harm, or undo harm that has already landed?
+  borders:
+    - id: fellowship
+      why: See above.
+    - id: wrath
+      why: The shield and the blade, and the honest truth that the surest way to
+        stop being hit is to stop the thing hitting you.
+
+- id: wrath
+  ring: 6
+  name: Wrath
+  archetype: The Blade
+  disposition: Direct, decisive, unembarrassed about it. Treats a problem as
+    something with a throat.
+  wants: To end, break, bind or degrade what stands in the way, and to be the
+    reason it stopped.
+  test: Does this make a creature or object worse off by force -- injured,
+    diminished, immobilised, removed or destroyed?
+  borders:
+    - id: fortitude
+      why: See above.
+    - id: invention
+      why: Destruction and creation are the same claim on matter -- that it should
+        be other than it is, because you said so.
+
+- id: invention
+  ring: 7
+  name: Invention
+  archetype: The Maker
+  disposition: Impatient with the given world. Sees materials where other people
+    see furniture.
+  wants: To have the world be a different shape -- things made, bodies changed,
+    ground rewritten, substances turned into other substances.
+  test: Does something come into being, change what it is, or change what it is
+    made of?
+  borders:
+    - id: wrath
+      why: See above.
+    - id: freedom
+      why: See above.
+
+# ---------------------------------------------------------------- the hub
+- id: wellspring
+  ring: 0
+  name: Wellspring
+  archetype: The Self
+  disposition: Not a drive. The place the drives come from and the terms they run on.
+  wants: n/a -- this is what the character *is*, not what they reach for.
+  test: >
+    Is this about the character's origin, allegiance, code, luck, fate, or the
+    rules of time and consequence themselves -- or is it plumbing with no fiction
+    in it at all? If an ability is too general to be evidence of any one
+    disposition (wish-granting, an attribute boost, "you may now take another
+    feat"), it belongs here rather than being forced onto the ring.
+  borders: all
+  note: >
+    The hub deliberately mixes two unlike things: the genuinely central (lineage,
+    pact, vow, destiny, luck, time) and the genuinely empty (bookkeeping, numeric
+    variants, gateways). Both are excluded from the ring for the same reason --
+    they characterise nobody. Keeping them in one visibly mixed bucket is honest;
+    scattering them across the ring would quietly corrupt it.

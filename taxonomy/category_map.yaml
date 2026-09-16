@@ -1,0 +1,250 @@
+# Every function id in functions.yaml, assigned to one category in categories.yaml.
+# 227 ids, each appearing exactly once. Validate with scripts/check_category_map.py.
+#
+# Categories cut across domains on purpose. A domain says what an ability is about;
+# a category says what wanting it says about you. So `make-darkness` leaves the
+# creation domain for Cunning, and `repair-an-object` leaves restoration for
+# Invention. Every such crossing carries a `#` note giving the reason.
+
+freedom:
+  - move-faster
+  - cross-resisting-ground
+  - climb-a-vertical-surface
+  - move-through-water
+  - fly
+  - burrow-through-earth
+  - walk-on-unstable-footing
+  - pass-through-solid-matter
+  - teleport-a-short-distance
+  - teleport-a-great-distance
+  - travel-between-planes
+  - break-free-of-restraint
+  - disengage-from-danger
+  - travel-overland
+  - move-a-group
+  - become-insubstantial        # transformation -> the point of it is going through things
+  - adapt-your-body-to-a-place  # transformation -> gills and hide are how a wanderer enters a medium
+  - know-where-you-are          # knowledge -> wayfinding is a traveller's trait, not a scholar's
+  - open-a-portal               # metaphysics -> a door is a way through, made permanent
+
+cunning:
+  - hide-from-notice
+  - move-unseen
+  - become-invisible
+  - disguise-your-appearance
+  - impersonate-a-specific-person
+  - conceal-an-object
+  - erase-your-trail
+  - conceal-a-place
+  - obscure-an-area
+  - lie-convincingly
+  - hide-a-message
+  - evade-magical-detection
+  - breach-a-locked-boundary       # barriers -> lockpicking is the burglar's disposition
+  - disable-a-device               # barriers -> same hands, same patience
+  - set-a-trap                     # violence -> harm you arranged and then walked away from
+  - strike-from-hiding-and-vanish  # violence -> the vanish is the distinguishing half
+  - earn-trust-under-false-pretences  # influence -> sustained deception, not persuasion
+  - gain-access-to-closed-circles     # society -> being somewhere you do not belong
+  - forge-a-document               # creation -> the product is a lie in ink
+  - make-darkness                  # creation -> functionally obscure-an-area; you make it to hide in
+  - disguise-what-a-thing-is       # transformation -> nothing changes but the belief about it
+  - make-terrain-look-otherwise    # environment -> illusion, at landscape scale
+
+curiosity:
+  - notice-what-is-hidden
+  - see-in-darkness
+  - see-through-deception
+  - sense-a-distant-place
+  - sense-through-another-creature
+  - detect-a-kind-of-creature
+  - detect-magic
+  - perceive-without-sight
+  - track-a-creature
+  - read-another-intent
+  - see-through-obscurement
+  - detect-a-lie
+  - perceive-the-incorporeal
+  - extend-your-senses
+  - recall-what-you-have-learned
+  - identify-a-creature
+  - identify-magic
+  - divine-an-answer
+  - glimpse-the-future
+  - learn-a-true-name-or-secret
+  - read-any-writing
+  - research-in-archives
+  - learn-a-place-or-object-s-past
+  - locate-a-person-or-thing
+  - appraise-worth
+  - question-the-dead
+  - gather-information-from-people  # influence -> talking is the method, knowing is the product
+  - read-or-enter-a-mind            # influence -> access to thought, not to behaviour
+  - act-sooner-than-others          # metaphysics -> going first is noticing first
+
+fellowship:
+  - persuade-by-reason-or-charm
+  - coerce-through-threat
+  - command-obedience
+  - charm-into-friendship
+  - inspire-allies
+  - rally-the-faltering
+  - calm-hostility
+  - alter-belief-or-memory
+  - provoke-a-foe-to-target-you
+  - speak-with-the-otherwise-mute
+  - strike-a-binding-bargain
+  - sway-an-audience
+  - turn-or-rebuke-a-creature-type
+  - communicate-at-a-distance   # knowledge -> the product is contact, not information
+  - keep-a-bonded-creature
+  - direct-a-companion-in-battle
+  - call-a-creature-to-fight-for-you
+  - raise-or-command-the-dead
+  - share-power-with-a-bonded-creature
+  - gain-followers
+  - ride-a-mount
+  - call-an-outsider
+  - tend-your-companion
+  - improve-what-a-companion-can-do
+  - earn-income
+  - build-your-reputation
+  - damage-another-s-standing
+  - lead-an-organisation
+  - recruit-help
+  - secure-shelter-and-supply
+  - trade-and-bargain
+  - run-a-long-project
+  - travel-as-a-known-figure
+  - fight-as-a-unit             # violence -> useless alone; the ability *is* the other people
+
+fortitude:
+  - be-harder-to-hit
+  - absorb-or-blunt-damage
+  - resist-a-kind-of-harm
+  - shrug-off-an-effect-you-failed-to-avoid
+  - interpose-yourself-for-another
+  - protect-a-group
+  - become-hard-to-kill
+  - negate-an-effect-outright
+  - redirect-harm
+  - gain-a-buffer-of-vitality
+  - guard-your-mind
+  - resist-poison-and-disease
+  - survive-a-hostile-environment
+  - go-without-necessities
+  - shake-off-an-affliction
+  - avoid-a-danger-you-foresaw
+  - heal-a-body
+  - heal-many-at-once
+  - return-the-dead-to-life
+  - keep-the-dying-alive
+  - cure-poison-or-disease
+  - lift-a-curse
+  - restore-a-diminished-capacity
+  - quiet-a-troubled-mind
+  - recover-on-your-own
+  - rest-and-recover
+  - seal-a-boundary        # barriers -> holding the door is the warden's act
+  - ward-an-area           # barriers -> same, at the scale of a place
+  - block-magical-passage  # barriers -> a ward against the one route a ward usually misses
+
+wrath:
+  - strike-a-foe-in-reach
+  - strike-a-distant-foe
+  - harm-many-at-once
+  - ambush-an-unready-foe
+  - strike-with-overwhelming-force
+  - attack-more-often
+  - punish-an-opening
+  - inflict-a-lingering-wound
+  - kill-outright
+  - drain-life-to-sustain-yourself
+  - destroy-an-object
+  - wage-mass-combat
+  - turn-an-attack-back
+  - enhance-a-weapon-s-bite
+  - exploit-a-known-weakness
+  - dull-a-foe-s-capability
+  - slow-a-foe
+  - stop-a-foe-moving
+  - blind-or-deafen
+  - poison-a-foe
+  - inflict-disease
+  - frighten
+  - confuse-or-scramble-a-mind
+  - put-to-sleep
+  - petrify-or-solidify
+  - curse-a-creature
+  - drain-vitality-lastingly
+  - silence-magic
+  - mark-a-foe-as-vulnerable
+  - reposition-another-creature  # movement -> someone else's movement, imposed on them
+  - close-on-a-foe               # movement -> movement that exists to arrive swinging
+  - bind-a-creature-in-place     # barriers -> the barrier is around a person, and hostile
+  - imprison-a-creature          # barriers -> the same, at the scale of a sentence
+  - banish-a-creature            # barriers -> removal of a creature by force
+  - destroy-a-barrier            # barriers -> the wall is a target, not a door
+
+invention:
+  - craft-an-object
+  - conjure-a-temporary-tool
+  - create-food-and-water
+  - raise-a-structure
+  - make-an-extradimensional-space
+  - compound-a-substance
+  - inscribe-a-lasting-mark
+  - make-light
+  - duplicate-a-thing-or-person
+  - transmute-raw-material
+  - change-your-own-shape
+  - change-another-s-shape
+  - grow-or-shrink
+  - take-on-an-elemental-substance
+  - grow-a-natural-weapon
+  - animate-the-inanimate
+  - change-your-nature
+  - gain-a-creature-s-trait
+  - swap-places-or-bodies
+  - reshape-the-ground
+  - command-the-weather
+  - control-water
+  - control-fire
+  - create-a-persistent-zone
+  - bless-or-blight-a-place
+  - grow-or-wither-plants
+  - alter-gravity-or-orientation
+  - set-off-or-quell-a-hazard
+  - repair-an-object           # restoration -> the patient is a thing; this is craft
+  - open-a-path-through-matter # barriers -> a door that did not exist now does
+  - build-a-barrier            # barriers -> a wall is a thing you made
+
+wellspring:
+  - gain-an-extra-action
+  - slow-or-hasten-time-for-others
+  - undo-what-has-happened
+  - improve-your-luck
+  - impose-misfortune
+  - store-an-effect-for-later
+  - sever-a-supernatural-connection
+  - cheat-death
+  - exist-in-two-places
+  - step-outside-time
+  - draw-on-a-higher-power
+  - sense-or-shape-fate
+  - claim-a-lineage
+  - claim-a-past-vocation
+  - bind-yourself-to-a-power
+  - follow-a-code
+  - carry-a-burden
+  - belong-to-an-order
+  - draw-on-an-inner-source
+  - specialise-in-a-tradition
+  - condition-state
+  - increase-proficiency-or-defence
+  - increase-attributes-or-health
+  - expand-a-resource-pool
+  - numeric-variant
+  - grants-another-option
+  - entry-into-an-archetype
+  - unclassified
